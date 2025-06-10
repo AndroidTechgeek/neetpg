@@ -1,0 +1,168 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,"An adolescent male patient presented with pain in the calf muscles on exercise. on biopsy, an excessive amount of glycogen was found to be present in the muscle. what is the most likely enzyme deficiency?","a) Muscle-debranching enzyme
+b) phosphofructokinase 1
+c) Glucose 6 phosphatase
+d) Muscle glycogen phosphorylase","The given clinical features are seen in McArdle's disease. This patient has muscle glycogen phosphorylase deficiency.
+The lack of muscle glycogen phosphorylase results in excessive glycogen build-up in muscles. The image given below shows the vacuolar myopathy seen in McArdle's disease.
+clinical features include poor exercise tolerance, abnormally high muscle glycogen (2.5-4%), and a very low blood lactate after exercise
+The images given below show myophosphorylase enzyme histochemistry showing (A) Normal muscle and (B) McArdle's disease.",,D,nan;714-591.PNG
+Question 2,Alkali disease of livestock is caused by an excess of which of the following minerals?,"a) selenium
+b) Manganese
+c) Molybdenum
+d) Iron","Excess of selenium causes alkali disease in livestock. clinical types of selenium intoxication
+• Acute selenosis
+• subacute selenosis (i.e., blind staggers type)
+• chronic selenosis (i.e., alkali disease type)
+Alkali disease occurs when animals consume moderate levels of selenium for a period of weeks to months.
+The common clinical signs of chronic selenosis in horses, cattle, and swine are loss of hair (horses and cattle lose long hair from the mane and tails), emaciation, hoof lesions, weight reduction, and lameness.",,A,
+Question 3,which of the following types of collagens is involved in wound healing?,"a) Type II
+b) Type III
+c) Type IV
+d) Type V","Type III collagen is involved in wound healing.
+collagen types I and III predominate in the skin and aponeurotic layers. In the early stages of wound healing, type III collagen is synthesized. It is replaced by type I collagen as wound healing progresses.
+The tensile strength of the healing wound is directly proportional to the amount and type of collagen present. During healing, as disorganized collagen is degraded and reformed, covalent cross-links are formed that enhance tensile strength. The maximum strength of the healed wound depends upon the interconnection of collagen subunits. Approximately 8o percent of the original strength of the tissue is obtained by six weeks after surgery. wounds slowly continue to get stronger but may never achieve 1oo percent of their previous strength.",,B,
+Question 4,An infant is brought with a history of vomiting and poor feeding. A musty odor is noted in the baby. Guthrie test was done and it was found to be positive. All are true regarding this disease except,"a) phenylalanine hydroxylase enzyme defect
+b) white patch of hair due to tryptophan deficiency
+c) phenylacetate positive in urine
+d) Mental retardation is present","The given scenario of an infant with a history of vomiting and poor feeding with a musty odour is suggestive of phenylketonuria (Pku). Tryptophan deficiency is not a feature of this disorder. The deficiency of the enzyme phenylalanine hydroxylase causes Pku.
+characteristic clinical findings in Phenylketonuria:
+• Mental retardation
+• Failure to walk or talk
+• seizures
+• Hyperactivity
+• Tremor
+• Microcephaly
+• Failure to grow
+• Deficiency of pigmentation (fair hair, light skin color, and blue eyes)
+The Guthrie bacterial inhibition test is a screening test for phenylketonuria. This test uses a phenylalanine requiring strain of Bacillus subtilis. The ferric chloride test is also used as a screening test for Pku. Tandem mass spectrometry is the gold standard investigation.",,B,
+Question 5,"In a reaction, the substrate is available in a concentration that is 1ooo times the km value of the enzyme. After 9 minutes of reaction, 1% of substrate is converted to product (12 microgram/ml). If the concentration of the enzyme is changed to 1/3 and concentration of substrate is doubled, what is the time taken to convert the substrate into the same amount of product that i.e. 12 microgram/ml?","a) 9 minutes
+b) 4.5 minutes
+c) 27 minutes
+d) 13.5 minutes","The time taken for the formation of the same amount of product is 27 minutes.
+In this reaction, the substrate concentration becomes 1ooo times i.e much greater than the km value. Thus, the rate of this reaction is equal to vmax and is thus independent of the substrate concentration i.e. it follows zero-order kinetics. Thus, doubling the substrate concentration does not change the velocity of the reaction i.e. it remains as vmax.
+No matter the substrate concentration, the rate of the reaction is directly proportional to the concentration of the enzyme. In this situation the enzyme concentration becomes 1/3rd. Thus, the velocity of the reaction (vmax) also becomes 1/3rd. This means that the time taken for the formation of the same amount of product will become tripled i.e 9 × 3 〓 27 minutes.",,C,nan;716-593.PNG
+Question 6,The best method to measure HbA1C is ________,"a) Isoelectric focusing
+b) Affinity chromatography
+c) Ion exchange chromatography
+d) Electrophoresis","The best method to measure HBA1c is ion-exchange chromatography.
+In ion-exchange chromatography:
+• proteins interact with the stationary phase by charge-charge interactions.
+• proteins with a net positive charge at a given pH will tightly adhere to beads with negatively charged functional groups such as carboxylates or sulfates (cation exchangers).
+• proteins with a net negative charge adhere to beads with positively charged functional groups, typically tertiary or quaternary amines (anion exchangers).
+• Non-adherent proteins flow through the matrix and are washed away.
+• proteins elute in inverse order of the strength of their interactions with the stationary phase.",,C,
+Question 7,which of the following is the best screening investigation for metabolic disorders?,"a) western blot
+b) Tandem mass spectrometry
+c) pCR
+d) Gel electrophoresis","Tandem mass spectrometry (MS) is the technique of choice for screening neonates for inherited metabolic diseases.
+Tandem MS employs the equivalent of two mass spectrometers linked in series (MS-MS or MS2). It can be used to screen blood samples from newborns for the presence and concentrations of amino acids, fatty acids, and other metabolites.
+Abnormalities in metabolite levels indicate inherited metabolic diseases, such as phenylketonuria, ethylmalonic encephalopathy, and glutaric acidemia type 1.",,B,
+Question 8,which of the following enzyme activity decreases in fasting?,"a) Hormone-sensitive lipase
+b) Glycogen phosphorylase
+c) pyruvate carboxylase
+d) phosphofructokinase 1","During fasting, there is low insulin, and hence, the activity of phosphofructokinase-1 gets inhibited.
+phosphofructokinase 1 is an enzyme of glycolysis. It is induced by insulin and a well-fed state.
+other options:
+option A: Hormone-sensitive lipase mobilizes stored fats in a fasting state.
+option B: Glycogen phosphorylase is active in fasting state so as to produce glucose from glycogen.
+option C: pyruvate carboxylase is an enzyme of gluconeogenesis. During the fasting state, the liver is flooded with fatty acids mobilized from adipose tissue. The resulting elevated hepatic acetyl CoA activates pyruvate carboxylase. other enzymes of gluconeogenesis that are elevated in fasting include phosphoenolpyruvate carboxykinase, Fructose-1,6-bisphosphatase, and Glucose-6-phosphatase.",,D,
+Question 9,Fluoroacetate is a component of pesticides. which of the following metabolic pathways is inhibited by this compound?,"a) TCA cycle
+b) Glycolytic pathway
+c) oxidative phosphorylation
+d) ETC","Fluoroacetate inhibits the TCA cycle enzyme aconitase.
+Fluoroacetyl CoA condenses with oxaloacetate to form fluorocitrate which inhibits aconitase, causing citrate to accumulate. This way it inhibits TCA cycle enzyme non-competitively.
+Sources of fluoroacetate exposure:
+• Fluoroacetate in some plants
+• Fluorinated compounds (anticancer agents, industrial chemicals, and pesticides) are metabolized to fluoroacetate.",,A,
+Question 10,"which of the following does not require 5, capping?","a) tRNA of Alanine
+b) U6 snRNA
+c) mRNA for Histone
+d) siRNA","tRNA of Alanine does not require 5’ capping.
+Capping process protects the 5, end of mRNA from the action of exonucleases and polyadenylation protects the 3, end of the mRNA. All mRNA, snRNA, and siRNA undergo this process, but tRNA are comparatively stable and do not require a capping at the 5 end. Note: rRNAs also do not require 5' capping.",,A,
+Question 11,vitamin K in its coenzyme form is regenerated by the enzyme ____,"a) Glutathione reductase
+b) Quinone reductase
+c) vitamin K reductase
+d) Epoxide reductase","The coenzyme form of vitamin K is regenerated by the enzyme epoxide reductase.
+Epoxide reductase reduces vitamin K epoxide to its coenzyme form hydroquinone.
+Note: In addition to vitamin K reductase, epoxide reductase can also catalyse the reduction of quinone to hydroquinone. Thus, it can regenerate hydroquinone by itself.",,D,nan;718-594.PNG
+Question 12,Identify the phenomenon shown below,"a) Translation
+b) Transformation
+c) complementation
+d) conjugation","The image shows a schematic of the blue-white assay used in the screening of recombinant vectors for inserted DNA fragments. It uses the phenomenon of complementation (α-complementation of the β-galactosidase gene).
+Blue white assay:
+The DNA of interest is ligated into a vector. The vector is then inserted into a competent host cell viable for transformation, which is then grown in the presence of X-gal (X-gal detects active β-galactosidase). cells transformed with vectors containing recombinant DNA will produce white colonies; cells transformed with non-recombinant plasmids (i.e., only the vector) grow into blue colonies.
+The image below shows the result of a blue white assay.",710-590.PNG,C,nan;719-595.PNG
+Question 13,A middle-aged woman presents with fissured tongue and peripheral neuropathy. Investigations showed reduced glutathione reductase activity. which vitamin deficiency is the likely cause of this?,"a) vitamin B1
+b) vitamin B2
+c) vitamin B6
+d) vitamin B12","This patient is most likely suffering from riboflavin/vitamin B2 deficiency.
+Deficiency of riboflavin is characterized by cheilosis, desquamation, and inflammation of the tongue, seborrheic dermatitis, corneal vascularization, anemia, and personality changes.
+Riboflavin nutritional status is assessed by measurement of the activation of erythrocyte glutathione reductase by FAD added in vitro.",,B,
+Question 14,which of the following enhances iron absorption?,"a) vitamin A
+b) vitamin c
+c) Thiamine
+d) Riboflavin","Iron absorption is enhanced by vitamin C.
+vitamin C reduces the ferric iron to its ferrous form, thereby helping in the process of absorption of dietary iron from the intestine.
+vitamin C deficiency causes
+• Decreased absorption of iron leading to microcytic-hypochromic anemia
+• Decreased hydroxylation of proline and lysine, which results in defective collagen synthesis and bleeding manifestations.
+Conversely, vitamin C toxicity (>2ooo mg/ day) can lead to iron overloaded states.
+Note: Alcohol and fructose also enhance iron absorption. However, the absorption of both inorganic and heme iron is impaired by calcium. So, a glass of milk with a meal significantly reduces iron availability.",,B,
+Question 15,which of the following does not favor euchromatin formation due to changes occurring at cytosine residues at CPG islands in DNA?,"a) Methylation
+b) PhosPhorylation
+c) Alkylation
+d) sumoylation","Methylation does not favour euchromatin formation due to changes cytosine residues at CpG islands in DNA.
+The transcriptional regulatory regions of active genes often contain a high frequency of CpG dinucleotides (referred to as CpG islands) and they are normally unmethylated. Therefore, methylation is an epigenetic modification that inactivates DNA, and hinders the formation of euchromatin (transcriptionally active chromatin). Epigenetic changes include alterations of chromatin structure by:
+• Methylation of cytosine residues in CpG dinucleotides
+• Modification of histones by acetylation or methylation
+• Changes in higher-order chromosome structure
+sumoylation of histones (sUMo - small Ubiquitin-related Modifier) is associated with transcription repression. other possible roles of posttranslationally modified histones:
+• Acetylation of core histones is associated with chromosomal assembly during DNA replication.
+• Phosphorylation of histone H1 is associated with the condensation of chromosomes during the replication cycle.
+• ADP-ribosylation of histones is associated with DNA repair.
+• Methylation of histones is correlated with activation and repression of gene transcription.
+• Acetylation of histones H3 and H4 is associated with the activation or inactivation of gene transcription.
+• Monoubiquitylation is associated with gene activation, repression, and heterochromatic gene silencing.",,A,
+Question 16,which of the following techniques is based on RNA?,"a) RT PCR
+b) sanger’s technique
+c) Next generation sequencing
+d) western blot","RT PCR is a RNA-based technique.
+RT PCR is a method used to quantitate mRNA levels that relies upon the first step of cDNA copying of mRNAs catalyzed by reverse transcriptase prior to PCR amplification and quantitation. other techniques:
+• sanger's technique and southern blot: DNA
+• western blot: protein
+• Northern blot: RNA
+• Next-generation DNA sequencing technologies include Illumina (solexa) sequencing, Roche 454 sequencing, Ion torrent: Proton/PGM sequencing, soLID sequencing.",,A,
+Question 17,vitamin C cannot be Produced in humans due to lack of,"a) L- gulonolactone oxidase
+b) xylitol reductase
+c) Pyruvate dehydrogenase
+d) UDP glucose dehydrogenase","Ascorbic acid (vitamin C) cannot be synthesized in human beings because of the absence of L-gulonolactone oxidase.
+uronic acid pathway catalyzes the conversion of glucose to glucuronic acid, ascorbic acid, and pentoses. Glucuronate is reduced to L-gulonate, the direct precursor of ascorbate in the animals capable of synthesizing this vitamin.",,A,
+Question 18,klenow fragment lacks the activity of,"a) 3'→5' Exonuclease
+b) 5'→3' Exonuclease
+c) 5'→3' DNA Polymerase
+d) 3'→5' DNA polymerase","klenow fragment lacks 5’ → 3’ exonuclease activity.
+DNA polymerase I is an enzyme involved in DNA replication. It has polymerase activity along with both 3' → 5' and 5' → 3' exonuclease activity. when the 5' → 3' exonuclease domain is
+removed, the remaining fragment is called klenow fragment. It retains the polymerization and proofreading activities of DNA polymerase I.",,B,
+Question 19,Child presents with hypotonia and seizures. It was confirmed to be zellweger syndrome. which among the following accumulates in brain in this condition?,"a) Glucose
+b) Lactic acid
+c) Long chain fatty acid
+d) Triglycerides","Elevated levels of very long chain polyenoic acids have been found in the brains of patients with zellweger syndrome.
+zellweger syndrome:
+• Autosomal recessive
+• Cerebro-hepato-renal syndrome: Impaired neuronal migration and myelination, hepatomegaly, renal cysts
+• Reduction or absence of functional peroxisomes in tissues.
+• Accumulation of very long chain polyenoic acids in the brain.
+• Severe neurological symptoms.
+• Most patients die within the 1st year of life",,C,
+Question 20,A 12-year-old girl suffers from an inadequately treated type 1 diabetes mellitus. she is currently hyperglycemic. which of the following is most likely to occur?,"a) Glycogenesis in muscle
+b) Increased protein synthesis
+c) Increased conversion of fatty acids to acetyl-CoA
+d) Decreased cholesterol synthesis","with the background of inadequately treated type I diabetes mellitus, an insulin-deficient state in the body is expected which will lead to increased conversion of fatty acids to acetyl-CoA.
+Type 1 diabetes mellitus is commonly found in the adolescent population. In response to certain precipitating factors, such patients may develop a severe insulin-deficient state. Since insulin is an inhibitor of hormone-sensitive lipase (HSL), an insulin-deficient state will cause HSL overactivity in adipocytes and the breakdown of lipid into fatty acids (lipolysis). Free fatty acids will undergo beta-oxidation and produce a large amount of acetyl CoA, which gets converted to ketone bodies (acetoacetate, acetone, beta-hydroxybutyrate, etc.)",,C,
+Question 21,what would be the respiratory quotient if someone is on an exclusive carbohydrate diet?,"a) o.7
+b) o.8
+c) 1
+d) 1.2","The respiratory quotient, if someone is on an exclusive carbohydrate diet, is 1. The respiratory quotient is the amount of Co2 produced /o2 consumed.
+The respiratory quotient for various substances:
+substance: Carbohydrate, protein, Fat, Alcohol
+RQ: 1.oo, o.81, o.71, o.66",,C,

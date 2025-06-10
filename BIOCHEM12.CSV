@@ -1,0 +1,205 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,which of the following zymogens requires gamma-glutamyl carboxylase?,"a) Factors II, VIII, IX, X
+b) Factors II, VII, IX, and X
+c) Factors II, VII, IX, XI
+d) Factors II, VIII, X, XI","clotting factors II, VII, IX, and X are zymogens of serine proteases that contain glutamic acid residues. These residues undergo vitamin-K-dependent carboxylation via gamma-glutamyl carboxylase to form gamma-carboxyglutamic acid residues. These residues chelate calcium ions, allowing the binding of clotting factors to the platelet surface.
+zymogens are the proprotein form of enzymes (proenzymes) that require proteolytic activation to carry out their function.
+The reduced form of vitamin K acts as a cofactor in the post-synthetic modification of these zymogens and their activation. This reduced form of vitamin K is recycled back from its oxidized form by the enzyme vitamin K epoxide reductase, which is inhibited by warfarin.
+The absence of vitamin K or the presence of warfarin inhibits carboxylation of the glutamate residues, leading to the release of abnormal precursors of clotting factors in the blood.",,B,nan;890-690.PNG
+Question 2,"A patient presented with diarrhea, dermatitis, and dementia. which of the following vitamin deficiencies would you suspect in this patient?","a) Vitamin B3 deficiency
+b) Vitamin B1 deficiency
+c) Vitamin B6 deficiency
+d) Vitamin B12 deficiency","The given clinical scenario of a patient with diarrhea, dermatitis, and dementia is suggestive of niacin/vitamin B3 deficiency.
+Niacin deficiency causes pellagra, found mostly among people eating corn/maize-based diets, which are low in niacin and tryptophan. Excess leucine in jowar and maize disrupts the conversion of tryptophan to niacin.
+Niacin can be synthesized in the body from tryptophan. Two compounds, nicotinic acid and nicotinamide, have the biological activity of niacin. The nicotinamide ring of the coenzymes nicotinamide adenine dinucleotide (NAD) and nicotinamide adenine dinucleotide phosphate (NADP) participate in oxidation/reduction reactions.
+The initial symptoms of pellagra include loss of appetite, generalized weakness, irritability, abdominal pain, and vomiting. This is followed by bright red glossitis and a characteristic pigmented, scaly skin rash in sun-exposed areas. This rash is known as casal’s necklace when it forms a ring around the neck.
+The 4Ds of pellagra:
+• Diarrhea
+• Dermatitis
+• Dementia, leading to
+• Death
+It is diagnosed by measuring urinary levels of 2-methyl nicotinamide and 2-pyridone.
+It is treated by oral supplementation of 1oo–2oo mg of nicotinamide or nicotinic acid three times daily for 5 days.
+casal’s necklace finding in niacin deficiency:
+other options:
+option B: vitamin B1/Thiamine deficiency can manifest as wet beriberi (cvs features like heart failure and edema) or shoshin beriberi, an acute and fulminant form of wet beriberi, dry beriberi (peripheral neuritis), or as wernicke encephalopathy with korsakoff psychosis (in alcoholics). Dietary deficiency of thiamine inhibits pyruvate dehydrogenase. chronic alcoholics may develop potentially fatal pyruvic and lactic acidosis.
+option C: vitamin B6/Pyridoxine deficiency is rare but has been observed in alcoholics, newborns, formulas low in vitamin B6, and women taking oral contraceptives. Isoniazid, an anti-TB drug, leads to pyridoxine deficiency resulting in peripheral neuropathy. Hence pyridoxine supplementation is included in ATT regimens.
+option D: vitamin B12/Cobalamin deficiency causes megaloblastic anemia, dementia, spinal cord degeneration, homocysteinemia, etc.",,A,nan;844-670.PNG
+Question 3,"A young boy presents to the OPD with hypoglycemia and muscle cramps, on exertion or while playing. Then he becomes normal after resting for a while. These episodes are recurrent after a period of activity. He has decreased serum lactate and glucose levels. which of the following diseases is he most likely to be suffering from?","a) McArdle disease
+b) Hers disease
+c) cori's disease
+d) Andersen disease","A clinical scenario of a patient with muscle cramps, pain, weakness with exertion, myoglobinuria, and the muscle biopsy specimen showing vacuolar myopathy are suggestive of McArdle's disease, which is due to the deficiency of muscle glycogen phosphorylase.
+McArdle disease, also known as type v glycogen storage disorder, is an autosomal recessive condition. It typically presents during late childhood or in the second decade of life. The muscle glycogen phosphorylase enzyme deficiency interferes with ATP generation by glycogenolysis in the muscles. This causes muscle glycogen accumulation.
+symptoms are exercise intolerance associated with muscle cramps. Due to high-intensity exercise, sudden persistent muscle contraction occurs. This leads to severe muscle damage resulting in a massive release of muscle proteins and myoglobin in the blood. Myoglobinuria secondary to rhabdomyolysis leads to the passage of burgundy-colored urine in some patients.
+A unique feature associated with McArdle is the improvement in symptoms after rest for a few minutes. This is termed as the second wind phenomenon. This occurs due to the increased blood flow to the muscles and increased utilization of free fatty acids (FFAs) for energy production after resting for a few minutes. This compensates for the impaired ATP generation from glycogenolysis. Patients with McArdle disease can benefit from engaging in regular aerobic exercises, such as walking or cycling, which can help increase their exercise tolerance and cardiovascular fitness. However, they should avoid high-intensity exercises or activities that can trigger muscle cramps and rhabdomyolysis. Glucose administration before exercise can improve tolerance. Vitamin B6 is also recommended.
+standard diagnosis includes muscle biopsy, which shows periodic acid schiff (PAs)-positive vacuoles (shown in the image below) of high glycogen content due to lack of myophosphorylase and genetic testing (PYGM gene sequencing).
+other options:
+option B: Hers disease (type VI glycogen storage disorder) - It is caused by the deficiency of liver glycogen phosphorylase. patients with Hers disease exhibit growth retardation, hepatomegaly, and mild hypoglycemia. They do not typically present with muscle cramps and myoglobinuria.
+option c: cori's disease (type III glycogen storage disorder) - It is caused by a deficiency of glycogen debranching enzyme. patients with cori's disease present with hepatomegaly, growth retardation, and hypoglycemia. Muscle weakness may be present but not muscle cramps or myoglobinuria.
+option D: Andersen disease (type IV glycogen storage disorder) - It is caused by the deficiency of glycogen branching enzyme. This disease presents with hepatomegaly, cirrhosis, and liver failure. It does not cause muscle cramps or myoglobinuria.",,A,IMAGE A;714-592.PNG
+Question 4,A family consumes only polished rice. which of the following combination of vitamin deficiency and enzymatic defect will be present in this family?,"a) Riboflavin-glutathione reductase
+b) Thiamine-transketolase
+c) Thiamine-transaminase
+d) Riboflavin-transketolase","The consumption of polished rice leads to thiamine deficiency which leads to defective transketolase activity.
+polished rice is rice that has had its husk, bran, and germ removed, leaving only the endosperm. This processing method results in a loss of nutrients, including thiamine.
+Thiamine pyrophosphate (Vit B1) is the cofactor of transketolase. This reaction requires two cofactors:
+• Mg2+
+• Thiamine diphosphate (vitamin B1)
+Transketolase and transaldolase are involved in the non-oxidative phase ofthe HMp pathway.
+Thiamine deficiency can lead to beriberi, a condition characterized by peripheral neuropathy, weakness, and cardiovascular symptoms. In severe cases, it can also lead to wernicke-korsakoff syndrome, which is characterized by confusion, ataxia, and vision disturbances. Thiamine deficiency can be prevented by consuming a balanced diet that includes unprocessed grains, legumes, and other sources of thiamine. Diagnosis of thiamine deficiency can be established by erythrocyte transketolase activity assessment.",,B,
+Question 5,"A chronic alcoholic patient presented to the casualty with confusion, ataxia, and painful eye movements. what could be the vitamin deficiency seen in this patient?","a) vitamin B deficiency
+b) vitamin A deficiency
+c) vitamin D deficiency
+d) vitamin C deficiency","The above clinical history is suggestive of wernicke encephalopathy, which is caused by vitamin B1 (Thiamine) deficiency.
+Vitamin B1/thiamine deficiency leads to following conditions:
+• wernicke encephalopathy:
+• An acute, neuropsychiatric syndrome characterized by nystagmus and ophthalmoplegia, mental status changes (confusion), and unsteadiness of stance and gait.
+• wernicke’s encephalopathy is a medical emergency, and thiamine should be initiated immediately, either intravenously or intramuscularly.
+• The current standard of treatment for patients with symptoms of wernicke's encephalopathy is to give thiamine 1oo mg intravenously before administering glucose-containing IV fluids.
+• korsakoff psychosis:
+• korsakoff syndrome is characterized by a pronounced anterograde and retrograde amnesia along with potential impairment in visuospatial, abstract, and other types of learning.
+• symptoms are similar to that of wernicke encephalopathy, but also include memory loss and confabulation.
+• permanent in at least a partial form in about 5o% of the people affected.
+• Beriberi: It can present with:
+• Dry beriberi: sensorimotor peripheral neuropathy, muscle weakness
+• wet beriberi: tachycardia, cardiomegaly, high-output cardiac failure",,A,
+Question 6,"A 4-year-old child presents with easy fatiguability. The mother also complains that the child has increased hunger between meals, which is relieved after food. Liver examination revealed no glycogen. The enzyme most likely deficient is _________.","a) Glycogen phosphorylase
+b) Glycogen synthase
+c) Debranching enzyme
+d) Glucose 6 phosphatase","The most likely enzyme deficiency in a child with fatigue, excessive hunger between meals, and absent liver glycogen is glycogen synthase deficiency.
+Glycogen is a storage carbohydrate synthesized from glucose (glycogenesis) and is stored in the liver, muscles, and brain. Glycogen synthase is a regulating enzyme for glycogenesis.
+Glycogen synthase exists in both phosphorylated (inactive) and dephosphorylated (active) forms. phosphorylation is stimulated by epinephrine, norepinephrine, and glucagon via cAMp.
+Dephosphorylation is stimulated by insulin via phosphodiesterase.
+A deficiency of glycogen synthase leads to glycogen storage disorder and presents in infancy with early morning drowsiness and fatigue, fasting hypoglycemia, pallor, emesis, and hypoglycemic convulsions. It leads to a marked decrease in liver glycogen stores. Hepatomegaly is absent.
+Laboratory investigations reveal prolonged hyperglycemia, glycosuria, ketosis, lactic acidosis, low alanine levels, and normal insulin levels after glucose administration. A liver biopsy is diagnostic.
+Treatment involves protein-rich frequent meals, and nighttime supplementation with cornstarch to prevent hypoglycemia and hyperketonemia.
+other options:
+option A: Glycogen phosphorylase deficiency, also known as McArdle's disease or glycogen storage disease type V, primarily affects skeletal muscle glycogen metabolism. Affected individuals experience muscle weakness, cramps, and exercise intolerance, but it doesn't typically cause the symptoms mentioned in the question.
+option C: Debranching enzyme deficiency, also known as Cori's disease or glycogen storage disease type III, presents with hepatomegaly, hypoglycemia, and growth retardation. The liver would still contain glycogen, albeit with an abnormal structure.
+option D: Glucose-6-phosphatase deficiency, known as von Gierke's disease or glycogen storage disease type I, is characterized by severe fasting hypoglycemia, lactic acidosis, hyperuricemia, and hepatomegaly. In this case, glycogen is present in the liver but cannot be broken down efficiently into glucose.",,B,
+Question 7,A child was brought with pedal edema and cheilosis. Cardiomegaly was present. what is the vitamin deficiency associated with this clinical presentation?,"a) Riboflavin
+b) Thiamine
+c) pyridoxine
+d) Niacin","The given clinical presentation with pedal edema and cardiomegaly is suggestive of wet beriberi due to thiamine (vitamin B1) deficiency.
+Early symptoms of thiamine deficiency include peripheral neuropathy, irritability, loss of deep tendon reflexes and proprioception. As the disease progresses, increased intracranial pressure, meningismus and coma develop.
+wet beriberi results due to cardiac and renal dysfunction which leads to fluid accumulation. It is associated with tachycardia, cardiomegaly, cardiac failure, and edema. It is commonly seen in the refugee camps where people consume polished rice-based monotonous diets.
+Dry beriberi is associated with neurological deficits such as peripheral neuropathy, optic atrophy, ataxia, and irritability. Complications include lactic acidosis and wernicke encephalopathy in adults.
+Diagnosis of thiamine deficiency can be established by erythrocyte transketolase activity assessment.
+other options:
+option A: Riboflavin deficiency can present with cheilosis, but it does not typically cause pedal edema and cardiomegaly.
+option C: pyridoxine (vitamin B6) deficiency can cause neurological symptoms, anemia, and dermatitis but is not associated with pedal edema, cardiomegaly, and cheilosis.
+option D: Niacin (vitamin B3) deficiency leads to pellagra, characterized by the triad of dermatitis, diarrhea, and dementia. It is not associated with pedal edema, cardiomegaly, and cheilosis.",,B,
+Question 8,A chronic alcoholic patient is diagnosed with gouty arthritis. what biochemical changes will be seen in this patient?,"a) Decreased NADH/NAD+ ratio
+b) Increased urea and urate levels
+c) Increased urate and lactate levels
+d) Increased level of alkaline phosphatase","This patient with chronic alcoholism and gouty arthritis will most likely have elevated levels of lactate and urate.
+The oxidation of ethanol to acetate by alcohol dehydrogenase is accompanied by the reduction of nicotinamide adenine dinucleotide (NAD+) to NADH. This results in a high concentration of NADH, leading to an increased NADH/NAD+ ratio (option A).
+Due to this, the following metabolic reactions that require NAD+ are inhibited:
+• Glycolysis
+• citric acid cycle (ketogenesis favored)
+• pyruvate dehydrogenase
+• Fatty acid oxidation
+Decreased fatty acid oxidation leads to increased esterification and production of triacylglycerol, which causes fatty liver.
+Also, there is an increase in two reactions:
+• pyruvate to lactate
+• oxaloacetate to malate
+Increased lactate leads to hyper-lactic-acidemia, which leads to increased renal reabsorption of urate and decreased excretion of uric acid. This results in aggravation of gout. Alcoholics are deficient in thiamine which inhibits pyruvate dehydrogenase and leads to lactic acidosis.
+A decrease in pyruvate and oxaloacetate levels, which are substrates for gluconeogenesis, leads to a decrease in blood glucose levels, causing symptoms of agitation, impaired judgment, and combativeness.
+other options:
+Increased urea and urate levels are not specifically associated with alcoholism and gouty arthritis. while urate levels may be increased due to gout, urea levels are not directly related to the condition (option B).
+Increased levels of alkaline phosphatase can be seen in alcohol-induced hepatitis due to intrahepatic cholestasis but is not directly related to gouty arthritis in a chronic alcoholic patient. Therefore, this option is less relevant compared to increased urate and lactate levels (option D).",,C,
+Question 9,"A child presents with erythematous scaly patches in the perioral region, mucosal ulcers, and impaired epithelial wound healing. The most likely mineral deficiency associated with this condition is ________.","a) Iron deficiency
+b) zinc deficiency
+c) calcium deficiency
+d) copper deficiency","The clinical features of periorificial dermatitis and stomatitis in a young child are suggestive of acrodermatitis enteropathica, seen in zinc deficiency.
+Acrodermatitis enteropathica is a genetic disorder that results in the inability to absorb dietary zinc.
+The clinical features develop after weaning and the infant presents with:
+• Failure to thrive
+• skin manifestations such as symmetrical vesiculobullous dermatitis in the perioral, perianal, and acral regions
+• Anorexia, diarrhea
+• Recurrent infections due to T-cell immunodeficiency
+• Alopecia with a reddish tint
+• Impaired wound healing
+• Male hypogonadism, growth retardation
+• Neurological manifestations like tremors, nystagmus, photophobia, hypogeusia, irritability, and night blindness
+oral zinc supplementation is the treatment of choice.
+other options:
+option A- Iron deficiency is the most common micronutrient deficiency globally. It presents with iron-deficiency anemia and neurocognitive impairment. It presents clinically with pallor, fatigue, atrophic glossitis, and pica.
+option c- calcium deficiency leads to rickets as a result of early weaning. It presents with typical symptoms of rickets, including failure to thrive; protruding abdomen; muscle weakness; fractures; craniotabes; delayed dentition; caries; enlargement of wrists and ankles; and hypocalcemic symptoms of tetany, stridor, and seizures.
+option D- copper deficiency leads to anemia, growth retardation, defective keratinization and pigmentation of hair, hypothermia, degenerative changes in aortic elastin, osteopenia, and mental retardation.",,B,nan;897-692.PNG
+Question 10,A patient presenting with bleeding gums and easy bruisability was diagnosed with scurvy. This is due to ______.,"a) Low calcium
+b) Defective collagen formation
+c) Inhibition of clotting factors
+d) Increased keratinization of epithelium","Bleeding gums and easy bruisability seen in scurvy are due to defective collagen formation.
+scurvy results from the deficiency of vitamin C, which is required for the hydroxylation of prolyl and lysyl residues of collagen reactions. Hence, deficiency of vitamin C results in a defective prolyl hydroxylase activity, leading to defective collagen formation and resulting in generalized bleeding tendencies.
+Hemorrhagic manifestations of scurvy include petechiae, purpura, ecchymoses at pressure points, epistaxis, gum bleeding, and characteristic perifollicular hemorrhages. other manifestations are poor wound and fracture healing, hyperkeratosis of hair follicles, arthralgia, and muscle weakness. It also results in defective osteoid formation. Costo-chondral separation leads to the formation oftender nodules that are sharply angulated and are also known as the scorbutic rosary.
+The cutaneous manifestations of scurvy include
+• phrynoderma over posterolateral arms which can then generalize over the back and thighs and legs.
+• Corkscrew hairs - fractured and coiled hairs due to impaired keratin cross■links by disulfide bonds
+• perifollicular hemorrhage and purpura
+• Lower limb edema
+• splinter hemorrhages
+It is treated with vitamin C supplementation.
+other options:
+option A: Low calcium levels do not cause scurvy; they may contribute to other clinical conditions like osteoporosis or muscle cramps.
+option C: Inhibition of clotting factors is not responsible for scurvy. vitamin K deficiency, however, can lead to the inhibition of clotting factors and cause bleeding tendencies.
+option D: Increased keratinization of epithelium is not the cause of scurvy. vitamin A deficiency, on the other hand, can result in hyperkeratoses and epithelial changes, such as xerosis and Bitot's spots.",,B,
+Question 11,which of the following is seen in low insulin:glucagon ratio?,"a) Activation of lipoprotein lipase
+b) Activation of glycogen synthase
+c) Activation of phosphofructokinase 1
+d) Activation of hormone-sensitive lipase","Low insulin:glucagon ratio occurs in the fasting state. since insulin has an inhibitory effect on hormone-sensitive lipase (lipolytic hormone), low insulin:glucagon ratio results in the activation of hormone-sensitive lipase.
+In adipose tissues, decreased insulin results in the inhibition of lipogenesis and activation of intracellular hormone-sensitive lipase. The stored triglycerides are broken down (lipolysis) by hormone-sensitive lipase (HsL) into free fatty acids (FFAs) and glycerol. In the fasting state, glucose is spared for the brain and glycerol is used as a substrate for gluconeogenesis.
+In diabetic patients, low insulin level corresponds to an increase in HSL activity, promoting the breakdown of lipids and the release of FFAs from adipose tissue. HSL activity is accelerated by hormones like epinephrine, norepinephrine, glucagon, ACTH, TSH, GH, ADH, and melanocyte-stimulating hormones (MSH).
+other options:
+option A: Activation of lipoprotein lipase (LPL) is promoted by insulin, not low insulin: glucagon ratio. LPL is involved in the breakdown of triglycerides and is active in the well-fed state. In low insulin: glucagon ratio, lipoprotein lipase activity is reduced, leading to decreased hydrolysis of triglycerides.
+option B: Activation of glycogen synthase is promoted by insulin. In low insulin: glucagon ratio, glycogen synthase activity is reduced, leading to decreased glycogenesis. Instead, glycogenolysis and gluconeogenesis are promoted to maintain blood glucose levels.
+option C: Activation of phosphofructokinase 1 (PFK1) is promoted by insulin. PFK1 is a rate-regulating enzyme in glycolysis. In low insulin: glucagon ratio, glycolysis is downregulated, and gluconeogenesis is upregulated to maintain blood glucose levels.
+well-fed state (Insulin): Lipogenesis increased, Lipolysis inhibited, Insulin inhibits HS-lipase, Lipoprotein lipase active
+During fasting (Glucagon): Lipogenesis inhibited, Lipolysis increased, Glucagon activates HS-lipase, Lipoprotein lipase inactive",,D,nan;803-639.PNG
+Question 12,An infant is brought by his parents with complaints that his urine turns black on standing. which of the following metabolic disorders is likely?,"a) phenylketonuria
+b) Alkaptonuria
+c) Homocystinuria
+d) Maple syrup urine disease","Blackening of urine on standing is characteristic of alkaptonuria.
+Alkaptonuria is an autosomal recessive disorder of tyrosine metabolism, that develops due to the defect in homogentisate oxidase/homogentisic acid 1, 2 - dioxygenase, which oxidizes homogentisate to maleylacetoacetate. The defect in this enzyme leads to the accumulation of homogentisate, which is then excreted in the urine.
+Alkaptonuria is characterized by homogentisic aciduria, ochronosis, and arthropathy (joint pain). Homogentisic aciduria is the black discoloration of urine on prolonged exposure to air caused due to oxidation of the excreted homogentisate.
+ochronosis, which is bluish-black pigmentation in connective tissue, generally occurs after the third decade of life, and it occurs due to the accumulation of homogentisic acid and its oxidation products like benzoquinone acetic acid in connective tissue.
+Arthritis generally begins in the third decade. Arthritis often begins in the spine and resembles ankylosing spondylitis in its large-joint distribution. Radiographs of the spine showing flattened and calcified intervertebral discs are pathognomonic. other findings include degeneration of the intervertebral discs, followed by disc calcification and eventually fusion of the vertebral bodies. osteophyte formation and calcification of the intervertebral ligaments also occur.
+Diagnosis: Blackish discoloration of urine on standing is diagnostic of alkaptonuria (shown below). The ferric chloride test will be positive. The blackening of urine occurs due to the excretion of homogentisic acid in the urine.
+Image A - Normal urine
+Image B - Alkaptonuria
+other options:
+option A: phenylketonuria (pku) is a metabolic disorder resulting from a deficiency of the enzyme phenylalanine hydroxylase. It does not lead to black urine. patients with pku have a musty or mousy odor due to phenylacetic acid accumulation.
+option C: Homocystinuria is an inborn error of methionine metabolism caused by a deficiency of the enzyme cystathionine β-synthase. It is characterized by tall stature, long limbs, dislocation of the lens of the eye, and predisposition to thromboembolism, but it does not lead to black urine.
+option D: Maple syrup urine disease (MSUD) is an inherited metabolic disorder caused by a deficiency of branched-chain α-ketoacid dehydrogenase. It does not cause black urine. patients with MSUD have urine with a characteristic sweet odor, resembling maple syrup.",nan,B,"IMAGE A, IMAGE B;900-693.PNG"
+Question 13,A child presents with bone pain and hepatosplenomegaly. A trephine biopsy and aspirate show the following finding. which of the following is the most likely enzyme deficient in this condition?,"a) Hexosaminidase
+b) Glucocerebrosidase
+c) sphingomyelinase
+d) Alpha 1,4-glucosidase","The given clinical scenario of a child with bone pain, hepatosplenomegaly, and biopsy showing Gaucher's cell with a characteristic crumpled tissue paper appearance is suggestive of Gaucher's disease. The deficient enzyme is glucocerebrosidase (also known as beta-glucosidase).
+Gaucher's disease is an inborn error of metabolism caused due to a deficiency of beta-glucocerebrosidase. It is the most common lysosomal storage disorder and the mode of inheritance is autosomal recessive. There is an accumulation of lipid-laden macrophages in the spleen, liver, and other tissues.
+There are three clinical subtypes - type I (chronic non-neuronopathic), type II (acute neuronopathic), and type III (intermediate). clinical features include anemia, thrombocytopenia, hepatosplenomegaly, and neurological features depending on the subtype.
+Gaucher's cells - These are formed as a result of the accumulation of massive amounts of glucocerebrosides within the phagocytes. The cells have a fibrillary cytoplasm and give a crumpled tissue paper appearance.
+option A: Deficiency of hexosaminidase A is seen in Tay-Sachs disease. The deficiency of beta-hexosaminidase A and B causes Sandhoff's disease. clinical features are seizures, macrocephaly, and hyperacusis.
+option c: Deficiency of sphingomyelinase leads to Niemann-pick disease. It is characterized by the presence of foam cells in the bone marrow. There may be pulmonary infiltrates leading to lung failure.
+option D: pompe's disease (type 2 glycogen storage disease) occurs due to alpha 1,4-glucosidase (acid maltase) deficiency. It is the only glycogen storage disease that is a lysosomal storage disease and causes lysosomal glycogen accumulation in cardiac, skeletal, and smooth muscle cells. The clinical symptoms of pompe disease are hypotonia (floppy infant), skeletal muscle weakness, hepatomegaly, hypertrophic cardiomyopathy, and macroglossia.",888-689.PNG,B,IMAGE A
+Question 14,"A child presents with thinning of hair and scaling of the scalp. on taking further history, it is found that she consumes raw eggs in her diet regularly. The given manifestations are due to the deficiency of which of the following vitamins?","a) Niacin
+b) pyridoxine
+c) Biotin
+d) Thiamine","The given clinical scenario of scaling and alopecia and the history of raw egg consumption are suggestive of biotin deficiency.
+Raw egg white contains a glycoprotein known as avidin, which tightly binds to biotin and renders it unabsorbable from the intestine. Hence, there can be a biotin deficiency state.
+Biotin deficiency may cause:
+• Dermatitis, scaling, seborrheic, and erythematous rash
+• Mental status changes (depression, hallucinations)
+• Hyperesthesia
+• Alopecia
+• Atrophic glossitis
+In infants, biotin deficiency presents as hypotonia, lethargy, and apathy. In addition, infants may develop alopecia and a characteristic rash that includes the ears.",,C,
+Question 15,"A child presents with mental retardation, bone pain, and inability to walk. on funduscopy examination, a cherry red spot is seen. There is no organomegaly. what is the most likely diagnosis?","a) Tay-sachs disease
+b) Niemann-pick disease
+c) Hurler syndrome
+d) Gaucher disease","The given clinical scenario, along with the fundoscopy image showing a macular cherry-red spot, indicates that the most likely diagnosis is Tay-sachs disease.
+Tay-sachs disease is a lysosomal storage disease caused by the deficiency of β-hexosaminidase. It can present during infancy with macrocephaly, increased startle reaction, gradual loss of motor skills, and a macular cherry-red spot. Affected children usually die by the age of 1o–15 years.
+It is of two types—juvenile-onset and adult-onset. The symptoms of the juvenile-onset form include ataxia and dementia. Dysarthria, lower motor neuron signs, and psychiatric disorders are common in the adult-onset type.
+other options:
+options B - Niemann-pick disease is an autosomal recessive inborn error of lipid metabolism. It results due to the deficiency of the sphingomyelinase enzyme. This results in the accumulation of sphingomyelin in the brain, lungs, liver, and spleen. The clinical features include a combination of hepatosplenomegaly, developmental delay, failure to thrive, severe psychomotor regression, interstitial lung disease, and a cherry-red spot in the macula.
+option C - Hurler syndrome (mucopolysaccharidosis I) is an autosomal recessive condition that affects multiple organs. presentation is usually at 6–24 months with corneal clouding, coarse facial features, joint stiffness, and skeletal dysplasia. Glaucoma, retinal degeneration, and nasal discharge are the other features. The condition is generally fatal.
+option D - Gaucher disease is a glycolipid storage disorder that can present with hepatosplenomegaly, mental retardation, and erosion of long bones. It is caused by the deficiency of β-glucosidase. The Gaucher cell has a wrinkled-paper appearance due to intracytoplasmic inclusions, which is a characteristic feature.",,A,IMAGE Q

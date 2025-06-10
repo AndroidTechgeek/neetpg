@@ -1,0 +1,106 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,what is the function of the proteasome?,"a) protein folding
+b) post-translational modification
+c) protein degradation
+d) protein sorting","The proteasome takes part in protein degradation.
+The proteasome is a cylindrical structure in the cytosol that degrades polyubiquitinated proteins. It has a central core with proteolytic enzymes. proteins that are tagged by ubiquitin to be degraded enter the core through regulatory rings on either side of the cylinder.
+clinical relevance: It plays an important role in antigen presentation to T lymphocytes as it degrades viruses and other molecules to small peptides.",,C,nan;783-626.PNG
+Question 2,"Replacing alanine by which amino acid, will increase Uv absorbance of protein at 28onm wavelength?","a) Leucine
+b) proline
+c) Arginine
+d) Tryptophan","Replacing alanine with tryptophan will increase Uv absorbance of protein at 28onm wavelength The amino acids which absorb 25o-29onm (maximum at 28onm) Uv light are Tryptophan (Maximum Absorption), Tyrosine, phenylalanine.",,D,
+Question 3,vitamin B12 is found maximum in:,"a) Animal products
+b) Green leafy vegetables
+c) Roots and tubers
+d) vegetarian diet","vitamin B12 is found maximum in animal products.
+vitamin B12 or cobalamin is synthesized only by microorganisms. Thus, the only source of cobalamin for humans is animal products. It is not found in plant sources. Therefore, individuals who are strict vegetarians are usually at the risk of developing vitamin B12 deficiency.",,A,
+Question 4,The process of apolipoprotein B48 synthesis involves which of the following?,"a) RNA alternate splicing
+b) RNA editing
+c) DNA editing
+d) RNA interference","The process of apolipoprotein B48 synthesis involves RNA editing.
+RNA editing is the process by which the coding sequence of the mRNA is changed before translation. As a result, the mRNA template differs from the DNA from which it was transcribed. This leads to the formation of a different protein. This occurs by insertion of additional uracils at the 3’ end of the mRNA and proceeds in 3’ to 5’ direction.
+RNA editing in apoB synthesis:
+• In the liver, the apoB gene is transcribed to mRNA which is then translated to apoB 1oo.
+• In the intestine, the same apoB gene is transcribed to the same mRNA. But now, the mRNA undergoes editing by an enzyme cytidine deaminase which converts the cAA codon in the mRNA to UAA at a single specific site. This edited mRNA translates to apoB 48.",,B,nan;784-627.PNG
+Question 5,A patient presents with a clinical scenario of obstructive jaundice. which of the following results can be seen on van den bergh's reaction?,"a) Direct positive
+b) Indirect positive
+c) Both positive
+d) coproporphyrin","In a patient with obstructive jaundice , van der bergh reaction gives direct positive result due to conjugated hyperbilirubinemia .
+van den Bergh reaction is used to determine the serum bilirubin level.
+van den Bergh reaction is a colorimetric method to measure serum bilirubin. It is based on the formation of red azodipyrroles when diazotised sulfanilic acid reacts with bilirubin.
+Interpretation:
+• In the absence of methanol, the water-soluble conjugated bilirubin reacts rapidly with the reagent and is called direct bilirubin.
+• In the presence of methanol, both conjugated and unconjugated bilirubin react, providing the total bilirubin.
+• Unconjugated (Indirect) bilirubin = Total-direct bilirubin",,A,
+Question 6,If the percentage of thymine residues in DNA is 28%. what is the percentage of cytosine?,"a) 28%
+b) 44%
+c) 36%
+d) 22%","The percentage of cytosine in the DNA is 22%.
+As per the chargaff's rule, in the DNA molecules, the concentration of deoxyadenosine (A) equals that of thymidine (T), and the concentration of deoxyguanosine (G) equals that of deoxycytidine (c). Therefore, A=T and G=c.
+In the question, the concentration of thymine is given as 28%, therefore the concentration of adenine is also 28%, both of which add up to 56%. The remaining 44% (1oo-56) of the DNA consists of G-c base pairs. of which the guanine constitutes 22% and the cytosine constitutes another 22%.",,D,
+Question 7,Enzyme activated by a decrease in insulin: glucagon ratio is:,"a) Glucokinase
+b) Hexokinase
+c) phosphofructokinase
+d) Glucose 6-phosphatase","Enzyme activated by a decrease in insulin: glucagon ratio is glucose 6-phosphatase.
+A decrease in insulin: glucagon ratio is seen in fasting state, in which there is the activation of gluconeogenesis and inhibition of glycolysis.
+Among the given options, only glucose 6-phosphatase is an enzyme of gluconeogenesis and therefore is activated. The enzymes mentioned as other options are irreversible enzymes of glycolysis and are inhibited in the fasting state.",,D,nan;785-628.PNG
+Question 8,"A patient presented with symptoms of peripheral neuropathy and macrocytic anemia. she was given folate 5mg and the blood picture improved. However, the neurologic manifestations were aggravated. what is the most likely cause?","a) Malabsorption of folate
+b) Treatment with folate unmasking pyridoxine deficiency
+c) Deficiency of folate reductase in cNS
+d) Folate therapy using the B12 stores","The most likely cause is folate therapy which used up the B12 stores, aggravating the symptoms.
+Administration of folic acid for patients with macrocytic anemia can partially reverse the hematologic abnormalities associated with vitamin B12 deficiency. However, the neurologic manifestations of vitamin B12 deficiency are not treated by folic acid.
+Administration of folic acid to an individual with vitamin B12 deficiency can potentially mask untreated vitamin B12 deficiency or even worsen the neurologic complications. Hence, testing for and/or treatment of vitamin B12 deficiency is required in all patients being treated with folic acid.",,D,nan;786-630.PNG
+Question 9,which of the following is true regarding non-competitive inhibition?,"a) constant km and increased vmax
+b) constant km and decreased vmax
+c) Decreased km and decreased vmax
+d) Decreased km and increased vmax","Noncompetitive inhibition has constant km and decreased vmax.
+Noncompetitive inhibition occurs when the inhibitor binds at a site different from the substrate-binding site. The structure of the inhibitor does not resemble that of the substrate and the inhibitor does not affect the binding of the substrate.",,B,nan;786-629.PNG
+Question 10,"A patient came to the hospital with complaint of abdominal pain. Routine investigations were unremarkable. on observation, the urine turned black on standing. which of the following enzymes is likely to be defective in this patient?","a) Homogentisate oxidase
+b) xanthine oxidase
+c) phenylalanine hydroxylase
+d) Dihydro oratate dehydrogenase","urine turning black on exposure to air is suggestive of alkaptonuria which occurs due to the defect in homogentisate oxidase enzyme.
+Alkaptonuria is a disorder of tyrosine metabolism, that develops due to the defect in homogentisate oxidase, which oxidizes homogentisate to maleylacetoacetate. The defect in this enzyme leads to the accumulation of homogentisate, which is then excreted in the urine. The excreted homogentisate gets oxidized when exposed to the air and causes the urine to turn black.
+In some cases, the excessive homogentisate may get oxidized to benzoquinone acetate, which binds to the connective tissue. This leads to arthritis and pigmentation of the connective tissue, a condition called ochronosis.
+other options:
+option B: xanthine oxidase deficiency results in hypouricemia, xanthinuria, and xanthine lithiasis.
+option c: Defects in phenylalanine hydroxylase can lead to phenylketonuria characterised by hyperreflexia, seizures, hypopigmentation, low IQ, hyperactivity, and tremors.
+option D: Defects in dihydroorotate dehydrogenase are rarely seen in clinical practice. Miller syndrome is associated with this defect.",,A,
+Question 11,A 34-year-old male was on maize as a staple diet for a prolonged period. He presented with diarrhoea and lesion over his neck as shown in the image below. The condition occurs due to deficiency of:,"a) Niacin
+b) zinc
+c) Thiamine
+d) Iron","The above history and clinical features suggest niacin/vitamin B3 deficiency.
+Excessive consumption of maize-based diets can cause pellagra. corn/Maize has low levels of niacin and tryptophan. Jowar has high leucine content which inhibits QPRTase, an enzyme in the synthesis of Niacin.
+Niacin deficiency leads to a disease called pellagra which is characterized by
+• Diarrhea
+• Dermatitis
+• Dementia
+The lesion in the neck is characteristic casal’s necklace pattern, seen in pellagra. The casal collar or casal necklace is a clinical sign in which there is an erythematous pigmented skin rash in the distribution of a broad collar (dermatomes c3 and c4).",781-625.PNG,A,nan;788-631.PNG
+Question 12,"which vitamin, when infused in supraphysiological doses, causes macular edema and macular cysts?","a) vitamin A
+b) vitamin D
+c) vitamin E
+d) vitamin B3","Macular cysts and edema may develop in patients due to the infusion of supraphysiological doses of vitamin B3 (niacin toxicity).
+The toxic effects of niacin include:
+• Flushing associated with skin dryness, itching, paresthesia, and headache is seen. These effects may be seen with even a low dose of 3omg/day. pre-medication with aspirin alleviates these symptoms as these symptoms are mediated by prostaglandins.
+• Macular edema and macular cysts
+• Nausea, vomiting, and abdominal pain.
+• Hepatic toxicity presents as jaundice with elevated AsT and ALT levels.
+• Fulminant hepatitis requiring liver transplantation.
+• Glucose intolerance
+• Hyperuricemia",,D,
+Question 13,which of the following is true about the structural organization of proteins?,"a) Tertiary structure is three dimensional
+b) primary, secondary and tertiary structures are destroyed by denaturation
+c) secondary structure is stabilised by disulphide bonds
+d) secondary and tertiary structures depend upon amino acid sequence","The tertiary structure is three dimensional is the right answer among the given options.
+proteins are structurally organised into four levels, as follows:
+• primary: The linear sequence of amino acids in the polypeptide chain
+• secondary: Folded and geometrically ordered units of short segments of polypeptides. Eg: alpha helix, beta-pleated sheets, loops, and bends
+• Tertiary: secondary structures arranged into larger functional units called domains
+• Quaternary: Different types of polypeptides arranged in a spatial manner other options:
+option B: protein denaturation results in the unfolding and disorganization of the secondary and tertiary structures without the hydrolysis of peptide bonds, which form the primary structure.
+option C: Hydrogen bond and van der waal interactions are involved in the stabilization of secondary structure(helix). Disulfide bonds stabilize the tertiary structure of proteins.
+option D: primary structure depends upon the amino acid sequence, not secondary or tertiary.",,A,nan;789-632.PNG
+Question 14,Nitric oxide is synthesized from:,"a) L - arginine
+b) L - citrulline
+c) Glycine
+d) Lysine","Nitric oxide is synthesized from arginine by a calcium-dependent reaction catalyzed by No synthase.
+The co-enzymes of No synthase include FMN, FAD, Heme, and Tetrahydrobiopterin (BH4).",nan,A,nan;790-633.PNG

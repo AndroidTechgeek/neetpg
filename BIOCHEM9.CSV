@@ -1,0 +1,208 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,"An alcoholic patient presented with itchy lesions as shown in the image, He also has a red-colored beefy tongue. which of the following histories would you like to additionally ask/ elicit in this patient?","a) Ask for diarrhea and history of memory loss
+b) Ask for diarrhea, thiamine deficiency features, and detailed dietary history
+c) History of allergy
+d) Ask for diarrhea and conjunctivitis","An alcoholic patient with a red-colored beefy tongue, itching and the characteristic casal's necklace, shown in the image, is suggestive of pellagra. It is caused by niacin/vitamin B3 deficiency. Hence, one should ask for a history of diarrhea and memory loss in this case.
+pellagra presents with 4 Ds: Diarrhea, Dermatitis, Dementia, and if untreated, Death. Early symptoms of pellagra are loss of appetite, generalized weakness and irritability, abdominal pain, and vomiting. photosensitive dermatitis is seen over sun-exposed areas. Diarrhea occurs due to proctitis or malabsorption. Bright red glossitis (beefy tongue) and casal’s necklace (a pigmented, scaly skin rash that forms a ring around the neck) follow. Depressive psychosis and dementia also commonly occur.
+corn/ maize/ jowar based diets are the main causes of niacin deficiency. corn/maize lacks niacin and tryptophan. The excess leucine in jowar and maize disrupts the conversion of tryptophan to niacin. Niacin deficiency is also seen in alcoholism. Hence, additional histories of diarrhea and memory loss will aid in supporting the diagnosis of pellagra (along with dietary history).
+Treatment includes oral supplementation with 1oo–2oo mg of nicotinamide or nicotinic acid three times daily for 5 days.
+option B: Thiamine deficiency (vitamin B1) features include cvs manifestations like heart failure and edema (wet beriberi), peripheral neuritis (dry beriberi), and wernicke encephalopathy (in alcoholics).
+option c: Dermatitis seen in pellagra is due to dietary deficiency of niacin and so allergy history is not relevant.
+option D: conjunctivitis is not a feature of niacin deficiency.",822-651.PNG,A,
+Question 2,"A patient presented with symptoms of delayed adaptation to vision in dark places, gritty sensation in the eyes, dry eyes, and softening of the cornea. what is the likely deficiency in this case?","a) Retinoic acid
+b) Riboflavin
+c) Niacin
+d) pantothenic acid","The clinical picture of delayed adaptation to vision in dark places, gritty sensation in the eyes, dry eyes, and softening of the cornea is suggestive of vitamin A deficiency in the patient. Hence retinoic acid (the active form of vitamin A) is likely to be deficient.
+vitamin A is a fat-soluble vitamin that can occur as carotenoids (most common - beta carotene from plant sources) or retinoids (from animal sources).
+3 forms of retinoids are:
+• Retinal is required mainly for normal vision (present in the visual pigment rhodopsin).
+• Retinol is important for the normal functioning of the reproductive system.
+• Retinoic acid has a role in the regulation of gene expression and tissue differentiation.
+ocular manifestations of vitamin A deficiency include loss of sensitivity to green light (earliest to appear), nyctalopia (night blindness), xerophthalmia.
+xerophthalmia includes conjunctival xerosis (dryness) with Bitot’s spots (white patches of keratinized epithelium appearing on the sclera), corneal ulcers, and keratomalacia (softening of the cornea) that leads to corneal scarring and ultimately, blindness.
+other manifestations: General impairment of immunity, keratinization of skin (phrynoderma/toad skin).
+Treatment: The WHo recommended schedule for all patients above the age of 1 year (except women of reproductive age): 2oo,ooo IU of vitamin A orally or 1oo,ooo IU by intramuscular injection should be given immediately on diagnosis (day o) and repeated the following day (day 1) and 14 days later.
+Dietary sources of vitamin A are liver, fish, eggs, dark green, and deeply colored fruits and vegetables.
+Bitot's spots
+The below image shows phrynoderma with multiple keratotic papules
+other options:
+option B: ocular manifestations of riboflavin deficiency (vitamin B2) are photophobia, burning sensation, and vascularization of the cornea. other features include cheilosis, magenta-colored tongue, glossitis, and seborrheic dermatitis.
+corneal vascularization. seen in riboflavin (vitamin B2) deficiency.
+option c: Niacin deficiency (vitamin B3) leads to pellagra. Dermatitis, diarrhea, and dementia are its common features.
+casal’s necklace finding in niacin deficiency
+option D: Features of pantothenic acid deficiency (vitamin B5) are burning foot syndrome ( ""nutritional melalgia""), dermatitis, enteritis, alopecia, ataxia.",,A,nan;828-654.PNG;829-656.PNG;829-655.PNG;822-651.PNG
+Question 3,"You are conducting an experiment on mitochondrial respiration. You add malate/pyruvate and respiration is normal. You add succinate and respiration is normal. when you add another substance in the presence of pyruvate/succinate and malate, respiration is blocked. which of the following substances is most likely added?","a) Rotenone
+b) Antimycin A
+c) oligomycin
+d) 2,4-dinitrophenol","In the experiment conducted on mitochondrial respiration, respiration will be blocked by the addition of oligomycin, an antibiotic, when added in the presence of pyruvate/ succinate and malate. oligomycin inhibits oxidative phosphorylation in the mitochondria and hence blocks respiration.
+Electron transport chain (ETC)/respiratory chain is the final pathway by which all the electrons derived from the oxidation of carbohydrates, fatty acids, and amino acids are directed towards the final reaction with oxygen, to form water and adenosine triphosphate (ATP).
+The chemiosmotic theory states that the flow of electrons through the respiratory chain generates a proton motive force. This force drives the formation of ATP by the process of oxidative phosphorylation.
+In the given experiment, malate and pyruvate are electron donors (NADH) at complex I of the ETC, and succinate is the electron donor (FADH2) at complex II. Normal respiration is observed on the addition of substances at both complexes I and II i.e., both oxygen consumption and ATP synthesis from ADP (adenosine diphosphate) take place.
+oligomycin is a competitive inhibitor of the Fo (oligomycin-sensitive) complex of ATP synthase (complex V) and blocks oxidation and phosphorylation by stopping the flow of protons through the ATP synthase enzyme complex. Hence the addition of oligomycin will inhibit complex V and stop respiration.
+other options:
+options A and B: Rotenone (option A) if added, will inhibit complex I. Electron transfer before complex I will be blocked but not after. Hence, normal respiration will occur. similarly, antimycin A (option B) inhibits complex III, and electron transfer prior to complex III will be blocked and not after. Hence, respiration will not be completely hindered.
+option c: 2,4-dinitrophenol (DNP) is an uncoupler that dissociates oxidation in the respiratory chain from phosphorylation. Hence, respiration continues without ATP synthesis.
+complexes of ETc: complex I: NADH-coQ oxido reductase, complex II: succinate-coQ r eductase, complex III: coQH2-cytochr ome c oxidoreductase, complex IV: cytochrome oxid ase, complex V (informally): ATP synthase
+Inhibitors: Piericidin, amobarbital, roten one; TTFA (thenoyltrifluoroaceton e), carboxin, malonate; BAL(British anti-lewisite), an timycin A; Hydrogen sulfide, carbon mo noxide, cyanide; Atractyloside, oligomycin",,C,
+Question 4,A patient presented with tendon xanthomas. His lipid profile showed serum cholesterol levels to be 283 mg/dL and serum LDL to be 202 mg/dL. He was started on lovastatin. what is the likely diagnosis?,"a) Familial hypercholesterolemia
+b) Tangier's disease
+c) Lipoprotein lipase deficiency
+d) Familial hyperchylomicronemia","The clinical presentation with tendon xanthomas and elevated serum LDL (low-density lipoprotein) and elevated serum cholesterol points to a diagnosis of familial hypercholesterolemia (FH).
+Familial hypercholesterolemia (type IIa hyperlipoproteinemia) is an inherited disorder due to defects in LDL receptors. This defect causes a decrease in the uptake of LDL and cholesterol. As a result, the blood levels of both LDL and cholesterol are elevated. such patients are at increased risk to develop atherosclerosis and coronary artery disease.
+Features of FH:
+• Painful polyarthritis and tendinitis are common.
+• Physical findings seen are corneal arcus and tendon xanthomas over Achilles tendon and the dorsum of hands. xanthomas are tumorous masses produced by foamy cell clusters (lipid-laden macrophages) found in the connective tissue of the skin and in tendons.
+Diagnosis is done clinically based on hypercholesterolemia with
+• LDL > 19o mg/dl,
+• Family history of hypercholesterolemia and/or
+• Premature coronary artery disease.
+Treatment includes lifestyle changes, restriction of a fatty diet, and pharmacotherapy with statins in heterozygous FH patients.
+Recent drugs for specific treatment of homozygous FH are:
+• Lomitapide, a microsomal triglyceride transfer protein (MTP) inhibitor, and
+• Mipomersen, an antisense oligonucleotide against apoB.
+The image below shows Achilles tendon xanthoma and a plain lateral radiograph of both ankles showing bilateral symmetrical swellings (arrows) superior to the calcaneum respectively.
+other options:
+option B: Tangier’s disease is a hypolipoproteinemia caused by a mutation of the ABCA1 gene. Enlarged orange tonsils are pathognomonic. Low HDL levels are seen. There is an increased risk for atherosclerosis.
+The image below shows enlarged yellow-orange colored tonsils in Tangier's disease.
+option C: Lipoprotein lipase (LPL) deficiency causes type I hyperlipoproteinemia due to defects in LPL or apo C-II. Eruptive xanthomas are seen. Chylomicrons and vLDL are elevated. LDL and HDL are low. There is no risk for coronary disease.
+option D: Familial hyperchylomicronemia syndrome is caused due to either LPL deficiency, ApoC-II deficiency, ApoA-v deficiency, or GPIHBP1 mutation. Clinically, patients present with recurrent episodes of severe abdominal pain due to acute pancreatitis. The retinal blood vessels may be opalescent and are called lipemia retinalis. Increased levels of triglycerides (mostly >1ooo mg/dL) is seen. The risk of premature coronary heart disease is low.",,A,nan;832-659.PNG;832-658.PNG;833-660.PNG
+Question 5,which of the following glycosaminoglycans (GAGs) are responsible for corneal transparency?,"a) keratan sulfate
+b) chondroitin sulfate
+c) Heparan sulfate
+d) Hyaluronic acid","The glycosaminoglycan (GAG) responsible for corneal transparency is keratan sulfate.
+Glycosaminoglycans or mucopolysaccharides are complex carbohydrates made up of amino sugars and uronic acids. They may be attached to a protein molecule to form a proteoglycan.
+keratan sulfate is a mucopolysaccharide that does not contain uronic acid. It is constituted by repeating disaccharide units of N-acetyl glucosamine and galactose.
+keratan sulfate is present between the collagen fibrils in the cornea and plays a major role in corneal transparency.
+2 types of keratan sulfate are seen:
+• keratan sulfate I is present in the cornea.
+• keratan sulfate II is mainly present in the cartilage.
+keratin sulfate I and II differ in their linkage to the core proteins. keratan sulfate I links to a core protein L-asparagine via N-acetylglucosamine and keratan sulfate II to L-serine (or L-Threonine) via N-acetylgalactosamine.
+The chemical structure of keratan sulfate is shown in the image below.
+other options:
+option B: In chondroitin sulfates (chondroitin 4-sulfate & chondroitin 6-sulfate), the repeating disaccharide units are glucuronic acid and N-acetylgalactosamine. They maintain the structure of the extracellular matrix (ECM) and are located in endochondral bone and cartilage. They are also found in the ECM of the central nervous system. They act as signaling molecules in the prevention of the repair of nerve endings after injury.
+option C: Heparan sulfate is found on many extracellular cell surfaces and contains glucosamine with fewer N-sulfates than heparin. The predominant uronic acid is d-glucuronic acid. In the plasma membrane of cells, they act as receptors and mediate cell growth and cell-cell communication. It is also found in the basement membrane of the kidney along with type IV collagen and laminin, where it determines the charge selectiveness of glomerular filtration.
+option D: Hyaluronic acid is present in synovial fluid. It is also found in skin, bone, cartilage, vitreous humor, and embryonic tissues. It contains repeating units of N Acetyl Glucosamine and glucuronic acid. It plays a role in morphogenesis and wound repair. The high concentrations of hyaluronic acid along with chondroitin sulfates in cartilage contribute to its compressibility.",,A,nan;834-661.PNG
+Question 6,"A person who had dinner at 8 pm the previous night, tested his blood glucose levels at 7 am the next morning. what is the source of blood glucose in this case?","a) Hepatic glycogenolysis
+b) Hepatic gluconeogenesis
+c) Muscle glycogenolysis
+d) Dietary glucose","The source of blood glucose in a person fasting overnight for 11 hours (8 pm to 7 am) is hepatic glycogenolysis.
+First stage of fasting: The fasting state begins two to four hours after the absorptive/well-fed state. In early fasting i.e; 4-18 hours after the well-fed state, the blood glucose level is maintained by hepatic glycogenolysis. The glycogen stores are sufficient for around 18 hours after a meal following which they start to deplete. so the source of blood glucose in a person fasting for 11 hours will be liver glycogenolysis.
+second stage of fasting: Gluconeogenesis begins 4–6 hours after the last meal but becomes fully active only after stores of liver glycogen are depleted (after 18 hours). They can serve as a source of glucose for up to 2 days.
+substrates for gluconeogenesis are:
+• Glucogenic amino acids ( mainly alanine) from the muscle and
+• Glycerol from adipose tissue
+During fasting, the glucogenic amino acids are transported to the liver, transaminated into pyruvate, and converted to glucose.
+Third stage of fasting:
+• Lipolysis occurs in the adipose tissue due to the activity of hormone-sensitive lipase, stimulated by increased glucagon:insulin ratio.
+• Free fatty acids are the source of energy in this stage and not glucose. Triacylglycerols will be hydrolyzed to fatty acids and glycerol.
+• Beta oxidation of fatty acids takes place which provides acetyl CoA.
+• In prolonged starvation (>3 days), acetyl CoA is converted to ketone bodies in the liver which will act as the main fuel source for skeletal and heart muscle and can meet up to 2o% of the brain’s energy needs.
+Final stage of fasting: After several weeks of starvation, ketone body synthesis will not take place due to depleted triacylglycerol stores. proteins remain the only source of fuel. protein degradation increases, and death results from a loss of heart, liver, or kidney function.
+Role of insulin and glucagon:
+when blood glucose falls during fasting, there is increased secretion of glucagon and decreased release of insulin. Hence glucagon:insulin ratio is increased.
+Effects of increased glucagon:insulin ratio on enzymes of glycogenolysis and gluconeogenesis:
+• It activates glycogen phosphorylase, the key enzyme of glycogenolysis, and deactivates glycogen synthase. This causes a rapid mobilization of liver glycogen stores to be utilized as fuel.
+• It favors the synthesis of glucose-6-phosphatase which converts glucose-6-phosphate to glucose. The resulting glucose is used by red blood cells (lack mitochondria) and the brain as they are largely dependant on glucose in the fasting state.
+• phosphoenol pyruvate carboxykinase and fructose-1, 6-bisphosphatase are induced, leading to increased gluconeogenesis.
+Metabolic process: Gluconeogenesis, Glycogenolysis, Ketogenesis, Glycogen storage
+Fasting state: Increased, Increased, Increased, Decreased
+Fed state: Decreased, Decreased, Decreased, Increased
+other options:
+option C: Muscle glycogen cannot contribute directly to plasma glucose, since muscle lacks glucose-6-phosphatase. So glycogen cannot be converted to glucose to be used as fuel during starvation.
+option D: In the well-fed state/ absorptive state of two to four hours after a meal, dietary glucose is the main source of fuel.
+The below image shows steps of glycolysis and gluconeogenesis.",,A,nan;836-663.PNG;836-662.PNG
+Question 7,"A patient who has been diagnosed with multiple gastrointestinal polyps and carcinoma, with a positive family history/history of hereditary non-polyposis colon carcinoma has a defect in which of the following?","a) Mismatch repair
+b) Nucleotide excision repair
+c) Base excision repair
+d) point mutation","Mismatch repair will be defective in a patient with multiple gastrointestinal polyps and carcinoma, with a positive family history/history of hereditary non-polyposis colon carcinoma (HNPCC)
+Mismatch repair is a DNA repair mechanism that corrects single-nucleotide mismatches, insertions, and deletions introduced by the DNA polymerase during DNA replication.
+HNPCC or Lynch syndrome is an autosomal dominant genetic condition. It occurs due to defects in DNA mismatch repair genes like MLH1 and MsH2. The genomes of these patients show microsatellite instability. HNPCC is associated with a high risk of colon cancer. It may also be associated with a risk of developing carcinomas ofthe endometrium, stomach, small bowel, ovary, pancreas, and transitional cell carcinoma of the ureter and renal pelvis.
+The diagnostic criteria for HNPCC are referred to as the Amsterdam criteria or the 3-2-1-o rule. It includes:
+• Three or more relatives with HNPCC-associated cancer (colorectal cancer, endometrial cancer, cancer of the small bowel, ureter, or renal pelvis), one of whom is a first-degree relative of the other two.
+• At least two successive generations affected
+• At least one case diagnosed before age 5o years
+• Familial adenomatous polyposis excluded
+• Tumors verified by pathologic examination.
+other options:
+option B: Patients with xeroderma pigmentosum have a defect in the nucleotide excision repair pathway.
+option C: Defect in base excision repair pathway is seen in patients with MUTYH-associated polyposis.
+option D: sickle cell disease and beta-thalassemia are examples of diseases seen in patients with point mutations.",,A,
+Question 8,The enzymes that convert pyruvate to acetyl CoA are given in the diagram. what are the enzymes marked as E1 and E2 respectively?,"a) pyruvate dehydrogenase and dihydrolipoyl transacetylase
+b) pyruvate carboxylase and dihydrolipoyl transacetylase
+c) pyruvate dehydrogenase and dihydrolipoyl dehydrogenase
+d) pyruvate carboxylase and dihydrolipoyl dehydrogenase","E1 is pyruvate dehydrogenase and E2 is dihydrolipoyl transacetylase in the image showing oxidative decarboxylation of pyruvate. This is catalyzed by the pyruvate dehydrogenase (PDH) complex where E1, E2, and E3 are the three enzyme components of the complex.
+The pyruvate dehydrogenase (PDH) complex is a multienzyme complex that is associated with the inner mitochondrial membrane. It catalyzes the oxidative decarboxylation of pyruvate to acetyl-CoA which enters the citric acid/kreb’s cycle.
+steps of pyruvate decarboxylation:
+• Pyruvate is transported into the mitochondria by a proton symporter.
+• Pyruvate is decarboxylated by pyruvate dehydrogenase (E1). TPP is required for this step. The decarboxylated pyruvate remains bound to the enzyme, as hydroxyethyl thiamine pyrophosphate.
+• The hydroxyethyl group is oxidized to form an acetyl group. It is then transferred from TPP to lipoamide to form acetyl lipoamide. This step is catalyzed by dihydrolipoyl transacetylase (E2).
+• Acetyl lipoamide reacts with coenzyme A to form acetyl-CoA and reduced lipoamide.
+• The reduced lipoamide is reoxidized by FAD-dependent dihydrolipoyl dehydrogenase (E3). The overall reaction is : Pyruvate + NAD+ + CoA → Acetyl-CoA + NADH + H+ + Co2
+Enzyme components of PDH complex: Pyruvate dehydrogenase (E1), Dihydrolipoyl transacetylase (E2), Dihydrolipoyl dehydrogenase (E3)
+Co-factors: Thiamine pyrophosphate (TPP); Lipoic acid, Coenzyme A; Flavin adenine dinucleotide (FAD), Nicotinamide adenine dinucleotide (NAD+)
+Clinical significance:
+• Dietary deficiency of thiamine inhibits PDH. Chronic alcoholics may develop potentially fatal pyruvic and lactic acidosis. Lactic acidosis is a common presentation in patients with inherited pyruvate dehydrogenase deficiency too.
+• In arsenic and mercury poisoning, the heavy metal ions react with -SH groups of lipoic acid and inhibit pyruvate dehydrogenase.
+other multienzyme complexes include alpha-ketoglutarate dehydrogenase and branched-chain ketoacid dehydrogenase. All the five coenzymes of PDH are common to these two complexes too.",824-652.PNG,A,nan;838-664.PNG
+Question 9,"A young girl presented to the OPD for examination. she is tall and thin with slender fingers, and dislocated lenses. workup revealed cystathionine beta-synthase deficiency. which amino acid supplement is required in this case?","a) cysteine
+b) Methionine
+c) serine
+d) Tyrosine","The clinical picture of a tall and thin young girl with slender fingers, dislocated lenses, and cystathionine beta-synthase deficiency is suggestive of classic homocystinuria. The amino acid supplement required in this scenario is cysteine.
+classic homocystinuria is a metabolic disorder of methionine metabolism, due to cystathionine beta-synthase deficiency. It is an autosomal recessive condition.
+cystathionine beta-synthase is a pyridoxal phosphate-dependent enzyme that condenses homocysteine with serine to form cystathionine. The absence of this enzyme will cause cysteine deficiency, hence cysteine needs to be supplemented in the diet.
+clinical features:
+• Affected children are initially asymptomatic.
+• Ectopia lentis (subluxation of the lens) is seen first, after 3 years of age.
+• Intellectual disability and psychiatric and behavioral disorders.
+• Thromboembolic episodes.
+• Skeletal abnormalities resembling those of Marfan syndrome: They are tall and thin with elongated limbs and arachnodactyly (slender fingers).
+Elevations of both methionine and homocysteine in body fluids are the diagnostic laboratory findings. The diagnosis is established by molecular analysis of cystathionine β-synthase (cBS) or by assay of the enzyme in cultured fibroblasts, phytohemagglutinin-stimulated lymphocytes, or liver biopsy specimens. Treatment includes restriction of methionine intake and supplementation with cysteine, betaine, vitamins B6, B12, and folate.
+The image below shows arachnodactyly.
+Methionine supplementation is required in non-classical homocystinuria. It is due to impaired re-methylation of homocysteine to methionine. This can be caused by defective methionine synthase or reduced availability of two essential cofactors, 5-methyltetrahydrofolate, and methylcobalamin.
+Elevated homocysteine levels with low levels of methionine will be seen. Treatment includes methionine supplementation and administration of methyl folate, hydroxocobalamin, and betaine.",,A,nan;839-665.PNG;840-666.PNG
+Question 10,"A patient presented with joint pain and on evaluation, urine turns black on standing. what is the likely enzyme deficiency?","a) Homogentisic acid 1, 2 - dioxygenase
+b) Tyrosine transaminase
+c) Fumarylacetoacetate hydrolase
+d) 4-hydroxy-phenyl pyruvate dioxygenase","The urine turning black in color, on exposure to air, along with joint pain is suggestive of alkaptonuria. It occurs due to the defect in the homogentisic acid 1, 2 - dioxygenase enzyme.
+Alkaptonuria is an autosomal recessive disorder of tyrosine metabolism, that develops due to the defect in homogentisate oxidase/homogentisic acid 1, 2 - dioxygenase, which oxidizes homogentisate to maleylacetoacetate. The defect in this enzyme leads to the accumulation of homogentisate, which is then excreted in the urine.
+Alkaptonuria is characterized by homogentisic aciduria, ochronosis, and arthropathy (joint pain). Homogentisic aciduria is the black discoloration of urine on prolonged exposure to air caused due to oxidation of the excreted homogentisate.
+ochronosis is the accumulation of oxidized homogentisic acid pigment (alkaptone bodies) in connective tissues leading to bluish-black discoloration of tissues mostly involving ear cartilage, ocular tissue, the skin of the eyelids, forehead, cheeks, and hands, nail beds, and intervertebral discs. The compound that accumulates in the tissues in ochronosis is benzoquinone acetate.
+painful arthritis (arthropathy) may be seen from the fourth or fifth decade.
+Diagnosis: Blackish discoloration of urine on standing is diagnostic of alkaptonuria (shown below). The ferric chloride test will be positive.
+The image further below shows ochronosis.
+Treatment: No specific treatment is required. symptomatic treatment with analgesics, spinal surgery, and arthroplasty along with ascorbic acid and protein restriction can be considered. Nitisinone (p-hydroxyphenylpyruvic acid (pHPPA) oxidase inhibitor) reduces urinary excretion of homogentisic acid.
+other options:
+option B: Tyrosine transaminase deficiency causes type II tyrosinemia (Richner-Hanhart syndrome). Patients present with painful corneal erosions with photophobia, learning disability, and palmoplantar keratosis.
+option C: Fumarylacetoacetate hydrolase deficiency causes type I tyrosinemia (Tyrosinosis). Patients generally present with failure to thrive, neuropathy, boiled-cabbage urine, and liver failure secondary to cirrhosis.
+option D: 4-hydroxy-phenyl pyruvate dioxygenase deficiency causes type III tyrosinemia (neonatal tyrosinemia). patients might rarely have a mental disability. The liver function is generally normal.
+The steps of tyrosine metabolism are shown below.",,A,nan;841-668.PNG;841-667.PNG;842-669.PNG
+Question 11,"A 5-year-old boy presented with easy fatigability, irritability and inability to concentrate. Labs revealed the following findings a and b (light and oil immersion respectively) on the bone marrow aspiration. which of the following is the most likely enzyme deficient in this condition?","a) Hexosaminidase
+b) Glucocerebrosidase
+c) sphingomyelinase
+d) N-acetylglucosaminidase","The given clinical scenario of a child with easy fatiguability, irritability, and inability to concentrate with the images showing a crumpled tissue paper appearance(Gaucher's cell) is suggestive of Gaucher's disease. The deficient enzyme is glucocerebrosidase (also known as beta-glucosidase). I
+Gaucher's disease is an inborn error of metabolism caused due to a deficiency of beta glucocerebrosidase. It is the most common lysosomal storage disorder and the mode of inheritance is autosomal recessive. There is an accumulation of lipid-laden macrophages in the spleen, liver, and other tissues.
+There are three clinical subtypes - type I (chronic non-neuronopathic), type II (acute neuronopathic), and type III (intermediate). clinical features include anemia, thrombocytopenia, hepatosplenomegaly, and neurological features depending on the subtype.
+Gaucher's cells - These are formed as a result of the accumulation of massive amounts of glucocerebrosides within the phagocytes. The cells have a fibrillary cytoplasm and give a crumpled tissue paper appearance.
+option A: Deficiency of beta-hexosaminidase A is seen in Tay-sachs disease. The deficiency of beta-hexosaminidase A and B causes sandhoff's disease. clinical features are seizures, macrocephaly, and hyperacusis.
+option c: Deficiency of sphingomyelinase leads to Niemann-pick disease. It is characterized by the presence of foam cells in the bone marrow. There may be pulmonary infiltrates leading to lung failure.
+option D: Deficiency of N-acetylglucosaminidase leads to Sanfillipo's disease. It is a type of mucopolysaccharidosis (MPS - III). There is an accumulation of heparan sulfate leading to severe cognitive degeneration.",826-653.PNG,B,
+Question 12,A farmer presented with loose stools and rashes over the sun-exposed areas. careful diet history reveals a diet rich in maize. which of the following deficiencies would you suspect?,"a) Niacin
+b) pyridoxine
+c) Thiamine
+d) Biotin","History of a maize-rich diet along with loose stools and rashes over the sun-exposed areas is suggestive of niacin/vitamin B3 deficiency.
+Niacin deficiency causes pellagra, found mostly among people eating corn/maize-based diets, which is low in niacin and tryptophan. Excess leucine in jowar and maize disrupts the conversion of tryptophan to niacin.
+Niacin can be synthesized in the body from tryptophan. Two compounds- nicotinic acid, and nicotinamide have the biological activity of niacin. The nicotinamide ring of the coenzymes NAD ( nicotinamide adenine dinucleotide) and NADP (nicotinamide adenine dinucleotide phosphate) participate in oxidation/reduction reactions.
+The initial symptoms of pellagra include loss of appetite, generalized weakness, irritability, abdominal pain, and vomiting. This is followed by bright red glossitis and a characteristic pigmented, scaly skin rash in sun-exposed areas. This rash is known as casal’s necklace when it forms a ring around the neck.
+The 4Ds of pellagra:
+• Diarrhea
+• Dermatitis
+• Dementia, leading to
+• Death
+It is diagnosed by measuring urinary levels of 2-methyl nicotinamide and 2-pyridone.
+It is treated by oral supplementation of 1oo–2oo mg of nicotinamide or nicotinic acid three times daily for 5 days.
+casal’s necklace finding in niacin deficiency
+other options:
+option B: Dietary pyridoxine deficiency (vitamin B6) is rare but has been observed in alcoholics, newborn infants formulas low in vitamin B6, and women taking oral contraceptives. Isoniazid, an anti-TB drug, leads to pyridoxine deficiency resulting in peripheral neuropathy. Hence pyridoxine supplementation is included in ATT regimens.
+option c: Thiamine deficiency (vitamin B1) can manifest as wet beriberi (cvs features like heart failure and edema) or shoshin beriberi, an acute and fulminant form of wet beriberi, dry beriberi (peripheral neuritis), or as wernicke encephalopathy with korsakoff psychosis (in alcoholics). Dietary deficiency of thiamine inhibits pyruvate dehydrogenase. chronic alcoholics may develop potentially fatal pyruvic and lactic acidosis.
+option D: Dietary biotin deficiency is unknown but rarely, dermatitis, glossitis, loss of appetite, and nausea may occur after consumption of large amounts of uncooked egg white, which contains the protein avidin. It binds biotin and makes it unavailable for absorption.
+Note: A similar image-based question on vitamin B3 deficiency was previously asked in NEET PG 2020. vitamin deficiencies are a high-yield topic and are repeatedly tested every year.",nan,A,nan;844-670.PNG

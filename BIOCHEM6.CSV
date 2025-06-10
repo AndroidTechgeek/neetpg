@@ -1,0 +1,80 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,which of the following diseases have autosomal recessive inheritance?,"a) Albinism
+b) G6PD deficiency
+c) Marfan’s syndrome
+d) Lesch-Nyhan syndrome",Albinism is inherited in an autosomal recessive pattern.,,A,
+Question 2,Deficiency of which of the following causes increased glutamine in blood?,"a) Arginosuccinate lyase
+b) Alpha-galactosidase-A
+c) ornithine transcarbamoylase
+d) Arginase","Deficiency ornithine transcarbamoylase causes increased glutamine in blood
+ornithine transcarbamoylase catalyzes the condensation of carbamoyl phosphate with ornithine to form citrulline in the urea cycle. Its deficiency leads to the accumulation of carbamoyl phosphate. The carbamoyl phosphate is then shunted to pyrimidine biosynthesis, resulting in high ammonia and orotic acid levels in the blood. This condition is thus called hyperammonemia type 2.
+As a compensatory mechanism, ammonia is then combined with glutamate to form glutamine (by the enzyme glutamine synthetase). The levels of glutamine are elevated in the blood, cerebrospinal fluid, and urine, probably as a result of this dysregulated glutamine synthesis.
+other options:
+option A: Deficiency of argininosuccinate lyase leads to argininosuccinic aciduria
+option C: Deficiency of alpha-galactosidase-A leads to Fabry’s disease and an accumulation of globotriaosylceramide.
+option D: Deficiency of arginase leads to hyperargininemia",,C,
+Question 3,which of the following amino acid is necessary for the conversion of nor-epinephrine to epinephrine,"a) Tyrosine
+b) Tryptophan
+c) Phenyl alanine
+d) Methionine",Methionine is necessary for the conversion of nor-epinephrine to epinephrine.,,D,
+Question 4,An infant presents with hypotonia and seizures. It was confirmed to be cerebrohepatorenal syndrome. which of the following is accumulated in the brain in cerebrohepatorenal syndrome?,"a) Glucose
+b) Long chain fatty acid
+c) Lactic acid
+d) Triglycerides","Cerebrohepatorenal syndrome or zellweger's syndrome is characterized by the accumulation of very-long-chain fatty acid, abnormalities of synthesis of bile acids and a marked reduction of plasmalogens.
+It occurs in individuals with a rare inherited absence of peroxisomes. It is due to mutations in genes encoding certain proteins called peroxins (involved in various steps of peroxisome biogenesis) in all tissues. They accumulate C26-C38 polyenoic acids in brain tissues and also exhibit a generalized loss of peroxisomal functions. It causes severe neurological symptoms and most patients die in the first year of life.",,B,
+Question 5,Excess ammonia reduces which of the following substrates ofthe krebs cycle?,"a) Malate
+b) oxaloacetate
+c) Fumarate
+d) Alpha ketoglutarate","Excess ammonia results in depletion of levels of alpha-ketoglutarate.
+This happens because excess ammonia reacts with alpha-ketoglutarate to form glutamate, mainly in the CNS.",,D,
+Question 6,which of the following is autosomal dominant?,"a) cystic fibrosis
+b) Duchene muscular dystrophy
+c) sickle cell anemia
+d) Achondroplasia","Achondroplasia is an autosomal dominant disorder.
+It is caused by a mutation of the fibroblast growth factor receptor-3 (FGFR-3) gene.
+The primary defect is abnormal chondrocyte proliferation at the growth plate that causes development of short and thick bones.
+Clinical features:
+• Short limbs
+• Normal trunk
+• Large head
+• saddle nose
+• Exaggerated lumbar lordosis
+• severe spinal deformity may lead to cord compression",,D,nan;775-623.PNG
+Question 7,"In Menke’s disease, which of the following enzymes would be affected?","a) Lysyl hydroxylase
+b) Lysyl oxidase
+c) prolyl oxidase
+d) prolyl hydroxylase","Menke’s disease is due to defective lysyl oxidase.
+It is an X■linked recessive disorder caused by a mutation in ATP7A, which encodes for a copper-transporting ATPase■α polypeptide.",,B,
+Question 8,"common precursor amino acid for urea, creatine and nitric oxide is____.","a) Glycine
+b) Arginine
+c) Aspartate
+d) Alanine","Arginine is the common precursor for urea, creatine and nitric oxide.",,B,
+Question 9,True regarding mitochondrial genome:,"a) Maternal inheritance
+b) Low rate of mutation
+c) single stranded DNA
+d) paternal inheritance","Mitochondrial genome is maternally inherited.
+Mitochondrial inheritance:
+• Inherited exclusively from the affected mother (ovum) as an individual’s mitochondrial genome is entirely derived from the mother because sperms contain few mitochondria, which are typically shed upon fertilization.
+• Both male and female children born to an affected mother will inherit the disease. Pedigree shows mitochondrial inheritance.",nan,A,nan;776-624.PNG
+Question 10,"In a patient with lipoprotein lipase deficiency, which of the following is increased following a fatty meal?","a) chylomicron
+b) LDL
+c) HDL
+d) Apo A","After a fatty meal, chylomicrons are elevated in lipoprotein lipase deficiency.
+Chylomicrons transport dietary lipids from the intestine to the peripheral tissues. They are synthesized in the intestine by assembling apo B-48 with lipids (mainly triacylglycerols). This is called a nascent chylomicron, which upon receiving apo C-II and apo E from HDL is remodelled into mature chylomicron.
+Apo C-II activates lipoprotein lipase present on the endothelium. Lipoprotein lipase hydrolyzes the triacylglycerols into fatty acids and glycerol which are either used for storage or energy.
+Therefore, patients who are deficient in lipoprotein lipase or apo C-II (type I hyperlipoproteinemia) show increased levels of chylomicrons in the plasma after a fatty meal.",,A,
+Question 11,In a patient with wilson's disease which of the following is decreased in urine?,"a) Tyrosine
+b) phosphorous
+c) serine
+d) 3-methylhistidine","urinary levels of 3-methylhistidine are decreased in patients with wilson disease.
+Amino acids in urine exist either in conjugated form (most) or in free form. In wilson's disease the amount of conjugated amino acids far exceeds the amount of free amino acids. Methyl Histidine largely exists in free form and does not increase in amount on hydrolysis of acids in urine. Hence low amounts is seen in wilson's disease.
+wilson disease is an autosomal-recessive disorder caused by mutation of the ATP7B gene located on chromosome 13. The ATP7B gene, encodes a transmembrane copper-transporting ATPase, expressed on the hepatocyte canalicular membrane.
+Deficiency in the ATP7B protein causes a decrease in copper excretion into the bile, impairs its incorporation into ceruloplasmin, and inhibits ceruloplasmin secretion into the blood, leading to the accumulation of toxic levels of copper in the liver, brain, and eye.",,D,
+Question 12,NADpH is used in ______.,"a) Fatty acid synthesis
+b) ketone synthesis
+c) Gluconeogenesis
+d) Glycolysis","NADPH is the source of reducing equivalent for fatty acid synthesis.
+This NADPH is derived from 3 sources:
+• HMP shunt pathway (main source)
+• Extramitochondrial isocitrate dehydrogenase (minor source)
+• Malic enzyme",,A,

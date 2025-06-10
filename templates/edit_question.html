@@ -65,20 +65,20 @@
         </div>
     </div>
     <script>
-        const gallery = document.getElementById('image-gallery');
-        const editForm = document.getElementById('edit-form');
         document.addEventListener('DOMContentLoaded', () => {
             const lastScrollPos = sessionStorage.getItem('galleryScrollPos');
-            if (lastScrollPos) { gallery.scrollTop = parseInt(lastScrollPos, 10); }
+            if (lastScrollPos) { document.getElementById('image-gallery').scrollTop = parseInt(lastScrollPos, 10); }
             updateGalleryCount();
             updateThumb('q');
             updateThumb('a');
         });
-        if (editForm) {
-            editForm.addEventListener('submit', () => { sessionStorage.setItem('galleryScrollPos', gallery.scrollTop); });
-        }
+        document.getElementById('edit-form').addEventListener('submit', () => {
+            sessionStorage.setItem('galleryScrollPos', document.getElementById('image-gallery').scrollTop);
+        });
         document.querySelectorAll('.btn-nav, .nav-item').forEach(button => {
-            button.addEventListener('click', () => { sessionStorage.setItem('galleryScrollPos', gallery.scrollTop); });
+            button.addEventListener('click', () => {
+                sessionStorage.setItem('galleryScrollPos', document.getElementById('image-gallery').scrollTop);
+            });
         });
         function selectImage(filename, type) {
             const inputElement = document.getElementById(`image_${type}_input`);
@@ -104,7 +104,7 @@
         }
         function filterGallery() {
             const qFilter = document.getElementById('image_q_input').value.toLowerCase();
-            const items = gallery.getElementsByClassName('gallery-item');
+            const items = document.getElementById('image-gallery').getElementsByClassName('gallery-item');
             let visibleCount = 0;
             for (let i = 0; i < items.length; i++) {
                 const filename = items[i].getAttribute('data-filename').toLowerCase();
@@ -120,7 +120,7 @@
         function updateGalleryCount(visible = null, total = null) {
             const galleryCountSpan = document.getElementById('gallery-count');
             if (visible === null) {
-                const items = gallery.getElementsByClassName('gallery-item');
+                const items = document.getElementById('image-gallery').getElementsByClassName('gallery-item');
                 total = items.length;
                 visible = Array.from(items).filter(item => item.style.display !== 'none').length;
             }

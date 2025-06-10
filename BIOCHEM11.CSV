@@ -1,0 +1,126 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,"A patient from a Mediterranean country visits Africa, where he develops malaria. He is treated with primaquine and later develops hemolytic anemia. Deficiency of an enzyme involved in which of the following pathways could be the cause?","a) Glycolysis
+b) Gluconeogenesis
+c) Hexose monophosphate (HMP) pathway
+d) Luebering–Rapoport pathway","The deficiency of glucose-6-phosphate dehydrogenase (G6PD) enzyme, which is involved in the hexose monophosphate (HMP) pathway, could be the cause behind this presentation.
+G6PD is an enzyme that plays a critical role in redox reactions that occur in all aerobic cells. It is the only source of NADPH in erythrocytes, which helps in the formation of reduced glutathione. This reduced form protects erythrocytes against oxidative stress.
+G6PD deficiency is an X-linked inheritance disorder. Most patients with this condition are asymptomatic. But when exposed to oxidative agents, they are prone to develop acute hemolytic anemia. The various oxidative triggers include:
+• Fava beans
+• Infections
+• Drugs such as primaquine, dapsone, and nitrofurantoin
+A hemolytic attack can present with weakness and abdominal/ lumbar pain. Later, the patient can develop jaundice, hemoglobinemia, and hemoglobinuria. Investigations will show elevated levels of lactate dehydrogenase (LDH) and low levels of plasma haptoglobin. Anisocytosis and spherocytes can be seen on peripheral smear. Acute renal failure is a complication seen in adults.
+other options:
+option A - Glycolysis, the main pathway of glucose, can occur either aerobically or anaerobically. A deficiency of the enzyme pyruvate kinase can present as hemolytic anemia. Fatigue can be the presentation when there is phosphofructokinase. Both these are enzymes of glycolysis.
+option B - Gluconeogenesis is the process by which non-carbohydrate precursors are used to synthesize glucose. pyruvate carboxylase, phosphoenolpyruvate carboxykinase, and glucose-6-phosphatase are the enzymes in the pathway. Glucose-6-phosphatase deficiency leads to von Gierke disease, which is a glycogen storage disorder. Defective gluconeogenesis results in hypoglycemia.
+option D - Luebering–Rapoport pathway is a shunt mechanism that generates and dephosphorylates 2,3-bisphosphoglycerate (2,3-BpG). 2,3-BpG mutase is the enzyme involved. A deficiency of this enzyme can cause erythrocytosis.",,C,
+Question 2,which of the following disorders follows autosomal recessive inheritance pattern?,"a) Huntington's disease
+b) Treacher collins syndrome
+c) cystic fibrosis
+d) Achondroplasia","cystic fibrosis is a condition with an autosomal recessive mode of inheritance.
+It results due to a defective mutation in the gene encoding for cystic fibrosis transmembrane conductance regulator (cFTR gene). It functions as an epithelial anion channel. It plays an important role in mucociliary transport along the respiratory mucosa. It also helps regulate the amount of exocrine gland secretion.
+The defect in the ion channel results in the production of hyper viscous, adherent secretions which can obstruct the airways. organisms such as pseudomonas aeruginosa and staphylococcus aureus can grow in the sputum. The exocrine pancreas can undergo fibrotic scarring, cyst formation, and acinar tissue loss. The viscid secretions can lead to pancreatic duct obstruction. The flow of digestive enzymes to the duodenum is hence impaired.
+symptoms include sinusitis, steatorrhea, and abdominal pain. Distal intestinal obstruction is a complication due to difficulty in excreting intestinal contents. In neonates, it can present as meconium ileus.
+Detection of high levels of trypsinogen is used in newborn screening. chloride level >6omEq/L in the sweat of affected patients is diagnostic. Hyponatremic hypochloremic alkalosis and hypokalemia may also be seen.
+postural drainage, short-term antibiotics, and inhaled bronchodilators can be used for medical management. The definitive treatment is lung transplantation.
+In autosomal recessive inheritance, multiple affected members are seen in the same generation. other generations are not affected. The following pedigree chart depicts an autosomal recessive pattern of inheritance.
+other options:
+option A - Huntington's disease is a trinucleotide (CAG) repeat disorder with an autosomal dominant mode of inheritance. It is characterized by involuntary movements known as chorea.
+option B - Treacher Collins syndrome is an autosomal dominant disorder that presents as mandibular and malar hypoplasia.
+option D - Achondroplasia has an autosomal dominant inheritance pattern and presents with short limbs, saddle nose, and spinal deformity.",,C,nan;877-685.PNG
+Question 3,which of the following helps in the transport of fatty acids across the inner mitochondrial membrane?,"a) Acyl carrier protein
+b) carnitine
+c) Lecithin-cholesterol acyltransferase
+d) carnitine and albumin","Carnitine is responsible for the transport of fatty acids or long-chain acyl-CoA across the inner mitochondrial membrane.
+Fatty acids are oxidized in the mitochondria to produce acetyl-CoA to produce energy. They must first be converted to acyl-CoA (active fatty acid) before they can be catabolized.
+Carnitine palmitoyltransferase - I (CPT- I) transports acyl-CoA across the inner mitochondrial membrane only in the presence of carnitine. The acyl group of acyl-CoA is transferred to carnitine.
+The acylcarnitine so formed can penetrate the inner mitochondrial membrane via the carnitine-acylcarnitine translocase. This transporter transfers the acyl group back to CoA, restoring acyl-CoA and liberating carnitine, which is moved back to the intermembrane space.
+Carnitine palmitoyltransferase -II catalyzes this reaction. The deficiency of this enzyme is a common cause of recurrent myoglobinuria.
+Carnitine deficiency can lead to hypoglycemia and restrictive or dilated cardiomyopathy. It can also cause hepatic steatosis.
+other options:
+option A - Acyl carrier protein is a component of the fatty acid synthase complex involved in the biosynthesis of fatty acids. It has vitamin pantothenic acid (vitamin B5).
+option C - Lecithin-cholesterol acyltransferase (LCAT) is present in the plasma and plays an important role in the esterification of cholesterol. Deficiency leads to low levels of lysolecithin and cholesteryl esters.
+option D - The long-chain fatty acids are bound to albumin in the plasma. But albumin does not transport fatty acids across the inner mitochondrial membrane. Albumin is a negative acute-phase reactant synthesized by the liver. It is a carrier for acidic drugs.",,B,nan;878-686.PNG
+Question 4,A single mutation in a nucleotide base pair resulting in a termination codon is known as?,"a) Missense mutation
+b) Nonsense mutation
+c) stop mutation
+d) silent mutation","A single mutation in a nucleotide base pair resulting in a termination codon is known as a nonsense mutation.
+A codon is a sequence of three bases present on the mRNA (messenger RNA), and it codes for amino acids. out of the 64 codons possible, only 61 code for the 2o amino acids. Three codons, UAA, UAG, and UGA do not code for any of the 2o amino acids. These are known as nonsense/punctator/termination/stop codons and function as translation termination signals. The UGA codon is traditionally considered a stop codon, but it codes for selenocysteine (21st amino acid).
+The tRNA (transfer RNA) contains the anticodon which recognizes specific codons present on the mRNA. The sequence of the anticodon is complementary to the codon. The pairing between the codon and anticodon can wobble at the third base. For example, GGU, GGC, and GGA all pair with the anticodon CCI. The wobble phenomenon along with degeneracy reduces the effect of mutations.
+A mutation involving a single nucleotide base is known as a point mutation. A nonsense mutation is a type of point mutation where a codon previously coding for an amino acid is changed to a stop codon. This results in premature termination of translation and the formation of a truncated protein. mRNA containing premature stops are removed by the nonsense-mediated degradation pathway.
+other options:
+option A: A missense mutation is a type of point mutation where the new codon, formed by the changed base, codes for a different amino acid.
+option C: stop mutation is a term that can be used interchangeably with nonsense mutation. Here, nonsense mutation is the best answer.
+option D: silent mutations are point mutations where the new codon formed still codes for the same amino acid as the codon before the mutation.",,B,
+Question 5,DNA packing is done by which of the following ?,"a) Histone
+b) Glycoprotein
+c) Nucleic acid
+d) Adenine","The proteins involved in DNA packing are histones.
+Chromatin contains double-stranded DNA molecules and small basic proteins known as histones. In addition, nonhistone proteins are present that are involved in DNA replication and repair, and RNA synthesis. Histones play a role in condensing the DNA.
+Nucleosomes are the organizational unit of chromatin and contain an octamer of histones around which 15o base pairs of DNA are packed. There are various types of histone proteins. H2A, H2B, H3, and H4 groups are components of nucleosomes and are known as core histones. They undergo post-translational modifications such as acetylation and methylation. This plays a critical part in chromatin structure and function.
+The DNA in the nucleosome is arranged in a left-handed helical configuration over the histone octamer.
+other options:
+option B - Glycoproteins are proteins with oligosaccharide chains (glycans) bound to amino acids. Certain plasma proteins, peptide hormones, and cell membrane proteins are examples. structural changes in the glycoproteins present in cancer cells may play a role in metastasis.
+option C - Nucleic acids can be either DNA or RNA. DNA is thought to be arranged in a double-stranded helix model. RNA on the other hand exists as a single strand. There are different types of RNA such as mRNA (messenger RNA), tRNA (transfer RNA), and rRNA (ribosomal RNA).
+option D - Adenine is a purine base that when linked to ribose forms adenosine, a nucleoside. when a nucleoside is esterified with a phosphate group a nucleotide is formed. Guanine is the other purine base. Cytosine is the pyrimidine base common to DNA and RNA. Thymine is present only in DNA and uracil in RNA.",,A,nan;879-687.PNG
+Question 6,An adolescent male patient presents to you with exercise intolerance. He gives a history of developing cramps on exertion. which of the following enzyme deficiencies could be the cause?,"a) Myophosphorylase
+b) Hexokinase
+c) Glucose-6-phosphatase
+d) Hepatic glycogen phosphorylase","The clinical scenario points to a diagnosis of McArdle disease, which results due to a deficiency of the enzyme myophosphorylase (muscle glycogen phosphorylase).
+McArdle disease, also known as type V glycogen storage disorder, is an autosomal recessive condition. It typically presents during late childhood or in the second decade of life. The muscle glycogen phosphorylase enzyme deficiency interferes with ATP generation by glycogenolysis in the muscles. This causes muscle glycogen accumulation.
+symptoms are exercise intolerance associated with muscle cramps. A second wind phenomenon, where the symptoms subside after a short period of rest, can also be seen. Myoglobinuria secondary to rhabdomyolysis leads to the passage of burgundy-colored urine in some patients. Rarely, it can present during infancy as hypotonia, muscle weakness, and respiratory complications. It is generally fatal.
+Muscle biopsy to measure glycogen content is the standard diagnosis. Avoiding strenuous exercise prevents symptoms. Glucose administration before exercise can improve tolerance. Vitamin B6 is also recommended.
+other options:
+option B - Hexokinase is a glycolytic enzyme. Its deficiency leads to hemolytic anemia. splenomegaly may be another presenting feature.
+option C - Glucose-6-phosphatase is an enzyme involved in gluconeogenesis. Its deficiency leads to von Gierke disease also known as type I glycogen storage disease.
+option D - Hepatic glycogen phosphorylase deficiency results in type VI glycogen storage disease, also known as Hers disease.",,A,
+Question 7,which of the following enzyme activities can be estimated in red blood cells to diagnose vitamin B2 deficiency?,"a) Transketolase
+b) Glutathione reductase
+c) kynureninase
+d) pyruvate dehydrogenase","Glutathione reductase activity in red blood cells can be estimated to diagnose vitamin B2 deficiency.
+vitamin B2, also known as riboflavin, is a water-soluble vitamin. Its active forms are FMN (flavin mononucleotide) and FAD (flavin adenine dinucleotide). Glutathione reductase is a FAD-containing enzyme (flavoenzyme). Hence, riboflavin deficiency can be detected by measuring erythrocyte glutathione reductase activity. Red blood cell and urinary concentrations of riboflavin can also be estimated to detect a deficiency.
+Deficiency of riboflavin can present as anemia, corneal vascularization, mucocutaneous lesions, and personality changes. Milk and other dairy products are important dietary sources.
+other options:
+option A - Transketolase contains thiamine diphosphate as a coenzyme. Estimation of erythrocyte apotransketolase (enzyme protein) after in vitro addition of thiamine diphosphate, can be used to assess thiamine nutritional status. Thiamine deficiency can result in peripheral neuritis, beriberi, and wernicke encephalopathy with korsakoff psychosis.
+option C - kynureninase is an enzyme that requires pyridoxal phosphate as a coenzyme. It converts 3-hydroxykynurenine, a tryptophan metabolite, to 3-hydroxyanthranilate. In vitamin B6 deficiency, this is impaired and results in the formation and subsequent urinary excretion of xanthurenate. This can be used for diagnosis.
+option D - pyruvate is decarboxylated by pyruvate dehydrogenase for which thiamine diphosphate acts as the cofactor. Therefore thiamine deficiency results in the accumulation of pyruvate. This leads to pyruvic and lactic acidosis, commonly seen in alcoholics.",,B,nan;818-648.PNG
+Question 8,The following is due to the deficiency of?,"a) vitamin c
+b) vitamin A
+c) vitamin B
+d) vitamin E","The given image depicts Bitot's spots characteristically seen in deficiency of vitamin A. Bitot's spots are seen as white patches of keratinized epithelium on the sclera. It is more commonly bilateral and on the temporal side.
+vitamin A deficiency arises mostly due to the inadequate amounts of vitamin A in diet. It can present as night blindness, conjunctival xerosis, Bitot's spots, and keratomalacia. In later stages, it can lead to xerophthalmia. It also increases the risk of developing measles, diarrhea, and dysentery. skin manifestations include xerosis, scaling, and dermomalacia. phrynoderma may also be seen as keratotic follicular papules affecting the thighs and upper arms. It is shown in the image below.
+In patients above the age of 1 year, vitamin A deficiency is treated with 2oo,ooo IU of vitamin A orally or 1oo,ooo IU by intramuscular route. It should be repeated the next day and two weeks later.
+vitamin A is a fat-soluble vitamin that plays an essential role in vision, reproduction, and maintenance of epithelial integrity. The various forms of vitamin A include retinol (storage form), retinal, retinoic acid, and beta-carotene. It is stored in the liver perisinusoidal stellate (Ito) cells as retinyl ester (retinyl palmitate).
+other options:
+option A - vitamin C is a water-soluble vitamin that aids in iron absorption and collagen maturation. It cannot be synthesized in humans because of the absence of L-gulonolactone oxidase. vitamin C deficiency results in scurvy.
+option C - vitamin B deficiency has clinical manifestations pertaining to each type.
+option D - vitamin E deficiency can present as posterior column and spinocerebellar symptoms. peripheral neuropathy, ophthalmoplegia, and pigmented retinopathy are other features seen.",874-684.PNG,B,nan;829-656.PNG
+Question 9,"A child presents to you with anemia, thrombocytopenia, and bony pain. on examination, hepatosplenomegaly was noticed. If light microscopy of bone marrow aspirate reveals ""crumpled tissue paper"" appearance, what is the enzyme defect?","a) Glucocerebrosidase
+b) sphingomyelinase
+c) Hexosaminidase
+d) Glucose 6-phosphatase","The clinical scenario points to a diagnosis of Gaucher's disease, where there is a defect in the enzyme glucocerebrosidase.
+Gaucher's disease is a lysosomal storage disease with autosomal recessive inheritance. The condition results due to the deficiency of beta-glucocerebrosidase. This results in the accumulation of glucosylceramide (glycolipid substrate) in the reticuloendothelial cells. There is progressive infiltration of the liver, spleen, and bone marrow.
+There are three clinical types:
+• Type 1: Adult (non-neuronopathic) form
+• Type 2: Infantile (acute neuronopathic) form
+• Type 3: Juvenile (subacute neuronopathic) form
+Type 1 is the most common. It presents with a myriad of symptoms, such as bruising secondary to thrombocytopenia, fatigue due to anemia, hepatosplenomegaly, and bone pain. Pathologic fractures and lytic lesions of the femur, ribs, and pelvis may also be seen. A few patients may have pulmonary involvement. Growth retardation may be observed in cases presenting in the first decade.
+Type 2 is rare, and presents with hypertonia, strabismus, and organomegaly. Neurodegeneration is the characteristic feature. stridor and failure to thrive can also be the presenting features. ultimately, death can occur due to respiratory arrest.
+Type 3 presents with intermediate symptoms, as seen in the other two types. By the age of 1o–15 years, the child succumbs to death.
+The Gaucher cells, which are the reticuloendothelial cells with glucosylceramide, have a wrinkled-paper appearance due to intracytoplasmic substrate inclusions. These cells stain strongly with periodic acid-schiff (PAs) stain. This is characteristic of Gaucher's disease.
+other options:
+option B - Acid sphingomyelinase deficiency results in Niemann-Pick disease types A and B. Both are autosomal recessive conditions. Type A has a neurodegenerative course, while type B is non-neuronopathic. The former presents with hepatosplenomegaly, lymphadenopathy, and psychomotor retardation. Death occurs by the age of 3 years. Type B is associated with hepatosplenomegaly and mild pulmonary involvement.
+option c - Hexosaminidase deficiency causes sandhoff disease. It has an autosomal recessive pattern of inheritance. clinical features include ataxia, dysarthria, and mental retardation.
+option D - Glucose-6-phosphatase deficiency leads to von Gierke disease, which is a glycogen storage disorder. It is an autosomal recessive condition. The affected children have characteristic doll-like facies. Hyperuricemia, lactic acidosis, and triglyceridemia can be seen. Hepatomegaly and renal enlargement is also associated.",,A,IMAGE A
+Question 10,The electron transport chain is a series of redox reactions that result in ATP synthesis. which of the following is a cytochrome complex Iv inhibitor?,"a) cyanide
+b) carbon dioxide
+c) oligomycin
+d) ouabain","cyanide is an inhibitor of cytochrome complex IV or cytochrome a+a3 (cytochrome c oxidase). It is a component of the electron transport chain.
+The electron transport chain (ETc) is a specialized set of electron carriers that can accept electrons. Energy-rich molecules like glucose are oxidized to produce water and carbon dioxide. The intermediate substrates in these reactions can pass on electrons to certain coenzymes such as nicotinamide adenine dinucleotide (NAD+) and flavin adenine dinucleotide (FADH2). The reduced forms can then donate electrons to the ETc by which they lose most of their free energy which is used to move H+ through the inner mitochondrial membrane. The H+ gradient thus produced results in the production of ATP. ATP synthesis together with electron transport is known as oxidative phosphorylation.
+The reactions in oxidative phosphorylation and the arrangement of complexes that form the ETc are shown below.
+These complexes can accept or donate electrons to coenzyme Q (coQ) and cytochrome c, which are mobile electron carriers. certain site-specific inhibitors can inhibit ATP synthesis.
+other options:
+option B - carbon dioxide along with water is produced by the oxidation of energy-rich molecules in oxidative phosphorylation.
+option c - oligomycin, an antibiotic, blocks the flow of protons through ATP synthase. This inhibits oxidative phosphorylation.
+option D - ouabain is a cardiac drug that inhibits the Na+ - K+ ATPase of cell membranes by acting on the extracellular surface.
+complexes of ETc: complex I, complex II, complex III, complex IV
+Inhibitors: Piericidin A, amobarbital, roten one; TTFA (thenoyltrifluoroaceton e), carboxin, malonate; BAL(British anti-lewisite), an timycin A; Hydrogen sulfide, carbon mo noxide,cyanide",nan,A,nan;884-688.PNG

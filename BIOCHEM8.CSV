@@ -1,0 +1,300 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,what is the effect of RNAi on gene expression?,"a) knock out
+b) knock down
+c) knock up
+d) knock in","RNA interference(RNAi) is a biological process in which miRNA/siRNA molecules inhibit gene expression (""knockdown"") by neutralizing the targeted mRNAs.
+• miRNA regulates the expression of the target gene by post-transcriptional silencing.
+• Small interfering RNAs (siRNAs) are short RNA sequences that can be introduced experimentally into cells and then serve as substrates for the Dicer enzyme and interact with the RNA-induced silencing complex (RISC) in a manner similar to that observed for endogenous miRNAs.
+• Synthetic siRNAs targeted against specific mRNA species are useful in the study of gene function and this technique is referred to as knockdown technology.
+• siRNAs are also being developed as possible therapeutic agents to silence pathogenic genes like oncogenes involved in neoplastic transformation.
+knock out: Mice generated through genetic manipulation of embryonic stem (ES) cells such that a specific genetic locus is targeted and rendered non-functional (""knocked-out""), either by insertion of an irrelevant DNA sequence or by deletion of the endogenous DNA sequence.
+knock-in: Mice generated through genetic manipulation of embryonic stem (ES) cells such that a specific genetic locus is altered either by one-for-one substitution of DNA sequence or by addition of sequence not found in the endogenous genetic locus.",,B,
+Question 2,Methyl-tetrahydro-folic acid gets accumulated in deficiency of which of the following?,"a) B2
+b) B12
+c) B1
+d) B6","Accumulation of methyl tetrahydro folic acid is seen in vitamin B12 deficiency. vitamin B12 acts as a cofactor of methionine synthase, an enzyme involved in the regeneration of tetrahydrofolate from methyl-tetrahydrofolate. Hence, in vitamin B12 deficiency methyl-tetrahydrofolate accumulates leading to functional folate deficiency known as the folate trap.
+The conversion of 5,1o-methylene-THF into 5-methyl-THF (methyltetrahydrofolate) is an irreversible process. The major source of tetrahydrofolate for tissues is 5-methyl-THF. The only way to make further use of 5-methyl-THF and to maintain the folate cycle is by the vitamin B12-dependent remethylation of homocysteine to methionine by the methionine synthase enzyme.
+Decreased activity of methionine synthase in vitamin B12 deficiency results in the accumulation of methyltetrahydrofolate, which cannot be used, resulting in a folate trap. The folate cycle acts as the link between the functions of folate and vitamin B12, and deficiency of vitamin B12 can cause a functional deficiency of folate.
+Note: since vitamin B12 is also linked to the regeneration of methionine from homocysteine, its deficiency can result in hyperhomocysteinemia as well. This in turn increases the risk of atherosclerosis, hypertension, and thrombosis.",,B,nan;800-637.PNG
+Question 3,cytochrome oxidase is inhibited in all of the following poisonings except:,"a) Hydrogen sulphide
+b) carbon monoxide
+c) Methane
+d) cyanide","cytochrome oxidase is a hemoprotein, which is the terminal component of the respiratory chain carriers (complex IV) in mitochondria. The action of cytochrome oxidase is inhibited in carbon monoxide, cyanide, and hydrogen sulfide poisoning, resulting in prevention of cellular respiration.
+Hemoproteins are metalloproteins that have a typical heme prosthetic group. They are present in myoglobin, hemoglobin, and other cytochromes. cytochrome oxidase contains two molecules of heme, each having one Fe atom that oscillates between Fe3+ and Fe2+ during oxidation and reduction. It also contains two atoms of copper, each associated with a heme unit.
+complexes of ETc :
+complex I: NADH-coQ oxidoreductase
+contains - Fes, FMN, coenzyme Q
+Inhibitors – Rotenone
+complex II: succinate-coQ reductase
+contains - Fes, coenzyme Q
+Inhibitor - carboxin
+complex III: coQH2-cytochrome c oxidoreductase
+contains - cytochrome c, b, c1, and Fes
+Inhibitor - Antimycin A
+complex IV: cytochrome oxidase
+contains - cytochrome a, a3, and copper
+Inhibitor - cyanide, Azide, carbon monoxide
+complex V (informally): ATP synthase
+Inhibitor - oligomycin
+Note: MELAs (mitochondrial encephalopathy, lactic acidosis, and stroke) is an inherited condition due to NADH-Q oxidoreductase (complex I) or cytochrome oxidase (complex IV) deficiency.",,C,
+Question 4,which of the following molecular analysis methods is used to detect RNA ?,"a) sanger's method
+b) G banding
+c) western blot
+d) RT-PCR","RT PcR(Reverse Transcriptase PcR) is a molecular analysis method used for the detection of RNA. It can be used to quantitate mRNA levels by generating complementary DNA (cDNA) copies of the mRNA using the reverse transcriptase enzyme.
+The northern blot technique can also be used to detect RNAs. Here, the mixture of mRNA molecules is separated by electrophoresis and then transferred to a nitrocellulose membrane and hybridized with radiolabeled probes.
+sanger’s technique:
+• This was the first technique used to determine the sequence of proteins.
+• sanger’s reagent is 1- Flouro 2,4 Dinitro benzene.
+• The first protein to be sequenced by this method was insulin.
+• only dipeptides and tripeptides can be sequenced by this method.
+G banding (Giemsa banding):
+It is the most common technique used in cytogenetics to produce a visible karyotype by staining condensed chromosomes. It is useful for identifying genetic diseases through the photographic representation of the entire chromosome complement. The metaphase chromosomes are treated with trypsin (to partially digest the chromosome) and stained with Giemsa stain.
+Heterochromatic regions, which tend to be rich with adenine and thymine (AT-rich) DNA and relatively gene-poor, stain darker and appear as dark bands in G-banding. In contrast, less condensed chromatin, which tends to be rich with guanine and cytosine (Gc-rich) and more transcriptionally active incorporates less Giemsa stain, and these regions appear as light bands in G-banding. The image below shows a G-banding karyogram of a normal human male.
+western blot, also called immunoblots, is a technique used to study protein molecules. The proteins undergo electrophoresis and then are transferred to a membrane. These proteins are then tagged with the specific antibodies and visualized.",,D,nan;802-638.PNG
+Question 5,Insulin inhibits which of the following lipase enzymes?,"a) Lipoprotein lipase
+b) Pancreatic lipase
+c) Gastric lipase
+d) Hormone sensitive lipase","Insulin has an inhibitory effect on lipolytic hormones like hormone sensitive lipase (HSL). In adipose tissues, the stored triglycerides are broken down (lipolysis) by hormone sensitive lipase (HSL) into free fatty acids (FFAs). Insulin inhibits HSL and thus reduces the release of FFAs and also glycerol.
+In diabetic patients, low insulin level corresponds to an increase in HSL activity, promoting the breakdown of lipids and release of FFAs from adipose tissue. Hormone-sensitive lipase activity is accelerated by hormones like epinephrine, norepinephrine, glucagon, ACTH, TSH, GH, ADH, and Melanocyte stimulating hormones (MSH).
+Insulin induces the activity of lipoprotein lipase (LPL) which is present on the walls of capillaries. LPL promotes hydrolysis of TGs and degradation of vLDL and chylomicrons. In diabetes, low insulin leads to decreased LPL activity resulting in increased vLDL and TGs levels.
+Effects of insulin on various tissues:
+Tissue: Adipose tissue, Muscle, Liver, General
+Increases: Increased glucose entry, Increased fatty acid synthesis, Increased glycerol phosphate synthesis, Increased triglycerides deposition, Activation of lipoprotein lipase, Increased K+ uptake; Increased glucose entry, Increased glycogen synthesis, Increased amino acid uptake, Increased protein synthesis in ribo some, Increase ketone uptake, Increase K+ uptake; Increased protein synthesis, Increased lipid synthesis, Increased glycogen synthesis & glyc olysis; Increased cell growth
+Decreases: Inhibition of hormone-sensitive lipase; Decrease protein catabolism, Decrease release of glucogen ic amino acids; Decrease ketogenesis, Decreased glucose output due to decreased gluconeogenesis; -",,D,nan;803-639.PNG
+Question 6,Glycated hemoglobin (HbA1c) is best measured using?,"a) Ion exchange chromatography
+b) Affinity chromatography
+c) Isoelectric focussing
+d) Electrophoresis","Glycated hemoglobin (HbA1c) is best measured using ion-exchange chromatography.
+HbA1c is formed by non-enzymatic glycation of hemoglobin A present in RBCs. Normally this occurs to a small extent but is increased in diabetic patients with poor glycemic control. since the half-life of RBCs is typically 6o days, HbA1c can be used to monitor mean blood glucose concentration over the past 6 to 8 weeks.
+In ion-exchange chromatography:
+• proteins interact with the stationary phase by charge-charge interactions.
+• proteins with a net positive charge at a given pH will tightly adhere to beads with negatively charged functional groups such as carboxylates or sulfates (cation exchangers).
+• proteins with a net negative charge adhere to beads with positively charged functional groups, typically tertiary or quaternary amines (anion exchangers).
+• Non-adherent proteins flow through the matrix and are washed away.
+• proteins elute in inverse order of the strength of their interactions with the stationary phase.",,A,
+Question 7,what is the main substrate and metabolic fuel used by RBCs during fasting?,"a) ketone bodies
+b) Glucose
+c) Free fatty acids
+d) Amino acids","Glucose is the main substrate and metabolic fuel used by RBCs during fasting. RBCs lack mitochondria and are dependent fully on glycolysis (anaerobic) and pentose phosphate pathway during fasting state.
+Glucose is always required by brain and RBCs. Brain can meet only about 2o percent of energy requirements by using ketone bodies and the remaining is supplied by glucose. Metabolic changes occuring during fasting state and starvation therefore serve to preserve glucose and glycogen reserves for brain and RBCs.",,B,
+Question 8,miRNA binds to which part of the mRNA to inhibit translation?,"a) Gene body
+b) Gene promoter
+c) 3' UTR
+d) 5' UTR","Micro-RNA (miRNA) is an endogenous non-coding RNA that typically binds to the 3’-untranslated regions (UTRs) of target messenger-RNAs (mRNAs). The primary function of miRNA is to modulate the translation of target mRNAs into their corresponding proteins. After the target RNA is transcribed from its gene (post-transcriptional), the miRNA may either induce mRNA cleavage or repress its translation. This is referred to as post-transcriptional gene silencing or RNA interference.
+RNA interference(RNAi) is a biological process in which miRNA or siRNA molecules inhibit gene expression by neutralizing targeted mRNAs.The microRNA (miRNA) belongs to a group of non-coding genes. The miRNA genes are transcribed but not translated into proteins. They play a role in the regulation of the expression of the target gene by post-transcriptional silencing.
+Mechanism:
+• The miRNA gene present in the nucleus is transcribed to primary miRNA, which is further converted to pre-miRNA by an enzyme DROSHA intranuclearly and exported to the cytoplasm by an export protein called Exportin 5.
+• The pre-miRNA undergoes trimming, by an enzyme called DICER, into mature single-stranded miRNA.
+• The mature miRNA is associated with a multiprotein aggregate called RNA-induced silencing complex (RISC).
+• The target mRNAs contain seed sequences in their 3, untranslated region (UTR) that determines the specificity of miRNA binding and gene silencing.
+Depending on the base pairing between the miRNA strand and its target mRNA, the RISC causes gene silencing either by mRNA cleavage (degradation or deadenylation) or by repressing its translation.
+siRNA is similar in function to miRNA and is used in RNA interference.
+miRNA expression has been found to be dysregulated in many cancers. Such misregulation is thought to have a causal role in the pathogenesis of such cancers. Some types of miRNAs are oncogenic (referred to as oncomiRs) and are overexpressed in cancerous tissue. On the other hand, tumor-suppressive miRNAs that counteract oncogenic characteristics are found to be underexpressed in cancers.",,C,nan;805-640.PNG
+Question 9,The enzyme kinetics depicted in the Graph is suggestive of-,"a) Allosteric Activation
+b) cooperative Binding
+c) Michaelis Menten kinetics
+d) sigmoid curve","The graph shows a hyperbola which is suggestive of Michaelis - Menten kinetics ofthe enzyme.
+For enzymes showing michaelis menten kinetics, there is an increase in Rate of reaction, v, with increase in substrate concentration till a point vmax is reached beyond which rate of reaction shows saturation.
+cooperative Binding would result in a sigmoid curve and is suggestive of Non Michaelis Menten kinetics.",793-634.PNG,C,
+Question 10,which of the following methods cannot be used to precipitate proteins?,"a) Add alcohol and acetone
+b) using heavy metal ions
+c) Moving pH away from isoelectric pH
+d) Adding trichloroacetic acid","precipitation of proteins is maximum at isoelectric pH and decreases as pH moves away from it. Hence, moving pH away from isoelectric pH cannot be used for precipitating proteins.
+The isoelectric point or isoelectric pH (pI) is the pH at which the molecule carries no net charge. significance of Iso-electric pH (pI):
+• The number of anions and cations present on the protein molecule will be equal and the net charge is zero.
+• The proteins will not migrate in an electrical field
+• Buffering capacity is minimum (note: maximum buffering action of an amino acid is seen when pH〓pka, and not at isoelectric pH)
+• viscosity will be minimum
+• precipitability will be maximum and solubility is minimum various precipitation reactions of proteins are:
+• salting out: higher the molecular weight of protein, the lesser the salt required. Globulins would require only half-saturated salt whereas albumin would need full saturation.
+• Isoelectric precipitation: proteins are least soluble at their isoelectric pH and get precipitated immediately.
+• precipitation by organic solvents like alcohol and acetone.
+• precipitation by heavy metal ions: positively charged metal ions precipitate the negatively charged proteins in an alkaline medium. salts of heavy metals can precipitate normal proteins of the GI tract in poisoning.
+• precipitation by alkaloidal reagents like tungstic acid, trichloroacetic acid, and picric acid.
+• Heat coagulation is an irreversible precipitation process.",,C,
+Question 11,which of the following diagnostic markers is/are incorrectly paired?,"a) 1 only
+b) 1 and 2
+c) 1, 2 and 4
+d) 2, 3 and 4","Beta glucocerebrosidase deficiency is seen in Gaucher's disease. It is an inborn error of metabolism due to the deficiency of the enzyme β-glucocerebrosidase (β-glucosidase) that leads to the accumulation of glucocerebroside in the lysosomes of cells.
+• It is the most common lysosomal storage disorder. It is inherited in an autosomal recessive manner.
+• The clinical features result from the accumulation of lipid-laden macrophages in the spleen, liver, bone marrow, bone, and other tissues.
+• There are 3 clinical subtypes, delineated by the difference of neurologic manifestations: type 1, or the adult, non-neuronopathic form; type 2, the infantile or acute neuronopathic form; and type 3, the juvenile or subacute neuronopathic form
+• Typical clinical features include delayed puberty, painless hepatomegaly and splenomegaly, liver cirrhosis, hypersplenism and pancytopenia, bleeding tendencies, bone pain due to avascular necrosis, osteoporosis, and pathological fractures.
+• Neurological symptoms such as developmental delay, hypertonia, strabismus, and supranuclear gaze palsy (seen in type 3).
+• Bone marrow examination usually reveals the presence of Gaucher cells having a characteristic wrinkled-paper appearance.
+• Enzyme replacement therapy for Gaucher's disease includes imiglucerase, velaglucerase alfa, taliglucerase alfa, and eliglustat.
+von Gierke disease occurs due to deficiency of glucose-6-phosphatase enzyme in the liver, kidney, and intestinal mucosa. Patients present commonly by 3-4 months of age with hypoglycemia (leading to seizures), lactic acidosis, and hepatomegaly. Affected children often have a doll-like face with fat cheeks, relatively thin extremities, short stature, and a protuberant abdomen due to massive hepatomegaly. The kidneys are also enlarged, whereas spleen and heart are not involved. Laboratory findings include hypoglycemia, lactic acidosis, hyperuricemia, and hyperlipidemia.
+Elevated serum lipase and serum amylase levels are associated with acute pancreatitis. serum amylase levels do not correlate with the severity of pancreatitis and lack specificity whereas serum lipase is a more specific marker.
+Low serum ceruloplasmin level is suggestive of hepatolenticular degeneration seen in wilson's disease. However, it should not be used for definitive diagnosis as levels are normal in 1o% of the affected patients and reduced in 2o% of carriers. The diagnosis of wilson's disease is based on the following:
+• Increased 24-hour urinary excretion of copper (screening test)
+• Decrease in serum ceruloplasmin
+• kayser–Fleischer rings under slit lamp
+• Genetic testing for mutations in ATP7B gene
+• Liver biopsy with quantitative copper assay (>2oo μg/g dry weight of liver) is the gold standard investigation.
+A higher level of LDH1 than LDH 2 in the blood is suggestive of myocardial infarction. under normal conditions, LDH 2 is predominantly present in the blood and LDH 1 is predominantly present in the heart. when cardiac tissue is damaged LDH 1 is released into the bloodstream resulting in a high LDH1:LDH2 ratio known as the flipped LDH ratio (LDH1 > LDH2). LDH is a tetrameric enzyme with 4 subunits. It has four subunits with two isoforms: H isoform (Heart) and M isoform (Muscle)
+• LDH-1: Heart
+• LDH-2: Blood
+• LDH-3: Brain, kidney, lungs, spleen, pancreas
+• LDH-4: Liver and skeletal muscle
+• LDH-5: Liver and skeletal muscle",,A,
+Question 12,Identify the type of marked chromosome in the given karyotype.,"a) Acrocentric
+b) Metacentric
+c) submetacentric
+d) Telocentric","The marked chromosome is chromosome 13 and the type is acrocentric.
+Each chromatid has a long arm q and a short arm p. The two arms are separated by a centromere. In this image, the centromere is not midway between the two ends of the chromatids. It is seen towards one end with a marked difference in length between the p and q arms, hence it is an acrocentric chromosome.
+chromosomes are classified based on the position of the centromere as follows:
+• Metacentric: centromere is centrally placed and the two arms are equal in length
+• submetacentric: centromere is slightly away from the center and the two arms are only slightly different in length
+• Acrocentric: centromere is nearer to one end and the difference in length of arms is marked • Telocentric: centromere lies at one end.
+Group: A, B, c, D, E, F, G
+pairs of chromosome: 1–3, 4, 5, 6–12, X-chromosome, 13–15, 16–18, 19, 2o, 21, 22 + Y-chromosome
+Features: Long, metacentric; Long, submetacentric; Medium, submetacentric; Medium, acrocentric satellite bodies +; short, metacentric (16) or su bmetacentric (17 and 18); short, metacentric; short, acrocentric satellite bo dies +",794-635.PNG,A,nan;809-641.PNG
+Question 13,which of the following consumes the highest energy during assimilation?,"a) proteins
+b) carbohydrates
+c) Mono-unsaturated fatty acids
+d) poly-unsaturated fatty acids","proteins consume the highest energy during assimilation.
+The energy wasted in the assimilation of food is represented as diet-induced thermogenesis or specific dynamic action(SDA). Diet-induced thermogenesis (DIT) can be defined as the increase in energy expenditure above the basal metabolic rate and is expressed as a percentage.
+The values for diet-induced thermogenesis are relatively higher protein and alcohol consumption and lower at a high-fat consumption, the hierarchy for it, being in the sequence of alcohol> protein> fat> carbohydrate. The value of DIT for protein is 3o%, the lipid is 15% and carbohydrate is 5%. Hence, taking into account the loss of energy as DIT, additional 1o% calories should be provided in a mixed diet.",,A,
+Question 14,which of the following is the best method to detect HbA1c?,"a) Ion-exchange chromatography
+b) Electrophoresis
+c) Immunoassay
+d) Affinity chromatography","Ion-exchange chromatography is the best method to detect HbA1c.
+Ion-exchange chromatography allows the separation of ionizable molecules according to differences in charge. It involves the use of a column which contains a matrix consisting of resin-bound charged groups.
+If the charged group is anionic or negatively charged, it is called a cation exchanger and is used in cation exchange chromatography where proteins with a net positive charge migrate through the matrix more slowly than those with a net negative charge due to retardation of the migration of the former which is attracted to the negative charges bound to the resin. cation exchange chromatography is used for negatively charged HbA1c estimation and is used as a diagnostic tool for diabetes mellitus.
+Glycated hemoglobin, reported as HbA1c, has been used to monitor glycemic control in patients with diabetes for many years. HbA1c results from the attachment of glucose to the N-terminal valine of the hemoglobin β-chain.
+The concentration of HbA1c depends on both the concentration of glucose in the blood and the lifespan of the erythrocyte. since the half-life of an RBC is 6o days, the level of glycated haemoglobin reflects the mean blood glucose concentration over the preceding 6 to 8 weeks.
+Normal glucose tolerance is characterized by an HbA1c < 5.7%; any value of HbA1c equal to or exceeding 6.5 % is diagnostic of the patient being diabetic. Also, ion exchange chromatography has the advantage of separating hemoglobin variants into peaks with the least interference by other hemoglobin variants; its disadvantage is that it is temperature dependant.
+other options:
+option B: Electrophoresis is an electrochemical process where macromolecules or colloidal particles depending on the electric charge migrate in a solution under the influence of an electric current. It can also be used for HbA1c estimation, its advantage being able to identify different variants of haemoglobin and disadvantage being interference of the process by fetal hemoglobin(HbF).
+option C: Immunoassays are used to quantify molecules based on the specificity and selectivity of antibody reagents generated. It can provide quantitative estimates of HbA1c but HbF produces falsely low results and hemoglobin variants such as Hbs and HbC may cause a false increase in HbA1c measurements.
+option D: Affinity chromatography is a type of liquid chromatography. It involves the passing of a matrix through a solution that consists of the molecules of interest. These molecules would have a specific affinity for ligands present in the matrix and bind with them and end up getting separated from the solution. It can be used to measure HbA1c without being affected by temperature. High levels of HbF seen in thalassemia may interfere with its result.",,A,
+Question 15,which of the following options is false in a patient with advanced liver disease?,"a) Hyperammonemia
+b) Decreased ATP synthesis
+c) oxidative decarboxylation of alpha-keto glutarate
+d) Increased synthesis of glutamine and glutamate from alpha-ketoglutarate","oxidative decarboxylation of alpha-ketoglutarate is not seen in a patient with advanced liver disease. option C is false.
+Normally, ammonia, a toxic by-product of protein catabolism, is excreted as urea upon being metabolised in the urea cycle, which takes place in the liver. In advanced liver disease, impaired ammonia metabolism leads to hyperammonemia. Ammonia withdraws α-ketoglutarate to form glutamate and glutamine. This leads to lowered concentrations of all citric acid cycle intermediates, and hence reduced generation of ATP.
+The krebs cycle involves a sequence of reactions occurring in mitochondria that oxidize the acetyl moiety of acetyl-CoA to Co2 and reduces the coenzymes that are reoxidized through the electron transport chain. It is the final common pathway for the oxidation of carbohydrates, lipids, and protein also has a central role in gluconeogenesis, lipogenesis, and interconversion of amino acids. Although processes occur in many tissues, the liver is the only tissue in which all occur to a significant extent.
+The reactions that occur in kreb's cycle are shown in the image below.
+one of the steps of the krebs cycle involves α-ketoglutarate undergoing oxidative decarboxylation in a reaction catalyzed by α-ketoglutarate dehydrogenase, resulting in the formation of succinyl-CoA. High concentrations of ammonia inhibit α-ketoglutarate dehydrogenase, thereby preventing its oxidative decarboxylation.",,C,nan;811-642.PNG
+Question 16,which of the following is associated with a defect in collagen maturity?,"a) scurvy
+b) Rickets
+c) Beri-beri
+d) Night blindness","scurvy is associated with a defect in collagen maturity.
+scurvy results from ascorbic acid or vitamin C deficiency. vitamin C is an essential cofactor for the enzyme prolyl hydroxylase, required for the hydroxylation of prolyl residues in collagen. This enables each collagen fibril to form a uniform and flexible triple helix configuration in the body’s connective tissues.
+Its deficiency results in a defective prolyl hydroxylase activity, thereby resulting in the impaired formation of mature connective tissue; the clinical manifestations of this deficiency include petechiae, ecchymosis, coiled hairs, inflamed and bleeding gums, joint effusion, tooth loss, bone fracture, poor wound healing, and fatigue which can be attributed to impaired collagen synthesis all of which are typical of scurvy.
+Risk factors include chronic alcoholism, diseases such as celiac disease and Crohn’s disease, associated with malabsorption and poor nutrition.
+It is treated with vitamin C supplementation.
+other options:
+option B- Rickets is caused due to deficiency of vitamin D in children which is characterized by the continued formation of the collagen matrix of bone but its incomplete mineralization or demineralization. Children have soft, pliable bones.
+option C- Beriberi is caused due to deficiency of thiamine. It can either be dry beriberi characterized by peripheral neuropathy or wet beriberi characterized by edema due to dilated cardiomyopathy.
+option D- Night blindness is caused by a deficiency of vitamin A. Deficiency can also lead to pancreatic insufficiency, repeated gastrointestinal, pulmonary, and urinary infections, and xeropthalmia.",,A,
+Question 17,which of the following is not a substrate for glucose formation?,"a) Acetyl coenzyme A
+b) Glycerol
+c) Alanine
+d) Lactate","Acetyl coenzyme A (CoA) is not a substrate for glucose formation.
+Acetyl CoA and compounds that give rise to acetyl CoA alone like acetoacetate, lysine, and leucine cannot give rise to a net synthesis of glucose. This is because of the irreversible nature of the pyruvate dehydrogenase complex, which converts pyruvate to acetyl CoA. These compounds give rise to ketone bodies instead.
+The synthesis of glucose in the body, in the absence of dietary carbohydrates, occurs in two ways:
+• From liver glycogen, by a process known as glycogenolysis in the absence of dietary carbohydrate, for up to 24 hours.
+• De novo, from non-carbohydrate sources, by a process known as gluconeogenesis, when glycogen stores have depleted. This occurs primarily in the liver and to a lesser extent in the kidneys while fasting overnight or primarily in the kidneys during prolonged fasting of 48 hours or longer.
+The substrate for glycogenolysis is glycogen and during this process, glycogen is first converted into glucose-1-phosphate by the enzyme glycogen phosphorylase. This is a rate-limiting step in the process. Glucose-1-phosphate is then converted to glucose-6-phosphate by the enzyme phosphoglucomutase and eventually, glucose is obtained from glucose-6-phosphate by the enzyme phosphatase. There is no involvement of acetyl CoA.
+The steps with enzymes involved in glycogenolysis are shown in the image below.
+In gluconeogenesis, the substrates can be:
+• oxaloacetate (from its conjugate acid, oxaloacetic acid) is a direct precursor of phosphoenolpyruvate
+• Pyruvate, an α-keto acid that can be converted to glucose. Alanine is a glucogenic amino acid that is transaminated to form pyruvate by the enzyme alanine amino-transferase in the liver; the pyruvate formed, can be used for the synthesis of glucose.
+• Lactate, obtained from anaerobic glycolysis, released from skeletal muscles and RBCs into the blood, to be taken up by the liver in the Cori cycle to be oxidised to pyruvate, to eventually synthesize glucose
+• Glycerol from adipose tissue is converted to dihydroxyacetone phosphate in the liver, which itself is an intermediate of glycolysis and gluconeogenesis.
+The steps and enzymes involved in gluconeogenesis are shown in blue in the flowchart below.",,A,nan;812-643.PNG;813-644.PNG
+Question 18,which of the following is the best test for quantitative analysis of an RNA sample?,"a) Real time PCR
+b) Reverse transcriptase PCR
+c) PCR - Restriction Fragment Length Polymorphism
+d) RTPCR followed by Real time PCR","RTPCR followed by real-time PCR is the best test for quantitative analysis of an RNA sample.
+RTPCR (reverse transcriptase PCR) involves the generation of complementary DNA (cDNA) copies of the mRNA using the reverse transcriptase enzyme followed by amplification of the cDNA copies by PCR technique.
+Quantification of DNA involves the assessment of the amount/concentration of DNA that is present in a sample when carrying out a technique like PCR. Real-time PCR or quantitative PCR/qPCR involves the quantification of DNA after each cycle of amplification, or, in ""real-time"" than at the end of the procedure; therefore real-time PCR helps in quantitative analysis of DNA.
+when reverse transcriptase PCR and qPCR are combined, they can be used to determine the relative concentrations of a particular mRNA molecule in a cell.
+other options:
+option A: Real-time PCR alone can only be used for the quantification of DNA only.
+option B: RTPCR can convert the RNA into cDNA by reverse transcriptase enzyme and then amplify the cDNA copies by means of PCR but cannot quantify the DNA/RNA.
+option C: PCR-Restriction fragment length polymorphism (PCR-RFLP) is also called cleaved amplified polymorphic sequence (CAPS) assay. Polymorphisms are inherited differences found among individuals in more than 1% of the normal population. PCR-RFLP is a technique in which organisms may be differentiated by variations in their DNA sequence by restriction endonucleases. Typically, gel electrophoresis is used to visualize RFLPs. Thus, DNA but not RNA molecules can be quantified in this process.",,D,
+Question 19,wobble hypothesis explains which of the following concepts ofthe genetic code?,"a) universal
+b) unambiguous
+c) Degeneracy
+d) Non-punctuated","The wobble hypothesis explains the degeneracy of the genetic code.
+The wobble hypothesis states that codon-anticodon pairing follows the traditional watson–Crick rules (G pairs with C and A pairs with U) for the first two bases of the codon but can be less stringent for the third/last base. It has been observed that a tRNA can recognize more than one codon for a specific amino acid, especially in the last nucleotide of the codon triplet. This is referred to as degeneracy and its mechanism can be explained by the wobble hypothesis.
+The first base of the anticodon moves to permit nontraditional pairing with the last base of the codon. This movement is called wobble and is possible because the first base of the anticodon is not as spatially defined as the other two bases. Due to the wobbling, 61 tRNA species are not required to read the 61 codons.
+For example, three codons for glycine—GGU, GGC, and GGA—can form a base pair from one anticodon, 3, CCI 5, ie, I, inosine, can base pair with U, C, and A, as shown in the diagram below. other options:
+option A: The genetic code is universal because it is the same for all living organisms.
+option B: The genetic code is unambiguous because each codon is specific for only one amino acid. Example: GGA only codes for Glycine.
+option D: The genetic code is non-punctuated. This means that once the reading commences at a specific start codon, it is continuous and is read continuously as triplets until a stop codon is reached without stopping.",,C,nan;815-645.PNG
+Question 20,which of the following statements are true regarding mitochondrial DNA?,"a) 1 and 3
+b) 1 and 2
+c) 2 and 4
+d) 2 and 3","statements 1 and 2 are true regarding mitochondrial DNA; it has a higher rate of mutations as compared to the nuclear genome and is a circular double-stranded DNA with about 16,ooo base pairs.
+Mitochondrial DNA is circular, double-stranded DNA composed of heavy and light chains and comprises about 1% of total cellular DNA. It contains about 16,569 base pairs and encodes about 13 protein subunits of the electron transport chain, of a total of about 67 protein subunits.
+Its genetic code/ nucleotide sequence largely differs from that of the standard cellular code. For example, the standard stop codon UGA is read as tryptophan (Trp); in addition, few untranslated sequences exist and a very high mutation rate, about 5-1o times compared to that of nuclear DNA of the cell is observed.
+As all mitochondria are contributed by the ovum during zygote formation, human mitochondrial DNA is transmitted by maternal non-mendelian inheritance. This is clinically significant because in diseases resulting from mutations of mitochondrial DNA, except in a few cases, an affected mother would pass the disease to all of her children but only her daughters would transmit the trait.
+The below image shows the mitochondrial inheritance",,B,nan;816-646.PNG
+Question 21,what is the repair mechanism associated with CRISPR-Cas9?,"a) Non-homologous end joining
+b) Base excision repair
+c) Nucleotide excision repair
+d) Mismatch repair","The repair mechanism associated with cRISPR-cas9 is non-homologous end-joining.
+Non-homologous end-joining (NHEJ) is a mechanism by which a group of proteins mediates the recognition, processing, and direct ligation of the ends of two DNA fragments where a double-strand break in DNA has occurred. This is in contrast to homologous recombination (HR), another mechanism to repair a double-strand break, where DNA repair needs an undamaged homologous DNA template to replace an adjacent damaged one.
+clustered regularly interspaced short palindromic repeats-associated gene 9 or cRISPR-cas9 is a DNA editing/gene regulatory system. It involves two essential components, cas9, an endonuclease that causes a double-stranded DNA break, allowing modifications to the genomic DNA to be made; and a synthetic single guide RNA or sgRNA responsible for guiding cas9 to its target.
+once the sgRNA has directed the cas9 to the section of the genomic DNA to be edited, the 3’ end of the sgRNA comes to lie across a specific sequence of DNA adjacent to the editing side called the protospacer adjacent motif or PAM. The cas9 now causes a double-stranded break in the DNA at the PAM site which is then repaired by a non-homologous end-joining.
+The following image shows cRISPR-cas9 system",,A,nan;817-647.PNG
+Question 22,A patient with thiamine deficiency develops lactic acidosis. which of the following enzymes is affected?,"a) Pyruvate carboxylase
+b) pyruvate dehydrogenase
+c) phosphoenolpyruvate carboxykinase
+d) Transketolase","pyruvate dehydrogenase is the enzyme affected in a patient with thiamine deficiency who develops lactic acidosis.
+pyruvate is transported from the cytosol into the mitochondria, where undergoes oxidative decarboxylation to form acetyl CoA in the presence of the multi-enzyme pyruvate dehydrogenase complex (pDHC) in the mitochondrial matrix.
+The pDHC primarily consists of three enzymes: pyruvate decarboxylase (also called pyruvate dehydrogenase), dihydrolipoyl transacetylase, and dihydrolipoyl dehydrogenase. It also requires the following co-enzymes:
+• Thiamine pyrophosphate, essential for pyruvate decarboxylase and is tightly bound to it
+• Lipoic acid and coenzyme A, essential for dihydrolipoyl transacetylase
+• FAD and NAD+, essential for dihydrolipoyl dehydrogenase.
+In a patient with thiamine deficiency, due to the inactive thiamine pyrophosphate, the pyruvate dehydrogenase complex is unable to act on pyruvate, which begins to accumulate on the body and is then shunted towards lactic acid formation by the enzyme lactate dehydrogenase.
+This results in lactic acid accumulation and subsequent lactic acidosis in the patient.
+wernicke–korsakoff, an encephalopathy-psychosis syndrome due to thiamine deficiency, may be seen in chronic alcoholics. It occurs due to insufficient production of ATp by the brain cells via the citric acid cycle as the pDHC is inactive.
+other options:
+option A: pyruvate carboxylase facilitates the conversion of pyruvate to oxaloacetate by carboxylation.
+option C: phosphoenolpyruvate carboxykinase is involved in the decarboxylation and phosphorylation of oxaloacetate to form phosphoenolpyruvate seen in gluconeogenesis.
+option D: Transketolase with coenzyme thiamine pyrophosphate is an enzyme involved in the non-oxidative phase of the pentose phosphate pathway.",,B,nan;818-648.PNG
+Question 23,which of the following is not amphipathic?,"a) sphingolipids
+b) phosphoglycerol
+c) Triglycerides
+d) Glycolipids","Triglycerides are not amphipathic.
+Amphipathic substances are those which have both a hydrophilic or polar region and a hydrophobic or nonpolar region.
+phosphoglycerols or glycerol-based phospholipids have a hydrophilic head which is a phosphate group with alcohol attached to it and a hydrophobic tail containing fatty acids or fatty acid-based hydrocarbons. Therefore, they are amphipathic.
+sphingolipids, like all membrane-based lipids, are amphipathic molecules having hydrophobic and hydrophilic properties.
+Glycolipids are amphipathic molecules consisting of a hydrophilic oligosaccharide chain attached to a hydrophobic lipid that anchors the glycolipid in cell membranes.
+But lipids like triacylglycerol and cholesteryl esters are termed neutral lipids and thus are not amphipathic.
+cholesterol is amphipathic.",,C,
+Question 24,which of the following tests will be positive in the urine of a patient who has undergone prolonged starvation?,"a) 1 and 3
+b) only 3
+c) 1, 2 and 3
+d) 1 and 2","only test 3, which is Rothera's test for ketone bodies in the urine will be positive in the urine of a patient with prolonged starving.
+urine tests: Test 1 - Benedict’s test for reducing sugars, Test 2 - Heat and acetic acid test for presence of albumin, Test 3 - Rothera’s test for ketone bodies
+In case of prolonged starvation,
+• After a meal till about 2 hours later, maintenance of blood glucose is primarily from the diet. During this time, hepatic glycogen stores are getting replenished.
+• As dietary blood glucose levels start to decline, glucagon secretion increases and insulin secretion decreases, resulting in rapid mobilisation of hepatic glycogen stores.
+• If there is fasting for a longer period of time, hepatic glycogen stores cannot maintain blood glucose levels. 12 hours after the last meal, gluconeogenesis becomes the primary source of blood glucose, since most of the hepatic glycogen would have depleted. If an individual continues fasting, gluconeogenesis continues to be the main source.
+• However, over the first few days of fasting, ketogenesis happens. This is when the concentration of acetyl CoA from fatty acid oxidation exceeds the oxidative capacity of the TCA cycle. Also, ketogenesis releases CoA, ensuring its availability for continued fatty acid oxidation.
+water-soluble ketone bodies are used as fuel by most tissues, including the brain during fasting. It also reduces the need for gluconeogenesis from amino acid carbon skeletons, thus preserving essential protein in the body.
+Therefore, during prolonged fasting, the levels of ketone bodies in the body rise and subsequently begin to be eliminated in urine. Hence, in starvation ketosis, Rothera's test will be positive, but Benedict's test will be negative.
+Both Benedict's and Rothera's tests will be positive in diabetic ketoacidosis. (option 1)
+• Benedict's test (Test 1) for reducing sugars is a semiquantitative method for the estimation of sugar in the urine.
+• Rothera's test (Test 3) is performed by saturating urine with solid ammonium sulfate. on adding sodium nitroprusside and liquor ammonia along the sides of the test tube, a purple ring is formed at the junction of the two liquids if there is acetone or acetoacetic acid in urine.
+Beta-hydroxybutyrate does not give a purple ring.
+• Heat and acetic acid test (Test 2) for proteinuria is based on the fact that when heated to an isoelectric point, proteins get coagulated.
+Color: Green, yellow, orange, Red
+Concentration: o.5 g%, 1 g%, 1.5 g%, 2 g%",797-636.PNG,B,
+Question 25,The action of inhibition of acetylcholinesterase enzyme by organophosphorus compounds is through which of the following mechanisms?,"a) Non-competitive inhibition
+b) Reversible competitive inhibition
+c) Irreversible competitive inhibition
+d) suicidal inhibition","The action of inhibition on acetylcholinesterase enzyme by organophosphorus compounds is through irreversible competitive inhibition.
+competitive inhibition is a type of inhibition that occurs when the inhibitor binds reversibly to the same site that the substrate would normally occupy. It, therefore, competes with the substrate for binding to the enzyme active site. The effect of competitive inhibition can be overcome by increasing the concentration of the substrate. km is increased, but vmax is unaltered in this type of inhibition.
+competitive inhibition is of two types:
+• Irreversible (non-equilibrium type) competitive inhibition: The inhibitor forms strong covalent bonds or has such a high affinity for the enzyme that the normal substrate is not able to displace the inhibitor. For example, organophosphorus poisoning inhibits acetylcholinesterase(AchE). once an organophosphate binds to AchE, endogenous hydrolysis of the phosphorylated enzyme by esterases further leads to irreversible binding and permanent enzyme inactivation which is termed aging.
+• Reversible (equilibrium type) competitive inhibition: substrate concentration is sufficiently increased, it can displace the inhibitor. statin drug inhibits HMG coA reductase.
+Noncompetitive inhibitors bind to enzymes at remote sites from the active site. Therefore, noncompetitive inhibition cannot be overcome by increasing the concentration of the substrate.
+Thus, noncompetitive inhibitors decrease the vmax of the reaction. They do not interfere with the binding of the substrate to the enzyme. Thus, the enzyme shows the same km in the presence or absence of noncompetitive inhibitors. For eg, acetazolamide inhibits carbonic anhydrase, digoxin inhibits Na+ k+ ATpase
+Graph showing the changes in vmax and km noncompetitive and competitive inhibition.
+suicidal inhibition is a special type of irreversible inhibition. It is also known as mechanism-based inactivation. The inhibitor is a specialised substrate analog that can be transformed by the enzyme it is inhibiting. After binding to the active site of the enzyme, a highly reactive group is generated. This covalently binds to and inhibits the enzyme. An example is allopurinol, which is oxidised by xanthine oxidase to alloxanthine. Alloxanthine in turn is a strong inhibitor of xanthine oxidase.",nan,C,nan;820-649.PNG;821-650.PNG

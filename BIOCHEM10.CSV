@@ -1,0 +1,281 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,which is the correct sequence of steps in the isolation of desirable protein using recombinant DNA technology?,"a) 2, 1, 3, 5, 4
+b) 1, 2, 4, 3, 5
+c) 1, 5, 2, 4, 3
+d) 2, 4, 5, 3, 1","The correct sequence of isolation of desirable protein in recombinant DNA technology is 2, 1, 3, 5, 4.
+I) Incorporation of genes into bacteria: The gene needed to produce the desired proteins is to be incorporated into the bacteria. This is done using cloning vectors like bacterial plasmids, phages, or cosmids. The DNA of interest is ligated into the vector DNA and is called recombinant DNA. This vector is then inserted into a competent host cell (eg: E.coli bacteria) where it is replicated.
+II) Expression of protein and lysis of bacterial cell: After incorporation of recombinant DNA, bacteria express the inserted gene and produce the desired protein on a large scale along with other indigenous bacterial proteins. To release these proteins bacterial cell is lysed.
+III) SDS-PAGE (sodium dodecyl sulfate-polyacrylamide gel electrophoresis): It is the most widely used method for determining the purity of a protein. After the proteins are released, to separate the desirable protein, we subject it to SDS-PAGE. It separates proteins based on molecular weight.
+IV) Hybridization and blotting: It is done to confirm that the isolated protein is the desired protein. It is done using western blotting techniques on nitrocellulose paper.
+V) Protein elution - extraction of the produced protein.
+The practical applications of recombinant DNA technology include:
+• Gene mapping using techniques such as fluorescence in situ hybridization (FISH).
+• Producing proteins such as:
+• Interferons, tPA (tissue plasminogen activator)
+• Insulin, growth hormone
+• Hepatitis B vaccine
+• Molecular analysis of disease, to detect gene variations and mutations.
+• Restriction Fragment Length polymorphism (RFLP) and single nucleotide polymorphism (SNP)
+• Microsatellite DNA polymorphisms
+• Gene therapy and bone marrow transplantation",,A,
+Question 2,which of the following techniques is used to detect DNA-protein interaction?,"a) DNA footprinting
+b) DNA fingerprinting
+c) ELISA
+d) Northern blotting","The technique used to detect DNA-protein interaction is DNA footprinting.
+The parts of DNA that are protein-bound (Eg: RNA polymerase bound to the promoter region of DNA) are resistant to digestion by nuclease enzymes. Since the nucleases are unable to cleave the protein-bound regions of DNA, when the cleaved DNA fragments are run on polyacrylamide gel electrophoresis, there are missing bands indicating, protected sites of protein-bound DNA.
+These missing areas represent the footprint of the protected DNA-protein complexes. Hence DNA footprinting technique helps to identify the specific binding site of protein on a DNA sequence.
+The image below illustrates the DNA footprinting technique.
+other options:
+option B: DNA fingerprinting uses RFLPs (restriction fragment length polymorphism) or repeat sequence DNA to identify a person's unique pattern of DNA. Polymorphisms are inherited differences found among individuals. with this technique, individuals can be differentiated by variations in their DNA sequence, using restriction endonucleases followed by gel electrophoresis, to visualize RFLPs. DNA fingerprinting is used for forensic analysis of crime scenes, and for paternity testing.
+option C: ELISA uses antibodies linked to certain enzymes to detect certain antigens present in the sample.
+option D: Northern blotting technique can be used to detect RNA. Here, the mixture of mRNA molecules is separated by electrophoresis and then transferred to a nitrocellulose membrane and hybridized with radiolabeled probes.",,A,nan;855-675.PNG
+Question 3,A patient was diagnosed with Ewing sarcoma with EwSR1 gene mutation. The technique shown in the image was performed to confirm the diagnosis. Identify the technique shown in the image.,"a) Fluorescent in situ hybridisation
+b) karyotyping
+c) Immunohistochemistry
+d) sanger's technique","The technique shown in the image is FISH demonstrating a positive EWSR1 gene rearrangement, characteristic of Ewing sarcoma. The fused region denoted by Yellow corresponds to a normal intact gene, while a split signal pattern showing separate red and green signals is indicative of EWSR1 gene rearrangement.
+Fluorescent In Situ Hybridisation (FISH) is a simple technique for the detection of specific genetic information on morphologically intact tissue using fluorescent probes. FISH can be performed on prenatal samples, peripheral blood cells, touch preparations from cancer biopsies, and even fixed archival tissue sections. It is used to detect
+• numeric abnormalities of chromosomes (aneuploidy)
+• subtle microdeletions and rearrangements.
+• complex translocations that are not demonstrable by routine karyotyping
+• gene amplification (e.g., HER2 in breast cancer or NMYC amplification in neuroblastomas)
+other options:
+option B: karyotyping is the process by which chromosomes are isolated, stained, and examined to find chromosomal anomalies. It is used in prenatal diagnosis, investigation of repeat pregnancy loss, investigation of children and adults suspected of having a chromosomal disorder, and subtyping of lymphomas and leukemias for the purpose of exact diagnosis, giving a prognosis, and treatment.
+option C: IHC (Immunohistochemistry) is a staining method for histopathological specimens. It helps in the diagnosis and classification of tumors based on their distinct protein expression patterns. Eg: The expression of estrogen receptor (ER), progesterone receptor (PR), and HER2/neu in breast cancer cells is mainly assessed by immunohistochemistry.
+option D: Sanger's technique: This was the first technique used to determine the sequence of proteins. The first protein to be sequenced by this method was insulin. Sanger’s reagent is 1- Flouro 2,4 Dinitro benzene. only dipeptides and tripeptides can be sequenced by this method.",846-671.PNG,A,
+Question 4,"In a patient with maple syrup urine disease, all of the following amino acids should be restricted in diet except?","a) Methionine
+b) valine
+c) Leucine
+d) Isoleucine","In maple syrup urine disease (MSUD), only branched-chain amino acids are restricted, hence, methionine does not need any restriction in diet.
+Branched-chain amino acids are:
+• Leucine (L)
+• Isoleucine (I)
+• valine (v)
+MSUD is an autosomal recessive disorder in which there is a partial or complete deficiency of branched-chain ketoacid dehydrogenase complex (BCKD). This impairs the metabolism of branched-chain amino acids. These amino acids, particularly leucine and their metabolite accumulate in the blood, causing toxic effects on the brain. Features include feeding problems, vomiting, ketosis, and a characteristic burnt sugar odor /maple syrup-like odor found in urine, sweat, and cerumen.
+Laboratory investigations will show increased levels of branched-chain amino acids in the plasma and urine. Leucine levels are usually higher than isoleucine, and valine.
+Treatment involves restricted intake of branched-chain amino acids using commercially available formulas and judicious supplementation of isoleucine and valine. very high levels of leucine are removed by hemodialysis.",,A,nan;857-676.PNG
+Question 5,which of the following statements about the human genome project is false?,"a) Total 2o,5oo genes were identified
+b) The project spanned over 13 years
+c) It required international collaboration
+d) Next generation sequencing was used","The human genome project did not use next-generation sequencing.
+The Human Genome Project (HGP) was an international, collaborative research program, which involved agencies such as UNESCO, HUGO, the National Institute of Health/Department of Energy (USA), the Medical Research Council (UK), Genethon (France), and the European Union. The primary goal of the Human Genome Project was to determine the sequence of all nucleotide base pairs, that make up human DNA and to create a single linear map of all genes from the human genome. The project was active from 1990 to 2003, taking around 13 years to complete. A total of 20500 genes were identified and mapped. Scientists used various methods of first-generation sequencing technologies including sanger's technique, SGS technique, etc. The HGP has produced a curated and accurate reference sequence for the majority of human chromosomes. The reference sequence has provided the foundation for the use of second-generation sequencing technologies such as array techniques.
+Next-generation sequencing (NGS) is a new technology used for sequencing DNA and RNA and mutation detection. NGS can sequence the genome faster and in a shorter period of time than first-generation sequencing technologies. NGS allows for the detection of a spectrum of mutations, including single nucleotide substitutions, small insertions and deletions, large genomic duplications and deletions, and rare variations. Next-generation DNA sequencing technologies include
+• Illumina sequencing
+• Roche 454 sequencing
+• Ion torrent: Proton/PGM sequencing
+• SOLID sequencing.",,D,
+Question 6,Banding technique used for dicentric chromosomes is:,"a) G banding
+b) C banding
+c) NOR
+d) R banding","The banding technique used for dicentric chromosomes is c banding.
+Heterochromatin includes non-coding regions of DNA, such as centromeric regions. The staining of these constitutive heterochromatins, is done by c-banding using silver salt staining. A dicentric chromosome having two centromeres can hence be identified by c banding.
+Various techniques are used in karyotyping to study chromosomes. Staining with various compounds produces various results and helps us to understand the chromosomes better.
+common techniques used are:
+• Q banding - Fluorescence staining with quinacrine mustard.
+• G banding - Giemsa staining after partial denaturation of chromatin. It is the most common technique used in cytogenetics to produce a visible karyotype by staining condensed chromosomes.
+• R banding - Reverse Giemsa staining. In this, the light and dark areas are reversed.
+• c banding - staining of heterochromatin with silver salts.
+• T banding - staining the telomeres of chromosomes.",,B,
+Question 7,Affinity maturation of antibodies is because of?,"a) somatic hyPermutation
+b) Differential mRNA Processing
+c) CD4o
+d) Gene rearrangements","Affinity maturation of antibodies is because of somatic hypermutation.
+Affinity maturation is the process by which antibodies gain
+increased affinity, avidity, and anti-pathogen activity. It is a result of somatic hypermutation of immunoglobulin genes in B cells, coupled with selection for antigen binding.
+Somatic hypermutation is a cellular response by which the immune system adapts to the new foreign elements that confront it. They do so by adding nucleotides in V gene regions of heavy and light chains, resulting in a better fit of antigen with the antibodies. This hence increases the affinity of antibodies to antigens. Due to this, the subset of plasma cells with these improved hypervariable regions are more strongly
+selected by the antigen and therefore constitute a larger part of the population of antibody-producing cells. This process is called affinity maturation.
+This process occurs in the germinal centers and proceeds for weeks after acute infection or vaccination, or for many cycles during chronic infection. The resulting antibodies can be highly mutated from their germline-encoded counterparts, with an increase in several orders of magnitude in affinity for antigen compared to the corresponding naïve B cell receptors (BCRs).",,A,
+Question 8,Best method for detection of mutations with low allele frequency is,"a) DroPlet digital PCR
+b) FIsH
+c) Nested PCR
+d) sanger sequencing","Best method for detection of mutation with low allele frequency is Droplet digital PCR (ddPCR) It is an advanced and more precise type of quantitative PCR which gives more consistent and reproducible results. It can accurately quantify the target nucleic acid sequence within a sample. It is useful for determining somatic mutation with low allele frequency. Mutant alleles of frequency as low as o.25% can also be detected using this technique.
+Polymerase chain reaction (PCR) is a rapid automated method for the amplification of specific DNA sequences (or genes). Reverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize a complimentary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for PCR.
+other special PCR types:
+Nested PCR- It involves the sequential use of two primer sets. The first primer set is used for amplification and the target sequence for the second primer is present only on the amplicon with the target sequence. Nested PCR is intended to reduce non-specific binding due to the amplification of unexpected primer binding sites.
+Multiplex PCR- Multiple primers are used to amplify several DNA sequences simultaneously. As this process targets multiple genes at once, a single test run gives additional information that would otherwise require several times the reagents and technician time to perform.
+The sanger sequencing technique is used for DNA sequencing. It is based on controlled termination of synthesis of DNA by using chain terminating agents like dideoxynucleotides.
+Fluorescent In situ Hybridisation (FIsH) is a simple technique for the detection of specific genetic information on morphologically intact tissue using fluorescent probes. FIsH can be performed on prenatal samples, peripheral blood cells, touch preparations from cancer biopsies, and even fixed archival tissue sections.",,A,nan;859-677.PNG
+Question 9,"In sanger sequencing, ddNTP is used because:","a) It is used to increase DNA Polymerase activity
+b) It can be made fluorescent
+c) They exhibit higher affinity for DNA Polymerases
+d) It doesn't allow further elongation of DNA","In sanger sequencing, dideoxynucleotides triphosphates (ddNTP) are used because it doesn't allow further elongation of DNA.
+The sanger method is used for DNA sequencing. This method uses the mechanism of synthesis of DNA by DNA polymerases. In the process of synthesis of DNA, the 3'-hydroxyl group of primer reacts with an incoming dNTP to form a new phosphodiester bond. This reaction is catalyzed by DNA polymerase.
+In the sanger sequencing method, ddNTP is used because it halts the DNA synthesis. ddNTPs can bind to the template strand but lack the 3'-hydroxyl group which is required to add the next nucleotide. The products of this reaction are a mixture of DNA strands of varying lengths. This mixture is then separated using polyacrylamide gel electrophoresis and autoradiography. This produces a pattern of bands from which the DNA sequence can be read.
+The image given below shows the steps involved in sanger's method.
+sanger’s technique was the first technique used to determine the sequence of proteins. The first protein to be sequenced by this method was insulin. sanger’s reagent is 1- fluoro 2,4 dinitro benzene.",,D,nan;860-678.PNG
+Question 10,Misincorporation of uracil into DNA is seen in deficiency of:,"a) vitamin B12
+b) Folate
+c) vitamin B6
+d) vitamin E","Misincorporation of uracil into DNA is seen in the deficiency of folate.
+Folate deficiency leads to decreased thymidylate synthesis from deoxyuridylate due to deficient methylation of deoxyuridine monophosphate (duMP) to thymidine monophosphate (TMP). The methylation of duMP to TMP is catalyzed by thymidylate synthase and requires tetrahydrofolate (THFA) as a methyl group donor. This decreased TMP synthesis can result in an imbalance of deoxyribonucleotides and hence leading to excessive uracil misincorporation into DNA during replication and repair.
+Folic acid (vitamin B9) is a water-soluble vitamin, and its active form is tetrahydrofolate (THFA). It acts as a carrier of one-carbon groups. Tetrahydrofolate receives one-carbon fragments from donors such as serine, glycine, and histidine and transfers them to intermediates in the synthesis of amino acids, purines, and pyrimidines.
+Folate deficiency results in:
+• Megaloblastic anemia
+• Homocystenemia
+• Neural tube defects (spina bifida, Anencephaly) in the fetus.",,B,nan;861-679.PNG
+Question 11,Deamination of methylated cytosine forms which of the following?,"a) uracil
+b) cytosine
+c) Guanine
+d) Thymine","Deamination of methylated cytosine forms thymine.
+Deamination is the removal of an amino group(NH2) from a chemical compound. Enzymes that catalyze this reaction are called deaminases. Deamination of 5-methylcytosine forms thymine.
+other significant deaminations are given below:
+• Deamination of adenosine forms inosine. This is a metabolic step involved in uric acid formation by purine catabolism. It is mediated by the enzyme adenosine deaminase (ADA). ADA deficiency leads to sparse or defective T cells and B cells and patients suffer from severe combined immunodeficiency (scID).
+• Deamination of cytosine leads to uracil formation - The production of apolipoprotein B-48 (apoB-48) in the intestine is the result of RNA editing in the intestine. This involves post-transcriptional deamination of cytosine to uracil by enzyme cytidine deaminase. This converts sense codon (cAA) in the mRNA to nonsense codon (UAA)at a single specific site. This edited mRNA translates to apoB-48.
+• Deamination of guanine forms xanthine. This is a metabolic step involved in uric acid formation by purine catabolism.",,D,
+Question 12,which of the following types of inhibition is depicted in the given Lineweaver-Burk plot?,"a) competitive inhibition
+b) Non-competitive inhibition
+c) uncompetitive inhibition
+d) suicidal inhibition","The given graph shows competitive inhibition, in which the value of vmax remains constant and the km value increases.
+• km is the substrate concentration at which velocity is half maximum.
+• vmax is the maximum velocity of a reaction.
+competitive inhibition is when the inhibitor binds reversibly to the substrate-binding site and competes with the substrate for the active enzyme-binding site. This effect of competitive inhibition can be overcome by increasing the substrate concentration by which maximum velocity can still be achieved. Therefore, vmax is unaltered in this type of inhibition. However, the concentration of the substrate required to achieve half of the maximum velocity is increased. Therefore, km is increased in this condition.
+The graph shows the changes in vmax and km in competitive inhibition.
+Inhibition: competitive, Non competit ive, Uncompetitiv e
+km: Increases, same, Decreases
+vmax: same, Decreases, Decreases
+other options:
+option B: Non-competitive inhibition is by binding inhibitors to enzymes in locations remote from the active site. Increasing the concentration of the substrate does not overcome non-competitive inhibition. Thus, noncompetitive inhibitors decrease the vmax of the reaction. They do not interfere with the binding of the substrate to the enzyme. Thus, the enzyme shows the same km in the presence or absence of noncompetitive inhibitors.
+The graph shows the changes in vmax and km in non-competitive inhibition.
+option C: In uncompetitive inhibition, inhibitors bind with the enzyme-substrate intermediate complex, and inhibit it. This leads to decrease in both vmax and km. An example is the inhibition of placental alkaline phosphate (ALP) by phenylalanine.
+option D: suicidal inhibition is a special type of irreversible inhibition. The inhibitor here makes use of the enzyme's own reaction mechanism to inactivate it and is hence known as mechanism-based inactivation. An example is allopurinol, which is oxidised by xanthine oxidase to alloxanthine. Alloxanthine in turn is a more potent inhibitor of xanthine oxidase.",848-672.PNG,A,nan;863-680.PNG
+Question 13,Glycogen phosphorylase is activated by:,"a) Calcium
+b) Glucose-6-phosphate
+c) Insulin
+d) protein phosphatase","Glycogen phosphorylase is activated by calcium in the muscle.
+Glycogen phosphorylase is the rate-limiting enzyme of glycogenolysis and is decreased in the fed state.
+In the muscle, the increased cytosolic calcium ion concentration initiates both contraction and glycogenolysis. Muscle phosphorylase kinase has four different subunits, α , β , γ, and δ . The α and β subunits are phosphorylated by cAMP-dependent protein kinase. The δ subunit is identical to the calcium-binding protein calmodulin and binds four calcium ions. Calcium coordinates the activation of Glycogen Phosphorylase with the contraction of the muscle.
+Glycogen phosphorylase catalyzes the cleavage of α1 → 4 linkages of glycogen to single units of glucose 1-phosphate. It uses pyridoxal phosphate as the coenzyme. Different isoenzymes of glycogen phosphorylase are seen in the liver, muscles, and brain.
+other options:
+option B: During glycogenolysis, glucose 6-phosphate allosterically inhibits glycogen phosphorylase.
+option C: Insulin entirely suppresses glycogenolysis in the skeletal muscle and liver.
+option D: In glycogenolysis protein phosphatase is inactivated by inhibitor proteins in response to cAMP, to maintain the glycogen phosphorylase in an active state.",,A,
+Question 14,Mutation of the gene of cystic fibrosis occurs with:,"a) Tryptophan at 708 position, chloride channel
+b) phenylalanine at 708 position, calcium channel
+c) phenylalanine at 508 position, chloride channel
+d) Tryptophan at 508 position, calcium channel","The mutant gene of cystic fibrosis (CF gene) produces a mutant CFTR protein with the deletion of a phenylalanine residue at 508 (F508del), characterised by impaired chloride secretion.
+Cystic fibrosis is a condition with an autosomal recessive mode of inheritance. It results due to a defective mutation in the gene encoding for cystic fibrosis transmembrane conductance regulator (CF gene). It plays an important role in mucociliary transport along the respiratory mucosa. It also helps to regulate the amount of exocrine gland secretion.
+The defect in the ion channel results in the production of hyper-viscous, adherent secretions which can obstruct the airways. organisms such as Pseudomonas aeruginosa and staphylococcus aureus can grow in the sputum. The exocrine pancreas can undergo fibrotic scarring, cyst formation, and acinar tissue loss. The viscid secretions can lead to pancreatic duct obstruction. The flow of digestive enzymes to the duodenum is hence impaired.
+symptoms include sinusitis, steatorrhea, and abdominal pain. Distal intestinal obstruction is a complication due to difficulty in excreting intestinal contents. In neonates, it can present as meconium ileus.
+Detection of high levels of trypsinogen is used in newborn screening. Chloride level >60mEq/L in the sweat of affected patients is diagnostic. Hyponatremic hypochloremic alkalosis is seen.
+postural drainage, short-term antibiotics, and inhaled bronchodilators can be used for medical management. The definitive treatment is lung transplantation.
+The image below shows the features of the disease.",,C,nan;865-681.PNG
+Question 15,"A baby is brought to the OpD with complaints of lethargy and poor feeding. On examination, it is noted that the urine had a smell of burnt sugar. A defect in which of the following enzymes causes this disease?","a) Branched-chain ketoacid dehydrogenase
+b) Branched-chain amino acid dehydrogenase
+c) Branched-chain ketoacid oxidase
+d) Branched-chain amino acid oxidase","The diagnosis, in this case, is that of maple syrup urine disease (MSUD). This disease occurs due to a defect of the enzyme branched-chain keto acid dehydrogenase.
+MSUD is an autosomal recessive disorder that occurs due to a deficiency of branched-chain ketoacid dehydrogenase complex. This impairs the metabolism of branched-chain amino acids valine, leucine, isoleucine, and alloisoleucine. These amino acids, particularly leucine and its metabolite accumulate in the blood, causing toxic effects on the brain.
+The affected child develops poor feeding and vomiting a few days after birth. There is a period of hypertonicity with a period of flaccidity in between. These appear as repetitive boxing and bicycling movements. The babies may also have hypoglycemia, but this is not corrected by the administration of glucose. The urine, sweat, and cerumen of the baby have a sweetish maple syrup-like odor.
+Laboratory investigations will show increased levels of branched-chain amino acids in the plasma and urine. Leucine levels are usually higher than isoleucine, valine, and alloisoleucine. Since the patient excretes ketone bodies in the urine, the urine will be positive for the dinitrophenylhydrazine test.
+Treatment involves controlled intake of branched-chain amino acids using commercially available formulas and judicious supplementation of isoleucine and valine. very high levels of leucine are removed by hemodialysis.",,A,
+Question 16,"All are true about the hexose monophosphate shunt, except:","a) source of ribose-5-phosphate
+b) source of Acetyl CoA
+c) source of NADpH
+d) utilises ribose","The hexose monophosphate (HMP) shunt produces ribose and does not utilize it.
+The pentose phosphate pathway, also known as the HMP shunt pathway, is an alternative route for the metabolism of glucose. It contributes in two major ways:
+• Formation of NADPH for the synthesis of fatty acids and steroids and maintenance of reduced glutathione for antioxidant activity.
+• Formation of ribose for the synthesis of nucleic acid and nucleotides
+The enzymes for this pathway are found in the cytosol. There are two phases:
+• Irreversible oxidative phase: Glucose-6-phosphate is dehydrogenated and decarboxylated to form ribulose-5-phosphate which in turn gets converted to ribose-5-phosphate.
+• Reversible non-oxidative phase: Ribulose-5-phosphate is converted back to glucose-6-phosphate.",,D,nan;866-682.PNG
+Question 17,which of the following enzymes use selenocysteine?,"a) 1, 3, 4
+b) 1, 2, 3
+c) 2, 3, 4
+d) 1, 2, 4","The enzymes that use selenocysteine are glutathione peroxidase, deiodinase, and thioredoxin reductase.
+Selenocysteine is the 21st amino acid coded by the UGA codon, which is normally a stop codon. It is formed by co-translational modification. The protein synthetic apparatus can identify a selenocysteine-encoding UGA by the presence of the selenocysteine insertion sequence (SECIS) in the untranslated region of mRNA.
+Enzymes such as thioredoxin reductase, glutathione peroxidase, and deiodinase use selenocysteine to catalyze redox reactions. Defects in human selenoproteins are associated with tumorigenesis and atherosclerosis. It can cause cardiomyopathy due to selenium deficiency, which is known as keshan disease.
+Glutathione synthase is the second enzyme in the synthesis of glutathione. Glutathione plays an important role in oxidative stress, redox signalling, and regulates cell proliferation and apoptosis.",,A,
+Question 18,"A patient presented with reduced levels of high-density lipoprotein, and ABCA1 mutation. on examination, tonsils appeared as shown in the image. what is the diagnosis?","a) Tangier's disease
+b) Abetalipoprotenemia
+c) Hyperlipoproteinemia
+d) wolman's disease","The diagnosis in this case with reduced levels of high-density lipoprotein (HDL), ABCA1 mutation, and orange tonsils on examination is Tangier's disease. It is caused by a defect in ABCA1 receptors.
+ABCA1 plays a role in the efflux of cholesterol from peripheral cells of HDL. LCAT (lecithin cholesterol acyltransferase) converts cholesterol to cholesterol esters, which accumulate in the core of HDL. Thus, defective ABCA1 will lead to low levels of HDL in the blood.
+other options:
+option B: Abetalipoproteinemia is a hypolipoproteinemia caused by a defect in the MTP gene. Here, loading apolipoprotein B with lipids is defective. Hence, few very low density-lipoproteins (VLDLs) or chylomicrons are formed, leading to the accumulation of triacylglycerols in the liver and intestine.
+option C: Hyperlipoproteinemia is a disorder that causes the body to metabolize lipids incorrectly. This results in hyperlipidemia and can lead to the development of multiple small xanthomas in the skin.
+option D: Acid lipase deficiency can lead to wolman's disease which is a lysosomal storage disease. The pathognomic feature of this condition is adrenal calcification. So patients generally present with adrenal insufficiency and are neonates.",850-673.PNG,A,
+Question 19,"A baby is being evaluated for delayed developmental milestones. on examination, the child has hepatosplenomegaly. A microscopic image of the bone marrow evaluation is shown below. what is the diagnosis?","a) Gaucher disease
+b) Niemann-pick disease
+c) Hunter disease
+d) Hurler disease","The microscopic image of the bone marrow biopsy shows Gaucher cells and the diagnosis is Gaucher disease.
+Gaucher disease is a lysosomal storage disease with autosomal recessive inheritance. The condition results due to the deficiency of acid β-glucosidase. This results in the accumulation of glucosylceramide (a glycolipid substrate) in the reticuloendothelial cells. There is progressive infiltration of the liver, spleen, and bone marrow.
+There are three clinical types:
+• Type 1: Adult (non-neuronopathic form)
+• Type 2: Infantile (acute neuronopathic form)
+• Type 3: Juvenile (subacute neuronopathic form)
+Type 1 is the most common. It presents with a myriad of symptoms, such as bruising secondary to thrombocytopenia, fatigue due to anemia, hepatosplenomegaly, and bone pain. Lytic lesions and osteosclerosis of the femur, ribs, and pelvis may also be seen. A few patients may have pulmonary involvement. Growth retardation may be observed in cases presenting in the first decade.
+Type 2 is rare, and presents with hypertonia, strabismus, and organomegaly. Neurodegeneration is the characteristic feature. Stridor and failure to thrive can also be the presenting features. ultimately, death can occur due to respiratory arrest.
+Type 3 presents with intermediate symptoms, as seen in the other two types. By the age of 1o-15 years, the child succumbs to death.
+Gaucher cells are reticuloendothelial cells with glucosylceramide, and have a wrinkled-paper appearance due to intracytoplasmic substrate inclusions. These cells stain strongly with periodic acid-schiff (PAs) stain. This is characteristic of Gaucher's disease.
+other options:
+option B - Acid sphingomyelinase deficiency results in Niemann-Pick disease types A and B. Both are autosomal recessive conditions. Type A has a neurodegenerative course, while type B is non-neuronopathic. The former presents with hepatosplenomegaly, lymphadenopathy, and psychomotor retardation. Type B is associated with hepatosplenomegaly and mild pulmonary involvement.
+option-C - Hunter disease is an X-linked inherited disorder due to a deficiency of the enzyme iduronate sulfatase. It leads to the accumulation of dermatan and heparan sulfate. Clinical features involve coarse facies, cardiovascular involvement, and distinctive skin lesions.
+option-D - Hurler/scheie disease is a mucopolysaccharidosis that has childhood and adult onset. It presents with cognitive degeneration.",851-674.PNG,A,
+Question 20,Refsum disease is due to:,"a) Absence of alpha oxidation in peroxisomes
+b) Absence of beta oxidation in peroxisomes
+c) Absence of alpha oxidation in lysosomes
+d) Absence of beta oxidation in lysosomes","Refsum disease is due to the absence of alpha oxidation in peroxisomes.
+Refsum's disease is a rare autosomal recessive disorder. The defective enzyme is phytanoyl CoA hydroxylase, which causes alpha oxidation of fatty acids and leads to elevated levels of phytanic acid in the blood.
+Clinical features are dysmorphic facies and severe neurological symptoms such as polyneuropathy, retinitis pigmentosa, nerve deafness, ichthyosis, and cerebellar ataxia.
+Restricted dietary intake of phytanic acid reduces the symptoms. Management includes avoiding sources of phytanic acid such as dairy products, meat, nuts, and green leafy vegetables.",,A,
+Question 21,choose the right sequence of steps in the conversion of cholesterol to testosterone.,"a) b, d, a, c
+b) a, c, d, b
+c) b, a, c, d
+d) d, a, b. c","The correct sequence of steps in the conversion of cholesterol to testosterone is:
+b. 2o, 22 desmolase
+d. 3 beta-hydroxy steroid dehydrogenase
+a. 17 alpha-hydroxylase
+c. 17, 2o lyase
+The step of synthesis of sex steroids is illustrated in the diagram below.",nan,A,nan;869-683.PNG
+Question 22,which of the following describes the relationship between the melting temperature (Tm) of DNA and the concentration of G-C and A-T?,"a) No relation of GC with Tm
+b) Tm increases with more A-T
+c) Tm decreases with more G-C
+d) Tm increases with more G-C","The correct statement about the melting temperature of DNA (Tm) is that it increases with more G-C concentration.
+on heating the DNA, the temperature at which one-half of the helical structure loses its structure defines the melting temperature Tm. The two strands ofthe double helix structure of the DNA get separated when the hydrogen bonds between the base pairs are disrupted. Thus, the Tm is influenced by the concentrationbase composition of the DNA.
+since G-C pairing has 3 hydrogen bonds and A-T pairing has 2 hydrogen bonds, DNA rich in G-C base pairs requires higher temperatures to denature in comparison to DNA rich in A-T base pairs.",,D,
+Question 23,An elderly patient on a vegetarian diet presenting with easy fatigability and pallor was investigated. peripheral smear showed findings of macrocytic anemia. what is the probable cause of anemia in this patient? Other lab findings are as follows:,"a) Folate deficiency
+b) Alcohol-induced macrocytosis
+c) vitamin B12 deficiency
+d) Thiamine deficiency","The probable cause of anemia in this patient of folate deficiency.
+The given clinical scenario of macrocytic anemia in a vegetarian with elevated homocysteine levels is due to megaloblastic anemia, which can be caused by the deficiency of vitamin B12 or folic acid. Vitamin B12 deficiency is associated with raised serum methylmalonic acid (MMA) levels, which are normal in this patient; hence, folic acid deficiency is the cause of megaloblastic anemia in this patient.
+Folic acid deficiency is associated with the following clinical and laboratory findings:
+• Raised MCV (normal range: 8o–1oo fL) - macrocytosis
+• Normal MCHC (normal range: 33–36 g/dL)
+• Increased MCH
+• Elevated RDW
+• Decreased reticulocyte count - due to destruction of abnormal erythroid precursors
+• Elevated homocysteine level
+• Normal MMA level
+where MCV, mean corpuscular volume; MCHC, mean corpuscular hemoglobin concentration; mean corpuscular hemoglobin, MCH; RDW, red cell distribution width
+In vitamin B12 deficiency, neurological abnormalities, elevated homocysteine, and elevated MMA levels are seen.",,A,
+Question 24,zellweger syndrome is due to a defect in the biogenesis of:,"a) peroxisomes
+b) Lysosomes
+c) Mitochondria
+d) Nucleus","zellweger syndrome is due to a defect in the biogenesis of peroxisomes.
+zellweger syndrome is also known as cerebrohepatorenal syndrome. It is caused by mutations in the PEX family of genes. This results in defective beta-oxidation of very long-chain fatty acids.
+The child presents with
+• Dysmorphic facial features.
+• Weakness, hypotonia.
+• Neonatal seizures
+• Eye abnormalities.
+Biochemical findings will show :
+• Accumulation of very-long-chain fatty acids, phytanic acid
+• Abnormalities in the synthesis of bile acids
+• Marked reduction of plasmalogens
+There is no appropriate treatment for zellweger syndrome. It is very severe and infants rarely survive beyond a few months.",,A,
+Question 25,True statement about the action of enhancers of gene expression?,"a) work only when in close conjugation with promoter region
+b) work only when in upstream of promoter region
+c) They are very specific to the gene
+d) Recruit chromatin and modify regulatory mechanisms","The correct statement about the action of enhancers is that they recruit chromatin and modify regulatory mechanisms.
+A promoter is a sequence on DNA where RNA polymerase binds and acts as the start signal for transcription. They are present upstream or downstream but close to the gene that is undergoing transcription.
+Enhancers or repressors are proteins that regulate the expression of a gene by recruiting chromatin(DNA bound with histones) and modifying regulatory mechanisms and making it more or less accessible to transcription by RNA polymerase. They may be located upstream or downstream and can be present at any distance from the promoter region. These are not specific to any single gene and interact with many other proteins.",,D,
+Question 26,Increased H+ ions in the intermembrane space of mitochondria are due to?,"a) Decreased oxidative phosphorylation
+b) Increased ATP production
+c) Reduced chemiosmosis
+d) water retention in inner mitochondrial space","Increased H+ ions in the intermembrane space of mitochondria are due to decreased oxidative phosphorylation.
+ATP is synthesized in mitochondria by a process called oxidative phosphorylation. The oxidation of substrates like carbohydrates, amino acids, or fats produces reducing equivalents (NADH, FADH2). These equivalents enter the electron transport chain and transfer a proton (H+) to the inter-membrane space. The inner mitochondrial membrane is not permeable to protons leading to the accumulation of H+ in the intermembrane space. The flow of these protons through the Fo releases the energy that phosphorylates ADP to form ATP.
+Drugs that inhibit oxidative phosphorylation like oligomycin inhibit the flow of protons through Fo causing an increase in H+ ions in the intermembrane space.",,A,
+Question 27,Fructosamine is obtained by glycation of:,"a) Frustose
+b) Albumin
+c) urea
+d) Glycosaminoglycans","Fructosamine is obtained by the glycation of albumin.
+Fructosamine is a measure of non-enzymatic glycation of circulating proteins including albumin, globulins, and lipoproteins. It is now used as a reasonable alternative to HbA1c measurement when it is not reliable. since albumin is the most abundant of the serum proteins, fructosamine is predominantly a measure of glycated albumin.
+Fructosamine is used as a short-term marker of glucose control. It reflects the average glycemia over the preceding 2 to 3 weeks. HbA1c reflects glucose control over a period of the preceding 8 to 12 weeks.",,B,

@@ -1,0 +1,160 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,Identify the anaplerotic reaction among the following?,"a) conversion of pyruvate to Acetyl coA
+b) conversion of pyruvate to oxaloacetate
+c) conversion of pyruvate to Acetaldehyde
+d) conversion of pyruvate to Lactic acid","The conversion of pyruvate to oxaloacetate is an anaplerotic reaction. It is catalyzed by pyruvate carboxylase.
+Anaplerotic reactions are chemical reactions that form intermediates of a metabolic pathway. The above reaction is important in maintaining an adequate concentration of oxaloacetate for the condensation reaction with acetyl-CoA. If acetyl-CoA accumulates, it acts as an activator of pyruvate carboxylase and an inhibitor of pyruvate dehydrogenase, thereby ensuring an adequate supply of oxaloacetate.
+other anaplerotic reactions are:
+• Compounds that are metabolized to yield propionyl CoA, which can be then carboxylated and isomerized to succinyl CoA.
+• Glutamate and glutamine are important anaplerotic substrates because they yield α-ketoglutarate as a result of the reactions catalyzed by glutaminase and glutamate dehydrogenase.
+• Transamination of aspartate leads directly to the formation of oxaloacetate.",,B,
+Question 2,True regarding mitochondrial DNA is:,"a) one set from each parents
+b) It has a higher mutation rate than nuclear DNA
+c) It codes for more than 25% of oxidative phosphorylation proteins
+d) It has 3 X 1o^9 base pairs","The true statement is that mitochondrial DNA has a high mutation rate.
+Mitochondrial DNA is circular and double-stranded. It has 16,569 bp (that makes up approximately 1% of total cellular DNA) while nuclear DNA has 3.3 billion bp. It has 37 genes that encode 13 protein subunits of the respiratory chain (out of a total of 67 proteins) i.e. about 2o%. It mutates at a rate 5-1o times that of nuclear DNA. Mitochondrial DNA is transmitted by maternal non-mendelian inheritance.",,B,nan;698-585.PNG
+Question 3,which of the following is Thermogenic food,"a) High fat diet
+b) It does not depend on the macronutrients
+c) High protein diet
+d) High carbohydrate diet","A high intake of protein results in a higher rate of protein turnover, which explains the increased diet-induced thermogenesis seen in people consuming a high protein diet.
+The state of protein nutrition can be determined by measuring the difference between intake and output of nitrogenous compounds which are known as nitrogen balance.
+• In a healthy adult, nitrogen balance is in equilibrium, when intake equals output, and there is no change in the total body content of protein.
+• In a growing child, a pregnant woman, the excretion of nitrogenous compounds is less than the dietary intake of nitrogen in the body as protein— positive nitrogen balance.
+• In response to trauma or infection, or if the intake of protein is inadequate to meet requirements, there is the net loss of protein nitrogen from the body—negative nitrogen balance.
+A high intake of protein does not lead to positive nitrogen balance; although it increases the rate of protein synthesis, it also increases the rate of protein catabolism, so that nitrogen equilibrium is maintained with a higher rate of protein turnover.
+Both protein synthesis and catabolism are ATP expensive, hence the increased diet-induced thermogenesis seen in people consuming a high protein diet.",,C,
+Question 4,klenow fragment lacks the activity of,"a) 3'→5' Exonuclease
+b) 5'→3' Exonuclease
+c) 5'→3' DNA polymerase
+d) 3'→5' DNA polymerase","klenow fragment lacks 5’ → 3’ exonuclease activity.
+DNA polymerase I is an enzyme involved in DNA replication. It has polymerase activity along with both 3' → 5' and 5' → 3' exonuclease activity. when the 5' → 3' exonuclease domain is
+removed, the remaining fragment is called klenow fragment. It retains the polymerization and proofreading activities of DNA polymerase I.",,B,
+Question 5,"In ScID, what type of DNA repair is defective:","a) Base excision repair
+b) Nucleotide excision repair
+c) Mismatch Repair
+d) Non-homologous end joining repair","SCID is due to defective non-homologous end joining repair.
+Defects in DNA Repair:
+[TABLE]
+Non-Homologous End Joinin g Repair: Severe combined immunodef iciency disease (SCID)
+Homologous Repair: Bloom syndrome werner syn drome Breast cancer suscepti bility
+Nucleotide Excision Repair: xeroderma pigmentosum
+Mismatch Repair: Hereditary nonpolyposis colo rectal cancer (HNPCC)
+Base Excision Repair: MUTYH-associated polyposis (MAP)  [/TABLE])",,D,
+Question 6,"A 1o-year-old boy rapidly develops hypoglycemia after moderate activity. Blood examination reveals raised levels of ketone bodies, lactic acid, and triglycerides. on examination, the liver and kidneys are found to be enlarged. Histopathology of the liver shows deposits of glycogen in an excess amount. what is the diagnosis?","a) von Gierke’s disease
+b) pompe’s disease
+c) McArdle’s disease
+d) cori’s disease","The given features are consistent with von Gierke's disease. It is the most common glycogen storage disease.
+Enzyme deficient in this condition is glucose-6-phosphatase (common to both glycogenolysis and gluconeogenesis). Inheritance is autosomal recessive.
+von Gierke disease (type I glycogen storage disorder) occurs due to the deficiency of glucose-6-phosphatase enzyme in the liver, kidney, and intestinal mucosa. patients present
+commonly by 3-4 months of age with hypoglycemia (leading to seizures), lactic acidosis, and hepatomegaly. Affected children often have a doll-like face with fat cheeks, relatively thin
+extremities, short stature, and a protuberant abdomen due to massive hepatomegaly. The kidneys are also enlarged, whereas the spleen and heart are not involved. Laboratory findings include
+hypoglycemia, lactic acidosis, hyperuricemia, and hyperlipidemia.
+A definitive diagnosis is made using a liver biopsy. Fructose and galactose restriction in the diet is advised.",,A,
+Question 7,which one of the following is not involved in iron metabolism:,"a) ceruloplasmin
+b) Hepcidin
+c) Transthyretin
+d) Transferrin","• Hepcidin, ceruloplasmin, and transferrin are involved in iron metabolism.
+• Transthyretin transports thyroxine and retinol-binding protein and has no role in iron metabolism
+proteins involved in iron metabolism:
+• Ferritin and hemosiderin: Iron storage
+• Transferrin: Iron transport
+• ceruloplasmin: a copper-containing enzyme with ferroxidase activity
+• Hepcidin: chief regulator of systemic iron homeostasis",,C,
+Question 8,which of the following amino acids is not formed after post-translational modification?,"a) Selenocysteine
+b) Triiodothyronine
+c) Hydroxy proline
+d) Hydroxylysine","selenocysteine, the 21st amino acid, is formed by co-translational modification. It is coded by the UGA codon, which is normally a stop codon. The protein synthetic apparatus can identify a selenocysteine-encoding UGA by the presence of the selenocysteine insertion sequence (sEcIs) in the untranslated region of mRNA.
+selenocysteine is an analog of cysteine and is synthesized from serine.
+selenocysteine is present at the active site of several human enzymes that catalyze redox reactions such as thioredoxin reductase, glutathione peroxidase, and deiodinase. since Glutathione
+peroxidase contains selenocysteine and hence it is an antioxidant.
+Impairments in human selenoproteins have been implicated in tumorigenesis and atherosclerosis and are associated with selenium deficiency cardiomyopathy (keshan disease).",,A,
+Question 9,which test will be positive in starvation state in urine?,"a) Benedict test and heat coagulation test
+b) Heat coagulation test
+c) Rothera's test
+d) Heat coagulation test and Rothera's test","Detectable levels of ketone bodies in urine (ketonuria) are seen in conditions characterized by increased ketogenesis such as starvation. The urine test done for ketone bodies is the Rothera’s test in which formation of a purple ring indicates presence of ketone bodies. Gerhardt’s test is also done to detect ketone bodies in urine.
+Benedict’ test done for reducing sugars.
+Heat coagulation test done for proteins.",,C,
+Question 10,Identify the marked bond:,"a) Ionic bond
+b) covalent bond
+c) Hydrogen bond
+d) phosphodiester Bond","The marked bond represents a hydrogen bond between thymine and adenine.
+The complementary nitrogenous bases ofthe 2 strands ofthe DNA double helix are linked by hydrogen bonds. Adenine and thymine are linked by two hydrogen bonds (A〓T) whereas three hydrogen bonds are present between cytidine and guanine (C=G). van der waals and hydrophobic interactions are present between the stacked adjacent base pairs.
+A β-N-glycosidic bond is present between the nitrogenous base and deoxyribose sugar. C1 of deoxyribose/ribose sugar is joined covalently to N1 of pyrimidines and N9 of purines by β-N-glycosidic bond. An ester bond is present between the sugar and phosphate group of the same nucleotide. An acid anhydride bond is present between two phosphate groups.
+A polymer of nucleotides is joined by 3’-5’ phosphodiester bond. The bond is present between the sugar of one nucleotide and the phosphate group of another.",694-584.PNG,C,nan;701-586.PNG
+Question 11,which among the following serves as cofactor for Glycogen phosphorylase:,"a) Thiamine
+b) Niacin
+c) Pyridoxal Phosphate
+d) Biotin","• Pyridoxal phosphate is a cofactor of glycogen phosphorylase, where the phosphate group is catalytically important.
+• PLP also acts as the coenzyme for many enzymes involved in amino acid metabolism, especially transamination and decarboxylation.
+• Glycogen phosphorylase is a debranching enzyme which cleaves alpha-1,4 bonds of the glycogen chain to produce glucose-1-phosphate in glycogenolysis.",,C,nan;702-587.PNG
+Question 12,Glucosamines are used in which of the following conditions:,"a) Arthritis
+b) Niemann Pick disease
+c) Alzheimer’s disease
+d) Cancer","The combined use of glucosamine sulfate and chondroitin sulfates in the treatment of degenerative joint disease has become an extremely popular supplementation protocol in arthritic conditions of the joints.
+• Glucosamines are amino sugars which form the major component of glycosaminoglycans. (GAG’s are tandem repeats of amino sugar and uronic acid)
+• GAG’s combine with proteins to form proteoglycans
+• one such proteoglycan is aggrecan containing several GAGs (hyaluronic acid, chondroitin sulphate, and keratan sulphate) and both link and core proteins
+• Aggrecan is the major proteoglycan in cartilage
+• Hence, from this we can deduce that glucosamines being a major part of GAG’s and proteoglycans such as aggrecan are protective against arthritis.",,A,
+Question 13,which of the following site does the restriction enzyme act when RFLP is used in-order to identify the five different species of staphylococci in a surgical ICU?,"a) ATGGAC-TACGTG
+b) GATATC- CTATAG
+c) TAGATA-ATCTCT
+d) AATATA-TATAAT","Restriction endonuclease enzymes act at specific palindromic sequences that create DNA fragments of different lengths. By analyzing the fragments, specific species of bacteria can be identified. option B is the only palindromic sequence here, hence it is the answer.
+RFLP is a restriction fragment length polymorphism (RFLP) analysis technique that involves cutting a particular region of DNA with known variability, with restriction enzymes, then separating the DNA fragments by agarose gel electrophoresis and determining the number of fragments and relative sizes.
+Cleavage of a sample of DNA with a restriction enzyme produces a characteristic set of smaller DNA fragments. Deviations in the normal product pattern, produce RFLPs that occur if a mutation renders a restriction site unrecognizable and alternatively, generates a new recognition site.",,B,
+Question 14,"Thiamine deficiency results in decreased■ energy production, because TPP _______","a) Interferes with alcohol metabolism
+b) Interferes with transketolase activity
+c) Is coenzyme for pyruvate and alpha ketoglutarate dehydrogenase
+d) Interferes with energy production from amino acids","Thiamine deficiency results in decreased energy production because thiamine pyrophosphate (TPP) is a coenzyme of pyruvate and α-ketoglutarate dehydrogenase, which are required for the production of ATP using NADH.
+Thiamine pyrophosphate is an important coenzyme in three multienzyme complexes that catalyze oxidative decarboxylation reactions:
+• Pyruvate dehydrogenase in carbohydrate metabolism.
+• α-ketoglutarate dehydrogenase in the citric acid cycle.
+• Branched-chain ketoacid dehydrogenase involved in the metabolism of leucine, isoleucine and valine.
+NAD is a co-factor in pyruvate and α-ketoglutarate dehydrogenase. Hence in thiamine deficiency, there is decreased ATP production owing to reduced NADH entering into the electron transport chain.
+option A: Thiamine does not interfere in alcohol metabolism but alcohol interferes directly with the absorption of thiamine and with the synthesis of thiamine pyrophosphate.
+option B: Thiamine is also the coenzyme for transketolase in the pentose phosphate pathway (HMP shunt) but there is no ATP synthesized in this pathway.",,C,
+Question 15,A young patient came with complaints of acute abdominal pain on and off and tingling sensation of limbs and at times weakness of limbs. she had a history of eating paint from the wall of a newly built house. which of the following enzyme defect will be the cause of her condition?,"a) ALA synthase
+b) ALA dehydratase
+c) Heme synthase
+d) coproporphyrinogen oxidase","A child with acute abdominal pain, tingling sensation and weakness of limbs with history of eating paint likely has lead poisoning. It is characterized by impaired ALA dehydratase enzyme activity.
+Lead is a potent inhibitor of both ALA dehydratase and ferrochelatase/ heme synthase (option C). However, it has the greatest inhibitory action on ALA dehydratase. Lead poisonining thus leads to the buildup of protoporphyrin and ALA. Lead also substitutes for calcium in many fundamental cellular processes. It can cross red blood cell membranes as well as the blood-brain barrier and enter the neuroglial cells which support brain function. The fatal dose of lead is 2og of lead acetate and the fatal period is 1 to 2 days.
+Other options:
+Option A: ALA synthase 2 defect causes X-linked protoporphyria.
+Option C: Heme synthase, or ferrochelatase, defect causes erythropoeitic protoporphyria.
+Option D: Coproporphyrinogen oxidase defect causes hereditary corproporphyria.",,B,nan;704-588.PNG
+Question 16,under anaerobic metabolism which of the following substrates yields 3 molecules of ATP?,"a) Glycogen
+b) Amino acid
+c) Glucose
+d) Galactose","Breakdown of glycogen under anaerobic conditions yields 3 ATPs.
+Breakdown of glycogen yields glucose-6-phosphate which can enter the glycolysis pathway. since it bypasses the first step, one ATP is saved and anaerobic glycolysis yields 3 ATPs.
+The first step in glycolysis involves the conversion of glucose to glucose-6-phosphate which requires one ATP. Glycogen breakdown leads to formation of glucose-6-phosphate which can enter glycolysis hence bypassing the first step and saving one ATP.
+One ATP is used for conversion of fructose-6-phosphate to fructose 1,6 biphosphate hence net ATP formed from anaerobic glycolysis of glycogen is 3ATP
+REACTION: 1,3-bisphosphoglycerate to 3 phosphoglycerate, Phosphoenol pyruvate to Pyr uvate
+ENZYME: Phosphoglycerate kina se, Pyruvate kinase
+METHOD OF ATP FORMAT ION: substrate level phosphorylati on, substrate level phosphorylati on
+NET ATP PRO DUCED: 2 ATP, 2 ATP
+TOTAL PRODUCED: 4 ATP",nan,A,nan;705-589.PNG
+Question 17,which of the following is the reason for using phenylbutyrate in urea cycle disorders?,"a) It maintains renal output
+b) It scavenges nitrogen
+c) It maintains energy production
+d) It activates enzymes","phenylbutyrate scavenges nitrogen by combining with amino acids to form a more water-soluble product, which can be easily excreted by the kidneys.
+phenylbutyrate combines with glutamate to form pheynylbutylglutamine.
+other substances that can be used as nitrogen scavengers are:
+• combination of benzoate (forms hippurate on combining with endogenous glycine)
+• phenylacetate (forms phenylacetylglutamine on combining with glutamate) available as ammonia.
+• Arginine is also useful.",,B,
+Question 18,which of the following can alter the gene expression by methylation and acetylation but not change the gene sequence?,"a) Mutation
+b) Epigenetics
+c) Translocation
+d) Inversion","Epigenetics is defined as heritable changes in gene expression that are not caused by alteration in gene sequence.
+It means “above genetics” and refers to the fact that gene regulatory mechanisms do not change the underlying regulated DNA sequence, but rather simply the expression patterns of the DNA.
+Epigenetic mechanisms play a key role in establishment, maintenance, and reversibility of transcriptional states. A key feature is that the controlled transcriptional on/off states can be maintained through multiple rounds of cell division. This observation indicates there must be robust mechanisms to maintain and stably propagate these epigenetic states.
+Histone Methylation Mostly Makes DNA Mute.
+Histone Acetylation: Relaxes DNA coiling, allowing for transcription. Histone Acetylation makes DNA Active.",,B,
+Question 19,which of the following is not seen in low insulin-glucagon ratio?,"a) Glycogen breakdown
+b) ketogenesis
+c) Glycogen storage
+d) Gluconeogenesis","A low insulin/glucagon ratio indicates low insulin and high glucagon levels, which are observed in the fasting state. In the fasting state, all of the above processes (i.e., glycogen breakdown, ketogenesis, and gluconeogenesis) occur, but not glycogen storage.
+Metabolic process: Gluconeogenesis, Glycogenolysis, Ketogenesis, Glycogen storage
+Fasting state/ low insulin-glucagon ratio: Increased, Increased, Increased, Decreased
+Fed state/ high insulin-glucagon ratio: Decreased, Decreased, Decreased, Increased",,C,
