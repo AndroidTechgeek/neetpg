@@ -35,12 +35,19 @@
                     </div>
                     <div class="form-group">
                         <label for="image_q_input">Question Image <span class="thumb-preview" id="image_q_thumb"></span></label>
-                        <input type="text" id="image_q_input" name="image_q" value="{{ question.get('image_q', '') }}" placeholder="Type or click image..." oninput="updateThumb('q'); filterGallery();">
+                        <input type="text" id="image_q_input" name="image_q" value="{{ question.get('image_q', '') }}" placeholder="Type or click image..." oninput="updateThumb('q'); filterGallery(); validateImageInput('q');" list="gallery-images">
+                        <div id="image_q_error" style="color: red; display: none;">Invalid image detected!</div>
                     </div>
                     <div class="form-group">
                         <label for="image_a_input">Answer Images (semicolon-separated) <span class="thumb-preview" id="image_a_thumb"></span></label>
-                        <input type="text" id="image_a_input" name="image_a" value="{{ question.get('image_a', '') }}" placeholder="e.g., img1.png;img2.png" oninput="updateThumb('a')">
+                        <input type="text" id="image_a_input" name="image_a" value="{{ question.get('image_a', '') }}" placeholder="e.g., img1.png;img2.png" oninput="updateThumb('a'); validateImageInput('a');" list="gallery-images">
+                        <div id="image_a_error" style="color: red; display: none;">Invalid image(s) detected!</div>
                     </div>
+                    <datalist id="gallery-images">
+                        {% for image_file in all_images %}
+                            <option value="{{ image_file }}">
+                        {% endfor %}
+                    </datalist>
                     <div class="form-group">
                         <label for="solution_text">Solution (Wrap tables with [TABLE]...[/TABLE])</label>
                         <textarea id="solution_text" name="solution" rows="15">{{ question.solution }}</textarea>
@@ -73,9 +80,17 @@
             updateGalleryCount();
             updateThumb('q');
             updateThumb('a');
+            validateImageInput('q');
+            validateImageInput('a');
         });
         if (editForm) {
-            editForm.addEventListener('submit', () => { sessionStorage.setItem('galleryScrollPos', gallery.scrollTop); });
+            editForm.addEventListener('submit', e => {
+                if (!validateImageInput('q') || !validateImageInput('a')) {
+                    e.preventDefault();
+                    alert('Please fix invalid images before saving!');
+                }
+                sessionStorage.setItem('galleryScrollPos', gallery.scrollTop);
+            });
         }
         document.querySelectorAll('.btn-nav, .nav-item').forEach(button => {
             button.addEventListener('click', () => { sessionStorage.setItem('galleryScrollPos', gallery.scrollTop); });
@@ -88,6 +103,7 @@
                 inputElement.value = filename;
             }
             updateThumb(type);
+            validateImageInput(type);
         }
         function updateThumb(type) {
             const inputElement = document.getElementById(`image_${type}_input`);
@@ -125,6 +141,30 @@
                 visible = Array.from(items).filter(item => item.style.display !== 'none').length;
             }
             galleryCountSpan.textContent = `(${visible} / ${total} shown)`;
+        }
+
+        // --- IMAGE VALIDATION FIX ---
+        const allImages = [{% for image_file in all_images %}'{{ image_file }}',{% endfor %}];
+        function validateImageInput(type) {
+            const inputElement = document.getElementById(`image_${type}_input`);
+            const errorElement = document.getElementById(`image_${type}_error`);
+            if (!inputElement) return true;
+            const filenames = inputElement.value.split(';').map(f => f.trim()).filter(f => f);
+            let allValid = true;
+            for (let filename of filenames) {
+                if (filename && !allImages.includes(filename)) {
+                    allValid = false;
+                    break;
+                }
+            }
+            if (!allValid) {
+                errorElement.style.display = '';
+                inputElement.style.borderColor = 'red';
+            } else {
+                errorElement.style.display = 'none';
+                inputElement.style.borderColor = '';
+            }
+            return allValid;
         }
     </script>
 </body>
