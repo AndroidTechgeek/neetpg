@@ -1,203 +1,307 @@
+import pandas as pd
+from flask import Flask, render_template, request, redirect, url_for, session, jsonify
+from datetime import datetime, timedelta
 import os
-import json
-from datetime import datetime
-from flask import Flask, render_template, request, redirect, url_for, flash, send_from_directory
-import markdown
-
-# --- Config ---
-QUESTIONS_FILE = "questions.json"
-IMAGES_FOLDER = "static/images"
+import glob
+import json 
+import re   
 
 app = Flask(__name__)
-app.secret_key = "your_secret_key_here"
+app.secret_key = 'v13_organization_and_editing'
 
-# --- Helpers ---
-def load_questions():
-    if not os.path.exists(QUESTIONS_FILE):
-        return []
-    with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+# --- NEW: Custom Filter for a Robust Table and Text Formatter ---
+@app.template_filter('format_solution')
+def format_solution_filter(text):
+    text = str(text)
+    # This function is called for each [TABLE]...[/TABLE] block
+    def create_html_table(match):
+        table_content = match.group(1).strip()
+        rows = table_content.split('\n')
+        html = '<table class="solution-table">\n'
+        # Header row
+        try:
+            headers = rows[0].split('|')
+            html += '  <thead>\n    <tr>\n'
+            for header in headers:
+                html += f'      <th>{header.strip()}</th>\n'
+            html += '    </tr>\n  </thead>\n'
+            # Body rows
+            html += '  <tbody>\n'
+            for row_text in rows[1:]:
+                html += '    <tr>\n'
+                cells = row_text.split('|')
+                for i, cell in enumerate(cells):
+                    # Only add cell if it's within the header count
+                    if i < len(headers):
+                        html += f'      <td>{cell.strip()}</td>\n'
+                # If a row has fewer cells than the header, pad it
+                if len(cells) < len(headers):
+                    html += f'      <td colspan="{len(headers) - len(cells)}"></td>\n'
 
-def save_questions(questions):
-    with open(QUESTIONS_FILE, "w", encoding="utf-8") as f:
-        json.dump(questions, f, indent=2, ensure_ascii=False)
+                html += '    </tr>\n'
+            html += '  </tbody>\n</table>'
+            return html
+        except IndexError:
+            return "Error: Invalid table format"
 
-def get_all_images():
-    if not os.path.exists(IMAGES_FOLDER):
-        return []
-    return [f for f in os.listdir(IMAGES_FOLDER) if os.path.isfile(os.path.join(IMAGES_FOLDER, f)) and not f.startswith('.')]
+    # Use a placeholder to protect tables from having their newlines converted to <br>
+    table_placeholders = {}
+    placeholder_id = 0
 
-def format_solution(solution):
-    # Render markdown with tables extension, fallback to HTML
-    return markdown.markdown(solution or "", extensions=['tables'])
+    def replace_table_with_placeholder(match):
+        nonlocal placeholder_id
+        placeholder = f"__TABLE_PLACEHOLDER_{placeholder_id}__"
+        table_html = create_html_table(match)
+        table_placeholders[placeholder] = table_html
+        placeholder_id += 1
+        return placeholder
 
-app.jinja_env.filters['format_solution'] = format_solution
+    processed_text = re.sub(r'\[TABLE\](.*?)\[/TABLE\]', replace_table_with_placeholder, text, flags=re.DOTALL | re.IGNORECASE)
 
-# --- Routes ---
-@app.route("/")
+    # Convert newlines to <br> in the non-table parts
+    processed_text = processed_text.replace('\n', '<br>')
+
+    # Restore the HTML tables
+    for placeholder, table_html in table_placeholders.items():
+        processed_text = processed_text.replace(placeholder, table_html)
+            
+    return processed_text
+
+# --- The rest of the app... ---
+
+QUESTION_CACHE = {}
+
+def robust_read_csv(filename):
+    try: return pd.read_csv(filename, encoding='utf-8-sig')
+    except UnicodeDecodeError: return pd.read_csv(filename, encoding='cp1252')
+
+def load_questions(filename, force_reload=False):
+    if filename in QUESTION_CACHE and not force_reload: return QUESTION_CACHE[filename]
+    try:
+        if not os.path.exists(filename): return f"ERROR_FILE_NOT_FOUND: '{filename}'"
+        df = robust_read_csv(filename)
+        if df.empty: return f"ERROR_FILE_IS_EMPTY: '{filename}'"
+        df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
+        required_columns = ['question', 'options', 'answer_key', 'solution']
+        for col in required_columns:
+            if col not in df.columns: return f"ERROR_MISSING_COLUMN: '{col}' in '{filename}'."
+        df.dropna(subset=['question'], inplace=True)
+        df = df[df['question'].str.strip() != '']
+        if df.empty: return f"ERROR_NO_VALID_QUESTIONS: No valid rows in '{filename}'."
+        for col in required_columns:
+             if col in df.columns: df[col] = df[col].astype(str)
+        for col in ['image_q', 'image_a']:
+             if col not in df.columns: df[col] = ''
+             df[col] = df[col].astype(str).str.strip().fillna('')
+        QUESTION_CACHE[filename] = df.to_dict('records')
+        return QUESTION_CACHE[filename]
+    except Exception as e:
+        return f"ERROR_UNEXPECTED: Loading '{filename}'. Details: {e}"
+
+def get_questions(filename):
+    if filename not in QUESTION_CACHE:
+        QUESTION_CACHE[filename] = load_questions(filename)
+    return QUESTION_CACHE.get(filename)
+
+def natural_sort_key(filename):
+    try:
+        parts = ''.join(c if c.isdigit() else ' ' for c in filename).split()
+        return tuple(map(int, parts))
+    except (ValueError, IndexError):
+        return (float('inf'), filename)
+
+@app.route('/')
 def home():
-    questions = load_questions()
-    all_images = get_all_images()
-    stats = {
-        "total_questions": len(questions),
-        "total_images": len(all_images),
-        "last_edited": "",
-        "recent_activity": ""
-    }
-    # Example: last_edited from file mod time
-    if os.path.exists(QUESTIONS_FILE):
-        last_edit_dt = datetime.fromtimestamp(os.path.getmtime(QUESTIONS_FILE))
-        stats["last_edited"] = last_edit_dt.strftime("%Y-%m-%d %H:%M")
-    # Example: recent_activity from questions list (customize as you wish)
-    if questions:
-        q = questions[-1]
-        stats["recent_activity"] = f'Edited Q{len(questions)}: "{q.get("question", "")[:40]}..."'
-    return render_template("home.html", stats=stats)
-
-@app.route("/edit", methods=["GET"])
-def edit_questions():
-    questions = load_questions()
-    all_images = get_all_images()
-    return render_template("edit_question.html",
-                           filename=QUESTIONS_FILE,
-                           total_questions=len(questions),
-                           question=questions[0] if questions else {},
-                           q_id=0,
-                           all_images=all_images)
-
-@app.route("/edit/<int:q_id>", methods=["GET"])
-def edit_question_page(q_id):
-    questions = load_questions()
-    all_images = get_all_images()
-    if q_id < 0 or q_id >= len(questions):
-        flash("Question not found.")
-        return redirect(url_for("edit_questions"))
-    return render_template("edit_question.html",
-                           filename=QUESTIONS_FILE,
-                           total_questions=len(questions),
-                           question=questions[q_id],
-                           q_id=q_id,
-                           all_images=all_images)
-
-@app.route("/edit/<int:q_id>", methods=["POST"])
-def save_edit(q_id):
-    questions = load_questions()
-    all_images = get_all_images()
-    if q_id < 0 or q_id >= len(questions):
-        flash("Question not found.")
-        return redirect(url_for("edit_questions"))
-
-    question = questions[q_id]
-    question["question"] = request.form.get("question") or ""
-    question["image_q"] = request.form.get("image_q") or ""
-    # Validate image_q
-    if question["image_q"] and question["image_q"] not in all_images:
-        question["image_q"] = ""
-
-    # Validate image_a (semicolon separated)
-    image_a = request.form.get("image_a") or ""
-    image_a_valid = []
-    for img in [s.strip() for s in image_a.split(";") if s.strip()]:
-        if img in all_images:
-            image_a_valid.append(img)
-    question["image_a"] = ";".join(image_a_valid)
-
-    question["solution"] = request.form.get("solution") or ""
-    questions[q_id] = question
-    save_questions(questions)
-    flash("Question saved.")
-    if q_id + 1 < len(questions):
-        return redirect(url_for("edit_question_page", q_id=q_id + 1))
-    return redirect(url_for("edit_question_page", q_id=q_id))
-
-@app.route("/add_question", methods=["GET", "POST"])
-def add_question():
-    all_images = get_all_images()
-    questions = load_questions()
-    if request.method == "POST":
-        new_q = {
-            "question": request.form.get("question") or "",
-            "image_q": request.form.get("image_q") or "",
-            "image_a": request.form.get("image_a") or "",
-            "solution": request.form.get("solution") or "",
-            "options": request.form.get("options") or "A. \nB. \nC. \nD. ",
-            "answer_key": request.form.get("answer_key") or "A"
+    csv_files = sorted([os.path.basename(file) for file in glob.glob('*.csv')], key=natural_sort_key)
+    
+    test_names = {}
+    if os.path.exists('index.json'):
+        try:
+            with open('index.json', 'r', encoding='utf-8') as f:
+                test_names = json.load(f)
+        except json.JSONDecodeError:
+            print("WARNING: index.json is malformed.")
+            
+    grouped_tests = {}
+    for f in csv_files:
+        match = re.match(r'^[A-Za-z]+', f)
+        subject = match.group(0).title() if match else "Other"
+        
+        test_info = {
+            "filename": f,
+            "display_name": test_names.get(f, f.replace('.csv','').replace('_',' ').title())
         }
-        # Validate images as above
-        if new_q["image_q"] and new_q["image_q"] not in all_images:
-            new_q["image_q"] = ""
-        image_a_valid = []
-        for img in [s.strip() for s in new_q["image_a"].split(";") if s.strip()]:
-            if img in all_images:
-                image_a_valid.append(img)
-        new_q["image_a"] = ";".join(image_a_valid)
-        questions.append(new_q)
-        save_questions(questions)
-        flash("Question added!")
-        return redirect(url_for("edit_question_page", q_id=len(questions)-1))
-    return render_template("edit_question.html",
-                           filename=QUESTIONS_FILE,
-                           total_questions=len(questions)+1,
-                           question={},
-                           q_id=len(questions),
+        
+        grouped_tests.setdefault(subject, []).append(test_info)
+
+    history = session.get('history', [])
+    return render_template('index.html', history=history, grouped_tests=grouped_tests)
+
+@app.route('/update_test_name', methods=['POST'])
+def update_test_name():
+    data = request.get_json()
+    filename = data.get('filename')
+    new_name = data.get('new_name')
+    if not filename or not new_name: return jsonify({"status": "error", "message": "Missing data"}), 400
+    try:
+        test_names = {}
+        if os.path.exists('index.json'):
+            with open('index.json', 'r', encoding='utf-8') as f:
+                test_names = json.load(f)
+        test_names[filename] = new_name
+        with open('index.json', 'w', encoding='utf-8') as f:
+            json.dump(test_names, f, indent=4)
+        return jsonify({"status": "success", "message": "Name updated."})
+    except Exception as e:
+        return jsonify({"status": "error", "message": str(e)}), 500
+
+@app.route('/start', methods=['POST'])
+def start_test():
+    session.clear()
+    filename = request.form.get('filename')
+    questions_or_error = get_questions(filename)
+    if isinstance(questions_or_error, str): return render_template('error.html', error_message=questions_or_error)
+    session['active_test_name'] = filename
+    session['mode'] = request.form.get('mode')
+    session['answers'] = {}
+    session['flagged_questions'] = []
+    test_duration_seconds = len(questions_or_error) * 60
+    session['test_end_time'] = (datetime.now() + timedelta(seconds=test_duration_seconds)).isoformat()
+    return redirect(url_for('show_question', q_id=0))
+
+@app.route('/edit/<filename>')
+def edit_test(filename):
+    return redirect(url_for('edit_question_page', filename=filename, q_id=0))
+
+@app.route('/edit/<filename>/<int:q_id>')
+def edit_question_page(filename, q_id):
+    questions = get_questions(filename)
+    if isinstance(questions, str): return render_template('error.html', error_message=questions)
+    if q_id >= len(questions): return redirect(url_for('home'))
+
+    image_path = os.path.join('static', 'images')
+    if not os.path.exists(image_path): os.makedirs(image_path)
+    image_files_raw = [os.path.basename(f) for f in glob.glob(os.path.join(image_path, '*'))]
+    all_images = sorted(image_files_raw, key=natural_sort_key)
+
+    return render_template('edit_question.html', filename=filename, q_id=q_id, 
+                           question=questions[q_id], total_questions=len(questions),
                            all_images=all_images)
 
-@app.route("/review")
-def review_results():
-    questions = load_questions()
-    all_images = get_all_images()
-    # Dummy data for options/user_answers/answer_key/correct for demonstration
-    for q in questions:
-        q.setdefault("options", "A. Option 1\nB. Option 2\nC. Option 3\nD. Option 4")
-        q.setdefault("answer_key", "A")
-        q.setdefault("correct", True)
-    user_answers = {str(i): "A" for i in range(len(questions))}
-    return render_template("review.html",
-                           questions=questions,
-                           all_images=all_images,
-                           user_answers=user_answers)
+@app.route('/save/<filename>/<int:q_id>', methods=['POST'])
+def save_edit(filename, q_id):
+    try:
+        df = robust_read_csv(filename)
+        original_columns = list(df.columns)
+        df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
 
-@app.route("/results")
+        for col in ['question', 'solution', 'image_q', 'image_a']:
+            if col not in df.columns: df[col] = ''
+        
+        df.loc[q_id, 'question'] = request.form.get('question', '')
+        df.loc[q_id, 'solution'] = request.form.get('solution', '')
+        df.loc[q_id, 'image_q'] = request.form.get('image_q', '')
+        df.loc[q_id, 'image_a'] = request.form.get('image_a', '')
+        
+        df.columns = original_columns
+        df.to_csv(filename, index=False, encoding='utf-8-sig')
+        load_questions(filename, force_reload=True)
+    except Exception as e:
+        return render_template('error.html', error_message=f"Could not save file '{filename}'. Details: {e}")
+        
+    next_q_id = q_id + 1
+    return redirect(url_for('edit_question_page', filename=filename, q_id=next_q_id))
+
+@app.route('/question/<int:q_id>', methods=['GET', 'POST'])
+def show_question(q_id):
+    active_test = session.get('active_test_name')
+    if not active_test: return redirect(url_for('home'))
+    questions = get_questions(active_test)
+    if isinstance(questions, str): return render_template('error.html', error_message=questions)
+
+    if request.method == 'POST':
+        user_answer = request.form.get('option')
+        if user_answer: session['answers'][str(q_id)] = user_answer
+        session.modified = True
+        next_q_id = q_id + 1
+        return redirect(url_for('show_question', q_id=next_q_id)) if next_q_id < len(questions) else redirect(url_for('results'))
+
+    if q_id >= len(questions): return redirect(url_for('results'))
+    time_remaining = 0
+    if 'test_end_time' in session:
+        time_remaining = max(0, int((datetime.fromisoformat(session.get('test_end_time')) - datetime.now()).total_seconds()))
+    return render_template('test.html', question=questions[q_id], q_id=q_id, mode=session['mode'], 
+        total_questions=len(questions), user_answers=session.get('answers', {}),
+        flagged_questions=session.get('flagged_questions', []), time_remaining=time_remaining)
+    
+@app.route('/results')
 def results():
-    questions = load_questions()
-    all_images = get_all_images()
-    for q in questions:
-        q.setdefault("options", "A. Option 1\nB. Option 2\nC. Option 3\nD. Option 4")
-        q.setdefault("answer_key", "A")
-        q.setdefault("correct", True)
-    user_answers = {str(i): "A" for i in range(len(questions))}
-    return render_template("results.html",
-                           questions=questions,
-                           all_images=all_images,
-                           user_answers=user_answers)
+    active_test = session.get('active_test_name')
+    if not active_test: return redirect(url_for('home'))
+    questions = get_questions(active_test) 
+    if isinstance(questions, str): return render_template('error.html', error_message=questions)
+    
+    score = 0
+    user_answers = session.get('answers', {})
+    for q_id_str, user_answer in user_answers.items():
+        if user_answer.upper() == questions[int(q_id_str)]['answer_key'].strip().upper(): score += 1
+    
+    test_names = {}
+    if os.path.exists('index.json'):
+        with open('index.json', 'r', encoding='utf-8') as f:
+            test_names = json.load(f)
+    display_name = test_names.get(active_test, active_test)
 
-@app.route("/start_test")
-def start_test():
-    # Placeholder: implement your test mode here
-    return "<h1>Start Test (not implemented in this example)</h1>"
+    if 'history' not in session: session['history'] = []
+    session['history'].insert(0, {
+        "date": datetime.now().strftime("%B %d, %Y - %I:%M %p"), "score": score,
+        "total": len(questions), "answers": user_answers,
+        "flagged": session.get('flagged_questions', []), "test_name": active_test,
+        "display_name": display_name
+    })
+    session.modified = True
+    return render_template('results.html', score=score, total_questions=len(questions),
+        questions=questions, user_answers=user_answers)
 
-@app.route("/upload_images", methods=["GET", "POST"])
-def upload_images():
-    if request.method == "POST":
-        if "image" not in request.files:
-            flash("No file part")
-            return redirect(request.url)
-        file = request.files["image"]
-        if file.filename == "":
-            flash("No selected file")
-            return redirect(request.url)
-        if file:
-            filename = file.filename
-            save_path = os.path.join(IMAGES_FOLDER, filename)
-            file.save(save_path)
-            flash("Image uploaded!")
-            return redirect(url_for("upload_images"))
-    images = get_all_images()
-    return render_template("upload_images.html", images=images)
+@app.route('/review/<int:test_index>')
+def review(test_index):
+    history = session.get('history', [])
+    if test_index >= len(history): return redirect(url_for('home'))
+    
+    past_test = history[test_index]
+    test_filename = past_test.get('test_name')
+    if not test_filename: return render_template('error.html', error_message="This historic test result is missing a filename.")
+    
+    questions = get_questions(test_filename)
+    if isinstance(questions, str): return render_template('error.html', error_message=questions)
+        
+    return render_template('review.html', test_info=past_test, questions=questions)
 
-@app.route("/images/<filename>")
-def serve_image(filename):
-    return send_from_directory(IMAGES_FOLDER, filename)
+@app.route('/toggle_flag/<int:q_id>', methods=['POST'])
+def toggle_flag(q_id):
+    if 'flagged_questions' not in session: return jsonify({'status': 'error'}), 400
+    flagged = session.get('flagged_questions', [])
+    if q_id in flagged: flagged.remove(q_id)
+    else: flagged.append(q_id)
+    session['flagged_questions'] = flagged
+    session.modified = True
+    return jsonify({'status': 'success', 'flagged_questions': flagged})
 
-if __name__ == "__main__":
+@app.route('/check_answer/<int:q_id>', methods=['POST'])
+def check_answer(q_id):
+    active_test = session.get('active_test_name')
+    if not active_test: return jsonify({'status': 'error'}), 400
+    questions = get_questions(active_test)
+    if isinstance(questions, str): return jsonify({'status': 'error'}), 400
+    
+    question = questions[q_id]
+    user_answer = request.get_json().get('option')
+    is_correct = (user_answer.upper() == question['answer_key'].strip().upper())
+    
+    explanation_html = format_solution_filter(question['solution'])
+    
+    return jsonify({'correct': is_correct, 'correct_answer': question['answer_key'].strip().upper(),
+        'explanation': explanation_html, 'image_a': question['image_a']})
+
+if __name__ == '__main__':
     app.run(debug=True)

@@ -218,3 +218,58 @@ h4 {
     background-color: #f39c12; /* Orange */
     order: -2; /* Puts it first */
 }
+body {
+    background: #f6fafd;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #233;
+}
+.dashboard-container {
+    max-width: 700px;
+    background: #fff;
+    margin: 38px auto;
+    border-radius: 12px;
+    box-shadow: 0 2px 16px #0002;
+    padding: 32px 22px 22px 22px;
+}
+h1 {
+    color: #1769aa;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.paper-select-form {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 16px;
+}
+.paper-select-form label {
+    font-weight: 500;
+}
+.paper-select-form select {
+    margin-left: 8px;
+    padding: 4px 10px;
+    border-radius: 5px;
+    border: 1px solid #bbb;
+}
+.paper-select-form button {
+    background: #1769aa;
+    color: #fff;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 7px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.stats-row {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    font-size: 1.06em;
+    margin-top: 18px;
+}
+hr {
+    margin: 20px 0;
+}
