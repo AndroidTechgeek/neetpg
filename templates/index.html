@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEET PG Pro Simulator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container dashboard">
+        <h1>NEET PG Pro Simulator</h1>
+        
+        <div class="test-selection-section">
+            <h2>Select a Test</h2>
+            {% if grouped_tests %}
+                {% for subject, test_list in grouped_tests.items() %}
+                    <h3 class="subject-heading">{{ subject }}</h3>
+                    <div class="test-list">
+                        {% for test in test_list %}
+                            <div class="test-item-card">
+                                <h4>{{ test.display_name }}</h4>
+                                <small class="filename-display">{{ test.filename }}</small>
+                                <div class="test-launch-form">
+                                    <button type="button" class="btn btn-rename" onclick="editName('{{ test.filename }}', '{{ test.display_name }}')">Rename</button>
+                                    <a href="{{ url_for('edit_test', filename=test.filename) }}" class="btn btn-edit">✍️ Edit</a>
+                                    <form action="{{ url_for('start_test') }}" method="post" style="display: contents;">
+                                        <input type="hidden" name="filename" value="{{ test.filename }}">
+                                        <button type="submit" name="mode" value="study" class="btn btn-study">📖</button>
+                                        <button type="submit" name="mode" value="test" class="btn btn-test">🚀</button>
+                                    </form>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endfor %}
+            {% else %}
+                <p>No CSV test files found. Add CSV files and an `index.json` to get started!</p>
+            {% endif %}
+        </div>
+
+        <div class="history-section">
+            <h2>Performance History</h2>
+            {% if history %}
+                <table class="history-table">
+                    <thead>
+                        <tr>
+                            <th>Test Name</th>
+                            <th>Date</th>
+                            <th>Score</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for test in history %}
+                            <tr>
+                                <td>{{ test.get('display_name', test.get('test_name', 'Previous Test')) }}</td>
+                                <td>{{ test.date }}</td>
+                                <td>{{ test.score }} / {{ test.total }}</td>
+                                <td><a href="{{ url_for('review', test_index=loop.index0) }}" class="btn btn-review">Review</a></td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                <p>You haven't completed any tests yet.</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        function editName(filename, currentName) {
+            const newName = prompt("Enter the new display name for this test:", currentName);
+            if (newName && newName.trim() !== "") {
+                fetch('/update_test_name', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ filename: filename, new_name: newName.trim() })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        window.location.reload();
+                    } else {
+                        alert(`Error: ${data.message}`);
+                    }
+                });
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,155 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Q1,which of the following is the diluting segment of the kidney?,"a) PcT
+b) collecting duct
+c) Ascending thick loop of Henle
+d) Descending loop of Henle","The ascending thick limb of the loop of Henle is called the diluting segment.
+In the ascending limb, there is the movement of Na+ and cl– out of the tubular lumen, and the tubular fluid becomes more dilute.
+when the fluid reaches the top of the ascending limb, it becomes hypotonic to plasma.",,C,
+Q2,Identify the ions A and B based on conductance graph of a neuron shown below:,"a) Na, K
+b) K, Na
+c) Na, ca
+d) ca, Na","channel A: Na+, channel B: K+
+Na+ channels are fast activating and are responsible for depolarization phase of action potential.
+K+ channels are slow activating and open for prolonged duration than the sodium channels. They are responsible for repolarization phase of action potential. Also, the postassium channels return slowly to their closed state, which is responsible for after-hyperpolarization.",439-448.PNG,A,448-453.PNG
+Q3,How is an electrical synapse different from a chemical synapse?,"a) No cytoplasmic continuity between presynaptic and postsynaptic membrane
+b) Direction of impulse is unidirectional
+c) connexons are involved in electrical synapse
+d) Electrical synapse has more latent period than chemical synapse","In electrical synapses, the cytoplasm of adjacent cells is directly connected by gap junctions (connexons) that allow free movement of ions from the interior of one cell to the interior of the next cell.
+The transmission in electrical synapses is bidirectional and there is no synaptic delay. unlike chemical synapses, electrical synapse has cytoplasmic continuity.
+Note: Most of the synapses used for signal transmission in the central nervous system are chemical synapses.",,C,
+Q4,Hormone degradation as an important mechanism for regulating local concentrations is seen in _________.,"a) 11β-hydroxysteroid dehydrogenase inactivation of glucocorticoids
+b) Thyroid hormone deiodinases inactivating T3
+c) Degradation of retinoic acid by cyp26b1 in primordial germ cells of males
+d) All of the above","Hormone degradation as an important mechanism for regulating local concentrations is seen in all of the above.
+11β-hydroxysteroid dehydrogenase inactivates glucocorticoids in renal tubular cells, preventing actions through the mineralocorticoid receptor.
+During development, degradation of retinoic acid by Cyp26b1 prevents the primordial germ cells in the male from entering meiosis, which occurs in the female ovary.
+The thyroid hormone deiodinases convert T4 to T3 and can inactivate T3. All the three are hence examples of local hormone degradation being utilized as a method for regulation of hormone concentration locally.",,D,
+Q5,The factors that can cause a person to drink water due to stimulation of thirst mechanism is/are ___________.,"a) Dehydration
+b) Hemorrhage
+c) prandial Drinking
+d) All of the above","Dehydration, hemorrhage, and prandial drinking: All three can cause increased thirst resulting in water drinking.
+Increased osmolality acts via osmoreceptors in the anterior hypothalamus.
+The decreased plasma volume, as in hemorrhage, acts via
+1. Renin-angiotensin system
+2. Baroreceptors in heart and blood vessels.
+The intake of liquids during a meal is known as prandial drinking. The increase is known as learned or habit response but is not understood completely.",,D,
+Q6,"on performing a histamine test on an individual with brachial plexus trunk injury, you can expect ________.","a) central capillary dilatation → wheal → surrounding flare
+b) central capillary dilatation → wheal without surrounding flare
+c) central capillary dilatation → wheal with exaggerated surrounding flare
+d) Absent triple response","Brachial plexus trunk injury leads to anesthetized skin over the region. on performing a histamine test on such an individual, one can expect central capillary dilatation → wheal without surrounding flare. The incomplete triple response over the anesthetic skin is characteristic of postganglionic lesions.
+Intradermal injection of histamine usually causes a triple response in the surrounding skin i.e, red reaction→ flare → wheal
+• Red reaction is due to histamine-mediated relaxation of the precapillary sphincters
+• Flare reaction (Flush, Axon reflex) is due to Substance P mediated arteriolar dilatation
+• wheal (skin edema) is due to histamine-mediated increased capillary permeability
+• Flare is absent in locally anesthetized skin",,B,
+Q7,GFR is increased by all except,"a) Increased renal blood flow
+b) Efferent arteriolar constriction
+c) ureteric stone
+d) Decreased oncotic pressure","ureteric stone causes a reduction in glomerular filtration rate (GFR).
+Following ureteral obstruction, there is a progressive fall in glomerular filtration rate (GFR) due to a reduction in a single-nephron glomerular filtration rate (SNGFR) and a reduced number of filtering nephrons.
+All the other factors/options increase GFR.",,C,
+Q8,Baroreceptor provides ________ ,"a) Negative feedback
+b) positive feedback
+c) Both negative and positive feedback
+d) Feedforward control","Baroreceptors provide negative feedback in response to an increase in blood pressure.
+Increased baroreceptor discharge inhibits the tonic discharge of sympathetic nerves and excites the vagal innervation of the heart.
+Baroreceptor reflex:
+• Increased BP → stimulation of baroreceptors → stimulation of NTS → inhibition of RVLM → inhibition of sympathetic system
+• Stimulation of NTS also stimulates cVc → parasympathetic stimulation
+• Net effect = sympathetic inhibition and parasympathetic stimulation → decreased HR and BP",,A,
+Q9,The diagram below shows the pressure-volume curves for 3 different lungs. which of the following is the best representation of compliance between the three lungs?,"a) A<B<c
+b) B>A>c
+c) B>c>A
+d) c>A>B","The diagram depicts the change in volume with respect to the change in intrapleural pressure, which is compliance. Here, the change is more (steep curve) with B and least (flat curve) with c.
+The “stiffer” lung displays a more horizontal curve (c), meaning that it takes a greater pressure to achieve the same inflation volume compared with a normal lung (A). These lungs are called less compliant.
+curve (B) is more compliant as it takes lesser pressure to achieve the same inflation volume compared to normal (A).
+compliance is increased in emphysema. compliance is decreased in case of pulmonary edema or fibrosis.",441-449.PNG,B,452-455.PNG
+Q10,Identify the site which is responsible for relieving pain when pressure is applied to the painful area.,"a) A
+b) B
+c) C
+d) D","It is a cross section of brain stem at pons.
+A is a periaqueductal gray matter which also consists of raphe nucleus.
+Descending pathways from the mesencephalic periaqueductal gray matter inhibit transmission in nociceptive pathways. This descending pathway includes a synapse in the ventromedial medulla (Raphe nucleus) and the release of endogenous opiates. So periaqueductal gray matter releases endogenous opiates.
+other marked structures are
+B: corticospinal tract
+C: Medial lemniscus
+D: Medial longitudinal fasciculus",442-450.PNG,A,
+Q11,Inhibitory control by the hypothalamus is exerted on:,"a) prolactin only
+b) prolactin and growth hormone
+c) Growth hormone only
+d) Neither","Inhibitory control by the hypothalamus is exerted mainly on prolactin and growth hormone.
+The major hypothalamic releasing hormones are: TRH, CRH, GHRH, GnRH.
+The major hypothalamic inhibitory hormones are: prolactin inhibitory hormone or dopamine, and Growth hormone inhibitory hormone (GHIH), also called somatostatin.",,B,
+Q12,which of the following hormones play a permissive role in the attainment of puberty?,"a) GnRH
+b) Leptin
+c) Insulin
+d) GH","The hormone that plays a permissive role in the attainment of puberty is leptin.
+It now appears that leptin may be the link between body weight and puberty. Leptin is a satiety-producing hormone secreted by adipocytes. High leptin levels reduce appetite and increase energy expenditure.
+Leptin treatment also induces precocious puberty in immature female mice. Leptin also accelerates GnRH pulsatility in neurons, fastening puberty.",,B,
+Q13,weber-Fechner law relates magnitude of sensation to ____.,"a) Strength of muscle contraction
+b) Log of Intensity of stimulus
+c) Amplitude of action potential
+d) Duration of stimulus","weber-Fechner Law states that the magnitude of sensation felt is proportionate to the log of the intensity of the stimulus.
+other Laws in physiology:
+• Doctrine of specific nerve energies - when the nerve pathways from a particular sense organ are stimulated, the sensation evoked is that for which the receptor is specialized no matter how or where along the pathway the activity is initiated.
+• Law of projection - No matter where a particular sensory pathway is stimulated along its course to the cortex, the conscious sensation produced is referred to the location of the receptor.",,B,
+Q14,The following Darrow yannet diagram is suggestive of which condition? Note : The solid line is the original fluid compartment and the colour shaded compartment within the dotted line denotes the change caused by the condition.,"a) Excessive sweating
+b) Adrenal Insufficiency
+c) Diarrhoea
+d) SIADH","In adrenal insufficiency there is hypo-osmotic volume contraction. Aldosterone deficiency leads to increased sodium loss (loss of hyperosmotic fluid).
+• The osmolarity of ECF decreases.
+• ECF volume decreases because of the loss of volume.
+• water shifts into ICF; as a result of the shift, ICF osmolarity decreases until it is equal to ECF osmolarity, and ICF volume increases.
+• So, loss of hypertonic fluid causes hypotonic volume contraction.",443-451.PNG,B,454-456.PNG
+Q15,The mechanism by which glucose is absorbed in the intestine is:,"a) primary active transport
+b) secondary active transport
+c) Facilitated diffusion
+d) Any of the above","Glucose is absorbed in the intestine by secondary active transport.
+on the basolateral side, there is active transport of sodium ions out of the cell into the interstitial fluid. This depletes sodium inside the cell. Because of this Na+ concentration difference, more Na+ binds to the SGLT on the luminal side. This increases the affinity of SGLT for glucose and glucose binds to it.
+Then, both the Na+ and glucose are transported together to the interior of the cell. The glucose moves out of the cell into the blood across the basolateral membrane by facilitated diffusion mediated via GLUT.",,B,455-457.PNG
+Q16,The earliest stage at which erythropoietin is effective in red blood cell formation is?,"a) Burst forming units
+b) colony forming units
+c) Late erythroblast stage
+d) Normoblast stage","BFU is the earliest stage of hematopoiesis where erythropoietin (EPO) acts.
+Under the influence of EPO, both BFU and CFU grow in semisolid culture media and give rise to colonies of well-hemoglobinized erythroblasts.
+Erythroid burst-forming unit (BFU-E) is the most primitive single lineage committed erythroid progenitor.
+Note: while CFUs have the highest number of receptors for EPO, the earliest stage at which it acts is on the BFU.",,A,
+Q17,Integrin connects with:,"a) cadherin
+b) vitronectin
+c) Fibronectin
+d) selectin","Integrin connects with fibronectin.
+Integrins are transmembrane glycoproteins (integral proteins) that allow cells to attach to extracellular matrix constituents such as laminin, fibronectin and collagen. It helps in linking the intracellular cytoskeleton functionally and structurally with the outside world.",,C,
+Q18,which of the following organelles is absent in the area of the cardiac muscle marked:,"a) Mitochondria
+b) Lysosome
+c) Golgi bodies
+d) Endoplasmic reticulum",The area of the cardiac muscle marked is devoid of nuclei. Lysosomes are commonly observed in perinuclear areas. Other organelles are present in abundance throughout the cell.,445-452.PNG,B,
+Q19,which of the following fibres reach the purkinje cell directly?,"a) Inferior olivary nucleus
+b) Raphe nucleus
+c) vestibular nucleus
+d) Locus coeruleus","The fibres of inferior olivary nucleus (climbing fibres) reach the purkinje cell directly.
+Note:
+The input from the Purkinje cells to the deep nuclei is inhibitory.
+However, the deep nuclei output is always excitatory.",,A,
+Q20,calculate the net filtration pressure across the GBM for a patient with Glomerular ultrafiltration coefficient = 6 Glomerular hydrostatic pressure =45 Glomerular capillary oncotic pressure =2o Bowman’s capsule hydrostatic pressure =1o Bowman’s capsule oncotic pressure =o,"a) 9o mmHg
+b) 6o mmHg
+c) 3o mmHg
+d) 15 mmHg","Net filtration pressure = Hydrostatic pressure in the glomerular capillaries - Pressure in Bowman's capsule - oncotic pressure in the glomerular capillaries.
+Net filtration pressure= [PG -PB- πG+ πB]
+Therefore, Net filtration pressure = (45-1o-2o+o) = 15 mmHg.
+Note: Here, just the net filtration pressure is asked and not the GFR. GFR= kf [PG -PB- πG+ πB]",,D,
+Q21,"In a 1oo-m dash, most of the energy consumed by skeletal muscles to replenish ATP is derived from _______","a) Phosphocreatine
+b) Aerobic glycolysis
+c) oxidation of Fatty acids
+d) None of the above","In a 1oo-m dash that takes 1o s, 85% of the energy consumed is derived anaerobically by phosphocreatine, which is hydrolyzed to creatine and phosphate groups with the release of considerable energy.
+The ATP concentration in a muscle is low enough (4 millimolar) to sustain contractions for 1-2 seconds after which ATP is dephosphorylated into ADP. The ADP is re-phosphorylated by phosphocreatine for the next 5 to 8 seconds.",,A,
+Q22,"In the homunculus, which of the following has maximum representation?","a) Low control and skilled movements
+b) More muscle fibres are present
+c) Increased preciseness of movements
+d) None of the above","In a homunculus, the more the representation of an area, the more precise the movements are.
+The relative sizes of the cortical receiving areas of the sensory homunculus are proportionate to the use of the part.
+The sizes of these areas are directly proportional to the number of specialized sensory receptors in each respective peripheral area of the body.
+some body parts are represented by large areas in the somatic cortex—the lips the greatest of all, followed by the face and thumb.",,C,458-459.PNG
+Q23,what is the usual position of the Golgi apparatus in serous acinar cells?,"a) supranuclear
+b) Basal
+c) Adjacent to nucleus
+d) Apical",Golgi complex is located in supranuclear cytoplasm in serous acinar cells. serous acinar cells are generally found in pancreas and the submandibular salivary glands.,nan,A,nan

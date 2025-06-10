@@ -1,0 +1,69 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,A person after sleeping overnight with the arm under his head now experiences paresis but no numbness in the morning. which of the following is the best explanation for it?,"a) C fibers are more sensitive to pressure than A fibers.
+b) A fibers are more sensitive to hypoxia than B fibers.
+c) A fibers are more susceptible to pressure changes than C fibers.
+d) A fibers are more susceptible to hypoxia than C fibers.","In the above scenario, the patient has developed paresis (partial paralysis) but the pain sensation is intact (no numbness). This is because A fibers that carry motor, touch, and pressure sensations are more susceptible to pressure changes/compression than C fibers that carry pain sensations.
+The compression of a large diameter nerve fiber leads to a reversible physiologic conduction block or neuropraxia.
+The relative susceptibility of nerve fibers to conduction blocks produced by various agents:
+Susceptibility: Most susceptible, Intermediate, Least susceptible
+Local anesthetic: C, B, A
+Hypoxia: B, A, C
+pressure: A, B, C",,C,
+Question 2,which of the following mechanisms is seen in the baroreceptor reflex?,"a) Feedforward
+b) positive feedback
+c) Negative feedback
+d) Adaptive control regulation","The negative feedback mechanism is seen in the baroreceptor reflex. If the activity of a particular system is increased, the controller system initiates the negative feedback mechanism, which prevents overactivity and ensures normal homeostasis.
+Baroreceptors are stretch receptors located in the heart and the adventitia of the blood vessels. They are stimulated by the stretching of the walls of the blood vessels when there is an increased volume or blood pressure in the vessel. They are important in the immediate management of blood pressure. They are of two types: carotid sinus and aortic arch receptors (high-pressure regions) and cardiopulmonary receptors (low-pressure regions).
+An increase in blood pressure stimulates the baroreceptors. These signals are transmitted through small Hering’s nerves to the glossopharyngeal nerves and then to the nucleus tractus solitarius (NTS) in the medulla. These signals release glutamate and activate the caudal ventrolateral medulla (CVLM). This in turn inhibits the rostral ventrolateral medulla (RVLM) considered the vasoconstrictor center for the brain and the heart.
+Simultaneously, this pathway also excites the vagal parasympathetic center. The stimulation of the vagus results in a slowing of impulse generation in the SA node and a slowing of conduction velocity in the AV node.
+These neural changes produce vasodilation, venodilation, hypotension, bradycardia, and a decrease in cardiac output.
+other options:
+option A: The feedforward mechanism responds to the anticipation of a change in a regulated variable. For example, when a meal is in the digestive tract, a feedforward mechanism increases the secretion of insulin that promotes the cellular uptake and storage of ingested nutrients.
+option B: positive feedback mechanism refers to the enhancement or amplification of the output so that it moves in the direction of the initial change. An example is seen in the luteinizing hormone (LH) surge where the estrogen positively regulates the further secretion of LH.
+option D: The adaptive control mechanism refers to the delayed type of negative feedback mechanism. when the feedforward mechanism has an error, the correction is made by a retrospective feedback mechanism called the adaptive control mechanism.",,C,596-518.PNG
+Question 3,The image below depicts which of the following types of cell-to-cell signaling?,"a) paracrine
+b) Autocrine
+c) Endocrine
+d) Merocrine","The given image shows the paracrine cell-to-cell signaling mechanism. In paracrine signaling, the signaling molecules released by a cell only affect target cells in close proximity to it.
+An example of paracrine signaling is the release of endothelin-1, a potent vasoconstrictor released by the endothelial cells.
+Synaptic signaling is a special case of paracrine signaling (for chemical synapses) between neurons and target cells.
+other options:
+option B: In the autocrine signaling mechanism, the cells respond to the signaling molecules that are released by themselves, which is the site of release and action within the same cell. Note that the signaling molecules are first secreted out of the cell and then act on the same cell through receptors. An example is the proliferation of activated T-cells by IL-2 released by the same cell after it interacts with antigen-presenting cells.
+option C: In endocrine signaling, a signaling molecule, a hormone (for example insulin, FSH, LH), is usually carried by the blood from its site of release to act on its target at a distance.
+The below image shows the different types of extracellular cell-to-cell communication mechanisms.
+option D: Merocrine is a type of glandular secretion and not an extracellular signaling mechanism. In this, the secretions are poured out by exocytosis and the cell remains intact. An example of the merocrine gland is the goblet cell and eccrine sweat gland.
+An illustration depicting this mechanism is given below.",592-514.PNG,A,597-519.PNG
+Question 4,which of the following statements is true regarding the given cystometrogram?,"a) segment Ia is due to residual urine
+b) segment Ib is due to Laplace law
+c) Micturition fails to happen in segment II
+d) The dotted line represents that micturition has occurred","The true statement regarding the given cystometrogram is that segment Ib is due to Laplace law.
+cystometrogram is a plot of intravesical pressure against the volume of fluid in the bladder. The curve shows three segments:
+• Ia- initial slight rise in pressure when the first increments in the volume are produced
+• Ib- long, nearly flat segment as further increments are produced
+• II- sudden, sharp rise in pressure as the micturition reflex is triggered (not failure).
+• The dotted line- pressure-volume relation if the micturition had not occurred.
+The flatness of segment Ib is a demonstration of the law of Laplace. The law of Laplace states that the pressure (P) in a spherical viscus is equal to twice the wall tension (T) divided by the radius (R). This is expressed as P〓 2T/R. In the bladder, the tension increases as the bladder get filled. since the radius also increases there is only a slight increase in pressure until the bladder is relatively full.
+The first urge to void is felt at a bladder volume of about 15o mL. A marked sense of fullness is felt at a bladder volume of 4ooml.
+Micturition reflex is the result of sensory signals from the stretch receptors in the bladder wall, which are conducted to the sacral segments of the cord through the pelvic nerves and then efferent signals conducts back again to the bladder through the parasympathetic nerve fibers.
+The micturition reflex pathway is given below.",593-515.PNG,B,599-521.PNG
+Question 5,"In a patient, the hypothalamic thermostat was reset from point A to point C as shown below. which of the following happens in stage A compared to stage B?","a) shivering
+b) sweating
+c) Increased blood flow to skin
+d) Inhibition of chemical thermogenesis","In the above scenario, the patient's hypothalamic thermostat has been reset from point A to a higher temperature (point C). The body responds to this change by using certain measures in stage A such as shivering.
+In stage A the body activates various heat gain mechanisms to match the hypothalamic temperature setpoint. These include:
+• shivering- the shivering center is located in the posterior hypothalamus. It is normally inhibited by signals from the heat center in the anterior hypothalamic-preoptic area but is excited by cold signals from the skin and spinal cord. ■A sudden increase in heat setpoint results in the activation of this center. It then transmits non-rhythmic signals through bilateral tracts through the lateral columns of the spinal cord, and finally to the anterior motor neurons. They increase the tone of the skeletal muscles throughout the body. As the tone rises above a certain critical level, shivering begins. During maximum shivering, body heat production can rise to four to five times normal.
+• vasoconstriction (decreased blood flow to skin) is mediated by increased sympathetic drive by the activation of the posterior hypothalamic sympathetic center.
+• An increase in chemical thermogenesis in which heat production takes place in the brown fat by the mechanism of uncoupling of oxidative phosphorylation. This is the predominant mechanism seen in neonates.
+In stage B, the hypothalamic temperature setpoint is lower than the normal body temperature. Hence body activates various heat loss mechanisms to match the hypothalamic temperature setpoint. It includes vasodilatation of the skin blood vessel, sweating, and decreased thermogenesis.
+The temperature of the body is regulated majorly by a nervous feedback mechanism that operates through temperature-regulating centers located in the hypothalamus. Minor regulation is done by the thermal receptors in the skin and the deep thermal receptors present in the spinal cord and abdominal viscera.",594-516.PNG,A,600-523.PNG
+Question 6,"A 65-year-old man suffered from a stroke 2 days ago. He now presents with involuntary, violent, and flinging movements of the limbs on one side. what is the likely site of lesion in this patient?","a) subthalamic nuclei
+b) Globus pallidus
+c) putamen
+d) caudate nucleus","The above clinical scenario is suggestive of hemiballismus. A lesion in subthalamic nuclei is responsible for this condition.
+A lesion in the subthalamic nucleus causes sudden, violent, involuntary, and flinging movements confined to one side of the body, commonly affecting the proximal muscles of the limbs, a condition called hemiballismus. The movements are seen contralateral to the side of the lesion, i.e., involuntary movements of the right arm and leg are seen in the lesion of the left subthalamic nucleus and vice versa.
+Basal ganglia circuits have both direct and indirect pathways. The direct pathway stimulates the cortex to produce movement, whereas the indirect pathway inhibits it. The striatal activity in the direct pathway is mediated by D1 dopamine receptors and in the indirect pathway by D2 dopamine receptors.
+The subthalamic nucleus is a part of the indirect pathway. Hence, a lesion at subthalamic nuclei leads to loss of inhibitory effect of the indirect pathway resulting in dopaminergic overactivity. This is responsible for features of hemiballismus.
+This movement disorder is usually self-limiting and tends to resolve spontaneously after weeks or months. Dopamine antagonistic agents can be given to manage it as well.
+other options:
+option B: A lesion in the globus pallidus can give rise to athetosis. This involves spontaneous and continuous writhing movements of the hand, arm, neck, or face.
+options C and D: A lesion in the putamen and caudate nucleus can give rise to chorea. Chorea is defined as rapid, semi-purposeful, graceful, dance-like nonpatterned involuntary movements involving distal or proximal muscle groups.",nan,A,600-522.PNG

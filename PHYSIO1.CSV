@@ -1,0 +1,157 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Q1,Given below is the demonstration of tetanization in the gastrocnemius muscle of a frog. Identify the tetanising frequency.,"a) 25-2o Hz
+b) 3o-35 Hz
+c) 15-2o Hz
+d) 1o-15 Hz","Tetanizing frequency demonstrated by the muscle is 33Hz. In the above graph, we know,
+• The speed of the paper is 1ooomm/sec.
+• The area under the graph represents the muscle contraction.
+contraction period (latent period to maximum force of contraction) includes 3 scales = 3o mm. As paper speed is 1ooomm/sec,
+contraction period = 3omm = (3o/1ooo) = 3o msec.
+Tetanizing frequency = 1/contraction period = 1ooo/3o = 33Hz.
+Tetanization is the adding together of individual twitch contractions to increase the intensity of overall muscle contraction. when the frequency of a contraction reaches a critical level, the successive contractions eventually fuse together, and the whole muscle contraction appears to be completely smooth and continuous.",417-429.PNG,B,425-435.PNG
+Q2,The oxygen carrying capacity of a 18 year old boy with haemoglobin of 14g/dl is,"a) 22
+b) 16
+c) 14
+d) 18","The oxygen carrying capacity of a boy with haemoglobin 14g/dl is 18.
+when blood is saturated with 1oo% o2, each gram of normal haemoglobin contains 1.39 mL of o2.
+However, blood normally contains some inactive haemoglobin derivatives, and the measured value in vivo is thus slightly lower hence, each gram of haemoglobin in vivo contains 1.31 mL of o2 (Hufner’s constant).
+According to the above question, when Hb=14g/dl, o2= 1.31*14= 18.34",,D,426-436.PNG
+Q3,A 3o-year-old patient with respiratory volume of 5oo mL. The intraplueral pressure measured -4 before inspiration and -8 at the end of inspiration. The pulmonary compliance of the patient is,"a) 125 ml/cm H2o
+b) 15o ml/cm H2o
+c) 5o ml/cm H2o
+d) 62.5 ml/cm H2o","Pulmonary compliance of this patient is 125 mL/cm of H2o.
+compliance of the lung and chest wall is measured as a change in lung volume per unit change in airway pressure (Δv/Δp).
+compliance = change in lung volume / change in pressure
+compliance = 5oo / (8-4)
+compliance = 5oo/4
+compliance = 125 ml/cm H2o",,A,
+Q4,The function of the Golgi tendon organ is to _________,"a) sense changes in muscle direction
+b) sense changes in muscle tension
+c) sense changes in position of the muscle
+d) sense changes in length of the muscle","Golgi tendon organ sense changes in muscle tension.
+Golgi tendon reflex (Inverse myotatic/ Inverse stretch reflex) is disynaptic, is the opposite of the stretch reflex.
+when the tension in a contracted muscle is significantly elevated, the inhibitory effect from the Golgi tendon organ leads to instantaneous relaxation of the entire muscle. This effect is called the lengthening reaction.
+It is a protective mechanism to prevent tearing of the muscle or avulsion of the tendon from its attachments to the bone.
+Note: Muscle spindles senses changes in muscle length (stretch).",,B,427-437.PNG
+Q5,Difference in trajectory between inspiratory loop and the expiratory loop in the curve is due to:,"a) Difference in alveolar pressure during inspiration and expiration
+b) Difference in conc. of surfactant during inspiration and expiration
+c) Difference in airway resistance during inspiration and expiration
+d) Inspiration is active and expiration is passive","The difference between the inflation and the deflation paths is called hysteresis.
+It exists because a greater transpulmonary pressure is required to open a previously closed airway, due to a deficit of surfactant at the air-water interface, than to keep an open airway from closing, as then it has abundant surfactant.",418-430.PNG,B,
+Q6,Reflex responsible for tachycardia during right atrial distension is:,"a) Bezold-Jarisch reflex
+b) Bainbridge reflex
+c) cushing reflex
+d) J reflex","Reflex responsible for tachycardia during right atrial distension is Bainbridge Reflex.
+The stretch receptors of the atria that elicit the Bainbridge reflex transmit their afferent signals through the vagus nerves to the medulla of the brain. Then efferent signals are transmitted back through vagal and sympathetic nerves to increase heart rate and strength of heart contraction. Thus, this reflex helps prevent damming of blood in the veins, atria, and pulmonary circulation.
+other options:
+option A: Bezold–Jarisch Reflex: Activation of chemosensitive vagal C fibers in the cardiopulmonary region causes profound bradycardia, hypotension and a brief period of apnoea followed by rapid shallow breathing.
+option C: Cushing Reflex: when intracranial pressure is increased, it can cause hypertension, bradycardia, and irregular respiration.
+option D: J Reflex: The stimulation of the J-receptors causes apnea followed by rapid breathing, bradycardia, and hypotension.",,B,
+Q7,Identify the hormone from the picture,"a) Growth hormone
+b) cortisol
+c) Estrogen
+d) Insulin","The image depicts the fluctuations of secretion of growth hormone throughout the day.
+• Growth hormone is found at relatively low levels during the day unless specific triggers such as strenuous exercise are present.
+• During sleep, on the other hand, large pulsatile bursts of growth hormone secretion occur.",419-431.PNG,A,429-439.PNG
+Q8,Feed forward control system is employed during the regulation of,"a) Blood volume
+b) pH
+c) Temperature
+d) Blood pressure","Feed forward control system is employed during regulation of temperature.
+Feed forward control is a control system in our body when no stimulus is required but still the system anticipates and makes corrective changes.
+Examples include
+• Temperature control – Thermoregulatory responses are initiated by hypothalamus BEFORE the changes in environmental temperature have succeeded in changing the body’s core body temperature
+• cephalic phase of gastric secretion- Just thinking about food increases gastric acid production
+• Thinking about exercise itself increases heart rate & respiratory rate
+• Role of cerebellum in motor coordination",,C,
+Q9,cellular junctions present in a cardiac muscle are all except:,"a) Zonula occludens
+b) Fascia adherens
+c) Gap junctions
+d) Macula adherens","zonula occludens is the other name for the tight junction. It is absent in a cardiac muscle.
+cardiac muscle cells are connected by Fascia adherens (a structural analog of zonula adherens), Gap junctions and Macula adherens.
+cardiac muscle fibers are made up of many individual cells connected in series and parallel to one another. The areas where the end of one muscle fiber abuts on another are called intercalated disks. At each intercalated disc, the plasma membrane fuses with one another forming gap junction which provides low resistance bridges for the spread of excitation from one fiber to another permitting the cardiac muscle to function as a syncytium.",,A,
+Q10,Efferent arteriolar constriction causes all except:,"a) Decrease in GFR
+b) Decreases renal blood flow
+c) Decreases oncotic pressure in glomerular capillaries
+d) Increases hydrostatic pressure in glomerular capillaries","Efferent arteriolar constriction increases oncotic pressure in glomerular capillaries.
+Efferent arteriolar constriction has a biphasic response on GFR depending on the severity of resistance.
+Moderate efferent arteriolar constriction causes increased glomerular hydrostatic pressure and slightly increased GFR.
+However, in cases of severe efferent arteriolar constriction, the renal blood flow is significantly reduced. This results in increased plasma protein concentration, thereby increasing the glomerular colloid oncotic pressure. As the increase in colloid oncotic pressure exceeds the increase in hydrostatic pressure, the net force for filtration decreases, resulting in decreased GFR.",,C,431-441.PNG
+Q11,Absolute refractory period is due to:,"a) opening of calcium channels
+b) closure of potassium channels
+c) closure of active gates of sodium channel
+d) closure of inactive gates of sodium channel","Absolute refractory period is due to closure of inactive gates of sodium channel.
+voltage-gated sodium channels have 3 states that you can find them in. They can either be closed, open, or inactive.
+when the stimulus causes activation of the open gates, sodium rushes into the cell causing the membrane potential to become more positive. After o.5 to 1 millisecond, the inactive gate automatically closes and no stimulus, no matter how strong, can excite the nerve. This is called the absolute refractory period.",,D,431-440.PNG
+Q12,"X, Y, Z are three permeable ions. X = -5o and Y = -3o. At RMP, if there is no net electrogenic transfer, what is the value of Z?","a) +2o
+b) -2o
+c) +8o
+d) -8o","No net electro genic transfer at RMP means X + Y + Z = o
+since X = -5o and Y = -3o, then Z must be +8o since (-8o +8o = o)",,C,
+Q13,slow waves are generated by:,"a) Myenteric neurons
+b) smooth muscle cells
+c) Interstitial cells of cajal
+d) parasympathetic neurons","The interstitial cells of cajal undergo cyclic changes in membrane potential due to unique ion channels that periodically open and produce inward (pacemaker) currents that generate slow-wave activity.
+Interstitial cells of cajal are the pacemaker cells of the GIT that initiate the basic electrical rhythm (BER).
+The slow waves usually do not by themselves cause muscle contraction in most parts of the gastrointestinal tract, except perhaps in the stomach. Instead, they mainly excite the appearance of intermittent spike potentials, and the spike potentials in turn actually excite the muscle contraction.",,C,
+Q14,A patient has a ■blood glucose level of 2oo mg/dL and GFR of 9o ml/min. what is the amount of glucose excreted if the transport maximum of the patient is as shown below?,"a) 8o mg/min
+b) 5o mg/min
+c) 4o mg/min
+d) 3o mg/min","The amount of glucose excreted in the above scenario is 3o mg/min.
+calculation:
+step 1: calculate total filtered glucose:
+In this question,
+• GFR = 9o ml/min
+• Plasma glucose concentration = 2oo mg/dL= 2 mg/ml (1 dL=1oo ml).
+• Total filtered glucose = GFR X Plasma glucose concentration. = 9o ml/min X 2 mg/ml = 18o mg/min.
+step 2: check transport maximum:
+In the above question transport maximum is 15o mg/min.
+step 3: calculate the excretion:
+Excretion = Total filtered glucose - Total reabsorbed glucose (Transport Maximum) = 18o-15o mg/min = 3o mg/min",421-432.PNG,D,
+Q15,which of the following can be responsible for Bezold-Jarisch reflex?,"a) serotonin
+b) Histamine
+c) prostaglandin
+d) Angiotensin","serotonin can be responsible for Bezold–Jarisch reflex.
+Activation of chemosensitive vagal C fibers located in the cardiopulmonary region causes profound bradycardia, hypotension, and apnea followed by rapid shallow breathing. This response is called Bezold-Jarisch reflex.
+other substances that can cause Bezold–Jarisch reflex are capsaicin, phenyl biguanide, and veratridine.",,A,
+Q16,which of the following is the constituent of the marked area in the electron microscopic picture of muscle?,"a) Alpha actinin
+b) Actin
+c) Titin
+d) Tropomyosin","Alpha actinin is the constituent of the marked area.
+The image depicts sarcomere and the arrow points towards Z-line. Alpha actinin binds actin to Z-lines.
+The thick filaments are made up of myosin, which are lined to form A bands; the thin filaments are made up of actin, tropomyosin, and troponin.
+The Z lines allow for anchoring of the thin filaments.
+Actinin, titin and desmin are additional structural proteins.Titin connects Z-lines to the M line. Desmin adds structure to Z-lines by connecting Z-line to plasma membrane.",422-433.PNG,A,433-442.PNG
+Q17,The fourth heart sound is caused by:,"a) closure of aortic and pulmonary valves
+b) vibrations in the ventricular wall during systole
+c) ventricular filling
+d) closure of mitral and tricuspid valves","The fourth heart sound is caused by ventricular filling.
+A fourth sound is heard immediately before the first sound when atrial pressure is high or the ventricle is stiff in conditions such as ventricular hypertrophy. It is due to ventricular filling and is rarely heard in normal adults.",,C,434-443.PNG
+Q18,“a” wave on JvP is for ,"a) Atrial contraction 
+b) Atrial filling
+c) ventricular relaxation
+d) ventricular filling","""a"" wave in JVP represents atrial contraction.
+waves of JVP :
+• a- atrial systole pushing the blood to the ventricles.
+• c- isovolumetric contraction of ventricles causing the tricuspid valve to bulge.
+• x'- fall in atrial pressure during ventricular systole due to pull of valve leaflets.
+• v- venous filling which creates an increase in atrial pressure.
+• y- passive filling of ventricles by a passive flow of the blood from the right atrium.",,A,435-445.PNG
+Q19,"In the 2 vessels shown below, assume the pressure along both the vessels is the same and both follow linear flow pattern. what will be the amount of blood flow in A compared to B","a) 4 times
+b) 32 times
+c) 8 times
+d) 16 times","The relationship between the flow in a long narrow tube, the viscosity of the fluid, and the radius of the tube is expressed mathematically in the formula called as Poiseuille's law.
+Blood flow (F) inside the vessel depends on:
+• pressure difference: directly proportional
+• viscosity: inversely proportional
+• Radius: directly proportional to the fourth power
+• Length of the vessel: inversely proportional
+Here, the radius is doubled so the flow increases by 2 to the power of 4 = 16.
+the length of the vessel is also doubled, so the flow decreases by half (÷2) = 8",423-434.PNG,C,436-446.PNG
+Q20,A 13-year-old boy presents with involuntary dancing movements of his right hand. He was diagnosed with rheumatic fever. what constitutes the ganglia involved in the presenting complication?,"a) caudate nucleus and globus pallidus
+b) Globus pallidus and putamen
+c) Globus pallidus and lentiform nucleus
+d) caudate nucleus and putamen","The given clinical scenario is suggestive of sydenham's chorea, a complication of rheumatic fever. The choreic movements are caused by the destruction of D2 neurons of the striatum. The neostriatum consists of the caudate nucleus and putamen.
+Nomenclature of basal ganglia:
+• corpus striatum: caudate nucleus + putamen+ globus pallidus
+• Lentiform nucleus: putamen + globus pallidus
+• Neostriatum: caudate nucleus + putamen",nan,D,437-447.PNG

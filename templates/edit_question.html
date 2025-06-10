@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Question {{ q_id + 1 }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container edit-page-container">
+        <div class="edit-main-content">
+            <div class="edit-form-column">
+                <div class="test-header">
+                    <a href="{{ url_for('home') }}" class="btn btn-home">🏠 Main Menu</a>
+                    <h3>Editing: {{ filename }}</h3>
+                </div>
+                <div class="edit-navigation">
+                    {% if q_id > 0 %}
+                        <a href="{{ url_for('edit_question_page', filename=filename, q_id=q_id - 1) }}" class="btn btn-nav">&larr; Previous</a>
+                    {% else %}
+                        <span></span>
+                    {% endif %}
+                    <button type="submit" form="edit-form" class="btn btn-save">Save & Next &rarr;</button>
+                </div>
+                <div class="navigator-bar edit-navigator">
+                    {% for i in range(total_questions) %}
+                        <a href="{{ url_for('edit_question_page', filename=filename, q_id=i) }}" class="nav-item {% if i == q_id %}current{% endif %}">{{ i + 1 }}</a>
+                    {% endfor %}
+                </div>
+                <h4>Question {{ q_id + 1 }} of {{ total_questions }}</h4>
+                <form id="edit-form" action="{{ url_for('save_edit', filename=filename, q_id=q_id) }}" method="post">
+                    <div class="form-group">
+                        <label for="question_text">Question Text</label>
+                        <textarea id="question_text" name="question" rows="4">{{ question.question }}</textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="image_q_input">Question Image <span class="thumb-preview" id="image_q_thumb"></span></label>
+                        <input type="text" id="image_q_input" name="image_q" value="{{ question.get('image_q', '') }}" placeholder="Type or click image..." oninput="updateThumb('q'); filterGallery();">
+                    </div>
+                    <div class="form-group">
+                        <label for="image_a_input">Answer Images (semicolon-separated) <span class="thumb-preview" id="image_a_thumb"></span></label>
+                        <input type="text" id="image_a_input" name="image_a" value="{{ question.get('image_a', '') }}" placeholder="e.g., img1.png;img2.png" oninput="updateThumb('a')">
+                    </div>
+                    <div class="form-group">
+                        <label for="solution_text">Solution (Wrap tables with [TABLE]...[/TABLE])</label>
+                        <textarea id="solution_text" name="solution" rows="15">{{ question.solution }}</textarea>
+                    </div>
+                </form>
+            </div>
+            <div class="gallery-column">
+                <h4>Available Images <span id="gallery-count"></span></h4>
+                <div id="image-gallery" class="image-gallery">
+                    {% for image_file in all_images %}
+                        <div class="gallery-item" data-filename="{{ image_file }}">
+                            <img src="{{ url_for('static', filename='images/' + image_file) }}" alt="{{ image_file }}" loading="lazy">
+                            <p class="gallery-filename">{{ image_file }}</p>
+                            <div class="gallery-buttons">
+                                <button type="button" onclick="selectImage('{{ image_file }}', 'q')">For Q</button>
+                                <button type="button" onclick="selectImage('{{ image_file }}', 'a')">For A</button>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        const gallery = document.getElementById('image-gallery');
+        const editForm = document.getElementById('edit-form');
+        document.addEventListener('DOMContentLoaded', () => {
+            const lastScrollPos = sessionStorage.getItem('galleryScrollPos');
+            if (lastScrollPos) { gallery.scrollTop = parseInt(lastScrollPos, 10); }
+            updateGalleryCount();
+            updateThumb('q');
+            updateThumb('a');
+        });
+        if (editForm) {
+            editForm.addEventListener('submit', () => { sessionStorage.setItem('galleryScrollPos', gallery.scrollTop); });
+        }
+        document.querySelectorAll('.btn-nav, .nav-item').forEach(button => {
+            button.addEventListener('click', () => { sessionStorage.setItem('galleryScrollPos', gallery.scrollTop); });
+        });
+        function selectImage(filename, type) {
+            const inputElement = document.getElementById(`image_${type}_input`);
+            if (type === 'a' && inputElement.value.trim() !== '') {
+                inputElement.value += `;${filename}`;
+            } else {
+                inputElement.value = filename;
+            }
+            updateThumb(type);
+        }
+        function updateThumb(type) {
+            const inputElement = document.getElementById(`image_${type}_input`);
+            const thumbContainer = document.getElementById(`image_${type}_thumb`);
+            const filenames = inputElement.value.split(';').map(f => f.trim()).filter(f => f);
+            thumbContainer.innerHTML = '';
+            if (filenames.length > 0) {
+                filenames.forEach(filename => {
+                    if (filename && filename !== 'nan') {
+                        thumbContainer.innerHTML += `<img src="/static/images/${filename}" alt="thumb">`;
+                    }
+                });
+            }
+        }
+        function filterGallery() {
+            const qFilter = document.getElementById('image_q_input').value.toLowerCase();
+            const items = gallery.getElementsByClassName('gallery-item');
+            let visibleCount = 0;
+            for (let i = 0; i < items.length; i++) {
+                const filename = items[i].getAttribute('data-filename').toLowerCase();
+                if (filename.includes(qFilter)) {
+                    items[i].style.display = "";
+                    visibleCount++;
+                } else {
+                    items[i].style.display = "none";
+                }
+            }
+            updateGalleryCount(visibleCount, items.length);
+        }
+        function updateGalleryCount(visible = null, total = null) {
+            const galleryCountSpan = document.getElementById('gallery-count');
+            if (visible === null) {
+                const items = gallery.getElementsByClassName('gallery-item');
+                total = items.length;
+                visible = Array.from(items).filter(item => item.style.display !== 'none').length;
+            }
+            galleryCountSpan.textContent = `(${visible} / ${total} shown)`;
+        }
+    </script>
+</body>
+</html>

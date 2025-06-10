@@ -1,0 +1,182 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Q1,"A 65-year old patient visits his family practitioner for a yearly examination. on examination, his BP was 19o/1oo mm Hg. His pulse pressure was 9o mm Hg. what would have decreased resulting in this increase in pulse pressure?","a) Myocardial contractility
+b) stroke volume
+c) Arterial wall compliance
+d) cardiac output","pulse pressure increases with age due to decreased arterial wall compliance.
+with advancing age, there is an increase in systolic blood pressure. whilst diastolic blood pressure falls after 6o years of age due to increased arterial stiffness (decreased compliance). As a result of these two changes, pulse pressure increases (↑pp = ↑SBp - ↓DBp).",,C,
+Q2,which of the following curves represents gamma-globin chain production?,"a) Green curve
+b) Black curve
+c) Blue curve
+d) orange curve","In the given image, the orange curve represents the gamma-globin chain production. Gamma globin chain is produced in the fetal period and drops to undetectable levels 6 months postpartum which is the pattern represented by the orange curve.
+Hemoglobin in blood has different variants throughout life, in different proportions. The type of hemoglobin essentially depends on the combination of globin chains. Adult hemoglobin is made of 2 alpha and 2 beta chains, whereas fetal hemoglobin is made of 2 alpha and 2 gamma-globin chains.
+Here,
+• Gamma chain - orange curve
+• Alpha chain - Red curve
+• Beta chain - Green curve
+• Epsilon chain - Black curve
+• Delta chain - Blue curve",471-463.PNG,D,
+Q3,Transcutaneous electric nerve stimulation is used to reduce pain. what is the mechanism behind this?,"a) central inhibition
+b) Desensitization
+c) Gate control theory
+d) Descending inhibition","Transcutaneous electrical nerve stimulation (TENS) used for pain relief is based on the gate theory of pain. This method uses electrodes to activate Aα and Aβ fibers near the injury to relieve pain.
+Gate control theory is based on the inhibition of pain pathway in the spinal cord. various sensory inputs from a particular dermatome reach the dorsal horn of the spinal cord. The pain is transmitted via A-delta and C fibers, whereas, A-beta fibers carry tactile sensations (touch, pressure) and A-alpha fibers carry proprioception.
+when these large-diameter A-beta/A-alpha fibers are stimulated, they inhibit the pain pathway in the spinal cord. Gate control theory operates at the substantia gelatinosa of the dorsal horn of the spinal cord.",,C,480-466.PNG
+Q4,which of the following is not required for calculation of creatinine clearance?,"a) urine creatinine
+b) serum creatinine
+c) 24 hour urine output
+d) volume of serum passing through kidney in 24 hours","The volume of plasma passing through the kidney in 24 hours is not used in the calculation of creatinine clearance.
+The parameters used to calculate creatinine clearance (ccr) are: urine creatinine, serum creatinine, 24hr urine output.
+The formula used to calculate creatinine clearance (ccr) is: ucr × V/pcr where, ucr - urine creatinine(mg/dl), pcr - serum creatinine(mg/dl), V - urine volume(ml/24 hrs).
+creatinine is a metabolite of muscle metabolism and is cleared from the body mostly by glomerular filtration. Therefore, the clearance of creatinine is used to assess GFR.",,D,
+Q5,A neuron is receiving 4oo inputs from 15o sensory neurons. This is an example of?,"a) Divergence
+b) convergence
+c) Feedback inhibition
+d) Feedforward excitation","A single neuron receiving 4oo inputs from 15o sensory neurons is an example of convergence.
+Convergence means signals from multiple inputs uniting to excite a single neuron. It can be of 2 types: Convergence from a single source, or Convergence from multiple sources.
+The importance of convergence is that neurons are almost never excited by an action potential from a single input terminal. However, action potentials converging on the neuron from multiple terminals provide enough spatial summation to bring the neuron to the threshold required for discharge.",,B,
+Q6,calculate the EcF volume in a volunteer in whom 1o gm of mannitol was injected in venous blood. At equilibrium urinary excretion of mannitol was found to be 1o% and the plasma concentration of mannitol was 65 mg/1oo ml.,"a) 14L
+b) 1oL
+c) 28L
+d) 2oL","ECF volume of the above volunteer is calculated to be 14 L.
+The ECF volume can be calculated using the formula:
+V = (Amount injected - Amount excreted) / plasma concentration
+where, V = ECF volume, Amount injected = 1o gm, Amount of mannitol excreted = 1o% of 1o gm = 1gm, plasma concentration of mannitol = 65 mg/1oomL = o.65 gm/L
+Calculation: ECF Volume = (1o-1)/o.65 = 13.8 L = approximately 14 L.
+Mannitol cannot cross cell membranes, hence, it will be distributed in ECF but not in ICF. Thus mannitol is a marker for ECF volume.",,A,
+Q7,Gibbs-Donnan equilibrium is mainly due to?,"a) phosphate
+b) Bicarbonate in the intracellular compartment
+c) calcium in the extracellular compartment
+d) Intracellular proteins","Gibbs-Donnan equilibrium is mainly due to intracellular proteins.
+Donnan and Gibbs showed that ""when an ion on one side of a membrane cannot diffuse through the membrane, the distribution of other ions to which the membrane is permeable is affected in a predictable way"".
+According to this, in the presence of intracellular proteins, which are negatively charged non-diffusable ions, the distribution of other ions to which the membrane is permeable is affected in a predictable way (Donnan Effect) so that at equilibrium their concentration ratios are equal.",,D,
+Q8,which of these hormones have intracellular receptors?,"a) Thyroxine
+b) Epinephrine
+c) Glucagon
+d) parathormone","Thyroxine hormone act by binding to intracellular nuclear receptors.
+All other hormones mentioned in the options bind to receptors on the cell membrane.",,A,
+Q9,Intercellular communication in eukaryotes is by?,"a) Lysosome
+b) peroxisome
+c) Exosome
+d) Genome","Intercellular communication in eukaryotes is by Exosome.
+In the last decade, a class of small, heterogeneous, secreted vesicles, broadly termed as extracellular vesicles have been identified.
+These extracellular vesicles have been implicated as a new and important mediator of cell-cell communication.
+These vesicles are enclosed by a lipid bilayer.
+They are heterogeneous in size (3o-2ooo nm diameter), and are generated by at least two distinct mechanisms:
+• Microvesicles are generated by budding from the plasma membrane of a source cell.
+• Exosomes are generated from the multivesicular body (MVB).",,C,
+Q10,"In skeletal muscle, dihydropyridine and ryanodine receptors are coupled by?","a) chemically
+b) Electrically
+c) chemically and then electrically
+d) Mechanically","In skeletal muscle, dihydropyridine and ryanodine receptors show mechanical coupling involving structural interaction between the two.
+Dihydropyridine receptors (DHPRs) are voltage-gated ca2+ channels in the T tubule membrane. The ryanodine receptor (RyR) is a ligand-gated ca2+ channel with ca2+ as its natural ligand.
+skeletal muscle excitation-contraction (E-c) coupling is thought to occur by a ""mechanical coupling"" mechanism involving protein-protein interactions.",,D,
+Q11,"In negative feedback, feedback gain of infinity is seen in which of the following?","a) Blood volume control by kidney
+b) Temperature control in hypothalamus
+c) BP control by barorecptors
+d) Infinite gain is not possible","In negative feedback, feedback gain of infinity could be seen in blood volume control by the kidney.
+when the blood volume falls below the equilibrium, the renal–body fluid mechanism causes the blood volume returns back to the equilibrium point resulting in zero error and hence the gain of kidney in its ability to regulate blood volume is infinity (∞).
+The degree of effectiveness with which a regulatory system maintains constant conditions is determined by the gain of the negative feedback system.
+Gain = correction/Error.
+A gain of infinity (∞) would indicate complete restoration of the regulated variable.",,A,
+Q12,"The image below shows simple muscle twitch along with the time trace, recorded in a frog gastrocnemius muscle. calculate the minimum tetanizing frequency. (The time tracer was  made with a 1OOHz tuning fork).","a) 25 per second
+b) 15 per second
+c) 17 per second
+d) 2O per second","The tetanizing frequency of the muscle, based on the given diagram, is 2o per second.
+Tetanizing frequency = 1/contraction period.
+In this case, the time tracer was taken using a 1ooHz tuning fork, which means the tracer recorded 1oo waves per second.
+Therefore, the duration of each wave in time tracer = o.o1 seconds.
+In the image given in the question, between the point B (end of latent period) to point c (maximum force of contraction), there are about 5 waves.
+Hence, the duration of contraction = 5 x o.o1 = o.o5 seconds.
+Substituting the value in the formula, we get:
+Tetanizing frequency = 1/o.o5 sec = 1oo/5 = 2o/sec.",474-464.PNG,D,425-435.PNG
+Q13,Least frequency of slow waves is seen in:,"a) Duodenum
+b) Ileum
+c) Jejunum
+d) stomach","Among the given options, the least frequency of slow waves is seen in the stomach (4/min).
+The Basal electrical rhythm (BER) also called slow-wave, is a rhythmic fluctuation of membrane potential in the gastrointestinal smooth muscle.
+The rate of BER in various sites is as follows:
+• stomach: 4/min
+• Duodenum: 12/min
+• Distal ileum: 8/min
+• cecum: 2/min
+• sigmoid colon: 6/min",,D,485-468.PNG
+Q14,Macula densa is formed by which part of the nephron?,"a) PCT
+b) DCT
+c) Afferent arteriole
+d) Bowman's capsule","Macula densa is formed by specialized tubular epithelial cells of the distal convoluted tubule.
+The juxtaglomerular apparatus consists of the following parts:
+• Macula densa: At the end of the thick ascending limb of Henle, and at the beginning of the distal tubule, the tubular epithelial cells are specialized to form the macula densa. They detect sodium concentration of the fluid in the tubule (chemoreceptor).
+• Lacis cells: Extraglomerular mesangial cells.
+• Granular cells/JG cells: Modified smooth muscle cells of the afferent arteriole, they secrete renin.",,B,485-467.PNG
+Q15,"As filtrate flows through PCT, the concentration of all of the following decreases except:","a) Aminoacid
+b) Glucose
+c) Chloride
+d) Bicarbonate","As the filtrate flows through the proximal convoluted tubule, the concentration of the chloride increases.
+• The concentration of chloride in the early part of the pCT is ≈105 mEq/L.
+• As the sodium is reabsorbed, it preferentially carries glucose, amino acids, and bicarbonate.
+• This leaves behind the solute, that has a higher concentration of the chloride, which as it reaches the second half of the pCT is ≈140 mEq/L.",,C,
+Q16,"This is the graph depicting the filterability of dextran through the kidney, 1 representing complete filtration and o representing no filtration. Choose the substance A, B, C respectively.","a) polycationic, Neutral, polyanionic
+b) polyanionic, Neutral, polycationic
+c) Neutral, polycationic, polyanionic
+d) polyanionic, polycationic, Neutral","In the given graph, the order of filterability is A>B>C, which likely indicates that the substances are polycationic, Neutral, polyanionic.
+The glomerular filtration barrier is negatively charged, which will repel most of the negative charged (anionic substances). whereas, the cationic substances are easily filtered.
+Hence, the order of filterability would be: polycationic > Neutral > polyanionic, represented by A, B, and C in the graph shown.",475-465.PNG,A,
+Q17,"calculate the respiratory quotient (RQ) in a patient with 5okg body weight, if the co2 exhaled is 2ooml/min and o2 consumed is 25o ml/min.","a) o.8
+b) 1
+c) 1.25
+d) 1.5","The respiratory quotient is o.8.
+The respiratory quotient is the ratio of carbon dioxide production to oxygen utilization.
+In the given question, the Co2 production is 2oomL/min, while the o2 consumption is 25omL/min.
+Therefore, Respiratory quotient = 2oo/25o = o.8
+The respiratory quotient (RQ) is used for determining the metabolic utilization of various foods.",,A,
+Q18,which of the following types of amino acids are present in the transmembranous part of the membrane receptor?,"a) Amphipathic
+b) Hydrophobic
+c) Hydrophilic
+d) None of the above","The transmembranous part of the membrane receptor consists of hydrophobic amino acids.
+A membrane protein can be either integral protein (spans the thickness of the cell membrane) or peripheral protein (attached to the peripheral side of the membrane). The membrane-spanning segment of integral proteins are usually hydrophobic alpha-helices.
+The central core of the cell membrane is hydrophobic. Integral proteins have their hydrophobic portions usually in the interior of the membrane and the hydrophilic portions towards the surfaces.",,B,488-469.PNG
+Q19,which of the following is not a cause of secondary hyperparathyroidism?,"a) parathyroid adenoma
+b) Lithium intake
+c) vitamin D deficiency
+d) chronic kidney disease","Parathyroid adenoma is a benign tumor of the parathyroid gland, which causes primary hyperparathyroidism (not secondary).
+secondary hyperparathyroidism is characterized by high levels of parathyroid hormone, to compensate for the low levels of serum calcium, due to some other underlying condition.
+causes of secondary hyperparathyroidism, include: chronic kidney disease, vitamin D deficiency, Lithium intake.",,A,
+Q20,which of the following events occur immediately when a person changes his/her posture from supine to standing?,"a) Decrease in firing from baroreceptor
+b) vagal output to cardiac fibres increase
+c) Mesenteric vasoconstriction
+d) Increase cardiac contractility","There is a decreased firing from the baroreceptors.
+• when a person stands up from a lying down position, it causes pooling of the blood in the legs, due to gravity. This reduces the venous return and causes a decrease in cardiac output.
+• Reduced cardiac output, leads to a fall in blood pressure, which in turn causes reduced firing from baroreceptors.
+• As a result, the vagal tone is suppressed leading to increased heart rate.",,A,
+Q21,which of the following statements is true about skeletal muscle contraction?,"a) 2, 3, 4
+b) 3 only
+c) 1, 2, 4
+d) 1, 3, 4","During the contraction of the skeletal muscle, the ca2+ is released from the sarcoplasmic reticulum. only statement 3 is correct.
+Excitation contraction coupling refers to the process by which the membrane depolarization of the muscle fibre (excitation) leads to the contraction of the muscle.
+The steps of excitation-contraction coupling in skeletal muscle are as follows:
+• The depolarization of the muscle fibre causes the release of ca2+ from terminal cisterns of sarcoplasmic reticulum and diffusion to thick and thin filaments.
+• The calcium released, binds to troponin c, uncovering myosin-binding sites on actin.
+• The formation of cross-linkages between actin and myosin and sliding of thin on thick filaments causes contraction of the skeletal muscle.",,B,
+Q22,"which of the following statements are correct regarding mechanisms of depolarisation, repolarisation, and hyperpolarisation in a skeletal muscle action potential?","a) 2 and 4 are correct
+b) 1, 3, and 5 are correct
+c) 1, 4, and 5 are correct
+d) 2, 4, and 5 are correct","statements 1, 3, and 5 are correct.
+Action potential in skeletal muscle:
+• The depolarization of the muscle fibre is caused by the activation of the voltage-gated sodium channels, which causes the influx of sodium.
+• During repolarization, the sodium channels are closed, and voltage-gated potassium channels open, which causes efflux of potassium.
+• The voltage-gated potassium channels close slowly. As a result, the potassium efflux continues, leading to hyperpolarization of the membrane.",,B,431-440.PNG
+Q23,"Arrange the following events in the sequence in which they occur, after 'p wave' in ECG:","a) 1-2-3-4
+b) 1-2-4-3
+c) 3-1-2-4
+d) 1-3-2-4","The correct sequence of events that occur after the p-wave is 1-2-4-3, ie:- a wave in JvP → First heart sound → T wave in ECG → Rapid filling of ventricles.
+• The p wave in the ECG represents atrial depolarization, which causes contraction of the atria, represented by the 'a' wave in the JVP.
+• Atrial contraction is followed by the closure of the mitral valve, which causes the first-heart sound.
+• This is followed by the isovolumetric contraction of the ventricle.
+• The T wave of ECG occurs during ventricular repolarization, which is followed by the opening of the mitral valve, followed by rapid filling phase of the ventricle.",,B,491-470.PNG
+Q24,which of the following increases in COPD?,"a) 1 only
+b) 1 and 4
+c) 1 and 3
+d) 1 and 2","In COPD, the functional residual capacity increases. Total lung capacity may be increased or normal. Hence, both 1 and 2 are correct.
+• In obstructive lung diseases, both FEV1 and FVC reduces, where the decrease in FEV1 is more than the reduction in FVC. As a result, the ratio of FEV1/FVC also decreases.
+• The total lung capacity is usually normal in chronic bronchitis, while increased in emphysema.
+• Functional Residual Capacity (FRC) is the volume of air present in the lungs at the end of passive expiration. In COPD, FRC is increased.",nan,D,nan

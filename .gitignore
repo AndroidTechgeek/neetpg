@@ -1,0 +1,8 @@
+﻿# .gitignore
+
+# Ignore all images in the static folder
+static/images/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc

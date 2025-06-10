@@ -1,0 +1,103 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Q1,The predominant organ producing insulin-like growth factor I is,"a) Liver
+b) pituitary gland
+c) pancreas
+d) Adrenal glands","Growth hormone acts on the liver to form small proteins called “somatomedins”.
+• somatomedins increases bone growth in all aspect
+• Effects are similar to insulin, hence referred to as insulin-like growth factor (IGF).
+• Four types available:
+• Most important is somatomedin C, specifically referred to as “insulin-like growth factor-1 (IGF-1)
+• Blood concentration of IGF-1, follows the levels of growth hormone.
+• Growth effects of GH are mostly attributed to somatomedin (rather than its direct effect on bones & peripheral tissues)",,A,
+Q2,what is prosopagnosia?,"a) Impairment of consciousness
+b) Being unaware of one’s problems
+c) Difficulty in identifying known faces
+d) Failure to identify objects","prosopagnosia is difficulty in identifying known faces.
+In humans, storage and recognition of faces is more strongly represented in the right inferior temporal lobe in right-handed individuals, though the left lobe is also active. Damage to this area can cause prosopagnosia.
+patients with this abnormality can recognize forms and reproduce them. They can recognize people by their voices, and many of them show autonomic responses when they see familiar as opposed to unfamiliar faces. However, they cannot identify the familiar faces they see.
+Note:
+• Autotopagnosia - inability to recognize or to orient any part of one's own body
+• simultagnosia - inability to recognize multiple elements in a visual presentation
+• Somatagnosia - inability to identify any part of the body
+• Tactile agnosia (astereognosis) -  inability to recognize objects by touch",,C,
+Q3,All of the following are components responsible for the countercurrent mechanism in the kidney except _____.,"a) sodium outflow in thick ascending limb
+b) water outflow in thin descending limb
+c) sodium outflow in thin ascending limb
+d) Flow of tubular fluid from pCT to DCT","Thin ascending limb is not a component of the countercurrent mechanism.
+The loop of Henle function as countercurrent multipliers and vasa recta as countercurrent exchangers.
+The functioning of the loop of Henle depends upon:
+• High permeability of the thin descending limb to water ( via aquaporin-1)
+• Active transport of Na+ and cl- from the thick ascending limb
+• Inflow of tubular fluid from proximal tubule and outflow to the distal tubule.
+Note: The thin ascending limbs of juxtamedullary nephrons are permeable to Na+ and cl- and hence do contribute passively to countercurrent multiplication. However, among the options provided, option c is the best answer as the other options are directly responsible for the countercurrent mechanism.",,C,
+Q4,Glucose is absorbed in intestine by?,"a) primary active transport
+b) Facilitated diffusion
+c) simple diffusion
+d) secondary active transport","Glucose is absorbed in the intestine by secondary active transport (sodium co-transport).
+The energy for glucose transport is provided indirectly, by the active transport of Na+ out of the cell. This maintains the concentration gradient across the luminal border of the cell so that more Na+ and consequently more glucose enter.
+Though both secondary active transport and facilitated diffusion play a role in glucose absorption, it is the initial active transport of sodium through the basolateral membranes of the intestinal epithelial cells that provide the eventual force for moving glucose through the membranes as well. So, secondary active transport is the single best answer for this question.",,D,
+Q5,In which of the following conditions is oxygen therapy not useful?,"a) Asthma
+b) Acute myocardial infarction
+c) pulmonary edema
+d) Central respiratory depression","oxygen therapy is not beneficial in central respiratory depression.
+High dose oxygen reduces the output of peripheral chemoreceptors. So, if given to patients who already have central respiratory depression, it will indirectly reduce the hypoxic drive to breathe even further, leading to a reduction in respiratory frequency and minute ventilation.
+Note: In acute severe asthma, a high concentration of oxygen should be given by face mask to achieve an oxygen saturation of >9o%.",,D,
+Q6,va/Q = infinity means   .,"a) partial pressure of o2 becomes zero
+b) No exchange of o2 & Co2
+c) Co2 alone equilibrates with the venous blood
+d) partial pressure of both Co2 and o2 remain normal","va /Q = infinity means No exchange of o2 & Co2.
+• va represents the ventilation in alveoli.
+• Q represents the blood flow through the alveolus.
+• The ratio of va and Q explains the respiratory exchange when there is an imbalance between alveolar ventilation and alveolar blood flow.
+• when va /Q ratio is infinity: There is adequate ventilation but no perfusion. The alveolar air equilibrates the humidified inspired air. No exchange of oxygen and carbon-di-oxide occurs.",,B,
+Q7,'c' wave in Jvp is seen in,"a) Iso-volumetric contraction
+b) slow filling at end of diastole
+c) End of systole
+d) start of diastole",'c' waves are produced by bulging of the tricuspid valve into the right atrium during the Iso-volumetric contraction of the right ventricle.,,A,499-471.PNG
+Q8,All of the following are true regarding the actions of endothelin-1 except ______,"a) Bronchodilation
+b) vasoconstriction
+c) Decreased GFR
+d) Has inotropic effect","Endothelin-1 causes bronchoconstriction.
+Actions of Endothelin-1 (ET-1)
+• potent vasoconstrictor.
+• platelet activation.
+• Inotropic effect.
+• closure of ductus arteriosus.
+• In the brain, regulate the transport of substances across blood brain barrier (BBB).
+• In the kidneys, they are involved in tubuloglomerular feedback→ ↓ GFR.
+• In the lungs, it causes bronchoconstriction (mediated via ET-B receptors).",,A,
+Q9,Aldosterone secretion is maximally stimulated by______,"a) HyperKalemia
+b) ACTH
+c) Hypernatremia
+d) Exogenous steroid",Hyperkalemia and activation of renin-angiotensin system are the most potent stimulators of aldosterone secretion.,,A,500-472.PNG
+Q10,cGMP is the second messenger of,"a) somatostatin
+b) Angiotensin II
+c) ADH
+d) NO (nitric oxide)","vasodilatory actions of NO are mediated by cGMP.
+NO is a hormone derived from the amino acid arginine. It activates guanylyl cyclases in vascular smooth muscle cells resulting in the conversion of cGTP to cGMP (2nd messenger). cGMP activates cGMP dependent protein kinase, which causes blood vessels to relax.
+cGMP is the second messenger for nitric oxide and atrial natriuretic factor.",,D,
+Q11,Transport molecule for Fe2+ into the enterocytes is,"a) Ferroportin 1
+b) Hephaestin
+c) Divalent Metal Transporter 1
+d) Divalent Metal Transporter 2","Transport of Fe2+ into the enterocytes occurs via divalent metal transporter 1 (DMT1), through an active transport process.
+Protein DMT-1 (Divalent Metal Transporter-1) is expressed on the apical surface of enterocytes in the initial part of the duodenum. DMT-1 is not specific to iron & transports other substances like zinc, copper, cobalt & manganese.",nan,C,501-473.PNG
+Q12,Nuclear signalling pathways are all except,"a) Caveolins
+b) NF-KB
+c) Importins
+d) Rat proteins","Rat proteins are not nuclear signalling pathways. Recombinant rat IFN- is a bioactive protein intended for use in cell culture applications.
+Importin: Transporting protein molecules into nucleus by binding to specific recognition sequences, called Nuclear Localization Sequences (NLS).
+caveolins: Family of integral membrane proteins that are principal components of caveolae membranes, involved in receptor-independent endocytosis.
+NF-kB: part of a prototypical proinflammatory signaling pathway.",,D,
+Q13,which of the following statements is false about Cuthbertson's metabolic ebb and flow responses to trauma?,"a) The ""ebb"" phase is associated with a decline in body temperature and oxygen consumption.
+b) The ""flow"" phase occurs after resuscitation from a state of shock.
+c) The ""ebb"" phase is aimed at reducing posttraumatic energy depletion.
+d) The ""ebb"" phase leads to activation of the innate immune system and induction of the hepatic acute-phase response.","The ""flow"" phase (not ""ebb"") leads to activation of the innate immune system and induction of the hepatic acute-phase response.
+cuthbertson's ebb and flow response to trauma:
+The ""ebb"" phase lasts for a brief duration and is associated with a decline in body temperature and oxygen consumption, aimed at reducing post traumatic energy depletion.
+The ""flow"" phase occurs after resuscitation from a state of shock, which leads to an increased metabolic turnover, activation of the innate immune system and induction of the hepatic acute-phase response. This hypercatabolic condition leads to a significantly increased oxygen consumption and energy expenditure.",,D,
+Q14,kidney responds to shock by _______.,"a) Increasing renal blood flow
+b) Increasing afferent arteriole resistance
+c) Increasing GFR
+d) Both B and C","kidney responds to shock by increasing afferent arteriole resistance.
+During shock, both afferent and efferent arterioles in kidney are constricted, however, the efferent vessels are constricted much more.
+The glomerular filtration rate and the plasma renal flow is decreased during shock. As plasma renal flow is decreased to a greater extent, the filtration fraction increases.",,B,

@@ -1,0 +1,98 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,Identify the marked region in the given spirometry.,"a) Functional residual capacity
+b) Tidal volume
+c) Expiratory reserve volume
+d) Expiratory capacity","The marked area in the spirometry shows the total amount of air present in the lung after normal expiration. This is called functional residual capacity.
+The various volumes and capacities in a spirometry are shown below.",602-524.PNG,A,607-529.PNG
+Question 2,"A man was brought to the emergency after he suddenly became unconscious while working in the field. on examination, his temperature was 105 degrees Fahrenheit and his skin turgor was decreased. which of the following would not be seen in the patient?","a) Tachypnea
+b) Hypotension
+c) sweating
+d) Red hot skin","The given clinical vignette in a patient with signs of dehydration and a body temperature of 105°F is highly suggestive of heatstroke. sweating would not be seen in a patient with heatstroke.
+The body has various mechanisms to maintain body temperature within a range of 36–37°c. when the body temperature is elevated by exposure to high environmental temperatures or physical exertion, the central control area in the medial preoptic and anterior hypothalamic nuclei is activated. This engages the autonomic pathways that promote sweating and cutaneous vasodilation, causing the heat to dissipate and bring the body to normal temperature.
+Heatstroke occurs due to the failure of the heat regulation center of the hypothalamus. The person fails to lose heat by cutaneous circulation and sweating. It is likely to develop when the body temperature rises to a range of 105°F to 108°F. The predisposing factors include high temperature, increased humidity, minor infections, old age, and physical activity.
+It is a medical emergency that leads to homeostatic imbalance. The symptoms include dizziness, abdominal distress, vomiting, delirium, and eventually leading to loss of consciousness. on examination, the skin is dry, hot, and flushed, with a complete absence of sweating (anhidrosis). other signs seen in heat stroke are tachycardia, kussmaul-type rapid deep breathing (tachypnea), hypotension, cardiac failure, dizziness, muscle cramping, confusion, and seizures.
+Heatstroke can cause damage to multiple organ systems, including the brain, kidneys, and liver, which can lead to life-threatening complications. It is essential to initiate rapid cooling and supportive care measures to prevent permanent injury or death. The cooling methods used to treat heatstroke include:
+• Cold water immersion: The patient is immersed in a tub of cold water, which is the most effective way to lower body temperature.
+• Evaporative cooling: The patient's body is sprayed with water while fans blow air over the body to help facilitate evaporation and cooling.
+• Applying cold packs: Applying ice packs to the neck, armpits, and groin can help cool the body by targeting areas where large blood vessels are located close to the skin surface.
+• Misting and fanning: spraying the patient with cool water and using a fan to circulate air can help promote evaporative cooling.
+Preventive measures for heatstroke include staying hydrated, taking regular breaks in shaded areas, and avoiding strenuous activities during the hottest part of the day.
+other options
+• option A: Tachypnea - Rapid, deep breathing (kussmaul breathing) can be seen in heatstroke as the body tries to eliminate excess heat through increased respiratory rate.
+• option B: Hypotension - Dehydration and vasodilation in an attempt to dissipate heat can result in hypotension in heatstroke patients.
+• option D: Red hot skin - Heatstroke patients often present with hot, flushed skin as a result of increased blood flow to the skin surface and the body's inability to dissipate heat effectively.",,C,
+Question 3,Identify the correctly matched pair of substances with their renal clearance from the graph given below.,"a) A - Glucose, B - PAH, C - Bicarbonate and D - Inulin
+b) A - Glucose, B - Bicarbonate, C - Inulin and D - PAH
+c) A - PAH, B - Inulin, C - Glucose and D - Bicarbonate
+d) A - Inulin, B - Glucose, C - Bicarbonate and D - PAH","The correctly matched pair of substances and their renal clearance is A - Glucose, B - Bicarbonate, C - Inulin and D - PAH.
+The concentration of the substance changes as it passes through the tubules. The tubular cells may remove the substance from the filtrate (tubular reabsorption) or add more of the substance to the filtrate (tubular secretion) or both. The amount of the substance finally excreted equals the amount filtered plus the net amount transferred out by the tubules.
+PAH is filtered by the glomeruli and secreted by the tubular cells. Its concentration increases on moving through the length of the nephron due to secretion into tubules. It is represented by curve D.
+Inulin is freely filtered by glomeruli and does not undergo any reabsorption or secretion. Hence, its concentration does not change throughout the length of the nephron and its excretion is constant and equal to the glomerular filtration rate. It is represented by curve C.
+The majority of bicarbonate reabsorption occurs in the proximal tubule and a small amount of it flows into the distal tubules and collecting ducts. Its reabsorption occurs in all parts of the tubules, except the descending and ascending thin limbs of the loop of Henle. It is represented by curve B.
+substances like amino acids or glucose are reabsorbed along with sodium in the early portion of the proximal tubule. They have a graph that is sloping down as shown in curve A.",603-526.PNG,B,608-530.PNG
+Question 4,Identify the true statement regarding the given nerve action potential curve.,"a) Threshold point is at A
+b) At point E, the nerve is more excitable
+c) point c to D is due to opening of Na+ and closure of K+ channels
+d) point B to D is refractory period","The correct statement regarding the given nerve action potential curve is point B to D is the refractory period.
+The sequence of events occurring during an action potential is shown below
+• Point A represents the resting state where both channels are closed.
+• Na+ channels open in response to depolarizing stimulus and sodium enters the cell. The initiation of action potential occurs only after a certain potential is reached, which is called the threshold potential represented by point B. (option A)
+• After this, the sodium influx causes the opening of more Na+ channels through a positive feedback mechanism. Rapid depolarization occurs to reach point C.
+• At point C, Na+ channels close and K+ channels open, causing repolarization due to K+ efflux. (option C)
+• point D represents continued repolarization due to potassium efflux.
+• At point E, Na+ channels are reset and are ready to respond to another depolarizing stimulus. During this phase, the K+ channels remain open and slowly return to the closed state, causing after-hyperpolarization. As a stronger stimulus is required to reach the threshold potential, the excitability of nerve fiber is reduced at point E. (option B)
+• As both channels close, the membrane returns to resting membrane potential back to point A.
+point B-D is a part of the refractory period. During this period, the application of even a stronger stimulus will not elicit an action potential.
+The refractory period is divided into an absolute refractory period and a relative refractory period. During the absolute refractory period, the nerve will not be excited no matter how strong a stimulus is given. However, during the relative refractory period, stronger than normal stimuli can cause excitation.",603-525.PNG,D,609-531.PNG
+Question 5,Identify the type of transport across the cell membrane given below.,"a) simple diffusion
+b) Facilitated diffusion
+c) primary active transport
+d) secondary active transport","The given image shows the transport of a molecule across a membrane with the help of a carrier protein. This form of transport is called facilitated diffusion.
+when carrier proteins help in the movement of substances in the direction of their chemical or electrical gradients (downhill movement), no energy input is required and the process is called facilitated diffusion.
+Glucose transporters or GLUTs are examples of transport proteins in the cell membrane responsible for the transfer of glucose into the cells by facilitated diffusion. Facilitated diffusion involves the passage of molecules or ions inside the cell membrane by binding to a carrier/ transport protein.
+other options -
+option A. simple diffusion - It is along the concentration gradient but is not carrier-mediated. In the cell, examples of molecules that can use simple diffusion to travel in and out of the cell membrane are water, oxygen, carbon dioxide, and nitrogen. They pass directly through the cell membrane along the concentration gradient, without the use of energy.
+option C. Primary active transport - It is a form of cellular transport requiring energy in the form of hydrolysis of ATP to ship and transfer molecules against gradient differences. The important examples of primary active transport include sodium-potassium ATPase, proton pump, and calcium ATPase.
+option D. secondary active transport - In this form of transport, two or more substances are transported together across the membrane with help of a carrier molecule. As one of the substances (e.g., sodium) diffuses down its electrochemical gradient, the energy released is used to drive another substance (e.g., glucose) against the gradient. It does not require energy directly from ATP.",604-527.PNG,B,610-532.PNG
+Question 6,A preterm baby who was delivered at 28 weeks developed respiratory distress syndrome. which of the following is true about surface tension and compliance in this baby?,"a) surface tension - decreased; compliance - increased
+b) surface tension - increased; compliance - decreased
+c) Both surface tension and compliance decreased
+d) Both surface tension and compliance increased","This preterm baby who developed respiratory distress syndrome has surfactant deficiency. In case of surfactant deficiency, the surface tension increases and compliance decreases.
+surfactant is secreted by the type 2 pneumocytes in the alveoli. Dipalmitoyl lecithin/dipalmitoylphosphatidylcholine (DPPC) is a major component of lung surfactant. It reduces surface tension inside the alveoli, as shown below.
+Compliance is defined as the extent of lung expansion for each unit increase in pressure. An important factor that affects lung compliance is surface tension. As surface tension increases, the pressure required to keep the alveoli open also increases. As more pressure is required to expand the alveoli, lung compliance will be reduced.",,B,611-533.PNG
+Question 7,A patient came to the hospital after a road traffic accident. He had severe muscle injury and his serum K+ level was found to be 5.5 mEq/L. what will happen to the resting membrane potential in this patient?,"a) No change
+b) Becomes more negative
+c) Becomes more positive
+d) First becomes more positive then negative","In the given clinical scenario, the patient has hyperkalemia. It would result in the resting membrane potential becoming more positive.
+The resting membrane potential represents an equilibrium situation where the concentration gradient of ions across the membrane is equal and opposite to the electrical gradients. At a normal potassium concentration of 3.5–5.o mEq/L, the equilibrium potential for potassium is -9o mv. This is close to the resting membrane potential of neurons, which is about –7o mv.
+A decrease in the extracellular sodium concentration reduces the size of the action potential but has little effect on the resting membrane potential. However, the intracellular and extracellular potassium (K+) concentrations are the major determinants ofthe RMP.
+This is because
+• At rest, there are more open K+ channels compared to Na+ channels; therefore, the membrane permeability of K+ is greater.
+• The RMP is close to the equilibrium potential of K+.
+In hyperkalemia, the extracellular level of K+ is increased. Thus, the RMP moves closer to the threshold to elicit an action potential, leading to a more excitable nerve. This means the RMP has become more positive.
+In hypokalemia, the extracellular level of K+ is reduced. Thus, the RMP is reduced or becomes more negative and the nerve is hyperpolarized.
+Hyperkalemia can lead to various clinical manifestations depending on the severity of the condition. Mild to moderate hyperkalemia may be asymptomatic or cause nonspecific symptoms such as fatigue, muscle weakness, and paresthesias. severe hyperkalemia can lead to life-threatening complications such as cardiac arrhythmias and paralysis. The management of hyperkalemia includes treating the underlying cause, administering medications to stabilize the cardiac membrane (e.g., calcium gluconate), promoting the movement of potassium into cells (e.g., insulin and glucose, beta-agonists), and enhancing the removal of potassium from the body (e.g., diuretics, ion-exchange resins, or hemodialysis).",,C,
+Question 8,A patient met with a road traffic accident and developed a cervical spine injury. The fracture fragment had pierced the lateral aspect of the dorsal column tract. which of the following findings is seen in this patient?,"a) Absence of ipsilateral lower limb proprioception
+b) Absence of fine motor movement of fingers
+c) Absence of ipsilateral arm proprioception
+d) Absence of contralateral lower limb proprioception","The above clinical scenario of transection of the spinal cord in the lateral aspect of the dorsal column would affect the fasciculus cuneatus. This lesion would result in absence of ipsilateral proprioception of the arm.
+The fibers in the dorsal column are organized in such a way that the sacral segments are positioned most medially and those from the cervical segments are positioned most laterally.
+These are called
+• Fasciculus gracilis - carrying sensations from the ipsilateral lower limb
+• Fasciculus cuneatus - carrying sensations from the ipsilateral upper limb.
+This patient with an injury to the lateral part of the cervical cord's dorsal column tract will have damaged fasciculus cuneatus. This would result in loss of touch, vibration, and proprioception in the arm of the same side of the lesion.
+The extent of neurological deficits resulting from a spinal cord injury depends on the level of the injury and the severity of the damage. Injuries may be classified as complete or incomplete, depending on whether there is a total or partial loss of sensory and motor function below the level of injury. The key to solving this question lies in recognizing that the question mentions that the damage is to the lateral aspect of the dorsal column tract.
+other options:
+option A: Absence of ipsilateral lower limb proprioception - This would be seen if the fasciculus gracilis was affected, which is responsible for carrying sensations from the ipsilateral lower limb. However, in this case, the injury is to the lateral part of the dorsal column, affecting the fasciculus cuneatus.
+option B: Absence of fine motor movement of fingers - This would be a result of damage to the corticospinal tract, which carries motor information. The question is specifically focused on the dorsal column tract, which is responsible for carrying sensory information.
+option D: Absence of contralateral lower limb proprioception - proprioception is carried by the dorsal column pathway, and it is affected ipsilaterally. Damage to the lateral part of the dorsal column would not result in contralateral loss of proprioception.",,C,
+Question 9,Identify the true statement regarding the point marked on the myocardial action potential curve.,"a) Due to opening of Na+ and closure of fast K+ channels
+b) Due to slow but prolonged opening of ca2+ channels
+c) Due to closure of Na+ and opening of slow K+ channel
+d) Due to Na+/K+ ATpase","The myocardial action potential curve marked above represents the plateau phase, which is due to the slower and prolonged opening of calcium channels.
+Two types of voltage-gated ca2+ channels (T- and L-types) are present in myocardial cells. The opening of the slower L-type ca2+ channels is mostly responsible for changes in the action potential. The action potential curve of cardiac muscles consists of 5 phases, as shown below.
+phase o: Depolarization - opening of voltage-gated sodium channels (fast sodium channels) leads to sodium influx.
+phase 1: Initial repolarization - closure of Na+ channels and opening up of K+ channels leads to potassium efflux.
+phase 2: plateau - slower but prolonged opening of voltage-gated ca2+ channels, leading to calcium influx and reduced permeability of K+ channels, causes the graph to plateau
+phase 3: Rapid Repolarization - The closure of ca2+ channels and opening of K+ at the end of the plateau phase causes repolarization.
+phase 4: Resting membrane potential - Is reached at the end of phase 3",613-534.PNG,B,613-534.PNG

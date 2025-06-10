@@ -1,0 +1,157 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,what are the effects of posterior lesions in a Brodmann's area 22 in a stroke patient?,"a) Auditory function
+b) Receptive speech Function
+c) Expressive speech Function
+d) visual functions","A posterior lesion in Brodmann's area 22, which is located in the superior temporal gyrus, typically affects receptive speech function. It is the sensory speech area.
+The patient will most likely have wernicke’s aphasia due to the damage to wernicke’s area - area 22.
+In wernicke's aphasia, there is difficulty in finding words leading to poorly understood content for the listener. These patients also find it difficult to repeat sentences and name things properly. It is a type of fluent aphasia in which the speech is easy and fluent but there are difficulties related to the output of language like paraphasia (substitution of similar-sounding, non-words, or incorrect words). The speech is full of jargon and neologisms (non-existent words) that make little sense.
+other options:
+option A: Auditory Function is primarily mediated by Brodmann area 41, which is located in the primary auditory cortex within the superior temporal gyrus.
+option C: Expressive speech Function is associated with Brodmann areas 44 and 45 (Broca's area), which are involved in language production and speech articulation. Lesions here can cause difficulty in producing coherent speech (Broca's aphasia).
+option D: visual function primarily associated with Brodmann areas 17, 18, and 19 (the primary and secondary visual cortices).",,B,
+Question 2,"A 3o-year-old female went on vacation and fell asleep while sitting on a beach. After some time she woke with sunburn. Later when she went back home, she experienced pain while taking a warm bath (4o °c). which of the following receptors is responsible for the pain?","a) Innocuos thermal receptor - allodynia
+b) Innocuos thermal receptor - hyperalgesia
+c) Thermal receptor - allodynia
+d) Thermal receptor - hyperalgesia","The receptors responsible for this are innocuous thermal receptors which have perceived ordinarily non-noxious stimulus (i.e., warm bath) as severe pain also known as allodynia.
+In this case, the warm bath at 4o°C (typically not painful) causes pain due to sunburn, which sensitizes the skin. After sunburn, the skin becomes more sensitive, and thermal receptors that usually detect warmth now trigger pain signals in response to non-painful thermal stimuli, leading to allodynia.
+Innocuous thermoreceptors, which detect non-harmful temperature changes(cold and warm), are specialized nerve endings found on the skin. Cold receptors are located on the dendritic endings of Aδ and C fibers, while warm receptors are situated on C fibers. The specific thermosensitive molecular channels mediating innocuous heat stimuli is transient receptor potential (TRP) cation channel TRPV1 and TRPM8 cation channel for innocuous cold stimuli.
+Thermal hyperalgesia(increased response to noxious stimulation) is mediated by activation of NMDA receptors. After tissue or nerve injury, C-fibers discharges release glutamate and neurokinins from primary afferent terminals, leading to the release of peptides (e.g., substance P; calcitonin gene-related peptide, CGRP). As a result, a voltage-dependent magnesium block on NMDA receptors is removed allowing for an influx of calcium that triggers a cascade of intracellular events leading to the development and maintenance of hyperalgesia.(option D)",,A,
+Question 3,"To prevent polyspermy, which reaction occurs in the zona pellucida of the oocyte after fertilization?","a) Acrosomal reaction
+b) Increased membrane potential of the oocyte
+c) cortical reaction
+d) Decreased membrane potential of the oocyte","To prevent polyspermy, the reaction in the zona pellucida of the oocyte after fertilisation is the cortical reaction.
+The chronological steps of fertilisation:
+Acrosomal reaction: After a sperm reaches the oocyte and binds to the zona pellucida, the acrosome reaction occurs. The acrosome, an enzyme-rich organelle in the anterior of the sperm head, fuses at many points with the plasma membrane of the oocyte. Then those fused membranes are sloughed off from the head, exposing the acrosomal enzymes. The enzymes digest a path through the zona pellucida, enabling the sperm to advance.
+Eventually, the sperm meets and fuses with the secondary oocyte plasma membrane.
+This contact results in weak membrane depolarisation(decreased membrane potential) and a calcium wave.
+Cortical reaction: The calcium wave triggers the release of lysosomal enzymes from the cortical granules lining the oolemma. These enzymes hydrolyse the ZP3 receptor on the zona pellucida. Digestion of ZP3 and alteration of zona pellucida (zona reaction) prevents other sperms from binding, thus creating a block to polyspermy.",,C,
+Question 4,A 6o-year-old patient came with a puncture wound on the left chest wall. Radiological investigations confirmed pneumothorax. which of the following is correct regarding this condition?,"a) Lung volume increases, thoracic volume increases
+b) Lung volume decreases, thoracic volume increases
+c) Lung volume increases, thoracic volume decreases
+d) lung volume decreases, thoracic volume decreases","In pneumothorax, lung volume is decreased and thoracic volume is increased.
+Both lungs and the chest wall (thoracic cage) are elastic structures. under normal conditions, the elastic tendency of the lungs to collapse is exactly balanced by the elastic tendency of the chest wall to expand.
+In pneumothorax, air is introduced into the pleural space, so the pleural pressure, which is normally subatmospheric, becomes equal to atmospheric pressure. The chest wall springs outward and the lungs collapse. This increases the thoracic volume and decreases the lung volume.",,B,
+Question 5,sour taste is mediated by which of the following receptors?,"a) T1R1 GPCR
+b) TRPV1 channel
+c) T1R3 GPCR
+d) Metabolic receptor","sour taste is mediated by the TRPV1 channel. The TRPV1 (Transient Receptor Potential Vanilloid 1) channel is involved in detecting the acidity of foods, which contributes to the perception of sour taste.
+It is a cation channel that allows the influx of various cations, including sodium (Na■), calcium (ca²■), and magnesium (Mg²■), in response to changes in temperature and the presence of acidic conditions or capsaicin
+Taste Receptors
+• Humans have five established basic tastes: sweet, salt, sour, bitter and umami.
+• The taste receptors for these five basic tastes are of two major types:
+• Ligand-gated channels (ionotropic receptors): for salt and sour taste
+• G-Protein coupled Receptors (metabotropic receptors): for sweet, bitter and umami
+• salt and sour taste are mediated through epithelial sodium channels (ENac)
+• Na+ movement through ENac → salt taste
+• H+ movement through ENac → sour taste
+• sweet, bitter, and umami are sensed via GPcRs
+• T1R2 and T1R3 families→ sweet taste
+• T2R family → bitter taste
+• T1R1, T1R3, and Metabotropic glutamate receptor (mGluR4) → umami (option A and c)",,B,
+Question 6,"A patient who underwent right limb amputation 2 years back, now presents with severe pain in the limb (Phantom limb pain). on radiological investigations, what is the finding seen?","a) Projection of adjacent fibres to overlap the right somatosensory cortex
+b) Expansion of left somatosensory cortex
+c) Projection of adjacent fibres to overlap the left somatosensory cortex
+d) Expansion of right somatosensory cortex","In the given scenario of phantom limb pain, on the radiological investigation of the brain projection of adjacent fibres to overlap the left somatosensory cortex can be seen. This pain is based on cortical plasticity.
+cortical structures are capable of reorganization after the loss of a body part. The cortical representation of the neighbouring parts spreads into the cortical area that was formerly occupied by the representation of the amputated part. This is called cortical plasticity leads to the phenomenon of phantom limb pain. The sensory cortical area occupied by the right limb is the left somatosensory cortex.
+Cortical plasticity / phantom limb: It is the sensation that an amputated or missing limb is still attached. plasticity is the ability of the brain to adapt to such a condition by reorganization of thalamic and cortical structures.
+The converse also holds true: if the cortical area representing a limb is removed, the somatosensory map of the limb moves to the surrounding cortex.
+Diagnosis and Management :
+• pET scan is used to document these plastic changes in cortex.
+• Use of epidural analgesia during amputation surgery decreases incidence of phantom pain.
+• spinal cord stimulation also helps in reducing phantom pain. (interferes with ascending impulses to brain)",,C,
+Question 7,"In a type 2 diabetes mellitus patient, serum insulin levels are found to be raised. He is advised to exercise to improve insulin resistance. which of the following GLUT will help to improve insulin resistance after exercise ?","a) GLUT 1
+b) GLUT 2
+c) GLUT 5
+d) GLUT 4","There is an increase in the number of GLUT 4 receptors in response to exercise. This increases the insulin dependent glucose uptake into the cells, contributing to a decrease in insulin resistance.
+GLUT-4 is an insulin-dependent GLUT. other GLUTs are not insulin-sensitive and are constitutively expressed in the cell membrane.
+Insulin resistance is a condition in which the cells in muscles, fat, and liver are less responsive to insulin and have difficulty absorbing glucose from the blood. The pancreas then produces more insulin to facilitate the entry of glucose into the cells.
+An arbitrary but clinically useful benchmark considers patients insulin resistant if they require greater than 1 unit/kilogram/day of exogenous insulin to maintain glycemic control. patients requiring greater than 2oo units of exogenous insulin per day are considered severely insulin resistant.
+other options
+option A: GLUT 1 receptors are present in the red blood cell, brain, kidney, colon, retina, and placenta. It is responsible for glucose uptake.
+option B: GLUT-2 is found in the liver, pancreatic β cell, small intestine, and kidney. Its function is the rapid uptake or release of glucose.
+option C: GLUT-5 is present in the small intestine and is involved in the absorption of fructose.",,D,
+Question 8,which of the following is incorrect about iron absorption?,"a) Ferrireductase convert Fe2+ to Fe 3+
+b) RBC protophyrin is increased in deficiency
+c) Iron excretion is only through skin, gut and urothelial cells
+d) Body cannot compensate if more than 1o RBC/HPF per day is lost in urine","Ferrireductase is an enzyme that converts Fe3+ (ferric iron) to Fe2+ (ferrous iron), not the other way around. Ferrous is the form of iron that is more readily absorbed in the gut.
+Almost all the iron absorption occurs in the duodenum.
+Most of the iron in the diet is in the ferric (Fe3+) form, whereas it is the ferrous (Fe2+) form that is absorbed.
+Body iron stores are controlled by intestinal absorption as there is no exit to iron from the body. Divalent metal transporter 1 (DMT1) transports non-heme iron into the enterocyte. Iron absorption in the duodenum is regulated by hepcidin release from the liver in response to increases in intrahepatic iron levels. It binds to ferroportin leading to endocytosis and degradation within the enterocyte. This prevents the transfer of iron from enterocyte to plasma resulting in iron trapping within duodenal cells in the form of mucosal ferritin. The trapped iron is lost as these cells are sloughed. The iron transported by ferroportin into the plasma is transferred to other parts with the help of transferrin and stored as serum ferritin and hemosiderin. The image depicting iron absorption and storage is given below:
+other options:
+option B: RBC protoporphyrin is increased in deficiency, increased protoporphyrin levels in red blood cells can indicate iron deficiency or disorders of heme synthesis.
+option C: Iron is primarily excreted through the gut, skin, and urinary tract, but the body generally has very limited mechanisms for iron excretion compared to iron absorption and recycling.
+option D: The body’s iron homeostasis is finely tuned, and a significant loss of red blood cells, such as more than 1o ml per day, can overwhelm the body’s ability to compensate and maintain iron balance.",,A,686-580.PNG
+Question 9,A 5o-year-old patient presents with a chronic tingling sensation in the forearm. A neurological examination is done and appears to be normal. which of the following receptors are correctly matched?,"a) Merkel cells-slow vibration
+b) Meissner's corpuscles-stretch
+c) Pacinian corpuscles-fast vibration
+d) Ruffini corpuscles-sustained pressure","pacinian corpuscles are responsible for sensing fast vibration. The chronic tingling sensation is mediated by pressure-sensitive Aβ fibers and low-conduction velocity C fibers.
+pacinian corpuscles are the most sensitive mechanoreceptors in the somatosensory system. They are responsive to high-frequency (3o–5oo Hz) vibratory stimuli and deep pressure. They are also examples of rapidly adapting receptors.
+chronic tingling causing conditions include Diabetes, carpal tunnel syndrome, ulnar nerve palsy, radial nerve palsy, tarsal tunnel syndrome, sciatica, vitamin B1,B6,B12 deficiencies, and alcoholism.
+other options:
+option A: The Merkel cells are expanded dendritic endings in the epidermis of glabrous skin and respond to sustained pressure and touch.
+option B: Meissner's corpuscle senses tap and flutter. They are present in dermal papillae. They are rapidly adapting receptors.
+option D: Ruffini's corpuscles are enlarged dendritic endings with elongated capsules in the dermis of glabrous and hairy skin. They respond to stretch and fluttering vibrations. They are slowly adapting receptors.",,C,687-581.PNG
+Question 10,"The patient presented with alcoholic gait, and abnormal eye movements (nystagmus) after RTA. which lobe of the cerebellum is likely affected?","a) Flocculonodular Lobe
+b) Dentate nucleus
+c) Anterior lobe
+d) Interposed nucleus","The flocculonodular lobe is involved in this patient with an alcoholic gait and abnormal eye movements (nystagmus) following an RTA.
+The cerebellum has three parts based on function.
+• vestibulocerebellum (or flocculonodular lobe): The oldest part of the cerebellum which contains nodulus in the vermis and the flanking flocculus. It has vestibular connections and is concerned with equilibrium and gait. Loss of it can cause disturbance of equilibrium and postural movements, especially during rapid movements.
+• spinocerebellum: The region that receives proprioceptive input from the body as well as a copy of the “motor plan” from the motor cortex. By comparing the plan with performance, it smooths and coordinates movements that are ongoing. The superior vermis is a part of the spinocerebellum. Loss of it can cause problems with coordination.
+• cerebrocerebellum: They are the newest from a phylogenetic point of view, reaching their greatest development in humans. They interact with the motor cortex in planning and programming movements.
+other options:
+option B: The Dentate nucleus(largest) is one of the 4 deep cerebellar nuclei others being, Emoliform, Globose, and Fastigial nuclei. These receive input from climbing fibers and are the only motor output from the cerebellar cortex.
+option C: Anterior lobe is a part of the Paleo/spinocerebellum responsible for the coordination of movement and regulation of muscle tone whose lesion results in hypotonia.
+option D: Interposed nuclei / Nucleus interpositus is the term used to describe the cerebellar nuclei, Emboliform, and Globose.",,A,
+Question 11,Renal compensation in metabolic acidosis takes time because:,"a) Initially the pH of tubular fluid increases
+b) Low pH normally decreases bicarbonate excretion
+c) It takes hours to days for kidney to synthesize enzymes that produce NH4+
+d) other ions in the tubule interfere with buffer action","Compensation in metabolic acidosis happens late in the kidney because it takes hours to days for it to synthesize enzymes that produce NH4+(ammonium ions).
+Acid-base balance equation: Co2 + H2o -----> H2Co3 -----> H+(acid) and HCo3-(base)
+• First line of defence (in seconds): Buffers ( phosphate and ammonium )
+• second line of defence (in Minutes): Lungs
+• Third line of defence (in hours - days): kidney
+The kidneys regulate the acid-base balance by two major mechanisms: the reabsorption of bicarbonate and the generation of new bicarbonate via ammonia production and distal nephron acid secretion. urinary NH4+ is produced primarily in the proximal tubule cells by converting glutamine to glutamate.
+Renal failure leads to a buildup of acids due to loss of excretory function of the kidney. The decreased glomerular filtration rate also leads to diminished excretion of the renal buffers phosphate and ammonium. Thus, bicarbonate reabsorption decreases, resulting in metabolic acidosis.",,C,
+Question 12,The functioning of the thyroid involves the transport of iodine from the blood to the thyroid follicle. Iodine is transported from the follicle to the colloid. which pump or channel is for transport of iodine from the follicle to the colloid?,"a) sodium iodine symporter
+b) calmodulin
+c) claudin
+d) Pendrin","The channel needed for the transport of iodine from the follicle to the colloid is Pendrin.
+steps in synthesis and secretion of thyroid hormone:
+• Iodide uptake: The basolateral sodium-iodide symporter (NIs) actively takes up I-(iodide) from the circulation into the follicular cells. It is then transported into the colloid through a pendrin (chloride-iodide) transporter
+• Thyroglobulin synthesis: Thyroglobulin (Tg), is a large glycoprotein rich in tyrosine residues. It is synthesized by follicular cells.
+• Iodination of Tg: This is regulated by the thyroid peroxidase (TPo) enzyme. TPo has three functions:
+• oxidation: TPo oxidizes I- to I2 (iodine) in the presence of H2o2
+• organification: TPo links tyrosine residues of thyroglobulin with iodine (I2) to form monoiodotyrosine (MIT), diiodotyrosine (DIT)
+• coupling reactions: TPo combines iodinated tyrosine residues to make MIT + DIT = T3 (triiodothyronine), DIT + DIT = T4 (tetraiodothyronine)
+• storage: Thyroid hormones are bound to thyroglobulin and stored in the follicular lumen as colloids. The colloid has hormone reserves for 2-3 months
+• Release: Iodinated thyroglobulin is taken up by the thyroid follicles via endocytosis and fuses with lysosomes. It is cleaved by lysosomal proteolytic enzymes into MIT, DIT, T3, and T4. T4 (8o%) and T3 (2o%) are released into the blood
+• Peripheral T3 conversion: T4 undergoes deiodination in extrathyroidal tissue to form T3, which is the active form of the hormone.
+Pendred syndrome: Pendrin is present in the thyroid gland and inner ear. The mutation causes goiter and sensorineural hearing loss.
+other options:
+option A: sodium-iodide symporter (NIs) is responsible for transporting iodine from the bloodstream into the thyroid follicular cell, not into the colloid. It works by bringing in iodine along with sodium from the bloodstream into the follicle.
+option B: calmodulin is structurally and functionally related to troponin. In place of troponin, smooth muscle cells contain a large amount of the regulatory protein calmodulin; it is different in the manner in which it initiates contraction. calmodulin initiates contraction by activating the myosin light chain kinase.
+option c: claudin is a transmembrane protein involved in the formation of tight junctions.",,D,689-582.PNG
+Question 13,The resting membrane potential(RMP) of the nerve is -7omv. Increased permeability of which ion is responsible for the RMP?,"a) calcium
+b) sodium
+c) Potassium
+d) chloride","Increased permeability of potassium ions(K+) is responsible for the RMP of a nerve as there are more K+ channels open at rest, facilitating the flow of potassium ions across the membrane.
+Resting membrane potential (RMP) is the difference in the electrical potentials between the cytoplasm of the cell and the extracellular space.
+At rest, there are more open K+ channels compared to Na+ channels, thus the membrane permeability of K+ is greater. As a result of this, the intracellular and extracellular K+ concentrations are the major determinants ofthe RMP. Furthermore, the RMP is close to the equilibrium potential of K+ in general.
+clinical significance: In hyperkalemia, the extracellular level of K+ is increased. Thus the RMP moves closer to the threshold to elicit an action potential leading to a more excitable nerve. The excitable nerve, stimulates the muscle repeatedly causing fasciculations, exhaustion of muscle, and weakness. In hypokalemia, the extracellular level of K+ is reduced. Thus the RMP is reduced and the neuron is hyperpolarized.",,C,
+Question 14,Arrange the sequence of steps involved at neuromuscular junction endplate potential.,"a) Acetylcholine release - calcium entry- Na+ entry
+b) calcium entry- Acetylcholine release- Na+ entry
+c) Na+ entry - calcium entry - Acetylcholine release
+d) Na+ entry - Acetylcholine release - calcium entry","The sequence of steps involved at neuromuscular junction endplate potential is calcium entry- Acetylcholine release- Na+ entry.
+Events occurring at the chemical synapse:
+The action potential arriving at the end of the motor neuron increases the permeability of its endings to ca2+
+↓
+ca2+ enters the endings and triggers a marked increase in exocytosis of the acetylcholine-containing synaptic vesicles
+↓
+The binding of acetylcholine to nicotinic receptors increases the Na+ and K+ conductance
+↓
+The resultant influx of Na+ produces a local depolarizing potential, the endplate potential ↓
+The current created by this local potential depolarizes the adjacent muscle membrane to its firing level
+↓
+Action potentials are generated on either side of the endplate and are conducted away from the endplate in both directions along the muscle fiber. This muscle action potential, in turn, initiates muscle contraction.
+Acetylcholine is then removed from the synaptic cleft by acetylcholinesterase, which is present in high concentration at the neuromuscular junction.",nan,B,691-583.PNG

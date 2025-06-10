@@ -1,0 +1,91 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Q1,The function of the Golgi tendon organ is to _________,"a) sense changes in muscle direction
+b) sense changes in muscle tension
+c) sense changes in position of the muscle
+d) sense changes in length of the muscle","Golgi tendon organ sense changes in muscle tension.
+Golgi tendon reflex (Inverse myotatic/ Inverse stretch reflex) is disynaptic, is the opposite of the stretch reflex.
+when the tension in a contracted muscle is significantly elevated, the inhibitory effect from the Golgi tendon organ leads to instantaneous relaxation of the entire muscle. This effect is called the lengthening reaction.
+It is a protective mechanism to prevent tearing of the muscle or avulsion of the tendon from its attachments to the bone.
+Note: Muscle spindles senses changes in muscle length (stretch).",,B,427-437.PNG
+Q2,which is the first-order neuron in the optic pathway?,"a) Rods and cones
+b) Ganglion cells
+c) cells in lateral geniculate body
+d) Bipolar cells",photoreceptors - rods and cones are the first-order neurons in the visual pathway.,,A,
+Q3,pacemaker generating the rhythm for breathing is ________,"a) pneumotaxic centre
+b) Dorsal group of neurons in the medulla
+c) pre-B■tzinger complex
+d) Apneustic centre","pre-Botzinger complex generates the rhythm for automated breathing.
+• These are also known as pacemaker cells located in the medulla.
+• These are the first set of neurons that initiate inspiration.
+• These neurons discharge rhythmically, and they produce rhythmic discharges in the phrenic motor neurons.
+Breathing is under the control of both voluntary control (cerebral cortex) and automatic control (medulla).",,C,
+Q4,which of the following is not an example of feed forward control mechanism?,"a) Temperature Regulation
+b) cephalic phase of gastric secretion
+c) cerebellar action in motor coordination
+d) Exercise resulting in heart rate increase","Exercise resulting in heart rate increase is not an example of feedforward control mechanism.
+However, thinking about exercise and it resulting in a heart rate increase would be an example of feedforward control mechanism.
+Feedforward control is that which makes an anticipatory or adaptive response without a specific stimulus.
+Temperature control, the cephalic phase of gastric secretion, and cerebellar action in motor coordination are all examples of feedforward control.",,D,
+Q5,Single breath nitrogen method is used for measuring ____,"a) Dead space volume
+b) FRC
+c) Tidal volume
+d) Diffusion capacity","Anatomical dead space can be measured by the single-breath N2 curve (Fowler's method).
+Anatomical dead space is the respiratory system volume exclusive of alveoli.
+option B: Functional Residual Capacity (FRC) is measured using body plethysmography.
+option C: Tidal volume (TV) is measured using spirometry.
+option D: Diffusion Capacity is measured using carbon monoxide diffusion capacity (DLCo).",,A,466-460.PNG
+Q6,I-125 labelled albumin is used for measurement of:,"a) plasma volume
+b) Interstitial fluid volume
+c) ICF
+d) ECF",I-125 labelled albumin is the most commonly used substance for the measurement of plasma volume.,,A,
+Q7,which of the following hormones is exclusively secreted by adrenal gland but not by the ovaries of females?,"a) progesterone
+b) DHEA
+c) Estrogen
+d) DHEA-S","DHEAS is exclusively secreted from the adrenals but not by ovaries because ovaries lack the enzyme dehydroepiandrosterone-sulphotransferase needed to form DHEAS.
+9o% of DHEA is synthesised by the adrenals and 1o% comes from the ovaries.",,D,
+Q8,which hormone crosses the plasma membrane for its action?,"a) Epinephrine
+b) Thyroxine
+c) Glucagon
+d) Insulin","Thyroxine crosses the plasma membrane for its action.
+Thyroid hormones enter the nucleus and bind to thyroid hormone receptors. The hormone-receptor complex in the nucleus binds to DNA via zinc fingers. This increases the expression of a variety of different genes that code for proteins regulating cell function. Although thyroxine is an AA derivative, there are transporters to move it into the cell, hence they are intracellular receptors acting on the nucleus.
+Epinephrine, glucagon, and insulin bind to cell surface receptors.",,B,
+Q9,Afferent fibers from baroreceptors for blood pressure control goes to?,"a) Nucleus ambiguous
+b) Rostral-ventro lateral medulla
+c) Nucleus Tractus solitarius
+d) caudal ventrolateral medulla","Afferent fiber for blood pressure control goes to the Nucleus Tractus Solitarius (NTS).
+Increased Bp stimulates the baroreceptors which provide negative feedback in response to the increase in blood pressure.
+Baroreceptor reflex:
+• Increased BP → stimulation of baroreceptors → stimulation of NTS → excitation of CVLM → inhibition of RVLM → inhibition of sympathetic system
+• Stimulation of NTS also stimulates CVC → parasympathetic stimulation
+• Net effect = sympathetic inhibition and parasympathetic stimulation → decreased HR and BP",,C,
+Q10,"If the lung is allowed to undergo elastic recoil without the chest wall, the resultant volume of the lung would be?","a) Minimum volume
+b) zero
+c) Functional residual capacity
+d) Residual volume","If lung is allowed to undergo elastic recoil without the chest wall, the resultant volume of the lung would be minimum volume as the opposing force by the chest wall would be non existant.
+According to the compliance graph of lungs alone, when the pressure inside the lung is zero, there is some volume of air lesser than FRC still present inside the lungs which can be called as minimum volume.",,A,468-461.PNG
+Q11,Myosin head detaches from actin by which of the following mechanism?,"a) Binding of ATP
+b) Entry of calcium into sarcoplasmic reticulum
+c) change in troponin c configuration
+d) Release of ADP and Pi",Binding of ATP on the free site of myosin leads to the detachment of myosin head from the thin filament.,nan,A,469-462.PNG
+Q12,You are an intern and want to determine the quantity of IV fluids needed for a patient. How much amount of transient loss/insensible loss per day would you account for in your calculations?,"a) 15o-2oo ml
+b) 5oo-6oo ml
+c) 2oo-35o ml
+d) 35o-4oo ml","5oo-6oo ml of transient loss/insensible loss per day would have to be accounted for in the calculation.
+Although water is lost through sweating especially in hot climates or during physical exertion, we tend to lose water at rest as well. physiologically, water evaporates from the skin and lungs at a rate of about 6oo to 7oo ml/day. This is known as insensible water loss.",,B,
+Q13,"A soldier posted in siachen is brought to you in the ER. In order to rule out hypothermia, how do you best measure his temperature?","a) oral
+b) Rectal
+c) Infrared tympanic thermometer
+d) Axillary","In the given clinical scenario rectal temperature would be the preferred site to measure the core body temperature.
+During low or high temperatures like in siachen, the axillary and the oral temperatures are highly misleading and should not be used to measure the core body temperatures.
+Infrared tympanic thermometer more commonly delivers the temperature of ear canal cerumen and hence not a reliable method of measuring the core body temperature.",,B,
+Q14,"""vasopressin escape"" in sIADH results due to:","a) Downregulation of aquaporin 2 production
+b) Increase in urine osmolarity
+c) Decrease in ADH secretion
+d) upregulation of aquaporin 2 production","vasopressin escape in sIADH (syndrome of inappropriate ADH secretion) results due to downregulation of aquaporin 2 production.
+prolonged exposure to elevated levels of vasopressin (ADH) leads eventually to downregulation of aquaporin-2 receptors. This prevents excessive reabsorption of water, despite high serum ADH levels and hence maintains euvolemia. This is known as vasopressin escape. This helps prevent excessive dilutional hyponatremia in sIADH.",,A,
+Q15,which of the following hormones do not act on the pancreas?,"a) secretin
+b) Gastrin
+c) cholecystokinin
+d) GIP","Gastrin does not act upon the pancreas. Gastrin stimulates gastric acid secretion and gastric mucosal growth.
+GI hormones acting on the pancreas include: cholecystokinin (CCK), secretin, and Gastric inhibitory peptide (GIP).
+GIP is also known as Glucose-dependent insulinotropic peptide.",,B,

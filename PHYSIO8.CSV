@@ -1,0 +1,311 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,which of the following is not involved in renal auto-regulation?,"a) Tubuloglomerular feedback
+b) Myogenic reflex
+c) Renin-angiotensin system
+d) Renal sympathetic system fibres","Renal sympathetic system fibres is not involved in the autoregulation of renal blood flow, because a denervated kidney also maintains the auto regulation of renal blood flow as that of a normal kidney.
+Tubulo glomerular feedback, myogenic reflex, and renin-angiotensin system are all involved in the autoregulation of renal blood flow.
+Tubulo glomerular feedback:
+• when the renal artery pressure increases, the renal blood flow and glomerular filtration rate (GFR) increases
+• This increased GFR results in increased delivery of solute and water to the early distal tubule, particularly the macula densa
+• The macula dense, then secretes a vasoactive substance that constricts afferent arteriole via a paracrine mechanism
+• This vasoconstriction then reduces renal blood flow and GFR back to normal
+Myogenic reflex:
+• The increase in renal arterial pressure stretches the walls of the afferent arterioles, which then contracts
+• This contraction increases the afferent arteriolar resistance
+• This increase in resistance then compensates for the increase in blood pressure, thereby keeping the renal blood flow constant.
+Renin-angiotensin system:
+• Angiotensin II is a potent vasoconstrictor of both afferent and efferent arterioles
+• However efferent arterioles are more sensitive to angiotensin II than afferent arteriole
+• Thus low levels of angiotensin II produce an increase in GFR by constricting efferent arterioles
+• High levels of angiotensin II decreases GFR by constricting afferent and efferent arterioles, thereby decreasing the renal blood flow",,D,
+Question 2,"The formula for urea clearance is u*V/P, where u is","a) urine volume
+b) serum urea in mg /1ooml
+c) urine urea in g/24h
+d) urine urea in mg /1ooml","‘u’ in the urea clearance stands for urine concentration of urea in mg /1ooml.
+The formula for renal clearance of a substance is,
+clearance (c) = u × V / P,
+where
+u = urine concentration of the substance in mg / ml
+V = urine flow rate in ml/min
+P = Plasma concentration of substance in mg /ml.
+Renal clearance of a substance is the volume of plasma that is completely cleared of the substance by the kidneys per unit of time.",,D,
+Question 3,The relaxation of the intestinal segment distal to the segment with the bolus of food during peristalsis is because of,"a) VIP
+b) substance P
+c) Dopamine from adrenergic fibres
+d) Acetylcholine from myenteric fibres","The relaxation of the intestinal segment distal to the segment of a bolus of food during peristalsis is due to Vasoactive Intestinal Peptide (VIP).
+Peristaltic contractions in the small intestine are designed to propel the food towards the large intestine.
+The food bolus in the small intestine is sensed by enterochromaffin cells of the intestinal mucosa, which release 5-hydroxytryptamine (5-HT)(serotonin). The 5-HT then binds to the receptors on intrinsic primary afferent neurons (IPANs), which when activated, initiate the peristaltic reflex in that segment of the small intestine. Behind the bolus, excitatory transmitters like acetylcholine, substance P, neuropeptide Y are released in the circular muscle, while these pathways are inhibited in the longitudinal muscle; thus this segment of small intestine (behind the bolus) contracts and lengthens.
+(Recall that contraction of circular muscle decreases the diameter of that small intestinal segment whereas contraction of the longitudinal muscle decreases the length of that segment. To prevent the conflict that would occur if circular and longitudinal are contracted at the same time, they are reciprocally innervated)
+In front of the bolus, inhibitory pathways like vasoactive intestinal peptide (VIP) and nitric oxide (NO) are activated in the circular muscle, while excitatory pathways are activated in the longitudinal muscle;thereby relaxing and shortening this segment of small intestine.",,A,
+Question 4,A patient presented with severe watery diarrhea resembling that of rice gruel stool. Damage of which structure is likely to have resulted in this diarrhea?,"a) zona occludens
+b) Gap junction
+c) Adherent junction
+d) Hemidesmosomes","The given clinical picture of a patient having rice gruel stools is suggestive of the diagnosis of ‘cholera’. Vibrio cholerae in addition to the cholera toxin (cT) produces some additional toxins such as,
+• zonula occludens toxin, which alters the intestinal permeability by acting on intestinal epithelial cell tight junctions (which are also called zonula occludens)
+• Accessory cholera enterotoxin.
+zonula occludens:
+• Also known as tight junctions
+• characteristically surround the apical margins of the cells in epithelia such as the intestinal mucosa, the walls of the renal tubules, and the choroid plexus.
+• Also important to the endothelial barrier function and endothelium-dependent vasodilation.
+• Made up of ridges- half from one cell and a half from another cell- which adhere so strongly that there is no space between the cells.
+• Three families of transmembrane proteins are involved:
+• Occludin
+• Junctional adhesion molecule
+• claudins
+• Paracellular pathway - these tight junctions permit the passage of ions, solutes, and intracellular signaling molecules in between adjacent cells.
+other options:
+B) Gap junctions:
+• The gap between the two cells in these types of junctions is about 4nm.
+• These junctions are formed by units called connexons, which are present in the membrane of each cell.
+• Each connexon is made up of six protein subunits called connexins.
+• They permit substances to pass between the cells, without entering the ECF.
+• The pore diameter is around o.8 to 1.4 nm, which permits the passage of ions, sugars, amino acids, and other solutes which weigh up to 1ooo Da.
+• They also permit rapid propagation of electrical activity from cell to cell, as well as the exchange of various chemical messengers and intracellular signaling molecules.
+C) Adherent junctions:
+• Adherent junctions or zonula adherens is a continuous structure on the basal side of the zonula occludens.
+• It contains cadherins.
+D) Hemidesmosomes:
+• They look like half-desmosomes.
+• They attach cells to the underlying basal lamina and are connected intracellularly to intermediate filaments.
+• They contain integrins.",,A,538-483.PNG
+Question 5,Beta hCG is structurally similar to which biochemical moiety?,"a) LH
+b) FSH
+c) ACTH
+d) Oxytocin","Beta hcG (human chorionic gonadotropin) has biological activity similar to that of luteinizing hormone (LH).
+hcG is a glycoprotein produced by syncytiotrophoblasts. It is made up of α and β subunits.
+Though the α subunit of hcG is similar to the α subunits of LH, FsH, and TsH, the β subunit has structural similarity to LH only. Hence, LH is a better answer than FsH.
+hcG is primarily luteinizing and luteotrophic. It appears to act on the same receptor as that of LH. The function of hcG is to prevent regression of the corpus luteum. It can be detected in blood as early as 6 days after conception and forms the basis of various tests used to identify pregnancy.
+Its level peaks at gestational week 9 and then declines gradually but is present in lower concentration till the end of pregnancy. But hcG is not specific for pregnancy as it is secreted in a variety of gastrointestinal and genital tumors in both males and females.",,A,
+Question 6,what is the duration of short term memory?,"a) 3-6 Hours
+b) 12-18 hours
+c) 3o-3oo seconds
+d) 3-4 seconds","short-term memory lasts for seconds to minutes, hence of the given 4 options, 3o-3oo seconds is the most appropriate answer.
+Memory is usually divided into two forms: Explicit or declarative memory which is associated with consciousness or awareness. Implicit or nondeclarative memory does not involve awareness and its retention does not usually involve processing in the hippocampus.
+Explicit and many forms of implicit memory involve
+• short-term memory and
+• Long-term memory.
+short-term memory:
+It lasts seconds to minutes; the encoding process for short-term explicit memory involves the hippocampus. It lasts only till the person continues to think about the number or facts.
+working memory is a form of short-term memory that keeps information available, usually for very short periods of time, until the individual plans action based on it.
+Long-term memory:
+It stores memories that can be recollected after years or even for a lifetime. These memories are stored in various parts of the neocortex. The various parts of the memories such as, visual, auditory, olfactory, etc., are localised to the cortical regions concerned with these functions. All these parts of the memories are brought together by long-term changes in the strength of transmission at relevant synaptic junctions so that all the components are brought to consciousness when that particular memory is recalled.
+Neural basis of memory:
+The basis of memory is the alteration in the strength of the selected synaptic connections. second messenger systems contribute to the changes in the neural circuits which are required for learning and memory. Alterations in the cellular membrane channels also contribute to it.",,C,
+Question 7,The stroke volume depends on end-diastolic volume. This is best represented as,"a) Length-force relationship
+b) Length- velocity relationship
+c) Length-tension relationship
+d) Length-viscosity relationship","The relationship between end-diastolic volume and stroke volume is best represented by length-tension relationship.
+This is explained by the ‘Frank-starling law of heart’ which states that ‘ the volume of blood ejected by the ventricle depends on the volume present in the ventricle at the end of the diastole’. The length of the myocytes depend on the volume (and hence tension) present at the end of the diastole, which in turn, depends on the volume returned to the heart, or the venous return.
+• The Frank-starling law governs the normal ventricular function and ensures that the cardiac output equals venous return, within physiological limits.
+• There is a curvilinear relationship between stroke volume or cardiac output and the ventricular end-diastolic volume.
+• Agents that increase the contractility of the cardiac muscle have a positive inotropic effect and produce increased stroke volume and thereby increased cardiac output for a given end-diastolic volume. (Eg: Digoxin)
+• Agents that decrease the contractility of the cardiac muscle have a negative inotropic effect and produce decreased stroke volume (and cardiac output) for a given end-diastolic volume.",,C,
+Question 8,which of the following ions in the thick ascending limb of the loop of Henle is responsible for the resorption of divalent ions?,"a) H+
+b) HCO3-
+c) K+
+d) Na+","potassium (K+) in the thick ascending limb of loop of Henle is responsible for the resorption of divalent ions such as, calcium, magnesium, etc.
+This resorption is driven by the lumen-positive potential difference across the cells of the thick ascending limb, created by the potassium leak into the lumen.
+Mechanism of resorption in thick ascending limb:
+• The luminal membrane contains a Na+-K+-2cl- cotransporter.
+• There is net resorption of Na+, K+ and cl- in the thick ascending limb as follows:
+• All three ions are transported into the cell on the cotransporter.
+• Na+ is extruded from the cell by the Na+-K+ ATpase in the basolateral membrane.
+• K+ and cl- diffuse through channels in the basolateral membrane, down their respective electrochemical gradients.
+• Most of the K+ leaves the cell across the basolateral membrane; the remaining portion of K+ however diffuses back into the lumen.
+• This K+ leak into the lumen generates a positive electrochemical potential difference in the lumen.
+• This lumen-positive potential difference drives the resorption of ions such as sodium(Na+), magnesium (Mg2+), calcium (ca+),etc.,",,C,
+Question 9,which of the following sensory receptors are responsible for tactile discrimination?,"a) Merkel disc
+b) Ruffini end organ
+c) pacinian corpuscle
+d) Meissner’s corpuscle","Meissner’s corpuscles are responsible for discriminative touch.
+Meissner’s corpuscles are encapsulated receptors found in the dermis of the non-hairy skin, most commonly on the fingertips, lips, and other locations where tactile discrimination is very good.
+Their field of reception is very small and hence used for two-point discrimination. These are rapidly adapting receptors that encode
+• point discrimination
+• precise location
+• Tapping
+• Flutter",,D,
+Question 10,All of the following increases gastric acid secretion except:,"a) Gastrin
+b) Histamine
+c) Acetylcholine
+d) serotonin","All of the above increase gastric acid secretion except serotonin.
+serotonin is localized in the enterochromaffin cells of the gastrointestinal (GI) mucosa and within neurons of the GI tract. serotonin inhibits gastric acid secretion. It stimulates the production and release of gastric and colonic mucus. serotonin acts as an enteric neurotransmitter and increases intestinal motility.
+The main factors that stimulate gastric secretion are acetylcholine, gastrin, and histamine. parasympathetic stimulation releases Ach which stimulates the secretion of
+• pepsinogen by peptic cells
+• hydrochloric acid by parietal cells
+• mucus by mucous cells.
+Both gastrin and histamine strongly stimulate acid secretion by parietal cells but have little effect on other cells.
+The stomach mucosa has two important types of tubular glands:
+• The oxyntic (gastric) glands secrete hydrochloric acid, pepsinogen, intrinsic factor, and mucus.
+• The pyloric glands secrete mainly mucus for protection of the pyloric mucosa from the stomach acid. They also secrete the hormone gastrin.
+Note- serotonin released from the small intestine triggers vomiting by stimulation of 5HT3 receptors. Therefore, 5HT3 antagonists like ondansetron are used as antiemetics.",,D,
+Question 11,pacinian corpuscle is stimulated by which of the following?,"a) pain
+b) Temperature
+c) Touch
+d) pressure","pacinian corpuscle is stimulated by pressure.
+pacinian corpuscles are the largest cutaneous mechanoreceptors. They are present in the dermis of glabrous and hairy skin. They are composed of a nerve ending which is encapsulated by concentric layers of connective tissue that give it an onion-like appearance. These receptors respond to fast vibration and deep pressure and adapt very rapidly. The sensory nerves from cutaneous mechanoreceptors are myelinated Aα and Aβ fibers.
+Image shows histology of pacinian corpuscle.
+other mechanoreceptors:
+• Meissner's corpuscles are present mainly in the dermis of non-hairy skin particularly in the fingertips, lips, and other locations where tactile discrimination is well developed. They have small receptive fields and can be used for two point discrimination. Meissner corpuscles are rapidly adapting receptors that sense point discrimination, precise location, tapping, and flutter. These are encapsulated nerve endings of a large myelinated sensory nerve (Aβ type).
+The image shows the histology of Meissner's corpuscle in the dermis.
+• Merkel discs are seen in the epidermis of glabrous skin. They are slowly adapting receptors and have very small receptive fields. These receptors detect vertical indentations of the skin. They are expanded dendritic endings.
+• Ruffini corpuscles are capsulated, enlarged, dendritic endings. They are located in the dermis of glabrous and hairy skin, and in joint capsules. They are slowly adapting receptors. Ruffini corpuscles detect stretch and joint rotation.
+Pain and temperature sensations arise from receptors located on unmyelinated sensory neurons present throughout the glabrous skin, hairy skin, and deep tissue. Impulses from nociceptors are transmitted via thinly myelinated Aδ fibers and unmyelinated c fibers.
+Activation of Aδ fibers is responsible for first pain (also called fast pain). It is a rapid response and helps in the discrimination of pain or the ability to localize the site and intensity of the noxious stimulus. It is mediated by the release of glutamate. An example is pinprick.
+Activation of c fibers is responsible for delayed second pain(also called slow pain). It is a dull, intense, diffuse, and unpleasant feeling associated with a noxious stimulus. . second pain is mediated by the release of a combination of glutamate and substance P. Example is visceral pain.
+Types of nociceptors :
+• Mechanical nociceptors respond to strong pressure (eg, from a sharp object).
+• Thermal nociceptors are activated by skin temperatures above 45°c or by severe cold (<2o°c).
+• chemically sensitive nociceptors respond to chemicals such as bradykinin, histamine, high acidity, and environmental irritants.
+• Polymodal nociceptors respond to combinations of these stimuli.",,D,542-485.PNG
+Question 12,which of the following jugular venous pressure (JVp) waves corresponds to the isovolumetric contraction phase of the cardiac cycle?,"a) a wave
+b) c wave
+c) x descent
+d) y descent","The c wave of jugular venous pressure wave corresponds to the isovolumetric contraction phase in the cardiac cycle.
+During isovolumetric contraction, the ventricles start contracting with valves closed. This leads to bulging of the tricuspid valve. This bulging increases pressure in the right atrium which is transmitted to the right internal jugular vein. This appears as a c wave in jugular venous pressure (JVP) tracing.
+JVP measured in the internal jugular vein (IJV) is a reflection of the right atrial pressure. IJV is preferred because it is not valved and is in direct line with superior vena cava and right atrium.
+The waveforms seen in a normal JVP are:
+• a wave corresponds to atrial contraction and occurs just after the P wave (on ECG) and just before the first heart sound.
+• c wave represents the bulging of the tricuspid valve into the right atrium during ventricular systole.
+• x descent corresponds to the atrial relaxation during atrial diastole.
+• v wave represents atrial filling during ventricular systole and peaks at the second heart sound.
+• y descent represents passive emptying of the right atrium into the right ventricle after tricuspid valve opening.
+The wiggers diagram given below correlates JVP with other aspects of cardiac cycle.",,B,544-487.PNG
+Question 13,The extracellular concentration of chloride is 1oommol/L and the intracellular concentration is 1o mmol/L. what is the equilibrium potential of chloride?,"a) + 1o mv
+b) - 1o mv
+c) - 6o mv
+d) + 6o mv",The equilibrium potential of chloride in the given question is -6o mv.,,C,
+Question 14,"After reaching an equilibrium state during exercising, it was found that the body was consuming oxygen at the rate of 15oo ml/min. Calculate the MET score if the baseline oxygen consumption at rest is 25o ml/min.","a) 5
+b) 6
+c) 1/5
+d) 1/6","The MET score in the given scenario is 6.
+one metabolic equivalent (MET) is defined as the amount of oxygen consumed while sitting at rest.
+Normally, one MET〓 3.5 ml o2 /kg body weight/min
+In the above question, the baseline o2 consumption at rest is given as 25o ml/min. According to the definition of one MET, we can deduce that the given 25oml/min is one MET.
+o2 consumption at reaching equilibrium during exercise〓 15ooml/min
+MET score〓 o2 consumption during exercise/ one MET
+〓 15oo/25o
+〓 6
+The MET concept represents a simple, practical, and easily understandable procedure for expressing the energy cost of physical activities as a multiple of the resting metabolic rate. If the MET score is low, it means that the activity requires less oxygen compared to an activity that has a higher MET score. Eg. Gardening requires around 3-7 METS compared to that jogging that may need around 9-11 METS. we can classify activities as light, moderate or heavy, depending on MET scores. It can also be used to identify the functional capacity of a patient.",,B,
+Question 15,"All of the following cause a right shift of the oxygen-hemoglobin dissociation curve, except ___.","a) Increased HbF
+b) Raised 2,3 BPG
+c) Acidosis
+d) Increased Co2","Increased HbF (fetal hemoglobin) causes a left shift of the oxygen-hemoglobin dissociation curve. oxygen-hemoglobin dissociation curve:
+This is a plot of the partial pressure of o2 and the percentage saturation of Hb with o2. It is normally sigmoid in shape. If the oxygen-hemoglobin dissociation curve is shifted to the right, it means that the affinity of Hb for o2 has become less, which favors o2 delivery. This means a higher P5o, which implies that a higher Po2 is required to maintain 5o% saturation (R - Right shift Releases oxygen). If the curve is shifted to the left, it means that affinity has increased for o2 ( which favors o2 binding ) i.e. lower P5o value ( L-Left shift Leashes oxygen ).
+Causes of the right shift of the oxygen-hemoglobin dissociation curve:
+• Hypoxia and Hypercarbia - metabolically active tissues utilize o2 and tissues produce Co2
+• ↓ pH - secondary to increased Co2 production
+• ↑ in temperature
+• ↑ in 2,3-DPG - increased anaerobic glycolysis
+• Growth hormone, thyroid hormone, androgen - by increasing 2,3 DPG
+• sickle cell anemia - reduced affinity for o2
+• Exercise
+Causes of the left shift of oxygen-hemoglobin dissociation curve:
+• ↑ pH (alkalosis)
+• ↓ PCo2
+• ↓ 2,3-DPG
+• ↓ Temperature
+• HbF
+• Carboxyhemoglobin
+Bohr's effect- The decrease in the o2 affinity of hemoglobin when the pH of the blood falls",,A,546-488.PNG
+Question 16,"The latent period, contraction period, and relaxation period of a skeletal muscle are 1o ms, 4o ms, and 5o ms respectively. calculate the tetanizing frequency.","a) 1oo per second
+b) 5o per second
+c) 2o per second
+d) 25 per second","The tetanizing frequency of the given skeletal muscle is 25 per second.
+In the question, it is given that the contraction period is 4o msec (4o msec is o.o4 seconds) Tetanizing frequency 〓 1/contraction period
+Therefore, tetanizing frequency 〓 1/4o millisecond 〓 1/o.o4 per second 〓 1ooo/4o per second 〓 25 per second.
+when there is a repeated stimulus to a muscle fiber before relaxation, it produces an additional contraction of the muscle. The second contraction adds to the first contraction and the total strength of contraction increases. This phenomenon is known as a summation of contractions.
+with repeated stimulation, contraction occurs repeatedly before any relaxation has occurred. This causes the individual responses to fuse into one continuous contraction. such a response is called tetanus (tetanic contraction). ■■■
+Tetanizing frequency is the minimum frequency required for producing tetanus.
+Tetanus is of two types.
+• complete tetanus- when no relaxation occurs between stimuli
+• Incomplete tetanus- when periods of incomplete relaxation occur between the summated stimuli.",,D,547-489.PNG
+Question 17,An individual is in an environment of a temperature of 47oc. what is the mechanism of heat loss?,"a) Radiation
+b) conduction
+c) convection
+d) sweating","The mechanism of heat loss in the given case where the surrounding temperatures are higher than the body temperature is sweating.
+Different methods of heat loss:
+• Radiation is heat loss in the form of infrared rays.
+• conduction is heat loss that occurs by direct contact with an object.
+• convection is heat loss resulting from air movement.
+when the temperature of the surroundings is more than that of the skin, the body gains heat by both radiation and conduction. under these conditions, the heat can be lost from the body only by evaporation or sweating.
+when the body temperature is greater than the temperature of the surroundings, heat can be lost by radiation and conduction.",,D,
+Question 18,which among the following has the highest airway resistance?,"a) Alveolar duct
+b) Bronchi
+c) Respiratory bronchioles
+d) small bronchioles","Among the given options, bronchi (medium-sized airway) offer maximum resistance.
+The best answer here is bronchi, as all the other options suggest smaller airways, while bronchi are the only medium-sized airway.
+Airflow can be derived from poiseuille-Hagen formula:
+Q 〓π Δpr4/8ηL
+where
+• Q is the flow rate
+• π is pie symbol
+• Δp is the pressure difference
+• r is radius
+• η is viscosity
+• L is length
+Also,
+Flow rate (Q) 〓 pressure difference (Δp)/ resistance (R).
+Therefore, substituting this in poiseuille- Hagen formula,
+Δp/ R 〓 π Δpr4/8ηl
+1/R 〓 π r4/8ηl
+R 〓 8ηl/ π r4
+Therefore it can be derived that airway resistance is inversely proportional to the radius by the power of four.
+with poiseuille- Hagen formula we might feel that the smallest airways are the major site of resistance. However, the contribution by the smallest airways is very little to the overall total resistance. This is because, the airway branches in each generation exist in parallel rather than in series. As the parallel branching increases, the resistance decreases. (Total cross-sectional diameter of small airways put together is high). Thus the overall resistance of the small airways is very small. Also, airflow velocity decreases substantially as the effective cross-sectional area increases (i.e., the flow becomes laminar).
+other factors affecting airway resistance :
+• Lung volume, as lung volume increases the resistance decreases and vice versa. Lung volume increases the transairway pressure thus increasing the caliber of the airway.
+• Airway mucus, edema, and contraction of bronchial smooth muscle increase the airway resistance. Its clinical application is seen in asthma, bronchitis, and emphysema
+• The density and viscosity of inspired gas also contribute to airway resistance. A gas with more density imparts more resistance.",,B,
+Question 19,"If the contractility of the heart is decreased, which of the following is seen","a) End diastolic volume and pressure curve shifts to left without change in slope b) slope changes in EsV pressure curve
+c) End systolic volume and pressure curve shifts to left without change in slope
+d) slope changes in EDV and pressure curve","If the contractility of the heart is decreased, slope changes in the ESV pressure curve are seen.
+To answer this question, we will first understand the volume-pressure diagram and the end-systolic pressure-volume relationship (ESpVR) during cardiac cycle.
+Volume-pressure diagram during the cardiac cycle
+The volume pressure diagram plots the changes in the pressure and volume in the left ventricle that occurs during the cardiac cycle. The x-axis shows the changes in ventricular volume, while the y-axis shows the changes in ventricular pressure.
+It has the following phases.
+phase I- This phase is called the period of filling and extends between points A and B. point A is at the end of systole when the ventricular volume is about 5o mL. This volume is called end-systolic volume. The pressure at this point is about 2 to 3 mm Hg. These volume and pressure go on increasing as the blood from the atrium flows to the ventricle during diastole. At the end of diastole, marked by point B, the ventricle will have a volume of around 12o mL. This volume is called end-diastolic volume. The pressure is slightly raised to 5-7mm Hg.
+phase II- It is the phase of isovolumetric contraction, and extends between points B and C. At the end of diastole (point B), a slight increase in the ventricular pressure closes the mitral valve, and contraction starts. The ventricle contracts while both mitral and aortic valves are closed. Therefore, the pressure within the ventricle slowly rises without any changes in the volume.
+phase III- It is the phase of ejection and extends between point C and point D. point C is the place where the aortic valve opens. The pressure within the left ventricle rises slowly during isovolumetric contraction until it is sufficient to open the aortic valve. once the aortic valve opens, blood within the left ventricle is ejected into the aorta. This decreases the volume of the left ventricle, while increasing the pressure within the ventricle.
+Phase IV- It is the period of isovolumetric relaxation. It extends between points D and A. At the end of the ejection (Point D), the aortic valve closes. However, the ventricular relaxation continues despite closed aortic and mitral valves. Therefore, the ventricular pressure continues to fall while the volume remains the same. The ventricle returns to its starting point, with about 5o ml of blood left in the ventricle and pressure of about 2 to 3 mm Hg
+End-systolic pressure-volume relationship (ESPVR)
+ESPVR is the maximum pressure that can be developed by the ventricle at the end-systolic volume. It is determined by the line intersecting the upper left corners of the loops. This line can be extended down to the x-axis. The slope of this line is called as ESPVR slope.
+Now coming to the question, when the contractility of the heart is decreased, the force of ejection decreases leading to decreased stroke volume, and increased end-systolic volume. Therefore, the volume-pressure diagram shifts to the right. If the diagram shifts to the right, then ESPVR also changes, leading to a change in the slope of the ESPVR curve.
+other options:
+options A and D- End diastolic volume and pressure curve (EDPVR) mainly assesses the compliance of the ventricle, rather than contractility. The slope of this curve increases when the compliance decreases, and vice versa.
+option C- ESPVR shifts to right with change in slope.",,B,549-490.PNG
+Question 20,A lesion in which lobe will lead to impairment of hand-eye coordination?,"a) parietal lobe
+b) Frontal lobe
+c) Temporal lobe
+d) occipital lobe","A lesion in the parietal lobe will lead to impairment of hand-eye coordination.
+The somatic sensory area and related parts of the posterior parietal lobe project to the premotor cortex. Some of these neurons are concerned with aiming and manipulating the hands at an object, whereas other neurons are concerned with hand-eye coordination. Neurons in this posterior parietal cortex contribute to the descending pathways involved in motor control.
+There are two parietal lobes, the dominant side, and the non-dominant side.
+• The functions of the dominant side of the parietal lobe are calculation, language, planned movement, appreciation of size, shape, weight, and texture. A lesion here causes dyscalculia, dysphasia, dyslexia, apraxia, agnosia, homonymous hemianopia.
+• The function of the non-dominant side is spatial orientation and constructional skills. Its lesion causes spatial disorientation, constructional apraxia, neglect of the non-dominant side, dressing apraxia, and homonymous hemianopia.
+other options:
+option B: The frontal lobe is responsible for personality, emotional response, social behavior. Any lesion in the frontal lobe causes disinhibition, antisocial behavior, impaired memory, incontinence, anosmia.
+option C: The temporal lobe has two lobes and is divided as dominant and non-dominant.
+• The dominant temporal lobe has important functions like auditory perception, speech, language, verbal memory, smell. Lesions lead to dysphasia, dyslexia, poor memory, complex hallucinations (smell, sound, vision), impaired face recognition (Prosopagnosia) and homonymous hemianopia.
+• The nondominant temporal lobe auditory perception, music, tone sequences, non-verbal memory (faces, shapes, music). Lesions here leads to poor non-verbal memory, loss of musical skills, complex hallucinations, and homonymous hemianopia.
+option D: The occipital lobe is responsible for the analysis of vision. A lesion in occipital lobe mainly affects vision leading to homonymous hemianopia, visual agnosia, impaired face recognition (prosopagnosia), visual hallucinations (lights, lines and zigzags).",,A,
+Question 21,All of the following ions have decreased concentration on the luminal side of proximal convoluted tubule except :,"a) Amino acids
+b) Glucose
+c) chloride
+d) Bicarbonate","The concentration of chloride on the luminal side is more when compared to sodium, glucose, and amino acids.
+In the first half of the proximal tubule, sodium is reabsorbed by co-transport along with glucose, amino acids, and other solutes. As sodium is reabsorbed in the proximal tubule, it preferentially carries glucose, amino acids, bicarbonate along with it. Thus, their concentrations decrease markedly along the length of the proximal tubule, and a solution having a higher concentration of chloride is left behind. The concentration of chloride here is around 105 mEq/L.
+In the second half of the proximal tubule, sodium gets re-absorbed along with chloride since there is only a little glucose and amino acids yet to be re-absorbed. The second half of the proximal tubule has a concentration of chloride ≈140 mEq/L. This higher chloride concentration favors its own diffusion from the lumen into the renal interstitial fluid.
+Although the amount of sodium in the tubular fluid decreases markedly along the proximal tubule, the concentration of sodium and the total osmolarity remain relatively constant. This is because the proximal tubule is highly permeable to water and water reabsorption increases to keep pace with the sodium reabsorption.",,C,552-493.PNG
+Question 22,sodium iodide symporter is present in all of the following except:,"a) Thyroid gland
+b) placenta
+c) salivary gland
+d) pituitary gland","sodium iodide symporter is present in all of the options given above except the pituitary gland.
+sodium iodide symporter is expressed mainly in the thyroid gland and is responsible for iodine uptake in the follicular cells of the thyroid gland.
+sodium iodide symporter (NIs)
+The NIs is mainly present in the basolateral membranes ofthe thyrocytes. The NIs transports two Na+ ions and one I- ion into the cell against the concentration gradient. The energy for this transport is derived from the Na+-K+ ATpase pump. Na+-K+ ATpase pumps sodium outside the cell and causes low intracellular sodium concentration. This causes sodium to enter the cell by facilitated diffusion. Along with sodium, iodide ions also enter the cell. since the energy to transport sodium and iodide ions in NIS is derived from Na+-K+ ATpase pump, this is called secondary active transport.
+The NIS is also expressed in:
+• Salivary glands
+• Gastric mucosa
+• placenta
+• ciliary body of the eye
+• choroid plexus
+• Mammary glands
+• certain cancers are derived from these tissues.
+The significance of these extrathyroidal NIS is not known.",nan,D,nan

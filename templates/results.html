@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Test Complete!</h1>
+        <div class="results-summary">
+            <h2>Your Score: {{ score }} out of {{ total_questions }}</h2>
+            <div class="score-bar">
+                <div class="score-fill" style="width: {{ (score / total_questions) * 100 }}%;"></div>
+            </div>
+        </div>
+        <h2 class="review-title">Review Your Answers</h2>
+        <div class="results-review">
+            {% for question in questions %}
+                <div class="review-item {% if user_answers.get(loop.index0|string) and user_answers.get(loop.index0|string).upper() == question.answer_key.strip().upper() %}correct{% else %}incorrect{% endif %}">
+                    <p><strong>Q{{ loop.index }}: {{ question.question }}</strong></p>
+                    {% if question.image_q and question.image_q|string != 'nan' %}
+                        <img src="{{ url_for('static', filename='images/' + question.image_q) }}" alt="Question Image" class="question-image">
+                    {% endif %}
+                    <div class="review-options">
+                         {% for option in question.options.split('\n') %}
+                            {% if option.strip() %}
+                                <div class="review-option 
+                                    {% if option.strip()[0].upper() == question.answer_key.strip().upper() %}review-option-correct{% endif %}
+                                    {% if user_answers.get(loop.index0|string) and option.strip()[0].upper() == user_answers.get(loop.index0|string).upper() and option.strip()[0].upper() != question.answer_key.strip().upper() %}review-option-incorrect{% endif %}
+                                ">{{ option.strip() }}</div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                    <div class="explanation-block review-explanation">
+                        <h4>Explanation</h4>
+                        <div class="solution-text">{{ question.solution | format_solution | safe }}</div>
+                        <div class="solution-images">
+                            {% if question.image_a and question.image_a|string != 'nan' %}
+                                {% for img in question.image_a.split(';') %}
+                                    {% if img.strip() %}
+                                        <img src="{{ url_for('static', filename='images/' + img.strip()) }}" alt="Explanation Image">
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        <a href="{{ url_for('home') }}" class="btn">Back to Dashboard</a>
+    </div>
+</body>
+</html>

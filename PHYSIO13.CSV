@@ -1,0 +1,255 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,which of the following hormone acts via this pathway?,"a) Leptin
+b) calciton
+c) vasopressin
+d) Aldosterone","The given image shows the JAK-STAT signaling pathway, which is associated with tyrosine kinase receptors. Among the given hormones leptin acts via this pathway.
+Hormones that use receptor tyrosine kinase/ JAK-STAT signaling include the following:
+• Growth hormone
+• Fibroblast growth factor
+• Hepatocyte growth factor
+• Insulin
+• Insulin-like growth factor-1
+• Leptin
+• prolactin
+• vascular endothelial growth factor
+Leptin is a hormone that is secreted by fat cells. The physiological effects of leptin are regulating appetite and energy balance. The leptin receptor acts via tyrosine kinase of the Janus kinase (JAK) family, JAK2. Leptin binds to the extracellular part of the leptin receptor, which causes phosphorylation (p) and activation of the intracellular JAK2. This causes phosphorylation of signal transducer and activation of transcription (STAT) proteins, which results in the transcription of target genes and the synthesis of proteins.
+phosphorylation of JAK2 also results in the activation of other intracellular enzyme pathways such as mitogen-activated protein kinases (MApK) and phosphatidylinositol 3-kinase (pI3K).
+other options:
+Hormones such as adrenal (Aldosterone)and gonadal steroid hormones, thyroid hormones, retinoid hormones, and vitamin D, bind with protein receptors inside the cell rather than on the cell surface. These hormones are lipid soluble and they readily cross the cell membrane and interact with receptors in the cytoplasm or nucleus.
+Vasopressin in the epithelial cells acts via V2 receptor. They use adenylyl cyclase as their second messenger system. Vasopressin in the vascular smooth muscles acts via V1 receptor that uses phospholipase c as the second messenger system.",615-535.PNG,A,
+Question 2,which of the following options is false regarding the measurement of temperature in a febrile patient?,"a) Rectal temperature is ideal for measuring the core body temperature
+b) Rectal temperature is lower than axillary temperature
+c) Tympanic membrane temperature is lower than rectal temperature
+d) Rectal temperature is higher than oral temperature.","with regards to the measurement of temperature in a febrile patient, rectal temperature is higher than axillary temperature.
+For humans, the conventional normal value for oral temperature is 37°c (98.6°F).
+Rectal temperature represents the core body temperature and is less affected by changes in environmental temperature. It remains relatively constant. In comparison, oral temperature is typically o.5°c lower than rectal temperature. However, the oral temperature can be influenced by various factors such as consuming hot or cold fluids, chewing gum, smoking, and breathing through the mouth.
+Tympanic membrane thermometers measure radiant heat emitted by the tympanic membrane and the nearby ear canal, providing an absolute value of temperature. Tympanic membrane readings are generally o.8°c (1.6°F) lower than rectal temperatures. The axillary temperature measured is lower than the rectal temperature.",,B,
+Question 3,which of the following statements is/are true about skeletal muscle?,"a) only 2
+b) only 3
+c) 3, 4
+d) 1, 4","The true statement about skeletal muscle is that the calcium is released from sarcoplasmic reticulum.
+Excitation-contraction coupling refers to the process by which the membrane depolarization of the muscle fiber (excitation) leads to the contraction of the muscle.
+For the maximum contraction of the skeletal muscle, the current has to penetrate deeply into the muscle fiber to the vicinity of the separate myofibrils. This penetration of current is achieved by transmission of action potentials along transverse tubules (T tubules). The T tubules penetrate through the muscle fiber, from one side of the fiber to the other.
+sarcoplasmic reticulum contains calcium ions in high concentration within its vesicular tubules. These ions are released from each vesicle when an action potential occurs in the adjacent T tubule. (statement 3)
+This action potential when it reaches the T tubule, it is sensed by the dihydropyridine receptors linked to calcium release channels. Actvation of this receptor leads to the opening of calcium release channels that releases the calcium ions into the sarcoplasm surrounding the myofibrils and causing contraction. (statement 4)
+In skeletal muscles, extracellular calcium supply partially contributes for the maintenance of skeletal muscle contraction.(statement 1)",,B,
+Question 4,cells with prolific smooth endoplasmic reticulum secrete_______,"a) Eicosanoid hormones
+b) steroid hormones
+c) Amine hormones
+d) peptide hormones","Cells with prolific smooth endoplasmic reticulum secrete steroid hormones.
+The endoplasmic reticulum contains a complex series of tubules in the cytoplasm of the cell.
+• Ribosomes are attached to the cytoplasmic side of the membrane in the rough(granular) endoplasmic reticulum. protein synthesis and the initial folding of polypeptide chains with the formation of disulfide bonds are the functions of rough ER.
+• Ribosomes are absent in the smooth (agranular) endoplasmic reticulum. Free ribosomes are found in the cytoplasm. It is the site of steroid synthesis in steroid-secreting cells and the site of detoxification processes in other cells.
+The sarcoplasmic reticulum is a modified endoplasmic reticulum, that functions as an intracellular calcium store, which releases calcium into the cytoplasm stimulating cell contraction, proliferation, and migration.",,B,
+Question 5,"At which volume or capacity, pressure measured at the upper airway becomes zero?","a) Residual volume
+b) Functional residual capacity
+c) Total lung capacity
+d) Inspiratory capacity","pressure measured at the upper airway becomes zero at functional residual capacity.
+The curve of airway pressure obtained is plotted against the volume, which is the pressure-volume curve of the total respiratory system. This curve is used in understanding the fundamental relationship between the compliance of the lungs and the chest wall. It is measured by a spirometer.
+The functional residual capacity is the volume of the air that remains in the lungs after normal expiration. The normal value is about 2.5 liters. At the lung volume of functional residual capacity (FRC), which is the relaxed state of the lungs, the pressure inside the lungs is effectively zero.
+other options:
+option A: Residual volume is the air left in the lungs after a maximal expiratory effort.
+option C: Total lung capacity is the sum of tidal volume, inspiratory reserve volume, expiratory reserve volume, and residual volume.
+option D: Inspiratory capacity is the maximum amount of air inspired from the end-expiratory level. It is the sum of tidal volume and inspiratory reserve volume.",,B,
+Question 6,Arrange the following bands in the sarcomere from the periphery to the center.,"a) 1,2,3,4
+b) 2,3,4,1
+c) 1,3,4,2
+d) 1,4,2,3","The correct sequence of bands in the sarcomere from the periphery to the centre is: Z line→ A band→ H zone→ M line.
+The sarcomere is the contractile unit of the skeletal muscle fibre.
+• Z line provides attachment to actin filaments. The area between two adjacent Z lines is called the sarcomere. It is composed of thick and thin filaments:
+• Thick filament: Myosin
+• Thin filaments: Actin, tropomyosin and troponin
+• I band is isotropic to light. It contains only actin filaments.
+• A band is anisotropic to light. It contains myosin plus overlapped actin.
+• H bands are the lighter areas in the centre of the A band. These are the areas where the the thick filaments do not overlap the thin filaments, when the muscle is relaxed.
+• M line is present in the centre of H band. There are slender cross-connections that hold the thick filaments in proper array.",,C,627-541.PNG
+Question 7,which of the following are incorrectly paired?,"a) Gastrin - G cells, Antrum
+b) Secretin - S cells, Duodenum
+c) cck - I cells, Duodenum and jejunum
+d) Motilin - M cells, Duodenum and Jejunum","Motilin is secreted by the Mo cells(not M cells) in the stomach, small intestine, and colon
+Motilin is a gastrointestinal hormones that is secreted by enterochromaffin cells and Mo cells in the stomach, small intestine, and colon. It mediates its action via G-protein-coupled receptors on enteric neurons in the duodenum and colon. It produces contraction of smooth muscle in the stomach and intestines in the period between meals.
+M cells are microfold cells are located in the epithelium covering mucosa-associated lymphoid tissues of the small intestine such as the peyer's patches (pps). Their function is to transport luminal antigens to the underlying lymphoid follicles to initiate an immune response.
+Gastrin is secreted by G cells of the antrum, duodenum, and jejunum. It stimulates gastric acid secretion and mucosal growth.
+Secretin is secreted by the S cells of the duodenum. Its primary function is to promote the secretion of bicarbonate-rich pancreatic juice by the ductal cells of the pancreas and duodenum. This secretion is poor in enzymes.
+cholecystokinin (cck) is secreted by I cells of the duodenum, jejunum, and ileum. It stimulates pancreatic enzyme secretion, pancreatic bicarbonate secretion, gallbladder contraction, and growth of the exocrine pancreas. It also inhibits gastric emptying.",,D,
+Question 8,which of the following is responsible for fetal heart acceleration?,"a) carotid body chemoreceptors
+b) Aortic baroreceptors
+c) Autonomic brain stem regulation
+d) ANP","Amongst the given options, the best answer for the site responsible for Fetal heart acceleration is carotid body chemoreceptors>Aortic baroreceptors>Autonomic brain stem regulation.
+Though the brainstem is critical to mediating this reflex, the primary stimulus for initiating the changes in the heart rate is initiated by the carotid chemo and baro receptors, especially the chemoreceptor which is highly sensitive to the changes in o2 levels in the blood. It plays a permissive role on fetal heart rate acceleration.
+Arterial chemoreceptors in the carotid arteries>aortic arch, respond to low pH levels and decreased oxygen saturation. These chemoreceptors detect instances of significant fall in blood oxygen levels, setting off the peripheral chemoreflex and heightening both parasympathetic and sympathetic neural activities. The activation of the parasympathetic branch leads to a swift decline in Fetal Heart Rate (FHR), a clinical manifestation identified as intrapartum decelerations. concurrently, the sympathetic branch prompts significant peripheral vasoconstriction across a range of vascular territories, which results in the elevation of arterial blood pressure, ensuring continuous perfusion to essential organs.
+The permissive action on the FHR acceleration comes in instances of alleviated hypoxemia, detected by the chemoreceptors in the carotid body and aortic arch, suppressing the peripheral chemoreflex, leading to a reduction in parasympathetic and sympathetic neural activities.
+Deactivation of the parasympathetic branch results in a swift increase in Fetal Heart Rate (FHR), typically seen clinically as an increase in intrapartum accelerations.",,A,
+Question 9,our body was built to identify toxic substance by the recognition of bitter taste. which of the following substances is responsible for the bitter taste?,"a) Amino acids
+b) Alkalaoids
+c) Hydrogen ions
+d) Aldehydes","Alkaloids cause an intensely bitter taste, that causes the rejection of the food.
+Bitter taste sensations are caused by two particular classes of substances:
+• Long-chain organic substances that contain nitrogen.
+• Alkaloids
+Alkaloids cause an intensely bitter taste, leading to the rejection of certain foods. They are found in many medicinal drugs such as quinine, caffeine, strychnine, and nicotine. The bitter taste sensation in many deadly toxins found in poisonous plants is often caused by alkaloids. This helps the person or animal to reject the food.
+sweet taste is caused by chemicals such as sugars, glycols, alcohols, aldehydes, ketones, amides, esters, some amino acids, some small proteins, sulfonic acids, halogenated acids, and inorganic salts of lead and beryllium.
+sour taste is caused by acids (Hydrogen ion concentration). The sour taste is directly proportional to the strength of the acid.",,B,
+Question 10,The type of hypoxia based on the graph is_____ (consider the plot in red as normal),"a) stagnant hypoxia
+b) Histotoxic hypoxia
+c) Hypoxic hypoxia
+d) Anemic hypoxia","The graph represents the oxygen-hemoglobin dissociation curve that would be seen in anemic hypoxia and normal. The X-axis represents the partial pressure of oxygen(Po2). The Y-axis represents the percentage saturation between the hemoglobin and the oxygen.
+The graph indicates two lines: a red line representing normal hemoglobin and a purple line representing reduced hemoglobin levels. The red line corresponds to an arterial blood oxygen content of approximately 19 mL/dL, and venous blood oxygen content of 14 mL/dL. on the other hand, the purple line represents an arterial blood oxygen content of 9 mL/dL and venous blood oxygen content of 4 mL/dL.
+This scenario demonstrates a 5o% decrease in oxygen saturation of hemoglobin, while the partial pressure of oxygen (Po2) remains within the normal range. This condition is characterized as anemic hypoxia.
+In anemic hypoxia, the blood oxygen content is decreased. The patients might not experience any difficulty during rest because 2,3-DPG increases in the red blood cells. However, they may have difficulty during exercise because of a limited ability to increase o2 delivery to the active tissues.
+conditions that cause a right shift in the oxygen hemoglobin curve are: (conditions with the increased requirement of o2 - metabolically active tissues)
+• Hypoxia
+• Hypercarbia
+• Decreased pH
+• Increased temperature
+• Increased 2,3-biphosphoglycerate
+conditions that cause a left shift in the oxygen hemoglobin curve
+• Increased oxygen
+• Decreased carbon dioxide
+• Increased pH
+• Decreased temperature
+• Decreased 2,3-biphosphoglycerate
+• Fetal hemoglobin.",618-536.PNG,D,
+Question 11,Assertion: RMP is dependent on proteins and phosphate ions. Reason: Diffusion potential can be calculated using Nernst Equation.,"a) The assertion is independently a true statement, but the reasons is independently a false statement.
+b) The assertion is independently a false statement, but the reasons is independently a true statement.
+c) Both assertion and reason are independently true and the reason is not the correct explanation for the assertion
+d) Both assertion and reason are independently true and the reason is the correct explanation for the assertion","Both assertion and reason are independently true and the reason is not the correct explanation for the assertion.
+Resting membrane potential (RMP) is the difference in the electrical potentials between the cytoplasm of the cell and the extracellular space. It represents an equilibrium situation where the concentration gradient of ions across the membrane is equal and opposite to the electrical gradients.
+Resting membrane potential is primarily influenced by sodium (Na+) and potassium (k+) ions, along with negatively charged intracellular proteins and organic phosphates. In neurons, the concentration of potassium is higher inside the cell, while sodium ions exhibit the opposite distribution. The establishment of this concentration difference is facilitated by the Na, k ATpase pump. potassium ions passively move out of the cell, while sodium ions move into the cell.
+The Goldman-Hodgkin-katz equation is utilized to calculate the resting membrane potential since multiple ions are involved. Among these ions, potassium, which has the greatest conductance across the membrane at rest, becomes the primary contributor to the resting membrane potential.
+Goldman-Hodgkin-katz equation
+The Nernst equation establishes a connection between the diffusion potential and the ion concentration difference across a membrane. The magnitude of the Nernst potential is determined by the ratio of the ion concentrations on the two sides of the membrane.
+Nernst equation :
+EMF(millivolts) = [61/z] X log [co / ci]
+• EMF = electromotive force (Nernst potential)
+• z = charge of ion
+• co = concentration outside
+• ci = concentration inside",,C,630-542.PNG
+Question 12,windkessel effect is shown by all except ____,"a) Radial artery
+b) Renal Artery
+c) Aorta
+d) carotid artery","windkessel effect is shown by all except the radial artery.
+The windkessel effect is seen in the large elastic arteries like the aorta, carotid, and renal artery. The elasticity or windkessel effect is the exclusive property of large and elastic vessels. These vessels when stretched undergo elastic recoil.
+The aorta is stretched during systole. This expansion causes temporary storage of blood, allowing more blood to enter the aorta. This buffer stock of blood is released during diastole, to maintain organ perfusion even during diastole.
+The image given below shows the windkessel effect seen in the aorta.
+several methods can be used to evaluate the elastic properties of the aortic windkessel in living humans. one simple approach is to measure the pulse wave velocity along the aorta, where a higher velocity indicates increased stiffness and elastic resistance. Alternative methods involve assessing the ratio between pulse pressure and changes in aortic volume (delta P/delta v). These methods can be noninvasively performed using ultrasound or tomographic techniques.",,A,631-543.PNG
+Question 13,Increase in blood pressure at the beginning of valsalva maneuver is due to_________,"a) Increase in intrathoracic pressure adding to left ventricular pressure
+b) Increase in intrathoracic pressure adding to aortic pressure
+c) Increase in left atrial pressure
+d) Increase in left ventricular volume","Increase in blood pressure at the beginning of the valsalva maneuver is due to increase in intrathoracic pressure adding to aortic pressure.
+valsalva maneuver involves the performance of forced expiration against a closed glottis. It occurs during coughing, defecation, and heavy lifting. At the onset of straining, the blood pressure is raised because the increase in intrathoracic pressure is added to the pressure of the blood in the aorta. The pressure then falls as the high intrathoracic pressure compresses the veins and decreases the cardiac output.
+when the glottis is opened and intrathoracic pressure returns to its normal state, cardiac output is regained, but there is constriction in the peripheral vessels. As a result, blood pressure elevates beyond the normal range, which triggers the baroreceptors, leading to bradycardia and a subsequent decrease in pressure back to normal levels.",619-537.PNG,B,
+Question 14,which of the following statements is false about male sexual development?,"a) At eight weeks the embryo is bipotent.
+b) wolffian duct develops into epidymis and vas deferens on either side of the body.
+c) Mullerian inhibiting substance inhibits mullerian duct.
+d) Dihydrotestosterone leads to the development of secondary sexual characters and external genitalia.","The embryo is bipotent till seven weeks of gestation, not eight.
+At the seventh week, the embryo contains both male and female primordial genital ducts. In the case of a female fetus, uterine tubes and the uterus develops from the Mullerian duct. In case of a male fetus, the wolffian duct system on each side develops into the epididymis and vas deferens. Testosterone is secreted by the Leydig cells of the fetal testis and MIS (Mullerian inhibiting substance) is secreted by the Sertoli cells. MIS is an amino acid that belongs to the family of transforming growth factor β (TGF-β). MIS causes apoptosis of the Mullerian ducts on the side on which it is secreted.
+Dihydrotestosterone, a metabolite of testosterone is responsible for the formation of male external genitalia and male secondary sex characteristics. Development of the vas deferens, epididymis, and other structures from the wolffian ducts is due to the action of testosterone.",,A,632-544.PNG
+Question 15,The upstroke of action potential (phase o) in the sinoatrial node is due to ______________ ?,"a) sodium influx via voltage gated sodium channels
+b) Calcium currents only
+c) potassium efflux
+d) Influx of both sodium and calcium","The upstroke of action potential (phase o) in the sinoatrial node is due to calcium currents only. It occurs due to the influx of ca2+ ions by the opening of voltage-gated L-type channels.
+The action potential of the SA node differs from that of the atria, ventricles, and purkinje fibres in the following ways: (1) In the absence of neural input, the SA node demonstrates automaticity and the ability to produce its own action potentials. (2) It has an unstable resting membrane potential. (3) It has no sustained plateau.
+The resting membrane potential (RMp) of the SA node is -55 to -6o millivolts. phases of this potential are:
+• phase o (upstroke wave)- This is due to the influx of ca2+ ions by the opening of voltage-gated L-type channels.
+• phase 3 (Downstroke wave)- This is due to the efflux of K+ leading to repolarization. (option c)
+• phase 4 (prepotential)- Because of ongoing K+ efflux, hyperpolarization sets in. This makes the channel more permeable to Na+ ions and since these Na+ channels are activated during hyperpolarization they are referred to as funny currents (Ih/ If). They form the first half of the pre-potential. The second half of the prepotential is completed by the opening of the voltage-gated T-(transient) type ca2+ channel. The slope of phase 4 in the SA node determines the heart rate.",,B,633-545.PNG
+Question 16,which of the following types of pain stimulus is associated with the Carrageenan-induced experimental pain model?,"a) Inflammatory stimulus
+b) Acute noxious stimulus
+c) Deep boring stimulus
+d) Neuropathic stimulus","The carrageenan-induced pain model also called the carrageenan-Induced paw Edema model is a well-known model of acute inflammation.
+It is employed to evaluate the anti-inflammatory properties of a variety of synthetic and natural substances. A non-antigenic phlogistic polysaccharide derived from red seaweed, carrageenan is frequently added to processed foods as a thickening, stabilising, gelling, and emulsifying agent. The activation of the complement system and inflammatory mediators is caused by the sulphated sugars found in carrageenan.
+carrageenan is injected subcutaneously into the plantar surface of the rat paw to cause inflammation. This process results in temporary inflammation and acute swelling, which peaks 3 to 5 hours after injection and subsides in 24 hours.
+postcapillary venules dilate due to the action of carrageenan, causing inflammatory cells and fluid to exude. During this process, a number of proinflammatory mediators are released. The cyclooxygenase pathway's activation is commonly associated with the carrageenan model. A biphasic curve represents the edema caused by carrageenan.
+part of the initial phase of inflammation caused by carrageenan is attributed to injection trauma and the release of acute phase mediators, particularly bradykinin, histamine, and serotonin. The second phase of carrageenan-induced inflammation, which happens about three hours after carrageenan is added, is mostly caused by prostaglandins.",,A,
+Question 17,Insulin-independent glucose transporter is present in all of the following except?,"a) Brain
+b) Adipose tissue
+c) RBC
+d) pancreas","Insulin-dependent (not independent) glucose transporter is found in the adipose tissue.
+Glucose uptake by skeletal muscle, cardiac muscle and adipose tissues is via GLUT-4 which is insulin-dependent.
+In the cytoplasm of insulin-sensitive cells, the vesicles contain a pool of GLUT-4 molecules. when the insulin receptors of these cells are activated, the vesicles move rapidly to the cell membrane and fuse with it, inserting the transporters into the cell membrane.
+The membrane patches containing transporters are endocytosed when insulin action stops, preparing the vesicles for subsequent insulin exposure. phosphoinositol 3-kinase is activated by the insulin receptor, which causes the vesicles to migrate to the cell membrane
+Most of the other GLUT transporters are not insulin-sensitive and are constitutively expressed in the cell membrane. Ex: GLUT-1 in RBC's and brain, GLUT-2 in the beta cells of the pancreas and GLUT-3 present in the brain and kidneys.",,B,C
+Question 18,which of the following is responsible for the phase marked C to D in the given nerve action potential?,"a) Na+ influx
+b) K+ influx
+c) Na+ efflux
+d) K+ efflux","The phase C to D in the given nerve action potential is caused by K+ efflux as a result of the opening of the K+ channels, resulting in repolarization.
+The sequence of events occurring during an action potential is shown below
+• point A represents the resting state where both channels are closed.
+• Na+ channels open in response to depolarizing stimulus resulting in Na+ influx (option A). The initiation of action potential occurs only after a certain potential is reached, which is called the threshold potential represented by point B.
+• After this, the sodium influx causes the opening of more Na+ channels through a positive feedback mechanism. Rapid depolarization occurs to reach point C.
+• At point c, Na+ channels close and K+ channels open, causing repolarization due to K+ efflux.
+• Point D represents continued depolarization due to K+ efflux.
+• At point E, Na+ channels are reset and are ready to respond to another depolarizing stimulus. During this phase, the K+ channels remain open and slowly return to the closed state, causing after-hyperpolarization. As a stronger stimulus is required to reach the threshold potential, the excitability of nerve fibre is reduced at point E.
+• As both channels close, the membrane returns to resting membrane potential back to point A.
+Point B-D is a part of the refractory period. During this period, the application of even a stronger stimulus will not elicit an action potential.
+The refractory period is divided into an absolute refractory period and a relative refractory period. During the absolute refractory period, the nerve will not be excited no matter how strong a stimulus is given. However, during the relative refractory period, stronger than normal stimuli can cause excitation.",621-539.PNG,D,609-531.PNG
+Question 19,The given graph shows the effect of PTH on blood calcium and phosphate levels in an experimental animal. How does PTH increase plasma calcium levels?,"a) BY increasing osetoclastic activitY
+b) By decreasing renal excretion of calcium
+c) By increasing osteoblastic activity
+d) By increasing osteoclastic activity and decreasing renal excretion of calcium","The parathyroid hormone increases the plasma calcium levels by increasing osteoclastic activity and decreasing renal excretion of calcium.
+By regulating intestinal reabsorption, renal excretion, and the exchange of these ions between the extracellular fluid and bone, PTH offers a potent mechanism for controlling the concentrations of calcium and phosphate in extracellular fluid.
+The parathormone (PTH) increases ca+2 concentration by:
+• Increased reabsorption of ca+2 by renal tubules, decreasing the urinary ca+2 excretion
+• Increasing bone resorption, leading to ca+2 release into the EcF
+• Decreased phosphate reabsorption by the renal tubules, increasing the urinary excretion of phosphate
+• conversion of 25-hydroxycholecalciferol to 1,25-dihydroxycholecalciferol which increases intestinal ca2+ absorption
+Activation of the osteoclasts occurs due to activated osteoblasts and osteocytes that send secondary signals to the osteoclasts. Preosteoclast cells become mature osteoclasts when their receptors are activated by RANKL, a significant secondary signal. Activation of the osteoclastic system occurs in two stages: (1) immediate activation of the osteoclasts that are already formed and (2) formation of new osteoclasts.
+PTH administration decreases proximal tubular reabsorption of phosphate ions, which results in a rapid loss of phosphate in the urine. At the same time that PTH reduces phosphate reabsorption, it also increases calcium reabsorption through renal tubules. This ultimately leads to a decrease in the renal excretion of calcium.
+Furthermore, it increases the reabsorption of hydrogen and magnesium ions while decreasing the reabsorption of ions from amino acids, potassium, and sodium in a manner similar to how it affects phosphate. Distal tubules and the thick ascending loop of the Henle are the primary sites of the increased calcium reabsorption.",621-538.PNG,D,636-546.PNG
+Question 20,"In the given cross-section of a muscle spindle, the structure marked below is innervated by which of the following motor nerve fibres?","a) Gamma
+b) Alpha
+c) Beta
+d) Delta","In the given cross-section of a muscle spindle, the structure marked shows intrafusal muscle fibres, which are innervated by gamma(γ) motor neurons.
+Each muscle spindle is 3 to 1o mm long and consists of 3 to 12 tiny intrafusal muscle fibers that are pointed at their ends and attached to the glycocalyx of the surrounding large extrafusal muscle fibers. There are two kinds of sensory endings in each spindle, a single primary (group Ia) ending and up to eight secondary (group II) endings.
+Intrafusal fibers are of 2 types: (1) nuclear bag fibers - subdivided as dynamic and static nuclear bag fibers and (2) nuclear chain fibers.
+Each intrafusal muscle fiber is a tiny skeletal muscle fiber. since there are either few or no actin and myosin filaments in the centre of each of these fibres, the centre does not contract when the ends do. It performs the role of a sensory receptor instead. The end portions that do contract are excited by small gamma(γ) motor nerve fibers which help control basic muscle tone.
+There are two types of γ motor neurons- (a) dynamic that supplies dynamic nuclear bag fibers and (b) static that supply static nuclear bag fibers and nuclear chain fibers.
+other options:
+option B: Alpha (α) motor fibers supply the extrafusal muscle fibers which are the regular contractile units of the muscle. They are on an average 14 micrometers in diameter and these fibers branch many times after they enter the muscle and innervate the large skeletal muscle fibers at the motor endplate. A single alpha nerve fibre can stimulate anywhere between three to several hundred skeletal muscle fibres, which are collectively called the motor unit.
+option C: Beta (β) motor fibers are for touch and pressure.
+option D: Delta (δ) motor fibers are for pain and temperature.",622-540.PNG,A,637-548.PNG
+Question 21,which of the following is responsible for pneumoperitoneal bradycardia following Co2 insufflation during laparoscopic surgery?,"a) Decreased afterload
+b) vascular injury
+c) Air embolism
+d) peritoneal stretching","vagal stimulation due to peritoneal stretching is responsible for bradycardia following Co2 insufflation during laparoscopic surgery.
+Carbon dioxide (Co2) and nitrous oxide (N2o) are used in pneumoperitoneum, a technique that enhances laparoscopic surgery by distending the abdominal cavity and splitting up its contents.
+The physiologic effects of Co2 pneumoperitoneum can be divided into local and systemic effects:
+Co2 pneumoperitoneum is associated with the risk of pathophysiological cardiovascular changes such as severe bradycardia, arrhythmia, and cardiac arrest requiring cardiopulmonary resuscitation. These changes are known to be associated with vagal-mediated cardiovascular reflexes triggered by rapid peritoneum distension due to insufflation.
+This can be managed by desufflation of the abdomen, the use of vagolytic medications (such as atropine), and sufficient volume replacement.
+Most people can tolerate the hemodynamic and metabolic effects of pneumoperitoneum for a brief duration, and most healthy people can tolerate them for a longer period of time. Long laparoscopic procedures can be challenging for patients whose cardiovascular systems are compromised.
+In such cases, alternative gases like helium, neon and argon can be used. They do not cause any metabolic effects, but if they get direct access to the venous system, they can cause gas emboli because they are not as soluble in blood as Co2 and N2o.
+Gas embolism is treated by positioning the patient in a left lateral decubitus position, head down, to trap the gas in the right ventricle's apex. The gas can then be aspirated out of the right ventricle using a rapidly placed central venous catheter.
+Limiting intra-abdominal pressure (IAP) below 12-15 mmHg during insufflation is also effective in preventing pathophysiological changes of pneumoperitoneum.
+| Local Effects: Peritoneal distention, vagal reaction, Elevated diaphragm, Altered venous return |
+| --- |
+| Systemic effects: Hypercarbia, Acidosis, Increased afterload, Increased catecholamines |
+",,D,
+Question 22,which of the following sodium transporters are present maximally in the early part of the PCT?,"a) 2,3,4
+b) 2,4
+c) 1, 2, 3
+d) 1,4","The sodium transporters present in the early part of PCT are Na-K-ATPase, Na+-glucose cotransporter (SGLT) and Na+-H+ antiporter.
+Reabsorption of sodium in different parts of the nephron are:
+• Proximal convoluted tubule (PCT):
+• Nearly 6o% of the filtered sodium is reabsorbed in the PCT. Solutes mainly absorbed in the proximal tubule are sodium, chloride, bicarbonate, phosphate, lactate, glucose, amino acids etc.
+• Na+ is actively pumped from these cells into the interstitial space by Na-K ATPase in the basolateral membrane after travelling by cotransport or exchange via the tubular lumen into the tubular epithelial cells along its concentration and electrical gradients. It extrudes three Na+ in exchange for two K+ that are pumped into the cell.
+• In early PCT, the main sodium channels used for reabsorption are Na+-glucose cotransporter (SGLT), Na+-H+ antiporter, Na+-amino acid cotransporter, Na+-phosphate cotransporter, etc.
+• In distal PCT, due to high chloride concentration in the lumen, it favours NaCl reabsorption, driven by Cl- gradient.
+• The total solute and water reabsorption are proportional to each other. Thus, the entire proximal tubule also reabsorbs nearly 6o% of the filtered water (isosmotic reabsorption).
+• Loop of Henle:
+• The thin descending limb has no active transport of Na+ outside the lumen but the loop is permeable to water, making the tubular fluid hypertonic.
+• A thick ascending limb reabsorbs nearly 3o% of the Na+ by Na–2cl–K cotransporter, an example of secondary active transport. This loop is impermeable to water. since some of the solutes are reabsorbed and water is not reabsorbed, it dilutes the tubular fluid.
+• Distal convoluted tubule: Approximately 7% of the filtered load of sodium chloride is reabsorbed in the early distal tubule. This occurs due to the presence of sodium chloride co-transporter. Even this segment dilutes the tubular fluid as it is impermeable to water.
+• cortical collecting tubule: The remaining 3% of the filtered Na+ is absorbed via ENacs (epithelial sodium channels) in this duct. This portion is regulated by aldosterone to maintain homeostasis in Na+ balance.",,C,639-549.PNG
+Question 23,which of the following statements is incorrect with respect to the baroreceptors present in the carotid sinus?,"a) They need the support of electromechanical transducers
+b) They are located in the deep smooth muscle layer
+c) Afferent fibres pass via cranial nerve IX
+d) They express several non-selective cation channels","Baroreceptors are not located in the deep smooth muscle layer. They are located in the adventitia layer.
+Baroreceptors are mechanoreceptors which respond to stretch stimuli. They are located in the heart and adventitia of the blood vessels. There are two types of baroreceptors: high-pressure arterial baroreceptors and low-pressure volume receptors. Arterial baroreceptors are located within the carotid sinuses and the aortic arch.
+The carotid sinus is a small dilation of the internal carotid artery just above the bifurcation of the common carotid into external and internal carotid branches. The afferent nerve fibres from the carotid sinus form a distinct branch of the glossopharyngeal nerve (cN IX), the carotid sinus nerve.
+Afferent signals from both the aortic and carotid sinus baroreceptors are sent to the nucleus tractus solitarius (NTS) and they create a negative feedback loop that keeps arterial blood pressure within normal limits.
+By stimulating these arterial baroreceptors in response to vascular distension, elevated arterial blood pressure can be reflexively brought back to normal levels by decreasing peripheral sympathetic outflow and activating peripheral parasympathetic outflow.
+Three subsequent functional processes must take place in order to convert a mechanical change in the arterial vasculature into an excitatory signal:
+• vascular distension and the deformation of arterial baroreceptor terminals
+• Mechanoelectrical transduction converts the mechanical deformation of arterial baroreceptor nerve terminals into baroreceptor membrane depolarization. Mechanosensitive ion channels such as the epithelial Na+ channels (ENacs), acid-sensing ion channels (ASIcs) and transient receptor potential (TRP) ion channels are responsible for mechanoelectrical transduction in arterial baroreceptor nerve terminals.
+• Translation of membrane depolarization into action potentials via voltage-gated ion channels (Na+, ca2+ and K+).",nan,B,640-550.PNG

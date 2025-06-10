@@ -1,0 +1,51 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,A 3o-year-old man weighing 7o kg had a sodium level of 12o mEq/L. Calculate the sodium deficit.,"a) 28o mEq
+b) 48o mEq
+c) 84o mEq
+d) 14oo mEq","The sodium deficit in the given scenario is 84o mEq.
+Sodium deficit is calculated as o.6 x body weight x (target plasma sodium concentration - starting plasma sodium concentration).
+substituting the given values in the formula :
+sodium deficit 〓 o.6 x 7o x (14o - 12o) 〓 84o mEq.",,C,
+Question 2,Beta 2 receptor action leading to hyperglycemia/ hypoglycemia is mediated by which of the following enzymes?,"a) Adenylyl cyclase
+b) Guanylyl cyclase
+c) phospholipase C
+d) phospholipase A2","Beta 2 receptor action leading to hypoglycemia/ hyperglycemia is mediated by adenylyl cyclase. catecholamines act through beta 2 receptors and they use adenylyl cyclase - cAMP second messenger system to stimulate the target tissues.
+other hormones that use adenylyl cyclase - cAMP second messenger system are :
+• Adrenocorticotropic hormone
+• Angiotensin II
+• corticotropin-releasing hormone
+• calcitonin
+• Follicle-stimulating hormone
+• Glucagon
+• Growth hormone-releasing hormone
+• Human chorionic gonadotropin
+• Luteinizing hormone
+• Parathyroid hormone
+• secretin
+• somatostatin
+• Thyroid-stimulating hormone
+• vasopressin
+Hormones exert their actions by stimulating cAMP production within the cells. when the hormone binds to the membrane receptor, the receptor is coupled to the G protein. This G protein can either stimulate (Gs protein) or inhibit (Gi protein) adenylyl cyclase that controls the conversion of cytoplasmic adenosine triphosphate to adenosine monophosphate (cAMP). The protein kinases dependent on cAMP are thus activated. This leads to a series of biochemical reactions enabling the hormone to exert its actions.
+Guanylyl cyclase is the enzyme that catalyzes the formation of cGMP.",,A,
+Question 3,"A body fluid sample is being studied and has Na: 1o mEq/L, K: 14o mEq/L, CI: 4 mEq/L. Identify the compartment from which the sample has been obtained.","a) Interstitial
+b) Intracellular fluid
+c) Extracellular fluid
+d) plasma","The sample obtained is from the intracellular fluid (IcF) compartment. The IcF contains large quantities of potassium (k+) ions - 14o mEq/L . The IcF also has lesser amounts of sodium (Na+) and chloride (cl-) ions.
+The extracellular fluid (ECF) compartment includes interstitial fluids and plasma. In contrast to the ICF, the ECF has an abundance of sodium, chloride, calcium and bicarbonate ions, and lesser amounts of potassium, phosphate and magnesium ions.
+The image below depicts the proportion of the important anions and cations present in the intracellular and extracellular fluids.",nan,B,557-494.PNG
+Question 4,"A middle-aged female patient presented with slowly progressive motor weakness, nuchal rigidity, and difficulty in swallowing and carrying out day-to-day activities. A provisional diagnosis of multiple sclerosis is suspected. which of the following cells are affected in multiple sclerosis?","a) Microglia
+b) Oligodendrocytes
+c) Astrocytes
+d) Ependymal cells","oligodendrocytes are affected in multiple sclerosis.
+In multiple sclerosis, there is patchy destruction of myelin in the central nervous system and the axons are demyelinated. This causes loss of conduction or delayed conduction in the demyelinated axons. oligodendrocytes and schwann cells are involved in the formation of myelin. Hence, they are affected by multiple sclerosis.
+other options
+option A: Microglia are a part of the immune system. Microglia are scavenger cells that aid in the removal of cellular debris formed due to various diseases. They originate from macrophages outside of the nervous system and are unrelated to the neural cell types.
+option C: There are three types of macroglia - astrocytes, oligodendrocytes, and schwann cells. Astrocytes are found throughout the brain and they induce capillaries to form the blood-brain barrier. The astrocytes may be fibrous or protoplasmic.
+option D: Ependymal cells line the ventricular system. They are in contact with the cerebrospinal fluid and play a role in fluid homeostasis.",,B,
+Question 5,"A child with loose stools for one day presented to your OPD. On examination, signs of dehydration were present and the child was given ORS. It facilitates glucose absorption through which of the following receptors?","a) SGLT1
+b) SGLT2
+c) GLUT4
+d) Na- ca transporter","ORS facilitates glucose absorption through SGLT 1 (Sodium-dependent glucose co-transporter - 1). In a child with diarrhea, when oral rehydration solution is given, there is coupled absorption of sodium and glucose through SGLT -1.
+Glucose transport may be active or passive.
+Active transport of glucose takes place through Sodium dependent glucose transporter (SGLT 1 and 2). SGLT 1 helps in glucose absorption in the small intestine and renal tubules. SGLT 2 primarily facilitates glucose absorption in the renal tubules.
+passive absorption of glucose occurs through facilitated diffusion. This is carried out by Glucose transporters (GLUT) 1 -7.",,A,

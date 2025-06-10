@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question {{ q_id + 1 }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container test-container">
+        <div class="test-header">
+            <a href="{{ url_for('home') }}" class="btn btn-home">🏠 Menu</a>
+            {% if mode == 'test' %}
+                <div id="timer" class="timer">--:--</div>
+                <button id="flag-btn" class="btn btn-flag {% if q_id in flagged_questions %}flagged{% endif %}">🚩 Flag</button>
+            {% else %}
+                <div class="mode-indicator">Mode: Study</div>
+            {% endif %}
+        </div>
+        <div class="navigator-bar">
+            {% for i in range(total_questions) %}
+                <a href="{{ url_for('show_question', q_id=i) }}" 
+                   class="nav-item 
+                          {% if i == q_id %}current{% endif %}
+                          {% if i|string in user_answers and mode == 'test' %}answered{% endif %}
+                          {% if i in flagged_questions %}flagged{% endif %}">
+                    {{ i + 1 }}
+                </a>
+            {% endfor %}
+        </div>
+        <div class="question-block">
+            <p class="question-text"><strong>Question {{ q_id + 1 }}:</strong> {{ question.question }}</p>
+            {% if question.image_q and question.image_q|string != 'nan' %}
+                <img src="{{ url_for('static', filename='images/' + question.image_q) }}" alt="Question Image" class="question-image">
+            {% endif %}
+        </div>
+        <form id="question-form" method="post" action="{{ url_for('show_question', q_id=q_id) }}">
+            <div class="options-grid">
+                {% set previous_answer = user_answers.get(q_id|string) %}
+                {% for option in question.options.split('\n') %}
+                    {% if option.strip() %}
+                        {% set opt_val = option.strip()[0] %}
+                        <label class="option-label">
+                            <input type="radio" name="option" value="{{ opt_val }}" 
+                                   {% if opt_val == previous_answer and mode == 'test' %}checked{% endif %} required>
+                            <span>{{ option.strip() }}</span>
+                        </label>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <div class="test-nav">
+                {% if mode == 'test' %}
+                    <button type="submit" id="submit-btn" class="btn">Save & Next &rarr;</button>
+                {% else %}
+                    <button type="button" id="study-check-btn" class="btn">Check Answer</button>
+                {% endif %}
+            </div>
+        </form>
+        <div id="explanation-block" class="explanation-block" style="display: none;">
+            <h4 id="feedback-header"></h4>
+            <div id="explanation-text" class="solution-text"></div>
+            <img id="explanation-image" src="" alt="Explanation Image" class="question-image" style="display: none;">
+        </div>
+        <div class="study-nav">
+            {% if mode == 'test' %}
+                 <a href="{{ url_for('results') }}" class="btn btn-finish">Finish & View Results</a>
+            {% else %}
+                {% if q_id > 0 %}<a href="{{ url_for('show_question', q_id=q_id - 1) }}" class="btn btn-nav">&larr; Previous</a>{% endif %}
+                {% if q_id < total_questions - 1 %}<a href="{{ url_for('show_question', q_id=q_id + 1) }}" class="btn btn-nav">Next &rarr;</a>{% endif %}
+            {% endif %}
+        </div>
+    </div>
+    <script>
+    {% if mode == 'test' %}
+        const timerElement = document.getElementById('timer');
+        let timeRemaining = {{ time_remaining }};
+        if (timeRemaining > 0) {
+            const timerInterval = setInterval(() => {
+                if (timeRemaining <= 0) {
+                    clearInterval(timerInterval);
+                    timerElement.textContent = "Time's up!";
+                    alert("Time's up! Your test will be submitted automatically.");
+                    window.location.href = "{{ url_for('results') }}";
+                } else {
+                    timeRemaining--;
+                    const minutes = Math.floor(timeRemaining / 60);
+                    const seconds = timeRemaining % 60;
+                    timerElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+                    if (timeRemaining < 60) { timerElement.classList.add('low-time'); }
+                }
+            }, 1000);
+        } else { timerElement.textContent = "Time's up!"; }
+        const flagButton = document.getElementById('flag-btn');
+        flagButton.addEventListener('click', () => {
+            const qId = {{ q_id }};
+            fetch(`/toggle_flag/${qId}`, { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        flagButton.classList.toggle('flagged');
+                        document.querySelector(`.nav-item:nth-child(${qId + 1})`).classList.toggle('flagged');
+                    }
+                });
+        });
+    {% endif %}
+    {% if mode == 'study' %}
+        document.getElementById('study-check-btn').addEventListener('click', function(event) {
+            const selectedOption = document.querySelector('input[name="option"]:checked');
+            if (!selectedOption) { alert('Please select an answer.'); return; }
+            fetch(`/check_answer/{{ q_id }}`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ option: selectedOption.value })
+            }).then(response => response.json()).then(data => {
+                const explBlock = document.getElementById('explanation-block');
+                explBlock.style.display = 'block';
+                const feedbackHeader = document.getElementById('feedback-header');
+                if (data.correct) {
+                    feedbackHeader.textContent = '✅ Correct!';
+                    feedbackHeader.className = 'feedback-correct';
+                } else {
+                    feedbackHeader.textContent = `❌ Incorrect. The correct answer is ${data.correct_answer}.`;
+                    feedbackHeader.className = 'feedback-incorrect';
+                }
+                document.getElementById('explanation-text').innerHTML = data.explanation;
+                const explImg = document.getElementById('explanation-image');
+                if (data.image_a && data.image_a !== 'nan') {
+                    explImg.src = `{{ url_for('static', filename='images/') }}${data.image_a}`;
+                    explImg.style.display = 'block';
+                } else {
+                    explImg.style.display = 'none';
+                }
+                document.getElementById('study-check-btn').style.display = 'none';
+                document.querySelectorAll('input[name="option"]').forEach(radio => radio.disabled = true);
+            });
+        });
+    {% endif %}
+    </script>
+</body>
+</html>
