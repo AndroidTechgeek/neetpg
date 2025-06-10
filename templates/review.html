@@ -9,10 +9,34 @@
 <body>
     <div class="container">
         <h1>Reviewing Test from {{ test_info.display_name }}</h1>
+        <div class="results-summary">
+            <h2>Final Score: {{ test_info.score }} out of {{ test_info.total }}</h2>
+            <div class="score-bar">
+                <div class="score-fill" style="width: {{ (test_info.score / test_info.total) * 100 }}%;"></div>
+            </div>
+        </div>
+        <h2 class="review-title">Your Answers</h2>
         <div class="results-review">
             {% for question in questions %}
-                <div class="review-item ...">
-                     <div class="explanation-block review-explanation">
+                {% set q_id = loop.index0 %}
+                {% set user_ans = test_info.answers.get(q_id|string) %}
+                {% set correct_ans = question.answer_key.strip().upper() %}
+                <div class="review-item {% if user_ans and user_ans.upper() == correct_ans %}correct{% else %}incorrect{% endif %}">
+                    <p><strong>Q{{ loop.index }}: {{ question.question }}</strong></p>
+                    {% if question.image_q and question.image_q|string != 'nan' %}
+                        <img src="{{ url_for('static', filename='images/' + question.image_q) }}" alt="Question Image" class="question-image">
+                    {% endif %}
+                    <div class="review-options">
+                        {% for option in question.options.split('\n') %}
+                            {% if option.strip() %}
+                                <div class="review-option 
+                                    {% if option.strip()[0].upper() == correct_ans %}review-option-correct{% endif %}
+                                    {% if user_ans and option.strip()[0].upper() == user_ans.upper() and option.strip()[0].upper() != correct_ans %}review-option-incorrect{% endif %}
+                                ">{{ option.strip() }}</div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                    <div class="explanation-block review-explanation">
                         <h4>Explanation</h4>
                         <div class="solution-text">{{ question.solution | format_solution | safe }}</div>
                         <div class="solution-images">

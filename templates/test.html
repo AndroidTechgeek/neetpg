@@ -94,8 +94,7 @@
         flagButton.addEventListener('click', () => {
             const qId = {{ q_id }};
             fetch(`/toggle_flag/${qId}`, { method: 'POST' })
-                .then(response => response.json())
-                .then(data => {
+                .then(response => response.json()).then(data => {
                     if (data.status === 'success') {
                         flagButton.classList.toggle('flagged');
                         document.querySelector(`.nav-item:nth-child(${qId + 1})`).classList.toggle('flagged');
@@ -124,6 +123,7 @@
                 }
                 document.getElementById('explanation-text').innerHTML = data.explanation;
                 const explImg = document.getElementById('explanation-image');
+                // BUGFIX: Check for valid image filename in JS
                 if (data.image_a && data.image_a !== 'nan') {
                     explImg.src = `{{ url_for('static', filename='images/') }}${data.image_a}`;
                     explImg.style.display = 'block';
