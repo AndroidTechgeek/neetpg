@@ -3,24 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test Results</title>
+    <title>Results</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .solution-images img { max-width: 250px; height: auto; margin: 5px; border: 1px solid #ddd; border-radius: 4px; }
+        .solution-text table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 14px; text-align: left; }
+        .solution-text th, .solution-text td { border: 1px solid #ddd; padding: 10px; }
+        .solution-text th { background-color: #f2f2f2; font-weight: bold; }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Test Complete!</h1>
+        <h1>Results</h1>
         <div class="results-summary">
-            <h2>Your Score: {{ score }} out of {{ total_questions }}</h2>
-            <div class="score-bar">
-                <div class="score-fill" style="width: {{ (score / total_questions) * 100 }}%;"></div>
-            </div>
+            <!-- Your summary content here -->
         </div>
-        <h2 class="review-title">Review Your Answers</h2>
-        <div class="results-review">
+        <div class="results-list">
             {% for question in questions %}
-                <div class="review-item {% if user_answers.get(loop.index0|string) and user_answers.get(loop.index0|string).upper() == question.answer_key.strip().upper() %}correct{% else %}incorrect{% endif %}">
+                <div class="review-item {% if question.correct %}correct{% else %}incorrect{% endif %}">
                     <p><strong>Q{{ loop.index }}: {{ question.question }}</strong></p>
-                    {% if question.image_q and question.image_q|string != 'nan' %}
+                    {% if question.image_q and question.image_q|string != 'nan' and question.image_q in all_images %}
                         <img src="{{ url_for('static', filename='images/' + question.image_q) }}" alt="Question Image" class="question-image">
                     {% endif %}
                     <div class="review-options">
@@ -39,8 +41,9 @@
                         <div class="solution-images">
                             {% if question.image_a and question.image_a|string != 'nan' %}
                                 {% for img in question.image_a.split(';') %}
-                                    {% if img.strip() %}
-                                        <img src="{{ url_for('static', filename='images/' + img.strip()) }}" alt="Explanation Image">
+                                    {% set img_trim = img.strip() %}
+                                    {% if img_trim and img_trim in all_images %}
+                                        <img src="{{ url_for('static', filename='images/' + img_trim) }}" alt="Explanation Image">
                                     {% endif %}
                                 {% endfor %}
                             {% endif %}

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NEETPG Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        body { background: #f4f8fb; }
+        .dashboard-container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 2px 16px #0002;
+            padding: 38px 36px 24px 36px;
+        }
+        .dashboard-title {
+            font-size: 2.2em;
+            color: #1769aa;
+            font-weight: 800;
+            margin-bottom: 6px;
+        }
+        .dashboard-desc { color: #555; margin-bottom: 18px; }
+        .stats-row {
+            display: flex; gap: 28px; justify-content: center;
+            margin-bottom: 24px;
+        }
+        .stat-card {
+            background: #f6fafd;
+            border-radius: 8px;
+            padding: 18px 30px;
+            text-align: center;
+            min-width: 140px;
+            box-shadow: 0 1px 4px #0001;
+        }
+        .stat-card .stat-icon { font-size: 2.1em; margin-bottom: 4px;}
+        .stat-card .stat-label { color: #888; font-size: 1em; }
+        .stat-card .stat-value { font-size: 1.4em; font-weight: 600; margin-bottom: 2px;}
+        .action-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 22px;
+            margin-bottom: 20px;
+        }
+        .action-card {
+            background: #1769aa;
+            color: #fff;
+            border-radius: 9px;
+            text-align: center;
+            padding: 30px 14px 22px 14px;
+            box-shadow: 0 1px 8px #0001;
+            font-size: 1.1em;
+            font-weight: 500;
+            text-decoration: none;
+            position: relative;
+            transition: background 0.18s, transform 0.18s;
+        }
+        .action-card:hover {
+            background: #2196f3;
+            color: #fff;
+            transform: translateY(-3px) scale(1.03);
+        }
+        .action-card .action-icon {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            display: block;
+        }
+        .recent-row {
+            margin-top: 35px;
+        }
+        .recent-title { font-weight: 700; color: #1769aa; margin-bottom: 8px; }
+        .recent-activity { font-size: 1.06em; color: #555; }
+        .footer {
+            color: #bbb; font-size: 0.98em; margin-top: 40px; text-align: center;
+        }
+        @media (max-width: 600px) {
+            .dashboard-container { padding: 12px 3vw; }
+            .stats-row, .action-grid { gap: 8px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <div class="dashboard-title">NEETPG Dashboard</div>
+        <div class="dashboard-desc">Welcome to your exam prep hub.<br>Choose an action below:</div>
+        <!-- Stats -->
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-icon">&#128221;</div>
+                <div class="stat-label">Questions</div>
+                <div class="stat-value">{{ stats.total_questions }}</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">&#128247;</div>
+                <div class="stat-label">Images</div>
+                <div class="stat-value">{{ stats.total_images }}</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">&#9201;</div>
+                <div class="stat-label">Last Edited</div>
+                <div class="stat-value">{{ stats.last_edited }}</div>
+            </div>
+        </div>
+        <!-- Actions -->
+        <div class="action-grid">
+            <a href="{{ url_for('start_test') }}" class="action-card">
+                <span class="action-icon">&#9654;</span>
+                Take Test
+            </a>
+            <a href="{{ url_for('edit_questions') }}" class="action-card">
+                <span class="action-icon">&#9998;</span>
+                Edit Questions
+            </a>
+            <a href="{{ url_for('review_results') }}" class="action-card">
+                <span class="action-icon">&#128196;</span>
+                Review Results
+            </a>
+            <a href="{{ url_for('add_question') }}" class="action-card">
+                <span class="action-icon">&#10133;</span>
+                Add Question
+            </a>
+            <a href="{{ url_for('upload_images') }}" class="action-card">
+                <span class="action-icon">&#128206;</span>
+                Upload Images
+            </a>
+        </div>
+        <!-- Recent Activity -->
+        <div class="recent-row">
+            <div class="recent-title">Recent Activity</div>
+            <div class="recent-activity">
+                {% if stats.recent_activity %}
+                    {{ stats.recent_activity }}
+                {% else %}
+                    No recent edits yet.
+                {% endif %}
+            </div>
+        </div>
+        <div class="footer">
+            &copy; {{ 2025 }} AndroidTechgeek &mdash; NEETPG App
+        </div>
+    </div>
+</body>
+</html>
