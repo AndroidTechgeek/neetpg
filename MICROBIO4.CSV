@@ -1,0 +1,528 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,A resident had a needle stick injury while dealing with a Hepatitis B positive patient. serology was done and HBsAg was negative and the Anti-HBs was &gt;105 mIU/ml. what is the next     step of management?,"a)Booster dose of vaccine
+b)Immunoglobulin with full vaccination
+c)Repeat full course of vaccine
+d)No treatment required as he already has Hep B antibody titres from vaccination","The given clinical scenario of needle-stick injury shows that HBsAg is negative and the anti-HBs is &gt;105 mIU/ml. This suggests that the resident has had routine vaccination for Hep B infection.   since the antibody titers are more than 10 mIU/ml, no treatment is required.",,KEY NOT FOUND,
+Q2,The life cycle of an organism is given below. Identify the vector involved.,"a)Hard tick
+b)soft tick
+c)Trombiculid mite
+d)Louse",The given life cycle is of trombiculid mite which acts as a vector for scrub typhus. Humans are seen to be infected when they are bitten by the mite larvae (chiggers).,1402-851.PNG,KEY NOT FOUND,1418-864.PNG
+Q3,what is the causative organism for the condition shown in the image below?,"a)Echinococcus granulosus
+b)Schistomajaponicum
+c)Trypanosoma cruzi
+d)Schistosoma mansoni","The given image shows a hydatid cyst in the liver. It is caused by Echinococcus granulosus.
+Echinococcus granulosus is the most common causative agent in hydatid cysts,
+while Echinococcus multilocularis and Echinococcus ligartus account for a small number of cases.
+Dogs are the definitive hosts of E. granulosus. sheep are the usual intermediate hosts, but
+humans are accidental intermediate hosts. Humans are end-stage hosts of the parasite since there is no human to human transmission.
+Approximately 75% of hydatid cysts are located in the right lobe of the liver and are solitary. The   clinical presentation of a hydatid cyst is largely asymptomatic until complications occur. The most common presenting symptoms are abdominal pain, dyspepsia, and vomiting. The most frequent    sign is hepatomegaly.
+The life cycle of Echinococcus is depicted in the image below:",1403-852.PNG,KEY NOT FOUND,1419-865.PNG
+Q4,The presence of antibodies against SARS Cov 2 in the blood likely indicates,"a)previous infection even if patient has been asymptomatic
+b)presence of acute viral load
+c)A high risk of reinfection
+d)That the patient is in window period","The presence of antibodies against SARS Cov 2 in the blood likely indicates a previous infection even if the patient has been asymptomatic.
+Antibodies most commonly become detectable 1–3 weeks after symptom onset, at which time
+evidence suggests that infectiousness likely is greatly decreased and that some degree of immunity from future infection has developed. But it is imperative to note that the information on SARS
+Cov 2 is still emerging.",,KEY NOT FOUND,
+Q5,which of the following is the enzyme conjugate in the given ELISA technique?,"a)A
+b)B
+c)C
+d)D","The enzyme conjugate in the given ELISA technique is 'B'.
+other options:
+A- Substrate - it will be cleaved by the enzyme present on the conjugate antibody.
+B - Conjugate - it is an antibody that binds to the detection antibody. It is labeled with an enzyme that cleaves the substrate to form a color product/dye.
+C - Detection antibody-binds the antigen. we direct our conjugate against this.
+D - Capture Antibody-forms the base, on which antigen (say rotavirus from feces) from the patient sample binds.",1404-854.PNG,KEY NOT FOUND,
+Q6,A patient who underwent a renal transplant 3 months ago comes with complaints of diarrhea for the last 9 days. The stool sample was subject to kinyoun stain revealing 4-6μm structures shown below. which of the following is true about the organism?,"a)pathogen does not shows autoinfection
+b)Cryptosporidium parvum is the most common organism implicated worldwide
+c)oocysts are immediately infective after being excreted in stool
+d)It is an obligate intracellular organism","oocysts are immediately infective after being excreted in the stool.
+
+cryptosporidium is a coccidian parasite and implicated in causing traveler's diarrhea in
+immunocompromised patients. The two cryptosporidium species responsible are c.hominis and c.parvum. As the patient has undergone a renal transplant, he/she would most likely be on
+immunosuppressive medications, making the infection likely. cryptosporidium hominis is the most common organism implicated worldwide
+The infective form is oocysts, excreted in the affected patient's feces, acquired through drinking or recreational water. The oocysts are immediately infectious (unlike Isospora oocysts, which require maturation), and may cause autoinfection or implicated in person to person transmission.
+Because of its small size (4-5micron), it is difficult to see in routine staining, hence is subjected to acid-fast/kinyoun's stain.
+once ingested, the 4 sporozoites come out of the cyst and attach to the small intestinal mucosa. It causes crampy abdominal pain and non-inflammatory watery diarrhea.
+Treatment is mainly supportive, though nitazoxanide has been FDA approved for use in cryptosporidium.
+comparative features of coccidian parasites:
+
+property	cryptosporidium	cyclospora	cystoisospora
+sporulated oocyst	4-6 μm, round,  contains f our sporozoites	8-12 μm, round, contains   2 sporocysts each having t wo sporozoites	23-36 μm, oval, contain t  wo sporocysts, each havin g four sporozoites.
+Acid-fast detection	uniformly acid-fast	variable acid-fast	uniformly acid-fast
+sporulation of the ooc yst	occurs inside the host cell	occurs in soil	occurs in soil
+Diagnostic form	sporulated cyst	unsporulated cyst	unsporulated oocyst",1404-853.PNG,KEY NOT FOUND,
+Q7,Genexpert detects mutations in which of the following genes?,"a)inhA
+b)rpoB
+c)katG
+d)pncA","Gene xpert identifies mutations in the rpoB gene to detect rifampicin resistance (RR).
+other options:
+inhA and katG- involved in resistance against isoniazid
+pncA- involved in resistance against pyrazinamide",,KEY NOT FOUND,
+Q8,"A stool sample is collected. The specimen is processed for examination and is labeled at
+different levels as A, B, C, and D. Identify the level at which parasitic ova will be seen when viewed under a microscope.","a)A
+b)B
+c)C
+d)D","The parasitic ova will be seen in a specimen taken from level D.
+The image shows a formol-ether sedimentation technique to concentrate the ova in the bottom (D) part of the tube. It is used for samples in which the concentration of parasitic ova is scanty. It is
+useful for all helminth ova/eggs and parasitic cysts. The ether adsorbs the fecal debris and floats. Formalin fixes and preserves the specimen.
+
+This method is useful for all helminth eggs and protozoan cysts.",1405-855.PNG,KEY NOT FOUND,1421-866.PNG
+Q9,Type IV hypersensitivity is due to?,"a)Cell mediated response
+b)Cell mediated and antibody mediated response
+c)Antibody mediated response
+d)Innate response","Type IV hypersensitivity is due to the cell-mediated response.
+Type IV or cell-mediated hypersensitivity reaction: These reactions are induced by sensitized T    cells which on contact with the specific antigen releases cytokines that produce biological effects on leucocytes, macrophages, and tissue cells.",,KEY NOT FOUND,
+Q10,"A child was brought to the OPD with a swollen, red knee joint that is tender to touch. 2 weeks prior, he had an episode of fever with bloody diarrhea. which of the following could be the
+possible organism?","a)E. coli
+b)Shigella
+c)Giardia
+d)Rotavirus","The given clinical scenario points towards a diagnosis of reactive arthritis after shigella infection. shigellosis is a spectrum of symptoms caused by shigella consisting of 4 phases:
+other options:
+E.coli - it may cause diarrhea associated with fever or blood in stools, but reactive arthritis is not typically seen.
+Giardia - it may cause persistent watery diarrhea with waxing and waning course. Fever, blood in stools should prompt alternate diagnosis. Also, reactive arthritis is not seen.
+Rotavirus - it is a well known viral cause of fever with diarrhea in children. But not known to have reactive arthritis as a sequela.
+
+Incubation period	1-4 days (up to 8 days)
+watery diarrhea	Fever, watery diarrhea, anore xia
+Dysentry	Bloody mucopurulent stools
+
+
+Incubation period	1-4 days (up to 8 days)
+Post-infectious complication	Hemolytic-uremic syndrome   Reactive arthritisToxic megac olon",,KEY NOT FOUND,
+Q11,Specimen handling for molecular testing of SARS CoV 2 would require,"a)BSL1
+b)BSL2
+c)BSL3
+d)BSL4","Specimen handling for molecular testing of SARS Cov 2 would require BSL-2 or equivalent facilities. Attempts to culture the virus requires minimum BSL-3 facilities.
+SARS Cov 2 virus can cause coronavirus disease 2019 (COvID-19)
+Microbiology and pathology laboratories performing diagnostic tests on a stool or respiratory
+specimen should handle potential SARS-Cov specimens using standard biosafety level (BSL)-2.
+Note: Biosafety levels include a specific combination of work practices, safety equipment, and
+facilities that are designed to minimize the exposure of workers and the environment to infectious agents. There are four biosafety levels.
+BSL-1: work can be done on an open bench or table and PPE needed. Eg: Non-pathogenic E.coli.
+BSL-2: work to be done in the biosafety cabinet with PPE. Eg: Staphylococcus aureus.
+BSL-3 laboratory has appropriate PPE and respirators might be required. All work performed  within BSC(biosafety cabinet). Entrance is through 2 sets of self-closing and locking doors. Eg:
+when dealing with Mycobacterium tuberculosis.
+BSL-4: This is the highest level of biological safety, where containment of microbes is done, which
+are fatal without treatment and vaccines. Eg: Ebola and Marburg viruses.",,KEY NOT FOUND,
+Q12,which of the following method is employed to measure the viral load?,"a)ELISA
+b)western blot
+c)Real time PCR
+d)Immunoelectrophoresis","viral load can be measured by the real time-PCR technique.
+Real time-PCR assays are commonly used for viral load quantification of HIv, hepatitis C virus, hepatitis B virus, and CMv.
+Other options:
+• western blotting is used for the detection of protein.
+• ELISA is an immunosorbent assay used to detect antigens of infectious agents present in clinical specimens.
+• Immuno electrophoresis includes electrophoretic separation of antigens followed by an antigen-antibody reaction.",,KEY NOT FOUND,
+Q13,All of the following is true regarding scrub typhus except:,"a)Transmitted by chiggers
+b)Lymphadenopathy is a feature
+c)produces NLF producing colonies in MacConkey agar
+d)Man is an accidental host","The organism causing scrub typhus i.e orientia tsutsugamushi is non-cultivable on cell-free media like Macconkey agar.
+scrub Typhus is also known as chigger borne typhus. The vector is trombiculid mite. Humans are infected when they are bitten by the mite larvae known as chiggers.
+The incubation period is 1- 3 weeks. The patient typically develops a characteristic eschar at the site of the mite bite, with regional lymphadenopathy and maculopapular rash.",,KEY NOT FOUND,
+Q14,False about the Ebola virus is:,"a)It is a filovirus
+b)Transmitted by mosquito
+c)Bats acts as reservoir
+d)Nosocomial transmission seen","Ebola virus is not transmitted by mosquito.
+Ebola virus is the cause of an emerging disease called Ebola virus disease and is widespread in Africa. It belongs to the Filoviridae family.
+Fruit bats act as reservoir hosts of the virus and it is transmitted to humans only
+accidentally. Human to human transmission is through direct contact with blood or body fluids of an infected symptomatic person.
+The incubation period of the disease is 2 to 21 days. symptoms include fever, intense weakness, vomiting, diarrhea, rashes, and, in extreme cases, internal and external bleeding. The current     treatment is mainly supportive. Nosocomial transmission seen.",,KEY NOT FOUND,
+Q15,Identify the condenser _____,"a)A
+b)C
+c)B
+d)D","condensor lens of microscope is marked as B in the image. The purpose of the condenser lens is to focus the light onto the specimen.
+A is coarse focusing knob.
+c is objective lens. There are usually 3 or 4 objective lenses on a microscope. They almost always consist of 4x, 1ox, 4ox and 1oox powers.
+D is Illuminator. It is a steady light source used in place of a mirror.",1407-856.PNG,KEY NOT FOUND,1424-868.PNG
+Q16,A young male presents to the STD clinic with painful lesions as shown in the image. what is the most likely microscopic finding of the lesion?,"a)Tzank cells
+b)pund cells
+c)Henderson-patterson bodies
+d)Guarnieri bodies","clusters of vesicles are seen on an erythematous base in the image, suggesting a diagnosis of genital herpes. Tzanck cells or multinucleated giant cells are present on microscopy.
+The Tzanck smear is a rapid, sensitive, and inexpensive diagnostic method for herpes simplex
+infections. smears are prepared from the lesions, from the base of vesicles and stained with a 1%  aqueous solution of o-toluidine blue for 15 seconds. Multinucleated giant cells with faceted nuclei and homogeneously stained ground glass chromatin (Tzanck cells) are seen.
+Mucocutaneous herpetic lesions are thin-walled, umbilicated vesicles, the roof of which breaks down, leaving tiny superficial ulcers which heal without scarring.  painful and pruritic
+lymphadenopathy may be seen. The most common site of cutaneous lesions is the face - on the cheeks, chin, around the mouth, or on the forehead - and is caused by herpes simplex virus-1.
+Genital infections are more commonly caused by herpes simplex virus-2.",1408-857.PNG,KEY NOT FOUND,1424-867.PNG
+Q17,"A patient has complains of fever with chills. A throat examination reveals swollen glands and a thick, whitish membrane over his tonsils. Albert staining is to be done. what are the
+constituents of Albert's stain?","a)Toluidine blue 'o' and malachite green
+b)carbol fuschin and methylene blue
+c)carbol fuschin and malachite green
+d)Toluidine and methylene blue","Albert's stain contains toluidine blue 'o' and malachite green which have an affinity for acidic cytoplasm, both being basic dyes.
+Albert’s stain, Neisser’s and ponder’s stain are used to demonstrate the metachromatic granules (volutin / Babes Ernst Granules) of corynebacterium diphtheria.
+procedure for Albert's staining:
+• A heavy smear of bacterial isolate was prepared on glass slide and allowed to dry without fixing.
+• Albert’s stain was applied for (3-4) minutes then it was washed with water and Albert’s iodine was applied for one minute.
+• wash with water and let dry with blotting paper.
+• Examine the slide under oil immersion, it was examined under microsope showed bacili with numerous metachromatic granules.
+Results:
+Metachromatic granules: Bluish- black
+Bacillary body or protoplasm: Green
+uses:
+• Albert staining is useful in the demonstration of metachromatic granules.
+• presence of metachromatic granules helps to distinguish c.diphtheriae from diphtheriods which lack them.",,KEY NOT FOUND,
+Q18,Pneumonia due to a gram-negative pleomorphic bacillus growing on chocolate agar which is catalase and oxidase-positive is:,"a)E.coli
+b)Pseudomonas
+c)Haemophilus influenzae
+d)Actinomyces","pneumonia due to a gram-negative pleomorphic bacillus growing on chocolate agar which is catalase and oxidase-positive is most likely Haemophilus influenza.
+Haemophilus pneumonia typically occurs in infants and is accompanied by empyema and sometimes meningitis as well. In older children and adults, the picture is of lobar
+pneumonia. sputum is collected for the detection and isolation of Hemophilus. As the bacillus is very sensitive to low temperatures, specimens should never be refrigerated before inoculation.    H.infiuenzae is a Gram-negative, non-motile, non-sporing bacillus, exhibiting considerable
+pleomorphism. In sputum, it usually occurs as clusters of coccobacillary forms.
+The bacillus has fastidious growth requirements. The accessory growth factors, named X and v, present in the blood are essential for growth. catalase and
+oxidase reactions are positive. Nitrates are reduced to nitrites. Biotyping has been done on the basis of indole production.
+
+cultures may be preserved for about a month on chocolate agar slopes. chocolate agar is made by heating blood agar to 8o-9o°c for 15-2o minutes. This causes the release of V factor from within    the erythrocytes.
+Treatment- Amoxycillin-clavulanate or clarithromycin is more effective in treating respiratory infections by Haemophilus influenzae.",,KEY NOT FOUND,
+Q19,A 3o-year-old male presented to the OPD with painful genital ulcers. which of the following can cause a painful ulcer on the glans penis?,"a)syphilis
+b)Chlamydia
+c)Chancroid
+d)Lymphogranuloma venereum","Painful genital ulcers are caused by Haemophilus ducreyi, and are known as chancroid.
+The regional lymph nodes are enlarged and painful. Microscopic appearance seen in H. ducreyi is called the school of fish appearance or railroad appearance. chocolate agar with isovitalex is a
+suitable culture medium for Haemophilus ducreyi.
+The given image shows the microscopic appearance of H. ducreyi.",,KEY NOT FOUND,1426-869.PNG
+Q20,which protein is present in the HPV vaccine?,"a)E6, E7
+b)L1
+c)E1, E2
+d)L2","The HPV vaccines use virus-like particles (VLPs) that consist of the HPV L1 major capsid protein. The L1 protein self-assembles into VLPs when expressed in eukaryotic cells.
+These VLPs contain the same epitopes as the HPV virion. But they do not contain genetic material and cannot transmit infection. The immunogenicity of the HPV vaccines relies on the
+development of conformational neutralizing antibodies to epitopes displayed on viral capsids.
+The nonavalent HPV vaccine works against strains 6,11,16,18,31,33,45,52 and 58. It is usually commercialized in the name of Gardasil 9.
+
+HPV VAC CINE	HPV TYPES CoVERED
+Quadrival ent	6, 11,16, 18
+Bivalent	16, 18
+Nonavalen t	6, 11, 16, 18, 31, 33, 45, 52, 5
+8
+
+Recent update: Gardasil 9 has received expanded indication which now includes the prevention of oropharyngeal and other head and neck cancers caused by HPV types 16,18,31,33,45,52,58.",,KEY NOT FOUND,
+Q21,"A patient presented with meningitis with a history of fever for 4 days and erythematous
+rashes on the chest. There was no history of travel and tick bite. His CsF findings showed
+increased protein, normal glucose, mild lymphocytosis and few RBCs. which of the following is the most likely organism to cause this clinical picture?","a)west nile virus
+b)Meningococci
+c)strep pneumoniae
+d)Entero virus","Meningitis with normal glucose, increased protein, and mild lymphocytosis is suggestive of viral meningitis, most probably by an Enterovirus.
+Coxsackieviruses are typical enteroviruses. Two groups of Coxsackie viruses A and B, are
+known. Aseptic meningitis may be caused by a majority of group A and all group B viruses. A maculopapular rash may be present. The disease can also occur as epidemics.
+CSF findings in Viral meningitis:
+• A mild increase in CSF protein/pressure
+• Normal glucose
+• Mild increase in lymphocytes in CSF.
+other options:
+west Nile virus is endemic in certain regions in North America. But there is no history of travel
+mentioned in the clinical scenario above. Current hotspots in North America are the California
+Central Valley, southwestern Arizona, southern Texas, and Louisiana, which have both compatible climates and avian reservoirs for the disease.
+
+	Normal	Bacterial Men ingitis	Viral Menin gitis	Fungal Mening itis	Parasitic
+Meningiti s	Tuberculo M eningitis
+wBC Count
+(per μL)	<5	>1ooo	25-5oo	4o-6oo	15o-2ooo	25-1oo
+Differential of wBC	6o-7o% lymph
+ocytes, ≤3o%
+monocytes/ ma crophages	↑↑PMNs (≥8o %)	Predominan
+tly lymphocy tes	Lymphocytes o
+r PMNs, depen
+ding on the spe
+cific organism	↑↑ Eosino
+phils (≥5o %)	Predominan
+tly lymphocy tes
+Gram,s stai n	Negative	Positive (in >
+6o% of cases)	Negative	Rarely positive	Negative	occasionally positive
+Glucose (mg /dL)	4o-85	<4o	Normal	↓ to normal	Normal	<5o in 75% of cases
+
+
+	Normal	Bacterial Men ingitis	viral Menin gitis	Fungal Mening itis	parasitic
+Meningiti s	Tuberculo M eningitis
+protein (mg /dL)	15-45	>1oo	2o-8o	15o-3oo	5o-2oo	1oo-2oo
+opening pre
+ssure (mmH 2o)	5o-18o	>3oo	1oo-35o	16o-34o	Normal	15o-28o",,KEY NOT FOUND,
+Q22,A patient presents with seizures. His CT head reveals multiple parenchymal cysts. which of the following is correct regarding management in this case?,"a)steroids followed by antiparasitic drugs
+b)Antiparasitic drugs followed by steroids
+c)steroids before antiepileptics
+d)Continue antiepileptics","The given clinical scenario is suggestive of neurocysticercosis caused by larvae of T. solium
+(cysticercosis cellulosae).  Glucocorticoid therapy is usually begun before initiating albendazole
+(antiparasitic drug). This is continued for several days after the institution of therapy to reduce the incidence of side effects from inflammatory reactions to dead and dying cysticerci of Taenia
+solium.
+Albendazole is the drug of choice for neurocysticercosis.
+There are various types of cysticercosis based on the site affected such as:
+• Subcutaneous nodules (asymptomatic)
+• Neurocysticercosis
+• Muscular cysticercosis
+• ocular cysticercosis.
+Neurocysticercosis is considered the second most common cause of intracranial space-occupying lesion (ICSoL) in India following tuberculosis. Its clinical features include:
+• Epilepsy
+• Raised intracranial tension
+• Hydrocephalus
+• psychiatric disturbances
+• Meningoencephalitis
+• Transient paresis
+• Behavioral disorders
+• Aphasia
+• visual disturbances.
+The below MRI of the brain shows multiple cysts containing scolices in a patient with
+neurocysticercosis.",,KEY NOT FOUND,1429-870.PNG
+Q23,The transplacental transmission of the organism given in the image which causes microcephaly is-,"a)Nipah
+b)zika virus
+c)CMV
+d)Rubella","The image shows transplacental transmission of a virus, leading to microcephaly, with the Aedes mosquito as its vector. Among the given options, zika virus has the above features.
+zika virus is a mosquito-borne Flavivirus mainly transmitted through Aedes aegypti. zika virus infection presents with mild symptoms of fever, rash, conjunctivitis, malaise, headache and
+muscle and joint pain. These symptoms usually last for 2-7 days. Maternal infection during pregnancy leads to congenital zika syndrome or microcephaly.
+The complications of zika virus infection include Guillain-Barré syndrome, neuropathy, and myelitis.
+Note: NCDC Delhi and the National Institute of virology Pune are the only institutes that have the capacity to provide the diagnosis in an acute febrile stage. RT-PCR is the standard test available
+for the diagnosis of zika virus infection.",1410-858.PNG,KEY NOT FOUND,1430-871.PNG
+Q24,The disruption of which of the following is responsible for watery diarrhea in cholera caused by Vibrio?,"a)Intercalated discs
+b)Macula densa
+c)zonula occludens
+d)Hemidesmosomes","The disruption of zonula occludens is responsible for watery diarrhea in cholera caused by vibrio cholerae.
+zonula occludens toxin (zot) is an enterotoxin elaborated by vibrio cholerae that increases
+intestinal permeability by interacting with a mammalian cell receptor with subsequent activation of intracellular signaling leading to the disassembly of the intercellular tight junctions.
+Mechanism of action of cholera toxin:
+• The cholera toxin molecule consists of 1 A and 5 B subunits. The B (binding) units attach to the GM1 ganglioside receptors on the surface of jejunal epithelial cells. The A (active) subunit,
+on being transported into the enterocyte, dissociates into A1 and A2. A2 fragment only links
+
+biologically active A1 to the B subunit.
+• A1 causes prolonged activation of cellular adenylate cyclase and accumulation of cAMP, leading to outpouring into the small intestinal lumen, of large quantities of water and electrolytes. This    leads to watery diarrhea which is isotonic with plasma but contains much more potassium and     bicarbonate.
+• The toxin also inhibits the intestinal absorption of sodium and chloride.
+• All clinical manifestations and complications in cholera result from the massive water and electrolyte depletion thus caused.",,KEY NOT FOUND,
+Q25,Affinity maturation is due to:,"a)Isotype switching
+b)somatic hypermutation
+c)mRNA splicing
+d)VDJ rearrangement","Affinity maturation is due to somatic hypermutation.
+Affinity maturation is the process by which antibodies gain increased affinity, avidity, and
+anti-pathogen activity. It is a result of somatic hypermutation (SHM) of immunoglobulin genes in B cells, coupled to selection for antigen binding.
+This process occurs in the germinal centers and proceeds for weeks after acute infection or
+vaccination, or for many cycles during chronic infection. The resulting antibodies can be highly
+mutated from their germline-encoded counterparts, with increases of several orders of magnitude in affinity for antigen compared to the corresponding naïve B cell receptors (BCRs).
+other options:
+option A: Isotype switching, also known as class switch recombination, is a process where the
+constant region of the antibody heavy chain is changed, leading to a switch in the antibody isotype (e.g., from IgM to IgG). This process is crucial for the functional properties of antibodies but is not directly involved in affinity maturation.
+option C: mRNA splicing is a cellular process that involves the removal of introns and the joining of exons to generate mature mRNA. while this process is essential for the production of
+functional antibodies, it is not specifically associated with affinity maturation. Affinity maturation
+
+primarily occurs through somatic hypermutation.
+option D: VDJ rearrangement is the process by which the variable regions of immunoglobulin
+genes are assembled from gene segments (V, D, and J segments). This process contributes to the diversity of antibodies but is distinct from affinity maturation. Affinity maturation occurs after     VDJ rearrangement and is driven by somatic hypermutation in the variable regions.",,KEY NOT FOUND,
+Q26,A farmer presents with a swollen foot and multiple sinuses as shown in the below image. what is the most likely diagnosis?,"a)Mycetoma
+b)squamous cell carcinoma
+c)Nocardia
+d)sporotrichosis","The most likely diagnosis here is Mycetoma which is caused by Eumycetoma.
+Mycetoma:-
+• Mycetoma is a chronic, granulomatous infection of the skin, subcutaneous tissues, fascia and bone, which most often affects the foot or the hand. It is, therefore, commonly known as
+Maduramycosis or Madura foot. Mycetoma occurs worldwide.
+• Etiology:  It can be divided into three types, eumycetomas, actinomycetomas and botryomycosis. pathogenesis:-
+• Triad of symptoms: Infection follows traumatic inoculation of the organism into the
+subcutaneous tissue from soil or vegetable sources, usually on thorns or splinters and results in tumefactions, deformities and draining sinuses discharging fungal colonies called grains or
+granules (triad of symptoms).
+• subcutaneous tissues of the feet, lower extremities, hands, and exposed areas are most often involved.
+• Grains: within host tissues the organisms develop to form compacted colonies (grains) o.5–2
+mm in diameter, the color of which depends on the organism responsible.
+Laboratory Diagnosis
+• A. Direct Examination: The presence of grains in pus collected from draining sinuses or in biopsy material is diagnostic.
+• B. culture samples should also be cultured, at both 25–3o°c and 37°c, on brain-heart infusion agar or blood agar for actinomycetes and on sabouraud agar (without cycloheximide) for fungi.
+Treatment:-
+The management of eumycetoma is difficult, involving surgical debridement or excision and
+chemotherapy. Actinomycetoma responds well to rifampicin in combination with sulfonamides or cotrimoxazole.",1411-859.PNG,KEY NOT FOUND,
+Q27,The given life cycle belongs to which of the following organisms?,"a)Leptospira
+b)Hanta virus
+c)yersinia pestis
+d)salmonella typhi","The life cycle shown in the above image is suggestive of leptospirosis.
+It is caused by contact with the urine or blood of an infected organism. It is a zoonotic
+disease, with rats being the most well-known reservoirs.
+
+Illness is classically biphasic after an incubation period of up to 1 month. The stages are:
+• Acute leptospiremic phase- organism can be cultured from blood.
+• Resolving immune phase- organism can be cultured from urine.
+The stages may not be clinically distinguishable.
+Most cases are asymptomatic but a few may present with severe manifestations. clinical features include:
+• High-grade fever
+• Hepatic dysfunction
+• Renal impairment
+• Hemorrhages- gastrointestinal, pulmonary (most common), petechiae and purpura
+The severe form is known as weil's disease, with a triad of hemorrhage, jaundice, and acute kidney injury.
+Treatment of choice is IV penicillin or IV ceftriaxone.",1412-860.PNG,KEY NOT FOUND,1432-872.PNG
+Q28,Identify the organism shown in this image.,"a)strongyloides stercoralis
+b)Enterobius vermicularis
+c)Ancylostoma duodenale
+d)Ascaris lumbricoides","The given image shows large cylindrical worms with tapering ends, and thus represents Ascaris lumbricoides (roundworm).
+Ascaris lumbricoides is the most common of human helminths and is distributed worldwide. It is the largest nematode parasite in the human intestine. The adult worms are large cylindrical
+worms, with tapering ends. The anterior end is more pointed than the posterior. It appears white outside the body.
+Its natural host is humans. There is no intermediate host. Adult worms live in the small intestine - jejunum and ileum. Humans acquire infectionby consuming food or water contaminated with
+nightsoil or human feces containing eggs. The eggs contain the infective rhabditiform larva.",1413-862.PNG,KEY NOT FOUND,
+Q29,"A patient presents with urethral discharge. A gram stain smear is made from the discharge sample and the following microscopic image is seen. what is the most likely causative
+organism?","a)Trichomonas
+b)chlamydia trachomatis
+c)Neisseria gonorrheae
+d)Gardenella","The above image shows gram■negative intracellular diplococci within phagocytes in a stained
+smear from the urethral discharge sample, which is seen in infection with Neisseria gonorrhoeae.
+According to CDC recommendations 2o21, the first line of treatment in uncomplicated gonococcal infections is a single dose of ceftriaxone 5oo mg IM.
+Note: BASHH (British Association for Sexual Health and HIV) in the united kingdom also     recommends higher doses of ceftriaxone of about 5oo mg along with azithromycin because it would result in fewer failures.",1413-861.PNG,KEY NOT FOUND,
+Q30,which of the following disease has the highest mortality once clinically manifested?,"a)Nipah
+b)Rabies
+c)Ebola
+d)zika","Rabies has the highest mortality once clinically presented.
+Rabies is a vaccine-preventable, zoonotic, viral disease of the central nervous system. Rabies virus is a bullet-shaped rhabdovirus containing ssRNA. It spreads to humans by bites or contact with
+the saliva of rabid animals (bats, dogs, cats). once clinical symptoms appear, rabies is virtually 1oo% fatal. The disease can be divided into 3 phases:
+• prodromal phase: It lasts 2-1o days. patients present with malaise, headache, photophobia,
+vomiting, and fever.  They may also have parasthesias, pain or pruritus near the site of exposure.
+• Acute neurologic phase: It lasts 2-7 days. In the more common encephalitic rabies, Hydrophobia (fear of water) or aerophobia (fear of breeze) can be seen. Swallowing liquids precipitates painful   spasms of the throat muscles. patients may also have nervousness, hallucinations, excessive
+lacrimation, salivation, perspiration and pupillary dilation. Convulsive seizures may occur
+• Coma and death (due to cardiorespiratory arrest)
+In about 2o% of patients, paralytic rabies is seen. Flaccid muscle weakness is seen, which progresses to quadriparesis and facial palsy.
+Note: In rabid animals, the virus depicts two modes of spread:
+• Centripetal spread: The virus enters the peripheral neurons. It moves via retrograde fast axonal   transport towards the spinal cord or brainstem a.k.a the central nervous system (CNS) at a speed   of up to 25o mm/day. once within the CNS, it spreads quickly to other regions in the CNS through fast axonal transport. It infects neurons primarily, but may rarely infect astrocytes.
+• Centrifugal spread: After CNS infection is established, it spreads along the sensory and autonomic nerves to salivary glands, adrenal glands, skin
+Rabies virus replicates in acinar cells of the salivary glands and is secreted in the saliva of rabid animals that serve as vectors.",,KEY NOT FOUND,
+Q31,"A patient presents with a mobile, warm to touch nodule in the neck. on the anaerobic culture of the biopsy material from this swelling, it showed colonies as shown in the image which had gram-positive branching rods on staining. which of the following is the drug of choice in this  condition?","a)Doxycycline
+b)cotrimoxazole
+c)penicillin
+d)surgical drainage","The given image shows molar tooth colonies that are characteristic of Actinomyces species. The given clinical scenario of a mobile, warm to touch nodule in the neck describes cervicofacial
+actinomycosis also known as 'lumpy jaw syndrome'. penicillin is the drug of choice for actinomyces infection.
+Actinomyces are Gram-positive anaerobic bacilli that produce molar tooth colonies on incubation for 72 hours on brain-heart infusion agar. They cause a chronic suppurative and granulomatous    infection called actinomycosis. It can present as one of the following clinical types:
+• cervicofacial type- Fluctuant mass in the jaw area producing draining fistulas.
+• Thoracic type- pulmonary infection with fever, cough, and purulent sputum.
+• Abdominal type- occurs following ruptured appendix or ulcer. It may spread throughout the peritoneum and involve multiple organs.
+Actinomycosis can spread to bones and surrounding tissue and produce multiple discharging sinuses. Treatment requires prolonged administration of penicillin for 6–12 months. In
+penicillin-allergic patients, clindamycin or erythromycin is effective. surgical excision and drainage may be required in some cases.
+The given image shows cervicofacial actinomycosis.
+
+
+The given image shows a patient with multiple cutaneous lesions caused by Actinomyces:",1414-863.PNG,KEY NOT FOUND,1434-873.PNG;1435-875.PNG
+Q32,In which of the following situations will you use a sanitizer?,"a)A, B &amp; C only
+b)A &amp; B only
+c)A, B C &amp; D
+d)C &amp; D only","You should use a sanitiser before and after examining the patient and after touching the patients' surroundings. The hands should be washed with soap and water thoroughly in case they are
+visibly soiled.
+sanitization is the process through which pathogenic organisms are reduced to safe levels on
+inanimate objects to reduce the likelihood of cross-infections. It is a component of hand-hygiene, which is demonstrated by the image below.
+
+
+Note: Disinfectants like chlorhexidine and alexidine have a biguanide functional group. They are mostly used as oral disinfectants and hand products. They are bactericidal but not sporicidal.
+Mycobacteria are also resistant to these compounds.",,KEY NOT FOUND,1435-874.PNG
+Q33,The following are true about chancroid:,"a)C &amp; D only
+b)A, B,C &amp; D
+c)A B &amp; C
+d)A &amp; B only","Chancroid is a painful genital ulcer caused by Haemophilus ducreyi, which is a gram-negative
+coccobacillus. Microscopic appearance of H. ducreyi is called the school of fish appearance or
+railroad appearance. Chancroid ulcers have a soft base that bleeds easily to touch. They also cause painful lymphadenopathy.
+The image below shows the 'school-of-fish' appearance characteristic of H. ducreyi.
+
+
+Note: Groove sign is a characteristic sign seen in lymphogranuloma venereum. It refers to the
+depression created by the inguinal ligament as it passes between the groups of inflamed inguinal lymph nodes.",,KEY NOT FOUND,1436-876.PNG
+Q34,Match the following E.coli with their respective pathogenesis.,"a)A-4,B-3,C-2,D-1
+b)A-1,B-3,C-2,D-4
+c)A-1,B-2,C-3,D-4
+d)A-4,B-2,C-3.D-1","The correctly matched pairs are as follows:
+The various strains of Escherichia coli are:
+• Enterotoxigenic E. coli (ETEC) is the most common organism that causes diarrhea in travelers. It produces the following toxins:
+• LT (heat-labile toxin)- acts by ↑cAMP
+• ST (heat-stable toxin)- two types of ST are known, ST-A (ST-I) and ST-B (ST-II)
+• ST-A is soluble in methanol and acts by ↑cGMP in the intestine.
+• ST-B is insoluble in methanol, and the mode of action is not known.
+• Enteroinvasive E. coli (EIEC) invade interstitial epithelial cells in the intestine and cause a
+condition resembling shigellosis. This ability is determined by a plasmid, detection of which can
+
+also be a diagnostic test. sereny's test was employed to diagnose EIEC but it is not in use anymore.
+• Enterohemorrhagic E. coli (EHEC) produces verocytotoxin, which targets vascular endothelium. It causes hemorrhagic colitis and hemolytic uremic syndrome.
+• Enteropathogenic E. coli (EpEC) causes infantile diarrhea in developing countries. It adheres to the mucosal surface of small intestine using EAF and LEE and causes effacement of microvilli.
+This leads to attachment and effacement lesions of intestinal cells.
+• Enteroaggregative E. coli (EAEC) produces the stacked brick pattern of adherence on hep-2 cells. EAEC has been associated with persistent diarrhea. Intestinal colonization of EAEC is mediated
+by AAF (aggregative adherence fimbriae). EAEC produces EAsT-1 toxin (enteroaggregative heat-stable toxin) which is considered to be a major virulence factor.
+
+E. co li	Mechanism of action
+1. ET EC	A. produce a heat-stable toxi  n and cause activation of gua nylyl cyclase
+2. EI EC	B. Invades intestinal mucosal cells
+3. E
+HEC	C. produces a toxin against v ascular endothelium cells
+4. Ep EC	D. Adhere to the mucosal sur face and cause effacement of  microvilli",,KEY NOT FOUND,
+Q35,Match the following:,"a)A-2, B-1, C-3, D-4
+b)A-3, B-2, C-1, D-4
+c)A-4, B-1, C-2, D-3
+d)A-1, B-2, C-4, D-3","Identification features of Trichomonas vaginalis:
+• pear-shaped or ovoid
+• short undulating membrane reaching upto the middle of the body
+• It has four anterior flagella and fifth running along the outer margin of the undulating membrane, which is supported at its base by a flexible rod, costa
+• A prominent axostyle runs throughout the length of the body and projects posteriorly like a tail
+• The cytoplasm shows prominent siderophillic granules, which are most numerous alongside the axostyle and costa
+• Jerky or twitching type of mobility
+
+parasite	organ oflocomoti on
+Balamuthia mandrillar is	pseudopod
+
+
+Parasite	organ oflocomoti on
+Balantidium coli	cilia
+Trichomonas vaginalis	Flagella
+Toxoplasma gondi	No Particular orga n
+
+
+
+The above image shows Trichomonas vaginalis : 1-anterior flagella, 2-kinetosomes, 3-parabasal body, 4-costa, 5-parabasal fibers, 6-undulating membrane, 7-posterior flagellum,
+8-hydrogenosomes, 9-axostyle, 1o-nucleus, 11-pelta.
+obligate parasite - organism cannot survive outside host
+• No cystic stage. Trophozoites are infective forms
+• Sexual transmission is the main route of infection. other modes are fomites, babies during passage through infected birth canal
+• Affects squamous epithelium - Intracellular edema and so called chicken-like epithelium, is the most characteristic feature of trichomoniasis
+• Habitat: vagina and cervix in female and urethra in males
+• clinical features: often asymptomatic in males. In females, it leads to pruritic vaginitis with greenish yellow discharge, strawberry mucosa and dysuria
+• Diagnosis: By wet mount microscopy of vaginal or urethral discharge, culture (gold standard -  cysteine-peptone-liver-maltose (cPLM) medium and plastic envelope medium (PEM)), PcR, and by demonstration of antigen in vaginal smear by ELISA
+• Treatment: Metronidazole is the drug of choice and simultaneous treatment of both partners is recommended
+
+
+
+The given image is the trophozoite form of the Balantidium coli.
+Balantidium coli occurs in two stages
+• Trophozoites are oval in shape and contain two nuclei. There is the presence of cilia over the
+entire surface and are larger around the mouth. Its anterior end is narrow and the posterior end is broad. At the anterior end, there is a groove leading to the mouth (cytostome). posteriorly, there   is a small anal pore (cytopyge).
+• cysts are smaller, round with a micronucleus, a macronucleus and many contractile vacuoles. Living trophozoites/cysts are yellowish or greenish in color on wet mount.
+
+
+The image given above shows Toxoplasma gondii which has two types of life cycles: • Enteric cycle
+• Exoenteric cycle
+
+The enteric cycle occurs in definitive hosts such as cats. Exoenteric cycle occurs in intermediate hosts such as humans, mice, rats, etc.
+Both sexual reproduction (gametogony) and asexual reproduction (schizogony) occur within the mucosal epithelial cells of the small intestine of the cat.
+sporozoites from the oocysts and bradyzoites from the tissue cysts enter the intestinal mucosa and multiply asexually. Tachyzoites are formed within the intermediate host.
+Tachyzoites continue to multiply and spread locally by lymphatic system and blood, while the bradyzoites multiply slowly inside the tissue cyst.
+The dormant bradyzoites inside the cyst may be reactivated in immune suppression causing renewed infection in the host.
+
+
+
+Images b-1 and b-3 showing the Trophozoite and cystic form of Balamuthia mandrillaris in salmonella shigella (ss) Agar respectively.
+Balamuthia Mandrillaris
+
+B. mandrillaris is a free-living ameba, which is a newly identified species reported to cause granulomatous amebic encephalitis (GAE).
+Morphology
+It exists in ameboid trophozoite stage. The flagellate stage is absent
+• It is relatively large (12-6o μm), irregular in shape and actively motile by broad pseudopodia.
+• Cyst of B. mandrillaris are usually spherical (6-2o μm), surrounded by a three-layered cyst wall:
+(1) outer irregular ectocyst, (2) a middle mesocyst and (3) an inner endocyst round wall. under      light microscopy, it appears to have two walls: (1) an outer irregular wall and (2) an inner smooth wall.
+• Infection is transmitled through respiratory tract, skin lesions, or eyes.",,KEY NOT FOUND,1438-877.PNG;1439-878.PNG;1439-879.PNG;1440-881.PNG;1440-880.PNG
+Q36,Galactomannan in serum is seen in:,"a)1 &amp; 2 only
+b)1 &amp; 3 only
+c)1 only
+d)1, 2 &amp; 3 only","The galactomannan assay is used for the diagnosis of invasive (deep-seated) mycoses caused by Aspergillus species.
+Galactomannan is a component of the cell wall of Aspergillus. It can be detected in serum or
+bronchoalveolar lavage by ELISA for the diagnosis of invasive aspergillosis in adults and children. This test is especially useful in hematopoietic stem cell transplant recipients or patients with
+hematologic malignancies. Invasive aspergillosis affects the lungs and presents with fever, cough,  dyspnea, and hemoptysis. The organism may spread to the eye, gastrointestinal tract, kidney, liver or brain, leading to abscesses and necrotic lesions.
+other diagnostic features of invasive aspergillosis are:
+• positive culture from the affected organ
+• Microscopy showing narrow, septate hyphae with branching at 45o and conidiophores
+• Halo sign on CT scan",,KEY NOT FOUND,
+Q37,Match the following parasites with their respective hosts:,"a)A-3, B-2, C-4, D-1
+b)A-2, B-1 ,C-4 ,D-3
+c)A-1, B-2, C-3, D-4
+d)A-4, B-3, C-1, D-2","The correct answer is A-3, B-2, C-4, D-1.
+The hosts of the above parasites are given below:
+
+A. Diphyllobothri um	3. Cyclop s
+B. paragonimus	2. Crayfis h
+C. Brugia	4. Manso nia
+D. Fasciola	1. Sheep
+
+
+
+parasite	Definitive host	First intermediate host	second intermediate ho st
+Diphyllobothri um	Humans	cyclops	cyclops and fish
+paragonimus	Humans	snail	crayfish and crab
+Fasciola	sheep and hu mans	snail	Aquatic vegetations
+Brugia	Humans	Mansonia mosquito	-",,KEY NOT FOUND,

@@ -1,0 +1,687 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,Identify the pathognomonic structure in the slide given below.,"a)sclerotic body
+b)Budding yeast
+c)Negri body
+d)Asteroid body","The given image shows the presence of brown round sclerotic bodies which is characteristically seen in chromoblastomycosis.
+chromoblastomycosis is a chronic fungal infection of the skin and subcutaneous tissue. It is
+caused by pigmented fungi (most commonly by phialophora verrucosa) and is commonly seen in tropical areas among agricultural workers and woodcutters who walk barefoot.
+patients present with warty cutaneous nodules (cauliflower-like) on the feet and lower legs.
+Diagnosis is by demonstration of sclerotic bodies in tissue sections. sclerotic bodies appear as
+round or irregular, dark brown bodies with septae. It is usually seen in clusters of 4-8 cells due to septation in different planes and delayed separation.
+chromoblastomycosis is managed by:
+• First-line treatment involves itraconazole (1oo-2oomg daily) or terbinafine (25omg daily)
+• second-line treatment includes the use of cryotherapy or the local application of heat by heat-retaining gels for a period of 2-3 months.
+• surgery is only indicated in very small lesions and should always be combined with chemotherapy
+• Flucytosine can also be used in combination with amphotericin B, but should not be used alone due to the development of resistance.
+other options:
+option B - The below image shows multiple round or oval-shaped yeast cells, pseudohyphae, and buds attached to the parent cell. They are seen in budding yeast.
+
+
+option c - Negri bodies are pathognomonic of rabies. It is an acidophilic, intracytoplasmic inclusion body with characteristic basophilic inner granules as shown below.
+
+
+
+option D - Asteroid bodies is seen in sporotrichosis, caused by sporothrix schenckii. It can be seen as an oval, basophilic structure with eosinophilic radiation. These are depositions of
+antigen-antibody complexes.",1570-988.PNG,A,1592-1009.PNG;1593-1011.PNG;1593-1010.PNG
+Q2,Antigen binding to MHC class I activates which of the following cells?,"a)Cytotoxic T cells
+b)B cells
+c)NK cells
+d)Helper cells","Antigen binding to major histocompatibility complex (MHC) class I activates cytotoxic T cells.
+The major histocompatibility complex (MHC), is a genetic locus that encodes a group of antigens. The MHC molecules also bind peptide antigens and present them to the T cells. The human MHC is called the human leukocyte antigen (HLA) complex.
+The MHC class I proteins present their antigens to CD8 T cells (cytotoxic T cells). The antigens bound to MHC class II proteins activate the CD4 T cells( T helper cells). There is no cross
+
+recognition between the T cells and MHC classes. This is known as MHC restriction. For example, a CD4 T cell would recognize an antigen presented by a macrophage only if it's bound to MHC
+class II molecules.
+other options:
+option B - B cells interact with an antigen based on the immunoglobulin surface receptors on the  B cell. The receptor along with the antigen is embodied and degraded and the peptides produced   are returned to the cell surface. It is then bound to the MHC class II molecules present on the cell  surface. This is then recognized by CD4 T cells. ultimately, the B cells are stimulated to proliferate and differentiate into plasma cells which secrete antibodies.
+option C - Natural killer (NK) cells are granular lymphocytes that confer innate immunity by protecting against viruses and intracellular pathogens.
+option D - T helper cells are responsible for the production of cytokines which activate the
+humoral and cell-mediated branches of immunity. These cells will recognize only those antigens that are presented along with MHC class II molecules on APC such as macrophages and B
+lymphocytes.",,A,
+Q3,which of the following agents can be used as a disinfectant but not a sanitizer?,"a)Hydrogen peroxide
+b)penicillin
+c)Methyl paraben
+d)Bleaching powder","Hydrogen peroxide is a disinfectant but cannot be used as a sanitizer.
+sanitization is a process by which levels of pathogenic organisms on inanimate surfaces are brought down to reduce the chances of cross-infection.
+Disinfection is a process by which all pathogenic organisms are destroyed.
+sterilization is a process in which all microorganisms in both vegetative and spore state are eliminated from a surface or medium.
+Hydrogen peroxide can be used for disinfection or sterilization in the liquid form for cystoscopes,  endoscopes, tubings, and metal instruments. The gaseous form can be used for fogging, which has largely replaced fumigation. It has a shorter cycle time and is non-toxic. The mechanism of
+bactericidal action is the oxidation of the cell wall of the microbe. It is also used in plasma sterilization.
+other options:
+option B - Penicillin, an antibiotic interferes with the synthesis of the bacterial cell wall. It is not used as a disinfectant or sanitizer.
+option C - Methyl parabens are antimicrobials that are commonly used in food and personal care products.
+option D - Household bleaching powder (sodium hypochlorite) is a widely used disinfectant in     hospitals. They are oxidizing agents that interfere with cellular protein activity. Diluted solutions are also used for sanitizing surfaces.",,A,
+Q4,Vaccination against which of the following is recommended in the elderly?,"a)1,2,3,4
+b)1,3
+c)1,4
+d)2,3","vaccination against varicella-zoster and pneumococcal meningitis (options 1 and 4) is
+recommended in the elderly.
+vaccinations against the following diseases are recommended for the elderly:
+• Influenza vaccine
+• pneumococcal vaccine
+• Herpes zoster
+• Tetanus, diphteria, and pertussis
+• Hepatitis B",,C,
+Q5,which of the following is wrong regarding primary and secondary immune response ?,"a)1
+b)2
+c)3
+d)4","statement 4 is wrong regarding primary and secondary immune responses. primary immune response has lower antibody affinity and vice versa.
+An immune response is a specific reactivity that occurred in a host as a result of an antigenic
+stimulus. It is of two types: Humoral or antibody-mediated response and cellular or cell-mediated response.
+The response to the antigenic stimulus can be primary or secondary. The features of the primary and secondary immune responses are as follows
+
+Features	primary immune response	secondary immune response
+1. Lag period	4-1o days	1-3 days
+2. peak response tim e	7-1o days	3-5 days
+3. Antibody respons e	Depends on the antigen	More potent than the primar y immune response
+4. Isotype generate	IgM	IgG
+5. Antigens	Both thymus-dependent and independent	Depends only on the thymus
+6. Antibody affinity	Lower	Higher",,D,
+Q6,which of the following is true about anti-CMV IgG antibodies?,"a)Denotes latent CMV infection
+b)Denotes chronic CMV infection with immunity to other serotypes
+c)Indicates acute CMV infection
+d)IgG avidity assay helps in differentiating past and primary infection","IgG avidity assay helps in differentiating past and primary infection with cytomegalovirus (CMv).
+Avidity level measured by avidity index is used to describe the percentage of IgG bound to the
+antigen after being treated with denaturing agents.These assays are based on the fact that low
+avidity IgG antibodies are present during the first few months after the infection and avidity
+increases over time indicating maturation of the immune response. so the presence of high avidity IgG denotes a past infection rather than a primary one. Low avidity IgG signals a primary
+
+infection within the last 3-4 months.
+IgM detection can be used as an indicator of acute infection, but it lacks specificity for primary infection. This is because it persists for years in some individuals and is also produced during   reactivation.
+cytomegalovirus is a type of herpes virus, which causes severe disease in immunocompromised    patients. In most other cases, it is inapparent and marked by prolonged latency with intermittent reactivation.",,D,
+Q7,which of the following is an example of Mollicutes?,"a)ureaplasma urealyticum
+b)orientia tsutsugamushi
+c)chlamydophila pneumoniae
+d)chlamydia trachomatis","ureaplasma urealyticum belong to the class Mollicutes which are also known as cell-wall-free bacteria. This class contains around 2oo species of mycoplasma.
+Mycoplasma are the smallest microorganisms that can thrive in a cell-free medium. They are pleomorphic and lack cell walls. There are 4 species that are of importance in humans.
+• ureaplasma urealyticum
+• Mycoplasma pneumoniae
+• Mycoplasma hominis
+• Mycoplasma genitalium
+It can be grown in fluid or solid media. colonies typically have a fried egg appearance. They
+mainly cause pneumonia and genital infections. ureaplasma urealyticum is unique in it's ability to hydrolyse urea. They cause non-gonococcal urethritis. It can be resistant to commonly used
+antibiotics such as tetracycline and doxycycline.
+other options:
+option B - orientia tsutsugamushi belongs to the family rickettsiaceae. It causes scrub typhus, which is spread by mites.
+option c - chlamydophila pneumoniae belongs to the genus chlamydia. It is a common cause of respiratory diseases such as sinusitis, bronchitis, and pneumonia.
+option D - chlamydia trachomatis also belongs to the genus chlamydia. It causes trachoma, inclusion conjunctivitis, and genital chlamydiasis.",,A,
+Q8,which of the following statements regarding the given image is correct?,"a)Albendazole is the drug of choice
+b)Majority of infections are asymptomatic in humans
+c)Infection is acquired by ingestion of aquatic plants
+d)Non-segmented leaf like parasite","The given image shows a spherical or ovoid, non-bile stained egg which is diagnostic of
+Hymenolepis nana infection. It has a thin colorless outer membrane and a thin embryophore covering the hexacanth embryo. The majority of infections are asymptomatic and are more     commonly seen in children.
+H. Nana or dwarf tapeworm is the smallest and most common cestode that infects man. There is  no intermediate host. The infection is acquired by ingestion of food and water contaminated with eggs.
+
+patients with heavy infections may present with nausea, abdominal pain, anorexia, diarrhea, and irritability. An allergic response to the parasite can cause pruritus as well.
+A single dose of praziquantel given at the rate of 25mg/kg is the drug of choice. Nitazoxanide (5oo mg twice daily for 3 days) may be given as an alternative.
+Image below shows egg of H. Nana.
+
+
+other options:
+option C - Following are the parasites with aquatic plants as the source of infection :
+• Fasciola hepatica
+• Fasciolopsis buski
+• watsonius watsoni.
+• Gastrodiscoides hominis
+option D - The adult worm of Fasciola hepatica is a flat leaf-shaped liver fluke.",1572-989.PNG,B,1597-1012.PNG
+Q9,A patient presents to you with left-sided flank pain. A cT scan was done which is shown below. which of the following statements is incorrect regarding the condition?,"a)Albendazole can be started preoperatively
+b)cyst contents can produce anaphylactic reaction
+c)A segmented dog tapeworm is the causative agent
+d)FNAc or biopsy to be done before nephrectomy","FNAC or biopsy to be done before nephrectomy is the incorrect statement regarding cystic echinococcosis. The given CT image shows left-sided renal hydatid cyst.
+Echinococcosis (hydatidosis) is caused by Echinococcus granulosus (larval stage). It is a
+segmented tapeworm. Dogs are the definitive hosts and pass the eggs in their feces. Intermediate hosts include humans, sheep, and cattle. patients present with abdominal pain, palpable mass,
+jaundice, cough, and dyspnea. Rupture of a hydatic cyst can result in fever, pruritus, or anaphylaxis.
+Daughter cysts within the larger cyst seen on CT imaging is diagnostic. A biopsy is not
+recommended because of the risk of fluid leakage which can result in anaphylaxis or
+dissemination of the infection.
+
+percutaneous aspiration, infusion of scolicidal agents, and reaspiration (pAIR) is the primary
+treatment. It is contraindicated in superficial loculated cysts and in cysts that communicate with the biliary tree.
+Isolated involvement of the kidneys is rare. patients can present with nonspecific symptoms, renal colic, and hydatiduria. Due to the lack of an effective systemic scolicidal agent, surgical treatment  is necessary when kidneys are involved. simple excision of the cyst is preferred. If there is
+extensive involvement, partial or total nephrectomy is warranted. It is recommended to start albendazole one week to one month before the surgery to decrease the risk of spillage.",1573-990.PNG,D,
+Q10,which of the following has been reported to have endemic transmission in India?,"a)yellow fever
+b)crimean-congo hemorrhagic fever
+c)Ebola
+d)Hendra virus","crimean-congo hemorrhagic fever caused by nairovirus has an endemic transmission in India. An outbreak was recognized in Gujarat in 2011. In India, antibodies against the virus have been
+detected in human and animal sera. It is transmitted by hyalomma ticks.
+other options:
+option A - yellow fever is mostly confined to the south and central America, and certain parts of Africa. It is caused by the flavivirus. It is an arthropod-borne hemorrhagic fever. In the urban
+cycle, Aedes aegypti transmits the disease.
+option c - Ebola virus causes a hemorrhagic fever first reported in sudan and zaire. A recent outbreak was reported in west Africa.
+option D - Hendra virus was responsible for the death of many horses in Australia.",,B,
+Q11,which of the following are acid-fast staining organisms?,"a)1, 2, 3, 4, 5
+b)1, 2, 4, 5
+c)1, 2, 3
+d)3, 4, 5","Nocardia, Mycobacterium leprae, cryptosporidium parvum, and cytoisospora belli (options 1, 2,
+4, and 5) are acid-fast staining organisms.
+Acid-fast staining is based on the principle that tubercle bacilli resist decolorization with acids   after staining with aniline dyes. Acid fastness is attributed to the variety of fatty acids, alcohols, and lipids in the tubercle bacilli. Acid-fast organisms usually contain mycolic acid, which is
+acid-fast in the free state.  The steps to carry out acid-fast staining as modified by ziehl and Neelson are:
+• The slide is stained with carbolfuchsin along with the application of heat.
+• It is then decolorized with 20% sulphuric acid. Later methylene blue is used for counterstaining.
+• The acid-fast bacteria retain the fuchsin color, while other organisms take up the counterstain.
+The genus Nocardia are aerobic organisms and weakly acid-fast positive rods. They stain with carbolfuchsin and retain it when 1-4% sulfuric acid is used.
+
+
+
+Mycobacterium leprae, the causative agent of leprosy is a gram-positive bacillus. It is acid-fast when 5% sulphuric acid is used instead of 2o%.
+
+
+cryptosporidium parvum, commonly causes diarrhea in immunocompromised individuals. The oocysts in the stool can be visualized by modified ziehl-Neelsen staining. It appears as red
+acid-fast spheres. It can also be used for specimens such as sputum and bronchial wash.
+
+
+
+Isospora belli is a coccidian parasite that can cause protracted diarrhea in immunocompromised patients. Modified ziehl-Neelsen staining reveals pink-colored acid-fast oocyst in stool samples.
+
+
+Actinomyces are gram-positive, anaerobic, and filamentous bacteria that are non-acid-fast in contrast to Nocardia.",,B,1585-1002.PNG;1599-1013.PNG;1600-1015.PNG;1600-1014.PNG;1601-1016.PNG
+Q12,The cell wall depicted below is most likely to belong to which of the following organisms?,"a)Aspergillus fumigatus
+b)Mycobacterium tuberculosis
+c)Mycoplasma pneumoniae
+d)Rhinosporidium seeberi","The organism most likely to have the cell wall depicted is Aspergillus fumigatus.
+Fungi usually have a rigid cell wall composed of polysaccharides, glycoproteins, and lipids. Most of them contain sugar polymers such as chitin, glucans, and mannans. The cytoplasmic
+membrane is usually composed of sterols. Antifungals such as amphotericin and nystatin bind to the ergosterol in the cell membranes which results in membrane damage and leakage.
+Aspergillus fumigatus is a filamentous fungi, with hyphae that may have cross-walls or septa. It    can cause allergic bronchopulmonary aspergillosis, aspergilloma, and superficial infections of the ear, eye, and sinuses. It causes invasive aspergillosis in immunocompromised individuals.
+other options:
+option B - Mycobacterium tuberculosis, are acid-fast staining bacteria, owing to the mycolic acid in the cell wall. They have a three-layered cell wall enclosing a trilaminar plasma membrane.
+option C - Mycoplasma pneumoniae lacks cells wall or even cell wall precursors. They are bound by a trilaminar membrane that contains sterols.
+option D - Rhinosporidium seeberi causes a granulomatous condition known as rhinosporidiosis.  It exists as a trophocyte with clear cytoplasm and a covering of chitin. Mature trophocytes develop into sporangium with an outer chitinous and inner cellulose layer.",1574-992.PNG,A,
+Q13,The organism with following life cycle is:,"a)strongyloides stercoralis
+b)Ancylostoma duodenale
+c)Ascaris lumbricoides
+d)Enterobius vermicularis","The given life cycle is of strongyloides stercoralis.
+The organism has a parasitic cycle and a free-living soil cycle. Humans are the natural host but morphologically indistinguishable strains may be seen in dogs and cats.
+
+Filariform larvae are the infective form and there are two modes of infection:
+• penetration of skin by 3rd stage filariform larva.
+• Autoinfection (external and internal).
+The female worms present in the intestine lays eggs in the mucosa which hatches immediately, releasing the rhabditiform larva. The larva migrates into the lumen of the intestine and passes  down to be released in the feces. The rhabditiform larva may change into filariform larva while passing through the bowel.
+The filariform larvae in the bowel do not leave the host and become a source of autoinfection as they penetrate the colonic mucosa or perianal skin.
+The rhabditiform larvae passed in the feces may undergo two types of development in the soil:
+• Direct development: The rhabditiform larva moults twice on reaching the soil to become the infective filariform larva. The filariform larva can penetrate the skin and enter the circulation.
+• Indirect development: The rhabditiform larvae develop into free-living males and females in the soil.
+other options:
+option B: Humans are the only natural host and the life-cycle ofAncylostoma duodenale is
+completed in a single host. The eggs laid by the female worms in the intestine are passed in feces. The embryo develops inside the egg and a rhabditiform larva hatches out in about 2 days.
+The rhabditiform larva moults twice to form the filariform larva (infective stage). It penetrates the skin and enters the subcutaneous tissue.
+option C: Humans are the only natural host for Ascaris lumbricoides and have no intermediate host. The infection is acquired by ingestion of embryonated eggs (infective stage).
+option D: Enterobius vermicularis completes its entire life cycle in the human host and has no
+intermediate host. Embryonated eggs are the infective form. Infection is acquired by ingestion of the eggs. Autoinfection and retroinfection are seen.",1574-991.PNG,A,
+Q14,what is the ratio of T cells to B cells in a healthy adult?,"a)1:1
+b)3:1
+c)1:2
+d)1:3","The ratio of T cells to B cells in the blood of a healthy adult is approximately 3:1.
+T lymphocytes constitute 6o-7o% of lymphocytes in the blood while mature B cells account for 1o-2o%.
+T cells are of three types: Helper T cells, cytotoxic T cells, and regulatory T cells. T lymphocytes develop in the thymus.
+B lymphocytes develop from precursors present in the bone marrow. They differentiate to form either plasma cells or memory B cells. plasma cells produce antibodies after stimulation by the  antigen.
+Lymphocyte recirculation is particularly important for T cells, as B cells do not have to move to the site of infection as the antibodies produced are circulated through blood.",,B,
+Q15,"A microbiologist stained a tissue sample and found thin, filamentous bacteria, which  resembled Nocardia sp. what other staining technique should be done to confirm the presence of Nocardia?","a)ziehl-Neelsen staining
+b)silver impregnation
+c)Albert stain
+d)Modified acid-fast stain","The presence of Nocardia species can be confirmed using a modified acid-fast stain.
+For microscopy, sputum smears are most commonly used. Nocardia species are seen
+as filamentous organisms, with hyphae-like branching. These bacteria are gram-positive and catalase positive, and they produce urease.
+The image below shows acid-fast staining of Nocardia.
+
+
+on direct microscopy of sputum or pus samples, crooked, branching, beaded filaments are seen; these filaments are 1 μm wide and up to 5o μm long.
+After incubation at 35–37°c in laboratory media, they develop heaped, irregular, waxy colonies.
+strains may vary in their pigmentation from white to orange to red. Blood cultures may be used to detect Nocardia species, although it may take up to 2 weeks to detect growth.",1575-993.PNG,D,1585-1002.PNG
+Q16,"what is the microscopy technique to produce high contrast image of transparent, live bacteria?","a)phase contrast microscopy
+b)Dark field microscopy
+c)Electron microscopy
+d)polarized microscopy","The microscopy technique used to produce high contrast images of transparent, live bacteria is phase contrast microscopy.
+It improves the contrast by making use of the difference in thickness or refractive index of
+structures within and around the cell. The rays passing through different refractive indices are varied by fraction of wavelength, producing a phase difference. This creates a difference in
+intensity of light, producing contrast and making the structures within the cells and its
+surroundings clearly visible.
+option B: In Dark field microscope only the reflected light enters the objective lens whereas the unreflected light does not. Hence the specimen gets brightly illuminated against a dark
+background. It is used for visualizing very slender, live organisms such as spirochetes which are not visible under ordinary illumination.
+
+option C: Electron microscopy uses a beam of electrons instead of the beam oflight. It is used for studying dead and dried objects. Hence, it may lead to distortion in cell morphology.
+option D: polarized microscopy is used to study the intracellular structures using differences in birefringence.",,A,
+Q17,Match the following.,"a)A-4, B-1, C-3, D-2
+b)A-4, B-1, C-2, D-3
+c)A-4, B-2, C-3, D-1
+d)A-2, B-1, C-3, D-4","The correct pairs are as follows:
+Tuberculosis: Mycobacterium tuberculosis can be stained with Ziehl-Neelsen (ZN) stain. steps involved in the ZN stain:
+• place the sample on the slide and evenly spread it with rotational movement.
+• Air-dry the slide, and fix it by passing it over a flame.
+• Apply carbol fuchsin stain.
+• Heat the underside of the slide until steam rises.
+• wash with water to remove excess stain.
+• Decolorize with alcohol.
+• Apply methylene blue stain.
+• wash with water to remove excess stain.
+• view under a microscope.
+Malaria: Giemsa stain is used as a gold standard procedure for the detection of malarial parasites. This stain helps visualize Maurer's clefts associated with plasmodium falciparum and schuffner's   dots associated with plasmodium vivax or plasmodium ovale.
+Leprosy: Acid fastness in general is related to the carbon chain length of the mycolic acid found in any particular species. Acid and alcohol fastness of the lepra bacilli is less than that of the tubercle bacilli. Fite-Faraco method is the staining procedure of choice in Mycobacterium leprae. In this
+method, alcohol is eliminated from the hydrating and dehydrating steps, and 1o% sulphuric acid is used as a decolorizer in place of acid/alcohol solution.
+Actinomycosis: Actinomyces is a gram-positive bacillus that is filamentous and non-sporing in nature, and the Gram stain is more sensitive in its diagnosis than culture.
+
+Column A	Column B
+A. Malaria	1. Giemsa stain
+B. Tuberculosi s	2. ZN stain
+C. Leprosy	3. Fite-Faraco stain
+D. Actinomyco sis	4. Gram stain",,B,
+Q18,vesicular rash is seen in ________.,"a)Hand, foot, and mouth disease
+b)Dengue
+c)zika fever
+d)Roseola infantum","vesicular rash is seen in hand, foot, and mouth disease.
+It is a mild exanthematous fever usually occurring in children but may also occur in adults. It is characterized by papulovesicular rashes that involve the oral mucosa, palms, and soles.
+The virus is shed in the stool and is transmitted by the feco-oral route. It is a self-limiting disease and subsides in 1-2 weeks. Treatment is symptomatic as the rash heals spontaneously.
+coxsackieviruses are enteroviruses and belong to the picornaviridae family. They are classified into groups A and B. Group A viruses are classified into 24 types and group B viruses are
+classified into 6 types.
+Diseases caused by coxsackie A viruses:
+• Hand, foot, and mouth disease (HFMD)
+• Herpangina- It is febrile vesicular pharyngitis. It is characterized by the presence of ulcerating small vesicles on the oral fauces, or palate or uvula, and the posterior pharyngeal wall.
+• Aseptic meningitis
+Diseases caused by coxsackie B viruses:
+• pleurodynia or Bornholm disease- It is viral myalgia defined by sudden severe lancinating pain, typically on one side of the chest. It is commonly associated with fever, malaise, and headaches.
+• Myocarditis and pericarditis in the newborn.
+• orchitis, juvenile diabetes
+The image below shows the rash in the hand, foot, and mouth disease.
+
+
+other options:
+option B: cutaneous and mucosal findings in dengue are erythema, morbilliform eruptions, and hemorrhagic lesions.
+option c: zika fever is characterized by fever, maculopapular rash, arthralgia, and conjunctivitis.
+
+option D: Roseola infantum presents as a nonpruritic, pink papular rash that begins on the trunk.",,A,1605-1017.PNG
+Q19,which of the following viruses show genetic change similar to influenza virus?,"a)1
+b)2
+c)3
+d)4","Rotavirus exhibits genetic reassortment/antigenic drift similar to that of the influenza virus.
+Rotaviruses appear as cartwheel-shaped structures with short spokes radiating from them. 11 segments of double-stranded RNA constitute the genome. Influenza viruses have a
+linear, segmented, single-stranded RNA. Reassortment of the genome occurs readily due to the presence of this segmented RNA.
+
+
+other options:
+option B - Adenovirus contains double-stranded DNA. It has icosahedral symmetry, with structures known as fibers extruding from the vertices.
+
+
+option c - Ebola viruses are filamentous viruses with nonsegmented single-stranded RNA as genetic material.
+
+
+option D - Rabies viruses belonging to the family Rhabdoviridae are bullet-shaped viruses, with nonsegmented single-stranded RNA.",1577-995.PNG,A,1606-1019.PNG;1606-1018.PNG;1607-1021.PNG;1607-1020.PNG
+Q20,"A forest worker developed skin lesions over the forearm, which initially started as macules
+but then became nodules. Histology of the nodules shows the following findings. which of the following is true regarding this condition?","a)The organism does not invade underlying fascia, tendon, muscle, or joints.
+b)Angioinvasion is common, especially in people with hemolytic anemia.
+c)It is a dimorphic organism, and yeast forms are seen in clinical sample.
+d)These bodies are formed by engulfment of the dead fungi by the macrophages.","The most likely diagnosis based on the clinical vignette and the histopathology showing sclerotic bodies is chromoblastomycosis. It is primarily a subcutaneous mycosis and does not commonly   invade underlying tissue, tendon, or joints.
+chromoblastomycosis is caused by dematiaceous fungi, primarily
+Fonsecaea spp and cladophialophora spp. Not all species of dematiaceous fungi are known to be
+
+thermally dimorphic fungi (option C)
+Chromoblastomycosis, the most common chromomycosis, is more commonly seen in tropical
+areas among agricultural workers and woodcutters who walk barefoot. Traumatic implantation is the mode of infection. Most often, the infection occurs in trauma-prone sites, such as exposed
+areas of the lower and upper limbs.
+patients present with warty cauliflower-like cutaneous nodules on the feet and lower legs. The
+disease generally remains localized, with slow peripheral extension. Lymphatic spread can occur.
+Diagnosis is made by the demonstration of sclerotic bodies, also called copper-penny bodies, in tissue sections. sclerotic bodies appear as round or irregular, dark brown bodies with septae.
+
+
+
+First-line management includes itraconazole or terbinafine. Flucytosine used on its own or
+combined with amphotericin B may also be effective. For small lesions, surgical excision is the therapy of choice.",1577-994.PNG,A,1608-1023.PNG;1608-1022.PNG
+Q21,An HIV patient came to the clinic with a history of diarrhea. stool microscopy showed the oocysts that were 4-8 μm in size. The image is shown below. Identify the organism.,"a)Isospora
+b)cyclospora
+c)cryptosporidium
+d)Microspora","The given clinical scenario and the stool microscopy show oocysts of Cryptosporidium.
+Cryptosporidium is a coccidian parasite implicated in causing traveller's diarrhea in
+immunocompromised patients. The two cryptosporidium species responsible are C. hominis and
+C. parvum.
+The infective form is the oocyst excreted in the patient's feces, which can be acquired through drinking water or recreational water activities. The oocysts are immediately infectious (unlike isospora oocysts, which require maturation), and may cause autoinfection.
+Because of their small size, they are difficult to see using routine staining and hence, acid-fast staining is done.
+once ingested, the 4 sporozoites are released from each cyst and attach to the small intestinal mucosa. It causes crampy abdominal pain and non-inflammatory watery diarrhea.
+Treatment is mainly supportive, though nitazoxanide has been approved for use in
+cryptosporidium infection.
+other options:
+option A: oocysts of isospora are 23-36 μm, oval, and contain two sporocysts, each having four sporozoites. They are uniformly acid-fast.
+option B: sporulated oocysts of cyclospora are 8-12 μm in size, round, and contain 2 sporocysts each having two sporozoites. They are acid-fast.
+option D: Microspora oocysts are 2-4 μm in size, oval to cylindrical in shape with a polar filament. spores are gram-positive and acid-fast.",1578-996.PNG,C,
+Q22,"A patient presents to the hospital with complaints of abdominal pain. A stool examination
+was done, and it showed the presence of the organism shown in image A. The body has
+segments broader than the length. which of the eggs shown in column B corresponds to this organism?","a)1
+b)2
+c)3
+d)4","The given image shows a scolex with 4 suckers and a retracted rostellum with a single row of
+hooklets. The proglottids are broader than long. These features are characteristic of Hymenolepis nana.
+option 4 shows the appearance of the egg of H. nana on stool microscopy. These eggs have a thin, colorless outer membrane and thread-like polar filaments. They have a hexacanth embryo. The
+eggs are non-bile stained and float in a saturated salt solution.
+H. nana, also called dwarf tapeworm, is the smallest tapeworm. Humans are definitive hosts.
+Infection is acquired by the ingestion of food and water contaminated with eggs. The egg attaches to the intestine and develops into the larva and adult worm. The adult worm resides in the small   intestine. No intermediate host is required. H. nana is unusual in that it undergoes multiplication in the body of the definitive host.
+patients are usually asymptomatic. But, in heavy infection, they present with nausea, anorexia, abdominal pain, diarrhea, and irritability. pruritus may also be present due to an allergic
+response.
+The image given below shows the life cycle of Hymenolepis nana.",1579-998.PNG,D,1610-1024.PNG
+Q23,The image below shows the life cycle of a virus. which of the proteins of the virus act as oncogenes?,"a)E1, E2, E5
+b)E6, E7
+c)L1, L2
+d)E1, E2","The image shows the life cycle of the human papilloma virus, and the E6 and E7 proteins act as oncogenes.
+The E6 protein binds to and helps in the degradation of p53 and stimulates the expression of  telomerase reverse transcriptase (TERT), which is the catalytic subunit of telomerase, thereby helping in the longevity of the cells.
+E7 protein binds to the RB protein and displaces the E2F transcription factors that are normally sequestered by RB, thus promoting progression through the cell cycle.
+L1 forms the major portion of the capsid. L2 plays an important role in papillomavirus assembly and the infectious process. E1 and E2 are involved in replication and transcription.",1579-997.PNG,B,
+Q24,Image of Rickettsial morula in a monocyte is shown below. Identify the organism.,"a)Rickettsia rickettsii
+b)Rickettsia conorii
+c)Ehrlichia chaffeensis
+d)Anaplasma","The organism given in the image is Ehrlichia chaffeensis. The peripheral blood smear shows a morula, an intracellular inclusion body in a monocyte.
+Ehrlichia chaffeensis is a gram-negative, obligate intracellular bacteria that are transmitted by hard ticks such as the lone star tick.
+Clinically, the symptom onset is typically within one-three weeks of exposure. Patients may
+present with fever, headache, myalgia, nausea, vomiting, loss of appetite, and weight loss. Rashes are generally absent. severe human monocytic ehrlichiosis is characterized by
+meningoencephalitis, renal failure, respiratory failure, and shock.
+Diagnosis is by demonstration of the characteristic morulae in the mononuclear cells such as
+monocytes. serological studies such as indirect fluorescent antibody tests and polymerase chain reaction (PCR) detection can also be used.
+
+The treatment of choice for human monocytic ehrlichiosis is doxycycline.
+other options:
+option A: Rickettsia rickettsii causes rocky mountain spotted fever. It is transmitted by ticks.
+patients present with fever, headache and rash.
+option B: Rickettsia conorii causes Mediterranean spotted fever. The parasite is transmitted by ticks and the patients present with fever, headache, rash, and eschar (tache noire).
+option D: Anaplasma causes human granulocyte anaplasmosis. It is transmitted by ticks. clinical features are fever, headache, and myalgia. Inclusions in granulocytes are seen.",1580-999.PNG,C,
+Q25,"A young man presents with skin lesions as shown in the image below. All of the following organisms can spread through dermal and subcutaneous lymphatics, except _______.","a)sporothrix schenckii
+b)staphylococcus aureus
+c)Nocardia asteroides
+d)Mycobacterium marinum","The given image shows multiple vesicles on hand and multiple eruptions along lymphatics. All of  the organisms mentioned in the options can spread through dermal and subcutaneous lymphatics except  staphylococcus aureus
+staphylococcus aureus is a gram-positive coccus arranged in grape-like clusters. It causes various localized pyogenic infections like folliculitis, furuncle, abscess, impetigo, paronychia,
+osteomyelitis, and even septicemia.
+other options:
+option A: sporothrix schenckii is a dimorphic fungus. It causes sporotrichosis, a chronic
+granulomatous disease, by traumatic inoculation into the skin. This is usually followed by spread along the draining lymphatics and lymph nodes. Itraconazole is the drug of choice for treatment.
+option c: Nocardia asteroides is a gram-positive aerobic bacteria. It is frequently found in the soil and infection may be exogenous. cutaneous infections can present as local abscesses or
+lymphocutaneous lesions.
+option D: Mycobacterium marinum is a non-tuberculous mycobacterium. It causes swimming
+pool granuloma. The lesion begins as a papule and breaks down to form an indolent ulcer. It
+usually occurs after abrasions and is therefore seen on the prominences like elbows, knees, ankles, or toes.
+The image below shows sporotrichosis.",1510-929.PNG,B,1587-1005.PNG
+Q26,The following are parvovirus-related manifestations. Identify the incorrect pair.,"a)4
+b)3
+c)1
+d)2","polymyalgia rheumatica is not associated with parvovirus B19, and more commonly occurs in women aged 5o and above. It is closely associated with giant cell arteritis.
+The main manifestation of symptomatic parvovirus B19v infection is erythema infectiosum, also    known as fifth disease or slapped-cheek disease, which most commonly occurs in children of early school age or infants. Fever and mild constitutional symptoms may accompany the rash, which
+has a typical “slapped cheek” appearance.
+pure red cell aplasia and chronic hemolytic anemia have been reported in patients with
+immunosuppression due to a wide range of clinical settings, including AIDS, lymphoproliferative disorders, and transplantation.
+parvovirus B19v infection during pregnancy can lead to hydrops fetalis and/or fetal loss. The risk of transplacental fetal infection is 3o%, and the risk of fetal loss, predominantly early in the
+second trimester, is 9%.",,D,
+Q27,which virus can be identified by a PCR method and is endemic to India?,"a)Hendra virus
+b)west nile virus
+c)Ebola virus
+d)yellow fever","west Nile virus can be identified by polymerase chain reaction (pCR) and is endemic to India.
+west Nile virus is a flavivirus that is transmitted by Culex mosquitoes. It can be subclinical or may present as a mild influenza-like illness. Encephalitis occurs in severe forms. Reverse-transcriptase  pCR has been used to identify the virus.
+other options:
+option A- Hendra virus is endemic to Australia, and mostly affects horses. Some human cases are also reported.
+
+option C - Ebola virus belongs to the genus Filovirus. It causes hemorrhagic fever. It is endemic to Africa.
+option D - yellow fever is mostly confined to South and Central America, and certain parts of Africa. It is caused by flavivirus. It is an arthropod-borne hemorrhagic fever. Aedes
+aegypti transmits the disease.",,B,
+Q28,SARS-Cov-2 can be detected by all except ______.,"a)ELISA to detect spike proteins
+b)Real-time PCR to detect viral mRNA
+c)Rapid antigen test to detect spike proteins
+d)Southern blotting","SARS-Cov-2 can be detected by all except Southern blotting.
+Southern blotting cannot be used to detect SARS-Cov-2 because there is usually not enough DNA in the collected sample to obtain a pattern on gel electrophoresis.
+Real-time PCR uses nasopharyngeal secretions to detect viral genomic RNA or DNA in respiratory secretions. It is the most sensitive and specific test available.
+Rapid-antigen test detects spike proteins in nasopharyngeal secretions.
+Enzyme-linked immunosorbent assay (ELISA) against spike protein is also found to be sensitive and specific for SARS-Cov-2.",,D,
+Q29,"A patient comes with a history of high fever for 5 days and altered sensorium. on further probing, it was found that he had two seizures one day ago. Peripheral smear shows the   following findings. How will you manage this patient?","a)Doxycycline 1oo mg intravenously for 7 days
+b)Clindamycin 6oo mg intravenously 8 hourly for 7 days
+c)Artesunate 2.4 mg/kg intravenously at 12 and 24 hours, followed by daily once
+d)Chloroquine intramuscularly 8 hourly for 3 days","The given scenario and image from the peripheral smear showing rings (headphones appearance) point towards the diagnosis of severe Plasmodium falciparum malaria, and the treatment of
+choice for this condition is artesunate 2.4 mg/kg Iv at 12 and 24 hours, followed by daily once for 4 days.
+Major manifestations of severe falciparum malaria include more than two convulsions in 24
+hours, unarousable coma/ cerebral malaria (failure to localize or respond appropriately to stimuli or coma persisting for &gt;3o min after generalized convulsion), acidosis, severe normocytic
+normochromic anemia, renal failure, pulmonary edema, hypoglycemia, shock, and disseminated intravascular coagulation.
+other manifestations include hemoglobinuria, hyperparasitemia, jaundice, and extreme weakness. The treatment of choice is artesunate given at a dose of 2.4 mg/kg stat Iv, followed by 2.4 mg/kg    at 12 and 24 hours, and then daily if necessary.
+If artesunate is unavailable, artemether is given at a dose of 3.2 mg/kg stat IM, followed by 1.6  mg/kg QD, or quinine dihydrochloride given at a dose of 2o mg of salt/kg infused over 4 hours, followed by 1o mg of salt/kg infused over 2–8 hours.",1582-1000.PNG,C,
+Q30,Delayed hypersensitivity is due to ______.,"a)Interferon gamma
+b)Interleukin-2
+c)Interleukin-12
+d)Interleukin-4","Delayed hypersensitivity is due to interferon-gamma (IFN-gamma).
+
+Delayed hypersensitivity is also called cell-mediated/type 4 hypersensitivity reaction. It is mediated by T cells and occurs by 2 mechanisms:
+• CD4+ T helper cells mediated
+• CD8+ T helper cells mediated
+CD4+ T helper cells mediated pathway:
+Antigen peptides recognized by CD4+ T cells secrete interluekin -2. Interleukin -2 helps in further proliferation of T cells that respond to the antigen peptide. These T cells differentiate into Th1 or   Th17 cells as a result of the cytokines produced from the antigen presenting cells (APC).
+APCs also secrete interleukin - 12 which enhances differentiation of the T cells to the Th1 subset. Inflammatory cytokines like interluekins -1, 6, 23 induce differentiation of T cells to the Th17
+subset. These responses lead to the release of interferon gamma that alters the macrophages in several ways to ensure eliminating the antigen.
+Interferon-gamma-induced changes in the macrophages:
+• Augmented ability of the macrophages to phagocytose and kill micro-organisms.
+• Increased expression of class 2 MHC molecules to enhance antigen presentation.
+• Increased secretion in presence of tumor necrosis factor, interleukin-1, and other inflammatory chemokines.
+• Amplification of the Th1 response by producing more interleukin-12.
+CD8+ T helper cells mediated pathway:
+CD8+ T cells destroy antigen-presenting target cells using perforins and granzymes. These
+mediators are preformed in the lysosomes of a cell. The perforin-granzyme complex enters the   target cell by endocytosis. Granzymes cause the activation of caspases inducing apoptosis of the target cell. CD8+ T cells also produce interferon gamma following viral infections and contact     allergens. Interferon-gamma then proceeds to stimulate the production of inflammatory
+mediators and bring about the hypersensitivity reaction.
+Examples of delayed hypersensitivity reactions include the tuberculin reaction and contact dermatitis.
+Interferon-gamma is an important effector involved in both immune mechanisms of delayed hypersensitivity reactions and hence is the best answer for this question.",,A,
+Q31,which disease causes the lesion shown in the image below?,"a)RockY mountain spotted fever
+b)Malaria
+c)COVID-19
+d)scrub tYphus","The lesion shown in the image is eschar. It is seen in scrub typhus.
+scrub typhus is caused by orientia tsutsugamushi and transmitted by trombiculid
+mites.  Humans are infected when they are bitten by the mite larvae known
+as chiggers. Transovarian transmission of microbes occurs in mites.
+The incubation period is 1-3 weeks. The patient typically develops a characteristic eschar which is a punched-out ulcer covered with a blackened scab at the site of the mite bite, with regional
+lymphadenopathy and maculopapular rash.
+
+other options:
+option  A: Rocky Mountain spotted fever is a rickettsial infection transmitted by ticks
+(Dermacentor andersoni). It is the most serious type of fever. Symptoms include fever, headache, Rash, muscle pain and lack of appetite. Early treatment with doxycycline is  recommended to prevent death and severe illness.
+option B: Malaria is a protozoal disease caused by plasmodium species. It is transmitted by the
+female anopheles mosquito. Here, the definitive host is the anopheles mosquito and humans are    the intermediate hosts. clinical features are periodic bouts of fever with chills and rigors, followed by anemia, splenomegaly, and hepatomegaly.
+option D: coVID-19 is a highly contagious viral disease caused by severe acute respiratory
+syndrome coronavirus 2 (SARS-coV-2). The primary mode of transmission is through respiratory droplets. The median incubation period is around 5 days. patients commonly present with fever,  cough, and shortness of breath and less commonly with a sore throat, anosmia, anorexia, nausea, malaise, myalgias, and diarrhea.",1583-1001.PNG,D,
+Q32,which of the following method of disinfection and sterilization can also kill spores?,"a)1, 3 and 4
+b)1, 2 and 4
+c)2 ,3 and 4
+d)1,2,3 and 4","Ethylene oxide, glutaraldehyde, and ortho-phthalaldehyde are disinfectants with sporicidal activity.
+Ethylene oxide is a gas used to sterilize heat-sensitive articles such as syringes, needles, catheters, and gloves. Bacillus atrophaeus and Bacillus subtilis are used as sterilization control.
+Glutaraldehyde and ortho-phthalaldehyde are liquid-chemical sterilizing agents. They are used for the disinfection and sterilization of cystoscopes, bronchoscopes, rubber anesthetic tubes,
+endotracheal tubes, polythene tubing, and other metal instruments.
+pasteurization is when milk is heated at either 63°c for 3o minutes (the holder method) or
+at 72°c for 15–2o seconds (the flash process), followed by cooling quickly to 13°c or lower. It has no sporicidal activity and kills non-spore-forming bacteria like Mycobacteria, Brucella, and
+Salmonella. coxiella burnetii is relatively heat resistant and may survive the holder method.",,B,
+Q33,The inclusion body rickettsial morula is found in neutrophils during infection caused by:,"a)Rickettsia rickettsii
+b)Rickettsia conorii
+c)Anaplasma phagocytophilum
+d)Ehrlichia chaffeensis","The inclusion body rickettsial morula is found in granulocytes (neutrophils) during infection caused by Anaplasma phagocytophilum.
+Anaplasma causes human granulocyte anaplasmosis. It is transmitted by ticks. clinical features are fever, headache, confusion, vomiting and myalgia. Inclusions in granulocytes are seen. The  image below shows a morula of Anaplasma in a neutrophil:
+
+
+
+Ehrlichia chaffeensis is a gram-negative, obligate intracellular bacterium that is transmitted by hard ticks such as the lone star tick. clinical presentation of Ehrlichia chaffeensis infection is
+similar to that of Anaplasma infection. severe human monocytic ehrlichiosis is characterized by meningoencephalitis, renal failure, respiratory failure, and shock. The treatment of choice for
+human monocytic ehrlichiosis is doxycycline.
+The image below shows a morula of Ehrlichia in a monocyte:
+
+
+Note: Infection by both Anaplasma and Ehrlichia can lead to the formation of rickettsial morulas in leukocytes. However, Anaplasma leads to the formation of morulas predominantly in the
+granulocytes, whereas Ehrlichia predominantly affects the monocytes.
+other options:
+option A: Rickettsia rickettsii causes rocky mountain spotted fever. It is transmitted by ticks. patients present with fever, headache, and rash.
+
+option B: Rickettsia conorii causes Mediterranean spotted fever. The parasite is transmitted by ticks, and the patients present with fever, headache, rash, and eschar (tache noire).",,C,1616-1026.PNG;1616-1025.PNG
+Q34,"A petechial rash is associated with all the following, except _______.","a)zika virus
+b)Roseola infantum
+c)kyasanur forest disease
+d)west Nile fever","Roseola infantum is not associated with petechial rashes.
+Roseola infantum, also known as exanthem subitum or sixth disease, is caused by human herpes viruses 6 and 7 and is an acute febrile illness that presents with a rose-pink maculopapular
+eruption after the fever subsides. It initially develops on the neck and trunk and may spread to the arms, face, and leg. They are surrounded by pallor and rarely become vesicular.
+The causative agents of zika, kyasanur Forest disease, and west Nile fever belong to Flaviviridae group of viruses, which are known to cause hemorrhagic fever and present with petechial rashes.
+Note: Although the zika virus classically presents with a maculopapular rash. A minority of cases present with petechial rashes as well. Therefore, the better answer to this question is roseola
+infantum.",,B,
+Q35,Mode of transmission of abdominal TB includes all except,"a)Hematogenous spread
+b)Feco-oral route
+c)Direct contact with infected animal","Abdominal tuberculosis (TB) is not transmitted by feco-oral route.
+The terminal ileum and the cecum are the sites most commonly involved in abdominal TB. It     causes abdominal pain (at times similar to that associated with appendicitis) and obstruction,   hematochezia, palpable mass in the abdomen along with fever, weight loss, anorexia, and night sweats.
+Modes of spread:
+• By ingestion of infected food or milk (primary intestinal TB) or infected sputum (secondary intestinal TB)
+• contagious spread from infected adjacent foci
+• Hematogenous spread from distant TB focus
+• Through lymphatic channels
+• Direct contact with an infected animal (Mycobacterium bovis)   There is no evidence of spread of TB through the feco-oral route.",,C,
+Q36,choose the egg belonging to the following parasite.,"a)1
+b)2
+c)3
+d)4","The correctly matched egg for the given parasite - Enterobius vermicularis is 3
+The picture on the left shows a worm with a pointed end. The mouth is surrounded by wing-like cuticular expansions- cervical alae which are transversely striated suggesting it is Enterobius
+vermicularis. The eggs are colourless, non-bile stained, and elongated with a
+
+characteristic planoconvex shape-flattened on one side and convex on the other. It has an outer albuminous layer making the eggs stick to each other, to clothing and to other objects.
+It presents as intense irritation and pruritus of the perianal and perineal area which is more at
+night when the worm crawls out of the anus to lay eggs. In females, the worm may crawl into the genital tract causing irritation, mucoid discharge and symptoms of chronic salpingitis.
+The eggs are infrequently found in stools as they are deposited on the perianal and perineal skin. They are diagnosed using NIH swabs (National Institutes of Health). The treatment of choice is    albendazole, mebendazole, or pyrantel pamoate.",1585-1003.PNG,C,
+Q37,which of the following is a gram-positive organism that shows the following appearance on ziehl-Neelsen staining?,"a)Nocardia
+b)Mycocbacterium tuberculosis
+c)Mycobacterium leprae
+d)Actinomyces","The image showing filamentous, branching acid-fast rods is suggestive of Nocardia.
+Nocardia appears as filamentous organisms with extensive hyphae-like branching. They are
+gram-positive, catalase-positive, and produce urease. They are weakly acid-fast because they stain with carbolfuchsin (routine acid-fast stain) and retain when decolorized with 1-4% sulfuric acid      instead of the stronger acid-alcohol decolorant.
+Acid-fast staining is based on the principle that tubercle bacilli resist decolorization with acids   after staining with aniline dyes. Acid fastness is attributed to the variety of fatty acids, alcohols, and lipids in the tubercle bacilli. Acid-fast organisms usually contain mycolic acid, which is
+acid-fast in the free state.  The steps to carry out acid-fast staining as modified by ziehl and Neelsen are:
+• The slide is stained with carbolfuchsin along with the application of heat.
+• It is then decolorized with 2o% sulphuric acid. Later methylene blue is used for counterstaining.
+• The acid-fast bacteria retain the fuchsin color, while other organisms take up the counterstain.
+other options:
+option B: The image given below is a smear with ziehl-Neelsen staining showing non-branching and acid-fast Mycobacterium tuberculosis bacilli.
+
+
+option C- Mycobacterium leprae bacilli are less acid and alcohol fast than the tubercle bacillus;   therefore, alcohol is removed from the hydrating and dehydrating steps and 5% sulphuric acid is used as a decolorizer in place of acid/alcohol solution. The image below shows Mycobacterium      leprae on ZN staining.
+
+
+option D: Actinomyces are gram-positive, anaerobic, and filamentous bacteria that are non-acid-fast in contrast to Nocardia.
+The following image shows the filamentous gram-positive stained actinomyces:",1585-1002.PNG,A,1618-1027.PNG;1619-1029.PNG;1619-1028.PNG
+Q38,The following are parvovirus-related disease-population pairs. Identify the incorrect pair.,"a)1
+b)2
+c)3
+d)4","The incorrectly matched pair is Non-erosive arthritis - patients of SLE.
+
+polyarthropathy occurs in ~5o% of adults infected with parvovirus B19 who are healthy without    underlying sLE. Although parvovirus B19 sometimes mimics rheumatoid arthritis with detectable rheumatoid factor, it has not shown any significant association with sLE.
+parvovirus B19 infection occurs usually in children 5–1o years causing erythema infectiosum. It is also known as fifth disease. It begins as a prominent erythema of the cheeks- slapped cheek
+disease, spreading to the trunk and limbs, followed by lymphadenopathy and arthralgia. Fever and mild constitutional symptoms may accompany the rash.
+parvovirus B19 replicates in immature erythroid cells and causes a transient aplastic crisis in cases of chronic hemolytic anemia, such as sickle cell disease, thalassemias, and acquired
+hemolytic anemias in adults.
+similarly, infection during pregnancy targets fetal red blood cells causing hemolysis leading to hydrops fetalis and/or fetal loss. since the hydrops is not caused by antigen-antibody
+incompatibility, it is termed as non-immune hydrops.
+It can also cause pure red cell aplasia in immunocompromised patients manifesting as chronic anemia and bone marrow suppression.
+The following is an image of erythema infectiosum affecting a child:",,D,1513-931.PNG
+Q39,"A patient with a history of fever, jaundice, hepatosplenomegaly, and laboratory test result of leptospira IgM reactivity, now presented with breathlessness, fever, and jaundice that
+worsened after treatment with penicillin. what is the possible diagnosis?","a)Resistant leptospirosis
+b)penicillin allergy
+c)Co-infection with dengue
+d)Jarisch-Herxheimer reaction","The possible diagnosis based on the given clinical scenario is Jarisch-Herxheimer reaction.
+JHR is a condition that occurs in patients infected by spirochetes who undergo antibiotic
+treatment. The reaction occurs within 24 hours of antibiotic treatment. clinical features are fever, chills, nausea and vomiting, tachycardia, hypotension, flushing, myalgia, and exacerbation of skin lesions. JHR is due to IL6, TNF-alpha, and IL 8.
+syphilis is the leading spirochetal infection associated with JHR. other infections are Lyme
+disease, louse-borne relapsing fever, leptospirosis, and tick-borne relapsing fever. Antibiotics that have been most associated are penicillins, tetracyclines, and erythromycin.
+
+Mild reactions are self-limiting and often resolve spontaneously within 24 hours. prevention of the JHR is by giving TNF-alpha antibodies and steroids.
+other options:
+option A: All of the strains of leptospira are found to be sensitive to ampicillin, cefotaxime,
+ciprofloxacin, doxycycline, erythromycin, and streptomycin. Resistance is shown to amphotericin B, 5-fluorouracil, trimethoprim, sulfamethoxazole, and vancomycin.
+option B: penicillin belongs to the beta-lactam group of antibiotics. Hypersensitivity is the most important adverse reaction, resulting in nausea, vomiting, pruritus, wheezing, laryngeal edema,  and, ultimately, cardiovascular collapse.
+option c: Dengue fever presents with headache, musculoskeletal pain, and occasional biphasic fever.",,D,
+Q40,"on inoculation in the skin, all of the following organisms can lead to dermal, subcutaneous, and lymphatic involvement except_____","a)sporothrix schenckii
+b)corynebacterium minutissimum
+c)Nocardia brasiliensis
+d)Mycobacterium marinum","The given image shows multiple vesicles on hand and multiple eruptions along lymphatics
+characteristic of sporotrichoid lymphcutaneous infection. All of the organisms mentioned in the options can cause this except corynebacterium minutissimum.
+corynebacterium minutissimum causes a localized infection of the stratum corneum called  erythrasma. It presents as superficial skin lesions in the axilla and groin. This is a lipophilic corynebacterium and can be grown readily in media containing 2o% fetal calf serum.
+sporotrichoid lymphocutaneous infection classically presents as superficial cutaneous lesions following cutaneous inoculation or trauma and progresses along dermal and subcutaneous
+lymphatics. Also known as nodular lymphangitis, the most common causes include:
+• sporothrix schenckii
+• Nocardia brasiliensis
+• Mycobacterium marinum
+• Leishmania brasiliensis
+option A: sporothrix schenckii is a dimorphic fungus. It causes sporotrichosis, a chronic
+granulomatous disease, by traumatic inoculation into the skin. This is usually followed by spread   along the draining lymphatics and lymph nodes. Microscopy shows asteroid bodies. It can be seen as an oval, basophilic structure with eosinophilic radiation. Itraconazole is the drug of choice for    treatment.
+The image below shows asteroid bodies.
+
+
+
+option c: Nocardia brasiliensis is a gram-positive aerobic bacteria frequently found in the soil and infection may be exogenous. cutaneous infections can present as local abscesses, cellulitis, or
+lymphocutaneous lesions. It causes mycetoma which is a localized chronic, granulomatous
+condition involving subcutaneous and deeper tissues, commonly affecting the foot. It presents as a tumor with multiple discharging sinuses.
+option D: Mycobacterium marinum is a non-tuberculous mycobacterium that causes swimming   pool granuloma. The lesion begins as a papule which breaks down to form an indolent ulcer. It     usually occurs after abrasions and is seen on the prominences like elbows, knees, ankles, or toes.",1587-1005.PNG,B,1593-1010.PNG
+Q41,on Ziehl-Neelsen (ZN) staining oocysts of size 8-1o μm cysts are visible. Identify the organism.,"a)Isospora
+b)Cryptosporidium
+c)Cyclospora
+d)Microspora","The organism with oocysts of size 8-1o μm is cyclospora.
+cyclospora is a coccidian parasite.The sporulated oocysts are infectious to humans. They reside in the enterocytes in the small intestine. The infection causes prolonged diarrhea, abdominal pain,    and vomiting, which is more severe in immunocompromised individuals.
+on a wet mount of the feces, oocysts are seen as red spheres when stained with acid-fast
+stain. sporulated oocysts of cyclospora are 8-1o μm in size, round, and contain 2 sporocysts, each having two sporozoites. Treatment is by giving cotrimoxazole twice daily for seven days.
+other options:
+option A: oocysts of Isospora are 23-36 μm, oval, and contain two sporocysts, each having four sporozoites. They are uniformly acid-fast.
+option B: sporulated oocysts of cryptosporidium are spherical, 4-5 μm in size, and acid-fast. It is implicated in causing traveler's diarrhea and chronic persistent diarrhea
+in immunocompromised patients. The two cryptosporidium species responsible are
+cryptosporidium hominis and cryptosporidium parvum.
+option D: Microspora oocysts are 2-4 μm in size, oval to cylindrical in shape with a polar   filament. spores are gram-positive and acid-fast. They cause a wide range of opportunistic
+
+infections in immunocompromised patients.",1587-1004.PNG,C,
+Q42,vaccine can be prepared against which of the following proteins of the virus?,"a)E6, E7
+b)L1
+c)E1, E2
+d)E3","L1 protein is used in the formulation of HPV vaccines.
+Viral proteins can be divided into early and late proteins.
+• Early proteins are called non-structural proteins as they do not form any structural component of the virus. They play a role within the infected cell during virus replication or act in the
+regulation of virus replication or assembly.
+• Late proteins are also called structural proteins as they form viral components like capsids and envelopes.
+Human papillomavirus (HPV) is a DNA virus that is spread by close contact. serotypes 6 and 11 cause anogenital warts and laryngeal papilloma. The risk of these lesions can be reduced by
+vaccination against HPV. Three vaccines approved by FDA include bivalent (Cervarix-types 16 and 18), quadrivalent (Gardasil- 6, 11,16, 18), and 9-valent (Gardasil 9- additional 31, 33, 45, 52, and      58). All three provide protection against infection and the development of precancerous lesions.     The vaccine is prepared by using the L1 capsid protein. It is given to girls aged 11 to 12 years (can   start at 9 years of age) and can also be given to boys.
+E6 and E7 are oncogenic proteins that interact with p53 and Rb genes respectively. E1, E2, and E3 are other early proteins which help in viral replication and are not used to formulate vaccines.",1588-1006.PNG,B,
+Q43,The Epstein-Barr virus interacts with B cells via which of the following?,"a)CD21
+b)CD2o
+c)CD19
+d)CD23","The Epstein-Barr virus (EBV) binds to CD21 and acts as a B-cell mitogen.
+It affects adolescents and younger adults more frequently but may occur from childhood to old age. It is transmitted primarily through close contact with oropharyngeal secretions. The
+incubation period of EBV infectious mononucleosis is 4-6 weeks.
+Pathogenesis of Epstein Barr virus infection:
+• The virus infects nasopharyngeal epithelial cells, salivary tissues, and lymphoid tissues.
+• Lymphocytosis is caused by a proliferation of these EBV-infected B lymphocytes.
+• There is a production of atypical reactive T cells which are CD8+ cytotoxic T cells, that are also called Downey cells.
+• Heterophile antibodies are also produced due to B cell mitogenesis.
+Clinically, patients may present with
+• Fever, malaise, nausea, and anorexia.
+• Lymphadenopathy- bilateral and symmetrical. Bilateral posterior cervical lymphadenopathy is characteristic.
+• Pharyngitis.
+
+• Tonsillar enlargement.
+• Hepatomegaly and splenomegaly. splenic rupture may occur even with minor trauma and is highly fatal.
+• A drug-induced rash may develop on using beta-lactam antibiotics.",,A,
+Q44,"A forest worker developed skin lesions over the forearm, which initially started as macules
+but then became nodules. Histology of the nodules shows the following findings. which of the following is true regarding this condition?","a)It is a dematiaceous fungus
+b)Infection can spread and involve underlying subcutaneous tissue, tendon, muscle or joints
+c)Angioinvasion is common especially in people with hemolytic anemia
+d)These bodies are formed by engulfment of the dead fungi by the macrophages","The most likely diagnosis based on the clinical vignette and the histopathology showing sclerotic  bodies is chromoblastomycosis. The true statement regarding the condition is that it is caused by a dematiaceous fungus, which means that this fungus produces a brown pigment.
+The various dimorphic pigmented fungi are phialophora verrucosa, Fonsecaea pedrosoi, Fonsecaea compacta, and cladophialophora carrionii.
+chromoblastomycosis, the most common chromomycosis, is more commonly seen in tropical
+areas among agricultural workers and woodcutters who walk barefoot. Traumatic implantation is the mode of infection.
+patients present with warty cauliflower-like cutaneous nodules on the feet and lower legs. The
+disease generally remains localized with slow peripheral extension. Lymphatic spread can occur.
+Diagnosis is made by the demonstration of sclerotic bodies, also called copper-penny bodies in tissue sections. sclerotic bodies appear as round or irregular, dark brown bodies with septae.
+
+
+
+
+First-line management includes itraconazole or terbinafine. Flucytosine used on its own or
+combined with amphotericin B may also be effective. For small lesions, surgical excision is the therapy of choice.",1589-1007.PNG,A,1608-1023.PNG;1608-1022.PNG
+Q45,The viruses of the filoviridae family like Ebola and Marburg resemble which of the following morphologies?,"a)3
+b)2
+c)1
+d)4","viruses belonging to the filoviridae family, such as Ebola and Marburg, resemble the morphology shown in image 3.
+Image 1- Influenza virus -  Influenza viruses have a linear, segmented, single-stranded RNA.
+
+
+
+
+Image 2- Adenovirus contains double-stranded DNA. They have an icosahedral symmetry with structures known as fibers extruding from the vertices.
+
+
+
+
+Image 3 - Ebola viruses are filamentous viruses with nonsegmented single-stranded RNA as genetic material.
+
+
+Image 4 - corona virus belonging to the family  are shaped viruses with nonsegmented
+single-stranded RNA. corona virus has petal/club-shaped peplomers radiating like sunrays.",1590-1008.PNG,A,1625-1030.PNG;1626-1031.PNG;1628-1033.PNG;1627-1032.PNG;1607-1021.PNG

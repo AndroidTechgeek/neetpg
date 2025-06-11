@@ -1,0 +1,406 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"A young boy from high altitude came with fever and weakness and had the following reports - Hemoglobin 17 g%, TLC is 21,ooo with neutrophils 25, lymphocytes 3o, eosinophils 5,
+myelocytes and metamyelocytes 4o in peripheral smear. Next step in the investigation should be:","a)philadelphia chromosome
+b)JAK mutation
+c)Erythropoietin levels
+d)Bone Marrow biopsy with reticulin stain","The given clinical scenario is suggestive of polycythemia (Hb&gt;16 g/dL). Hence, erythropoietin levels (EPO) are estimated next, to differentiate between primary or secondary polycythemia.
+Based on EPO levels:
+• Primary polycythemia - normal/ decreased
+
+
+
+• secondary polycythemia - increased
+options A and B: JAK 2 mutation and philadelphia chromosome analysis is only done as a last resort.
+option D: Bone marrow estimation with reticulin is done for myelofibrosis which can be seen in the spent/ late stage of the disease. However, peripheral smear findings are not suggestive of
+primary myelofibrosis. Leukoerythroblastic reaction with dacrocytes is seen in myelofibrosis.",,C,
+Q2,A 36-year-old male with skin-colored umbilicated papules. Microscopy is as shown below. The most likely diagnosis is______.,"a)Herpes virus
+b)verruca vulgaris
+c)Molluscum contagiosum
+d)Lichen planus","The given microscopic image shows large, ellipsoid, homogeneous, cytoplasmic inclusion in cells  of the stratum granulosum and the stratum corneum classically seen in molluscum contagiosum.
+Molluscum contagiosum is a common, self-limited viral disease of the skin caused by a
+poxvirus. poxvirus is brick-shaped and is about 3oo nm in size, the largest pathogenic poxvirus in humans
+Tzanck smear shows intracytoplasmic molluscum bodies (Henderson–patterson bodies), the largest known inclusion bodies (3o–35 μm).
+Individual lesions are firm, pruritic, pink to skin-colored umbilicated papules (shown below). A curd-like material can be expressed from the central umbilication",1865-1181.PNG,C,1877-1186.PNG;1878-1187.PNG
+Q3,which of the following is not an intermediate filament?,"a)vimentin
+b)Tubulin
+c)Desmin
+d)Neurofilament","Tubulin is a part of microtubules and is not an intermediate filament.
+There are three major classes of cytoskeletal proteins: microfilaments, intermediate filaments, and microtubules.
+1. Actin microfilaments:
+These fibrils formed from the globular protein actin (G-actin) noncovalently polymerize into long filaments (F-actin) that intertwine to form double-stranded helices.
+2. Intermediate filaments:
+These rope-like intermediate filament fibers are found predominantly in a polymerized form
+within cells and do not possess the quality of active reorganization like actin and microtubules.
+They are responsible for cellular tensile strength, which allows the cells to bear mechanical stress.
+3. Microtubules:
+These are formed by non-covalent polymerization of a dimer of two globular proteins,
+alpha-tubulin, and beta-tubulin. The microtubules in most cells extend outward from a
+microtubule-organizing center (MTOC), in which the minus ends of microtubules are anchored.
+
+
+
+Type of intermediate filamen t	Description
+Lamin A, B, and C	These proteins are localized i n thenuclear laminaof all cell
+s. Mutations in lamin protein s are associated with certain   disorders such as familial par tial lipodystrophy type 2, Hut chinson-Gilford progeria syn  drome, and familial dilated c  ardiomyopathy.
+vimentin	These are mainly found inme senchymal cells(fibroblasts, e ndothelium).
+Desmin	present insarcomeresin musc le cells.
+Neurofilament	These are found in neuronal  axons, imparting strength an d rigidity.
+Glial fibrillary acidic protein	present in glial cells around neurons.
+Cytokeratins	These proteins are the most    diverse among IFs and consti tutetype I (acidic)andtype II ( basic)IF proteins.There are at least 3o isoforms of this prot ein divided into two groups:E pithelial keratins(found in ep  ithelial cells) andtrichocytic k
+eratins(found in hair-keratin) .",,B,
+Q4,A 2o-year-old male patient is diagnosed with acute myeloid leuKemia. The peripheral blood smear picture is given in the image. The cell indicated by the arrow is best described as:,"a)Auer rod
+b)Flaming promyelocyte
+c)Faggot cell
+d)DusKy promyelocyte","The given cell shows multiple Auer rods clustered together within a single cell resembling a
+bundle of sticks. such cells have been termed as faggot cells (faggot in French means bundle of sticks).
+since the question specifically asks about the cell, the best answer is faggot cell (not Auer rods). option A: Auer rods are distinctive needle-like azurophilic granules present in many cases but    particularly numerous in AML with the t(15;17) aberration (acute promyelocytic leukemia).
+option B: The term flaming promyelocyte refers to cells that appear to be breaking apart, taking on a vibrant reddish-purple hue with the apparent liberation of granules into the surrounding
+cellular matrix.
+option C: promyelocytes containing fine granules appear dusky or hazy and are referred to as dusky promyelocytes.",1866-1182.PNG,C,
+Q5,which test evaluates the extrinsic pathway?,"a)APTT
+b)PT
+c)TT
+d)Bleeding time","Prothrombin time (PT) evaluates the extrinsic pathway of coagulation.
+PT measures the clotting time of plasma in the presence of an optimal concentration of tissue extract (thromboplastin). This indicates the overall efficiency of the extrinsic clotting system.
+causes of prolonged PT:
+• Administration of oral anticoagulant drugs - vitamin K antagonists
+• Liver disease - obstructive jaundice
+• Vitamin K deficiency
+• Disseminated intravascular coagulation
+• Previously undiagnosed factor VII, X, V or prothrombin deficiency or defect (rare)
+Activated partial thromboplastin time (APTT) measures the clotting time of plasma after the
+activation of contact factors and the addition of phospholipid and cacl2, but without added tissue thromboplastin. It indicates the overall efficiency of the intrinsic pathway.
+causes of prolonged APTT:
+• Disseminated intravascular coagulation
+• Liver disease
+• Massive transfusion with plasma-depleted red blood cells
+• Administration of or contamination with heparin or other anticoagulants
+• A circulating anticoagulant (inhibitor)
+• Deficiency of a coagulation factor other than factor VII
+• Intake of oral anticoagulant drugs
+• Vitamin K deficiency",,B,
+Q6,"A 58-year-old man died 24 hours after the onset of substernal chest pain radiating to the left arm. on autopsy, an atheromatous plaque was seen obstructing the left anterior descending  artery. which type of calcification is most likely to be seen in this condition?","a)Dystrophic with increased serum calcium
+b)Metastatic with increased serum calcium
+c)Dystrophic with normal serum calcium
+d)Metastatic with normal serum calcium","Atheromatous plaques are associated with dystrophic calcification. This is seen in the presence of normal calcium levels in the serum.
+The deposition of calcium in dead or dying tissues is called dystrophic calcification. Although it occurs in the presence of normal serum calcium, it can be worsened by hypercalcemia.
+Dystrophic calcification is seen in areas of necrosis of any type. some examples include atheromas of advanced atherosclerosis and areas of caseous necrosis in tuberculosis.",,C,
+Q7,Hepcidin inhibits iron transfer from the enterocyte to the plasma by binding to ________,"a)Ferroportin
+b)Transferrin
+c)Divalent metal transporter 1 (DMT1)
+d)Ferritin","Hepcidin inhibits iron transfer from the enterocyte to plasma by binding to ferroportin.
+Hepcidin is released by the liver in response to increases in intrahepatic iron levels. It inhibits
+iron transfer from the enterocyte to plasma by binding to ferroportin and causing it to be
+endocytosed and degraded. As a result, iron becomes trapped within duodenal cells in the form of mucosal ferritin and is lost as these cells are sloughed.
+
+
+Note: In hereditary hemochromatosis, there will be impaired hepcidin synthesis resulting in increased iron absorption.",,A,1881-1188.PNG
+Q8,"A CKD patient had to undergo dialysis and his Hb was 5.2gm/dL. So two blood transfusions    were to be given. The first bag was completed in 2 hours. The second was started and in the    midway, he developed shortness of breath and hypertension. vitals were BP - 18o/12o mmHg and pulse rate - 11o/min. what is the cause?","a)Allergic
+b)Transfusion related circulatory overload
+c)Transfusion-related acute lung injury
+d)Febrile non-hemolytic transfusion reaction","The given clinical scenario is suggestive of transfusion-associated circulatory overload (TACO).   TACO is caused by rapid or excess transfusion of red cell preparations or plasma products. This condition is characterized by:
+• Dyspnea with O2% &lt;9o at room air
+• Bilateral infiltrates on chest X-ray
+• systolic hypertension
+• Elevation of brain natriuretic peptide, 1.5 times that of pre-transfusion levels
+It can be prevented by administering the transfusion slowly, at the rate of 1 to 2 ml of blood/kg of body weight per hour. Diuretics are also used if necessary.",,B,
+Q9,"A patient who receives recurrent transfusions for thalassemia develops fever and chills during this time. There is no evidence of hemolysis. which of the following measures can decrease
+the rate of transfusion reactions?","a)Leukoreduced RBCs
+b)Antibiotics
+c)Irradiation
+d)washed RBCs","The given scenario is suggestive of febrile non-hemolytic transfusion reaction (FNHTR). such reactions can be prevented by using leukoreduced RBCs.
+
+
+
+Removal of leukocytes from the blood is called leukoreduction. It is done before storage to prevent cytokine formation.
+FNHTR may occur due to the following:
+• sensitization to the WBc antigens by previous blood transfusions or pregnancy
+• cytokines produced by the donor leukocytes during storage
+• Bacterial contamination
+Note: Luspatercept is an erythroid maturation agent, a receptor fusion protein consisting of a
+modified extracellular domain of human activin receptor type-2B linked to the human Ig-G1 Fc    domain. The drug was recently approved by the FDA for the treatment of transfusion-dependent thalassemia.",,A,
+Q10,"If DNA is damaged in the cell cycle, which gene causes cell cycle arrest?","a)Rb
+b)MYC
+c)p53
+d)K-RAS","If the DNA is damaged in the cell cycle, the p53 gene causes arrest of the cell cycle in G1 phase to provide time for DNA repair. In case the DNA damage could not be repaired, p53 triggers
+apoptosis.
+In conditions where there is mutation in p53 gene, the cells with damaged DNA continue to replicate and thus may undergo neoplastic transformation.",,C,
+Q11,which of the following is not a hemostatic agent?,"a)zeolite
+b)Chitosan
+c)Boric acid
+d)Kaolin","Boric acid is not a hemostatic agent.
+Topical hemostatic agents used in practice include:
+• Hemostatic field dressings
+• surgical hemostatic agents
+1. The hemostatic field dressings are the granular and gauze-based agents which are used to   facilitate coagulation and hemostasis. The active ingredients used in various hemostatic field dressings are kaolin, mineral zeolite, and chitosan.
+2. The surgical hemostatic agents are further divided into the following groups based on the nature of the agent:
+• caustic agents: They act by causing local tissue destruction, which leads to protein coagulation     and precipitation. This further leads to thrombus formation and sealing of the small blood vessels. The agents include Monsel solution (a2o% ferric nitrate solution), silver nitrate, and aluminum
+chloride.
+• Biological physical agents: They act by promoting platelet activation and formation of
+three-dimensional matrix for the formation of clots. These agents are used in several operations including neurosurgical, orthopedic, thoracic, abdominal, and vascular procedures. The agents   include gelatin, oxidized cellulose, and microfibrillar collagen.
+
+
+
+• physiologic agents: These agents activate a specific step of the coagulation cascade and promotes the clot formation. These agents include thrombin and fibrin glue/sealant.
+• combination or polymer agents: These agents include several different combinations of the
+above agents and various synthetic hemostatic agents. Examples include gelatin-thrombin agent, polyethylene glycol hydrogel, and glutaraldehyde cross-linked albumin.
+
+	Mechanism of action	Advantage	Disadvantage
+kaolin	cation based activationof the intrinsic pathwayof the coag  ulation cascade	It isnon-granularcompound. Hence, it does not leave any residue upon removal of the dressing	clots may be disruptedupon   removal. It is less effective in functional or dilutional coag ulopathies.
+Mineral zeolit e	Adsorbs the water, thereby i   ncreasing the concentration   of the clotting factors, platele ts, RBcs.	It is available in two forms:G ranular zeoliteis effective for  pouring into low-flow wound s.Themesh-embeddedproduc t is useful in high flow woun  ds.	The chemical reaction which  causes adsorption of water is anexothermic reaction.This   causes local tissue damage. T he granules may be difficult t
+o be removed.
+chetosan	poly-N-acetylglucosamine is   commonly known as chitin.    The deacetylated form of chit in is called chitosan. It has m ucoadhesive properties whic   h causes the dressing to adhe re to the tissues. It induces v  asospasm and attracts RBcs   and platelets to the site of bl   eeding.	It has antimicrobial properti   es. It can be easily applied an d has a long shelf-life.	As the dressing material adh  eres to the tissues, it may cau sedisruption of the clotsupon removal.",,C,
+Q12,Acute inflammatory response is not seen in:,"a)pyroptosis
+b)Necroptosis
+c)Apoptosis
+d)Necrosis","An inflammatory response is not seen in apoptosis. In this process, the cell membrane remains intact. Hence, there is no leakage of cell contents and no surrounding inflammation.
+on the other hand, other forms of cell death including necrosis, necroptosis, and
+pyroptosis involve the disintegration of the cell membrane. This causes the cell contents to leak out of the cell leading to an acute inflammatory response.",,C,
+Q13,An affected male does not have affected children but an affected female always has affected children. Type of inheritance?,"a)X linked recessive
+b)Autosomal recessive
+c)X linked dominant
+d)Mitochondrial","In mitochondrial inheritance, if the mother is affected and the father is normal, then all their
+children (both male and female) will be affected. However, children born to an affected father and a normal mother will not be affected.
+The mitochondrial inheritance pattern is as shown in the image below:
+
+
+
+
+
+The unique feature of mitochondrial inheritance is maternal inheritance, as the disease is transmitted through the affected mitochondrial DNA (mtDNA), which is derived from the maternal mitochondria.
+The ovum contains several mitochondria, while the spermatozoa has very few mitochondria if present. Hence, the mitochondrial DNA of the zygote is entirely derived from the ovum.
+Therefore, affected mother transmits the disease to all the offsprings (both male and female), and only the daughters of the affected mother, will further transmit the disease.
+characteristic features of mitochondrial inheritance:
+• The mitochondrial DNA encodes enzymes required for oxidative phosphorylation. Therefore,  organs that are most dependent on the oxidative phosphorylation are the ones most affected in diseases due to mutations in mtDNA. These organs include central nervous system, skeletal
+muscle, cardiac muscle, liver, and kidneys.
+• There are several thousands of copies of mtDNA in each mitochondria, of which only a few
+copies are affected in case of mutation. Therefore, a diseased individual possesses copies of both wild type mtDNA and mutant mtDNA in each mitochondria  This phenomenon is called
+heteroplasmy.
+• The disease manifests if a minimum number of copies of mutant mtDNA are present in the    mitochondria that can lead to oxidative dysfunction, called the threshold effect. In most cases, this threshold effect is reached in the organs as mentioned above.
+• Also, during a cell division, the wild and mutant copies of the mtDNA are unequally distributed among the daughter cells. As a result, the expression of the disease varies even among different    cells of an organ.",,D,1884-1189.PNG
+Q14,which of the following is the most common cause of liver failure?,"a)Alcohol
+b)paracetamol
+c)CCl4
+d)pesticides","The most common cause of liver failure is paracetamol poisoning.
+
+
+
+The most common hepatotoxin causing chronic liver disease is alcohol.",,B,
+Q15,which is the most important light microscopic feature of irreversible cell injury?,"a)Amorphous densities in mitochondria
+b)Cell membrane blebs and loss of microvilli
+c)Ribosomal detachment from endoplasmic reticulum
+d)Nuclear changes like pyknosis and karyolysis","Nuclear changes like pyknosis, karyorrhexis, and karyolysis are features of irreversible cell injury visible on light microscopy.
+The ultrastructural findings visible on electron microscopy include:
+• Large amorphous floccular densities in mitochondria
+• Cell membrane blebs and loss of microvilli
+• Ribosomal detachment from endoplasmic reticulum",,D,
+Q16,which of the following are features of iron deficiency anaemia?,"a)TIBC increased, Ferritin decreased, Transferrin saturation increased
+b)TIBC increased, soluble transferrin receptor decreased, Ferritin increased
+c)TIBC increased, Transferrin saturation decreased, Ferritin decreased
+d)TIBC increased, Transferrin saturation decreased, Ferritin increased","In iron deficiency anemia, TIBC is increased, transferrin saturation is decreased, and ferritin is decreased.",,C,
+Q17,which of the following is the major source of plasma von-willebrand factor?,"a)platelets
+b)Lymphocytes
+c)Macrophages
+d)Endothelial cells","The major source of plasma von-willebrand factor is endothelial cells.
+vwF is also found in:
+• platelet granules - lesser compared to endothelial cells
+• Endothelial cells within cytoplasmic vesicles called weibel-palade bodies
+• subendothelium - binds to collagen",,D,
+Q18,which of the following causes vasodilation?,"a)Histamine
+b)Thromboxane A2
+c)serotonin
+d)Leukotriene C4","Histamine causes marked dilatation of smaller blood vessels that include arterioles, capillaries, and venules.",,A,
+Q19,Both intrinsic and extrinsic pathways are seen in:,"a)Apoptosis
+b)Necrosis
+c)Necroptosis
+d)pyroptosis","Intrinsic and extrinsic pathways are both seen in apoptosis.
+Apoptosis has two pathways:
+ApAF-1 - Apoptosis activating factor-1
+
+
+
+TNF - Tumor necrosis factor
+
+Mitochondrialorintrinsicpath way	Death receptororextrinsicpat hway
+Activation inside the cell	Activation outside the cell
+occurs in response to:DNA d amageRadiationInfection	Involved in:Elimination of sel f-reactive lymphocyteskilling  of target cells by cytotoxic T-  cells
+Involves release of pro-apopt  otic proteins (BAX, BAk)The  y form aBAX-BAkchannel in  the mitochondrial membrane	Involves death receptors on c ell surfaces (have a death do   main)These includeTNF-1and Fas(CD95) ofthe TNF family
+Leakage ofcytochrome-cresul ts in the formation of Cyt.c-A PAF1 complex, followed byap optosomeformation	FasLon T-cells binds to Fas b ind adapter proteins via deat  h domain
+Activation ofcaspase 9	Activation ofcaspases 8and1o
+Both pathways converge into a common pathway that invo lves the activation of caspase s 3, 6, 7 (executioner caspase s)",,A,1886-1190.PNG
+Q20,what is the most likely diagnosis based on the given serum electrophoresis image?,"a)Multiple myeloma
+b)Tuberculosis
+c)Hepatic cirrhosis
+d)Nephrotic syndrome","The given electrophoresis shows hypoalbuminemia and increased alpha-2 globulin, which is classically seen in nephrotic syndrome.",1871-1183.PNG,D,
+Q21,All are small round blue cell tumors except:,"a)Hemangioblastoma
+b)Ewing’s sarcoma
+c)Retinoblastoma
+d)Neuroblastoma","Hemangioblastoma is not a small round blue cell tumor.
+Hemangioblastomas are tumors of central nervous system that originate from vascular tissues. They demonstrate the proliferation of capillaries with variable sized, closely packed, and thin    walled vessels as seen in the image below.
+
+
+small round blue cell tumors consist of small round cells that stain blue on routine H&amp;E staining sections. They include:
+• Neuroblastoma
+• Retinoblastoma
+• Ewing's sarcoma
+• wilms tumor
+• Rhabdomyosarcomas
+• Acute leukemia
+The following is the image of neuroblastoma showing Homer-wright pseudorosettes.",,A,1887-1191.PNG;1888-1192.PNG
+Q22,"A 3-year-old boy presents with recurrent bacterial infections and pneumocystis jiroveci
+pneumonia. The flow cytometry analysis of the boy (Boxes 3&amp; 4) is shown below (Boxes 1 &amp; 2 are normal). what is the most likely diagnosis?","a)Bare lymphocytes
+b)chronic granulocyte deficiency
+c)Hyper IgM syndrome
+d)DiGeorge syndrome","The deficiency of the CD4o and its absence in B cells interferes with class switching and the
+production of memory cells. The B-cell response to antigens, is unaffected, accounting for the   presence of increased IgM antibodies. Hence, the condition is known as Hyper IgM syndrome.
+The given clinical scenario and the flow cytometry is suggestive of Hyper IgM syndrome. The flow cytometry shows the following findings:
+• In comparison of image 3 to 1, where side scatter is plotted against CD 19: B-cell gating is present.
+Gating of B cells means selecting a cell during a flow cytometry experiment for further analysis or data presentation.CD 19 is widely expressed on B cells. Hence the graph shows B cell gating. side scatter measurement provides information about the granularity of a cell.
+• In comparison of image 4 to 2, where CD 4o is plotted against CD 19: B cells are present only in quadrant 4, which means that there is CD 4o deficiency.
+The deficiency of the CD4o and its absence in B cells interferes with class switching and the
+production of memory cells. The B-cell response to antigens is unaffected, accounting for the    presence of increased IgM antibodies. Hence, the condition is known as Hyper IgM syndrome.
+Given below is the explanation of how to interpret flow cytometry results:
+
+
+
+
+
+Interpretation of results:
+Quadrant 1- cells marked in green: -VE for A antigen, +VE for B antigen
+Quadrant 2- cells marked in purple: -VE for both the antigens.
+Quadrant 3- cells marked in yellow: +VE for both the antigens
+Quadrant 4- cells marked in red: +VE for A antigen, -VE for B antigen",1872-1184.PNG,C,1889-1193.PNG
+Q23,which gene is not involved in ScID?,"a)BTK
+b)JAK-3
+c)RAG1
+d)IL-7Rα","BTK mutation causes X-linked agammaglobulinemia and not ScID (severe combined immunodeficiency).
+Severe combined immunodeficiency is a defect in both humoral and cell-mediated immune responses. In this condition, the following genes are involved:
+• JAK3
+• RAG1
+• IL-7R
+persons with ScID are extremely susceptible to recurrent, severe infections by a wide range of pathogens, including:
+• candida albicans
+• pneumocystis jiroveci
+• pseudomonas
+• cytomegalovirus
+• Varicella",,A,
+Q24,True about anaphylactoid reaction are all except:,"a)Involves degranulation of mast cells
+b)IgE mediated
+c)can occur on first exposure
+d)Most commonly caused by NSAIDs","Anaphylactoid reactions are those reactions that are similar to the anaphylactic reactions but are not IgE mediated. These reactions are caused by direct degranulation of the mast cells or
+basophils, which causes the release of mediators.
+unlike the classic anaphylaxis which occurs on re-exposure to the allergen, the anaphylactoid reaction can occur even on the first exposure. The most common agents that can cause an
+anaphylactoid reaction include NSAIDs and radiocontrast media.
+In 2014, world Allergy organisation has introduced two new terms:
+• Immunologic anaphylaxis - It includes anaphylactic reactions mediated by IgE, IgG (in animals), and immune complex/ complement-mediated reactions.
+• Non-immunologic anaphylaxis (previously called anaphylactoid reaction) - It includes reactions caused by agents which cause massive degranulation of mast cells or basophils in the absence of  immunoglobulin.
+The image given below shows the sequence of events in type 1 hypersensitivity reaction.",,B,1890-1194.PNG
+Q25,The mutations/changes that convert proto-oncogene to oncogene include all except:,"a)promoter insertion
+b)Enhancer deletion
+c)Gene amplification
+d)point mutation","Enhancer deletion does not convert a proto-oncogene to an oncogene. Mechanisms of activating oncogenes:
+
+Mechanism	Activation of oncogenes
+Mutation	Mutation activates the gene.   A classic example is the point mutation of the RAS oncoge  ne.
+
+
+
+
+Mechanism	Activation of oncogenes
+promoter insertion	Insertion of a viral promoter  region near a gene activates i t.
+Enhancer insertion	Insertion of a viral enhancer  region near a gene activates i t.
+chromosomal translocati on	one chromosome is split off   and joined to another. An ex  ample is the philadelphia chr omosome.
+Gene amplification	Abnormal multiplication of a gene resulting in many copie
+s. This can occur with oncoge nes and genes involved in tu   mor drug resistance.",,B,
+Q26,Hepcidin inhibits iron transfer from the enterocyte to the plasma by binding to _____,"a)Transferrin
+b)Ferroportin
+c)Ferritin
+d)Divalent metal transporter 1","Hepcidin inhibits iron transfer from the enterocytes into the plasma by binding to ferroportin, which is an iron efflux channel in the enterocyte.
+Iron metabolism is regulated by hepcidin, a protein and acute phase reactant produced by the
+liver. It binds to ferroportin and degrades it. This inhibits the transfer of iron from the enterocyte to the plasma via ferroportin. As a result, iron becomes trapped within the duodenal cells
+(enterocytes) in the form of mucosal ferritin and is lost in feces when these cells are shed off.
+Transcription of hepcidin is increased by the following factors:
+• Increased levels of iron
+• Inflammatory cytokines
+Transcription of hepcidin is decreased by the following factors:
+• Iron deficiency
+• Hypoxia
+• Ineffective erythropoiesis
+Hepcidin is encoded by the HAMp gene and its mutations are associated with hereditary hemochromatosis.",,B,1892-1195.PNG
+Q27,which of the following about γ■ T-cells is incorrect:,"a)kills extracellular bacteria by granulysin and perforin
+b)Need antigen processing and presentation for it recognition
+c)Direct killing of infected macrophages
+d)provide protection against mycobacteria","γ■ T-cells do not need antigen processing and presentation for its recognition.
+There are two types of T cells: γ■ T-cells and αβ T-cells.
+The functions of γ■ T-cells:
+• provide protection against mycobacteria by direct killing of infected macrophages
+• kills extracellular bacteria by granulysin and perforin
+• plays a role in maintaining self-tolerance
+• Capable of recognising and lysing diverse cancers in an MHC-unrestricted manner
+αβ T-cells have MHC restricted action.",,B,
+Q28,which of the following is not true regarding the procedure done using the instrument given in the image below?,"a)contraindicated if platelet count &lt;4o,ooo
+b)Breath holding is required
+c)procedure can be done in both lateral &amp; prone position
+d)Diagnosing an infiltrative or granulomatous disease","The image shows a bone marrow biopsy needle. Thrombocytopenia is not in itself a
+contraindication for bone marrow biopsy. However, a platelet count &gt;2o,ooo is ensured for safety purposes.
+Indications of bone marrow biopsy:
+• Evaluation of unexplained anemia, leukopenia, thrombocytopenia, pancytopenia
+• Evaluation of polycythemia, thrombocytosis, leukocytosis
+• Diagnosis and staging of lymphoma or solid tumors
+• Diagnosis and evaluation of plasma cell disorders and leukemias
+• Evaluation of suspected infiltrative and storage diseases
+
+
+
+• Evaluation of fever of unknown origin, suspected mycobacterial, fungal, or parasitic infections, or granulomatous diseases
+contraindications of bone marrow biopsy:
+• severe hemophilia
+• severe disseminated intravascular coagulopathy
+• severe bleeding disorders
+procedure for bone marrow biopsy:
+prone or lateral position is chosen for the procedure. posterior superior iliac spine is identified.
+After disinfection and local anaesthesia, the patient is asked to inhale slowly through the nose and exhale slowly through the mouth to relieve anxiety .The needle is inserted and rotated on its axis.
+on reaching the desired depth, the stylet is removed and needle is advanced. The needle is rotated in the opposite direction to loosen the specimen. It is then withdrawn using the same rotational
+movement.",1874-1185.PNG,A,1893-1196.PNG
+Q29,ciliocytophthoria is seen in:,"a)Acute respiratory infection
+b)kartagener syndrome
+c)situs inversus
+d)cystic fibrosis","ciliocytophthoria refers to the degeneration of ciliated cells. It occurs in viral infections, such as acute respiratory infections.
+options B and c: kartagener syndrome is also known as  primary ciliary dyskinesia/ immotile cilia syndrome. It occurs due to a defect in the dynein arm of cilia. It is characterized by the triad of:
+• sinusitis
+• situs inversus
+• Bronchiectasis
+option D: In cystic fibrosis ciliary ultrastructure remains normal.",,A,
+Q30,Maltese cross crystals in the urine are seen in which of the following diseases other than nephrotic syndrome?,"a)Friedrich's ataxia
+b)Felty syndrome
+c)Fanconi anemia
+d)Fabry's disease","Maltese cross crystals in the urine are seen in Fabry's disease.
+urine analysis in Fabry’s disease may reveal oval fat bodies and birefringent glycolipid globules under polarized light showing a Maltese cross appearance. It can also be seen in nephrotic
+syndrome.
+The following image shows Maltese cross casts:
+
+
+Note: Maltese cross appearance is also seen in short-range shotgun wounds and babesiosis.",,D,1894-1197.PNG
+Q31,Basophils are activated by:,"a)IL-5
+b)INF-gamma
+c)TNF-alpha
+d)IL-2","Basophils are activated by IL-5 and IL-3.
+Note: IL-5 primarily activates eosinophils.",,A,
+Q32,which transporter is required for the transport of iron into the enterocyte?,"a)Ferroportin
+b)Divalent metal transporter 1
+c)Divalent metal transporter 2
+d)Haptocorrin","DMT1 (divalent metal transporter 1) is required for the transport of iron into the enterocyte.
+Dietary iron is mostly in Fe3+ (ferric state) and must be reduced to Fe2+ (ferrous state) by
+ferrireductases. Fe2+ iron destined for circulation is transported from the cytoplasm across the basolateral enterocyte membrane by ferroportin 1.
+Hephaestin is an iron oxidase that converts Fe2+ to Fe3+",,B,1892-1195.PNG
+Q33,Berry aneurysm occurs due to:,"a)Endothelial injury of vessel due to HTN
+b)Arterial internal elastic lamina defect
+c)Endothelial layer defect
+d)Adventitia defect","Berry aneurysm occurs due an arterial internal elastic lamina defect.
+As an aneurysm develops, it typically forms a neck with a dome and the arterial internal elastic
+lamina disappears at the base of the neck. The media thins and connective tissue replaces the
+smooth-muscle cells. The site of rupture is most often the dome. Here the wall thins, and the tear that allows bleeding is usually ≤o.5 mm long.
+Risk of aneurysm rupture is higher if:
+• Aneurysm is &gt;7 mm in diameter
+• Aneurysm at the top of the basilar artery
+• Aneurysm at the origin of the posterior communicating artery",,B,

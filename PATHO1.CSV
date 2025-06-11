@@ -1,0 +1,402 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,what is the function of Acetone free Methanol in Leishman stain?,"a)causes metabolic and enzymatic activity to stop
+b)prevents the cells from sticking to the slide surface
+c)colours the red cells
+d)Fixes cells to slide","Acetone free methanol is used in fixation (preservation of biological tissues from decay which acts by preventing metabolic and enzyme activity and not by fixing the cells to the slide).
+Acetone (lipid solvent) is not used as it causes shrinkage and destruction of cell membrane making identification of cells difficult:
+Fixation can be achieved by
+A. Physical method:
+• Heating
+• Microwaving
+• cryopreservation
+B. chemical method:
+• Immersion of specimen in fixative
+• Perfusing vascular system with a fixative
+The most commonly used fixative is 1o% neutral buffered formalin.
+
+Technique/Tissue	Fixative
+Electron microscopy	Glutaral dehyde
+Trephine biopsy-bone marr ow	Zenker's fluid (AZF fixative)
+GI biopsies	Bouin's fixative
+Brain	Formalin ammonium chlorid e
+Adrenal biopsy	orth's fluid
+PAP smear	Ethanol",,A,
+Q2,A 3o-year-old woman presented with painful blisters on the skin and oral mucosa. Direct immunofluorescence is given below. which of the following is false regarding the same?,"a)Antibodies against desmoglein 3
+b)Antibodies against desmoglein 1
+c)suprabasal acantholytic blister is a characteristic feature
+d)Antibodies against hemidesmosomes","Antibodies against hemidesmosomes is the false statement as the given image shows a
+characteristic fish-net appearance on direct immunofluorescence, which is diagnostic of
+pemphigus vulgaris. The antibodies are against the desmosomal adhesion proteins such as desmogleins 1 and 3.
+This pattern is due to intraepidermal intercellular deposition of IgG and c3.
+The first-line investigation in pemphigus vulgaris is the Tzanck smear. It allows us to visualize the histology by collecting material from the floor of a fresh blister that is stained with Giemsa or any  Romanowsky stain. Tzanck cells are seen on microscopy.
+
+
+
+
+
+Direct immunofluorescence microscopy (DIF) is the most accurate test.
+Antibodies against hemidesmosomes that link basal keratinocytes to the underlying basement membrane are seen in bullous pemphigoid.",1807-1134.PNG,D,1824-1147.PNG
+Q3,The stain done on a section of liver shown below is:,"a)warthin starry stain
+b)steiner silver stain
+c)sweet's reticulin stain
+d)Grimelius silver stain","The above stain demonstrates reticular fibers of the liver and hence has to be reticulin stain. Reticulin stain
+• stained by 2 procedures, Gordon and sweet’s reticulin stain (most common) and Gomori reticulin stain.
+• They demonstrate reticulin fibers and basement membrane.
+• Reticulin fibers: thin, type 3 collagen, widespread in connective tissue
+• Basement membrane: type 4 collagen fibers and laminin.
+Reticulin stain is used to shows the normal architecture of the liver and thereby help detect disrupted architecture in hepatocellular carcinoma and hepatocellular proliferation.",1808-1135.PNG,C,
+Q4,ALK positivity is seen in which of the following neoplasms:,"a)Fibromatosis
+b)synovial sarcoma
+c)Ewing sarcoma
+d)Inflammatory myofibroblastic tumour","ALK (anaplastic lymphoma kinase) positivity (translocation) is seen in Inflammatory myofibroblastic tumor of lung.
+ALK positivity means the rearrangements in the ALK gene on chromosome 2p23.
+These rearrangements break the ALK locus leads to the formation of chimeric genes encoding signalling pathways.
+
+
+
+ALK rearrangements carry a very good prognosis as they show good response to treatment with ALK kinase inhibitors. The tumours lacking ALK rearrangements have a substantially worse
+prognosis.
+ALK positivity is seen in:
+• Adenocarcinoma of Lung
+• Neuroblastoma
+• Inflammatory myofibroblastic tumor of Lung",,D,
+Q5,which of the following is true regarding the internal iron homeostasis in iron-deficiency anaemia?,"a)Ferritin mRNA concentration iron-responsive element increases and ferritin synthesis decreases
+b)Transferrin receptor 1 iron-responsive elements increases transferrin receptor mRNA concentration and synthesis
+c)Transferrin receptor 1 iron responsive elements decreases transferrin receptor mRNA concentration and synthesis
+d)Ferritin mRNA concentration iron responsive element decreases and ferritin synthesis increases","In iron deficiency anaemia, there is an increase in transferrin receptor mRNA concentration and synthesis.
+Iron absorbed through diet or which is released from circulation is bound to transferrin (iron
+transfer protein). when erythropoiesis is stimulated, iron-transferrin complexes act as transferrin receptors on the surface of bone marrow erythroid cells. Through receptor-mediated endocytosis, this complex is internalised.
+This iron is then made available for heme synthesis while the transferrin-receptor complex is
+recycled to the surface of the cell, from where the transferrin is released back into circulation and the transferrin receptor re-anchors into the cell membrane. The excess iron after hemoglobin
+synthesis binds to apoferritin (storage protein), forming ferritin.
+senescent RBCs undergo phagocytosis in the cells of the reticuloendothelial system. The
+hemoglobin is broken down, the globin and other proteins are returned to the amino acid pool,   and the iron is shuttled back to the surface of the reticuloendothelial cell, where it is taken up by transferrin via ferroportin (iron export channel).
+There is no regulated excretory pathway for iron, and the only mechanisms by which iron is lost   are blood loss (via gastrointestinal bleeding, menstruation, or other forms of bleeding) and the      loss of epithelial cells from the skin, gut, and genitourinary tract. The normal daily iron loss from the body is 1-2 mg.
+
+variables	Iron-deficient state	Iron-excess stat e
+Iron uptake	↑	↓
+Transferrin receptor synthesi s	↑	↓
+Transferrin receptor mRNA c oncentration	↑	↓
+Iron storage	↓	↑
+Ferritin synthesis	↓	↑
+Ferritin mRNA concentration	No change	No change",,B,
+Q6,A 14-year-old patient presents with bilateral proptosis. The biopsy from the region shows this pattern. what is the likely diagnosis?,"a)Leiomyoma
+b)schwannoma
+c)Rhabdomyosarcoma
+d)Fibromatosis","The given clinical history and biopsy picture is characteristic of schwannoma.
+The biopsy specimen in schwannoma shows hypocellular (Antoni B) and hypercellular areas
+(Antoni A). Antoni A area has the nuclei of tumor cells aligned in palisading rows. The nuclear-free zones that lie between nuclear palisading are known as verocay bodies.
+The histological section of a schwannoma showing Antoni A, Antoni B and verocay bodies is given below:",1809-1136.PNG,B,1826-1148.PNG
+Q7,Endoscopic and barium swallow images of a lesion in the oesophagus of a patient are as shown below. what is the expected histopathological finding?,"a)Image 2
+b)Image 1
+c)Image 4
+d)Image 3","The given images showing an esophageal exophytic growth on endoscopy and apple core
+appearance in the middle 1/3 of the esophagus on barium swallow are suggestive of squamous cell carcinoma. The characteristic histopathological finding in this condition are nests of stratified
+malignant cells and keratin pearls, which are noted in image 4.",1810-1138.PNG,C,1827-1151.PNG;1827-1150.PNG;1827-1149.PNG;1828-1152.PNG
+Q8,A patient has a HbA2 of 3% and HbF of 97%. A peripheral blood smear is taken. which of the following blood pictures will be seen in this patient?,"a)1, 2 and 3
+b)1 and 2
+c)2 and 3
+d)1 and 3","The presence of HbA2 3% and HbF 97% indicates that it is a case of thalassemia major. In
+thalassemia major, hematological findings in image 1 showing poikilocytes and image 3 showing target cells are seen. Image 2 showing Howell Jolly bodies are seen in post-splenectomy
+thalassemia patients and not in this case.
+Hematological findings in thalassemia major include the following:
+• Anisopoikilocytosis
+• Target cells (codocytes)
+• Nucleated RBC’s
+• Dacrocytes
+• Basophilic stippling
+• polychromatophilic cells",1810-1137.PNG,D,1829-1155.PNG;1829-1154.PNG;1829-1153.PNG
+Q9,"In breast cancer, FISH for gene amplification will be done based on which of the following IHC staining for Her-2/neu?","a)1+
+b)2+
+c)3+
+d)Gene Amplification is done irrespective of Her 2 Neu status","• Fluorescence in situ hybridization (FISH) should be performed in all cases of breast tumors with immunohistochemistry (IHC) score of 2+.
+• Her-2/neu IHC interpretation:
+• 1+ = Negative
+• 2+ = Equivocal-&gt; FISH is done to differentiate whether the tumor cells are positive or negative for Her-2 Neu expression.
+• 3+ = +ve Her 2 Neu. (Circumferential complete membrane staining in &gt;1o% of tumor cells)",,B,
+Q10,"A 3o-year-old male patient presents with severe dyspnoea. Mitral stenosis with left atrial
+hypertrophy is seen. vegetations present on the mitral valve were excised. what is the most likely diagnosis based on the given HPE image?","a)Rheumatic valvular disease
+b)Infective endocarditis
+c)Myxoma
+d)Sarcoidosis","The given image depicts Aschoff's body, which is suggestive of rheumatic valvular disease.
+Aschoff's bodies have the following components:
+• Anitschkow cells or plump macrophages
+• Abundant cytoplasm
+• Caterpillar cells - refer to centrally condensed chromatin into slender, wavy ribbons
+• Foci of fibrinoid necrosis
+• Aschoff's giant cells - multinucleated larger macrophages
+• T-cells
+• plasma cells",1811-1139.PNG,A,1830-1156.PNG;1831-1157.PNG
+Q11,A child presents with bilateral proptosis. which investigation will help you in arriving at a diagnosis of chloroma?,"a)peripheral smear
+b)platelets
+c)Hb concentration
+d)Leucocytic count","• chloroma is an extramedullary manifestation of acute myeloid leukemia (AML). It is a solid collection of leukemic cells occurring outside of the bone marrow.
+• The best investigation among the given options would be a peripheral blood smear.
+• But the Investigation of choice for AML is Flow cytometry",,A,
+Q12,All are reduced in Iron Deficiency Anaemia except,"a)Ferritin
+b)TIBC
+c)Iron
+d)Transferrin saturation","In Iron deficiency Anaemia, Total Iron Binding capacity(TIBc) is increased in order to compensate to the deficient state.
+• Diagnostic criteria include of Iron deficiency anaemia include :
+• Hypochromic and microcytic red cell indices
+• Low serum ferritin(&lt;15mg/dl) and iron levels(&lt;3omg/dl)
+• Low transferrin saturation(&lt;15%)
+• Increased total iron-binding capacity
+• The platelet count often is elevated
+• Erythropoietin levels are elevated, but the marrow response is blunted by the iron  deficiency; thus, marrow cellularity usually is only slightly increased.",,B,
+Q13,"A 35-year-old depressed man came with complaints of sudden onset breathlessness, with
+desaturation. Chest x-ray showed bilateral diffuse infiltrates with predominant involvement of right middle and lower lobes. The patient could not be revived despite treatment. on
+autopsy, the lungs appeared grossly normal. The histopathology image of the lung is as shown below. which among the following is the appropriate cause?","a)Necrotizing TB granuloma
+b)vegetative matter aspiration pneumonia
+c)sarcoid granuloma
+d)severe fungal pneumonia","The given histopathological image clearly shows a granuloma with refractile granules indicative of a foreign body. It is seen in aspiration pneumonia due to vegetative matter (such as food).
+In this condition, the chest x-ray shows bilateral diffuse infiltrates especially in the right middle and lower lobes. Patients with altered sensorium are at high risk (stroke, medications).",1813-1140.PNG,B,1832-1158.PNG
+Q14,which of the following can be used to store blood for up to 35 days?,"a)Acid citrate dextrose
+b)citrate phosphate dextrose
+c)citrate phosphate 2 dextrose
+d)citrate phosphate dextrose adenine - 1","citrate dextrose phosphate adenine-1 (cDPA-1) can be used to store blood for up to 35 days. It helps in improving ATP synthesis during storage. Hence, it increases the shelf life.
+The disadvantage of using cDPA-1 is that it increases uric acid stone formation.
+The shelf life of storage with other components are:
+• Acid citrate dextrose – 21 days
+• citrate-phosphate dextrose – 21 days",,D,
+Q15,Identify the correct sequence:,"a)Bedside blood collection, label the samples, fill the laboratory requisition forms, Identify the patient
+b)Fill the laboratory requisition forms, Identify the patient, Bedside blood collection, label the samples
+c)Label the sample tubes, Bedside blood collection, fill the laboratory requisition forms, Identify the patient
+d)Identify the patient, Fill the laboratory requisition forms, Bedside blood collection, label the samples","After making a provisional diagnosis by the physician, some laboratory tests are requested.
+Requisition forms are filled accordingly. Later the patient is identified and samples are collected by laboratory personnel/ health care staff and labeled appropriately.
+The WHO guidelines for taking a blood sample is as illustrated below:",,B,1833-1159.PNG
+Q16,which anticoagulant is used for electrolyte estimation?,"a)EDTA
+b)citrate
+c)Sodium Fluoride
+d)Lithium Heparin","Lithium heparin is used for Electrolyte estimation.
+Heparin
+• It is the anticoagulant causing the least interference with the test.
+• It is the best anticoagulant to use when minimal hemolysis is desired e.g. for sodium and potassium.
+• Heparin accelerates the action of antithrombin III which neutralizes thrombin and thus prevents the formation of fibrin from fibrinogen.
+• Heparin is added (o.2 mg /mL of blood) or a drop of heparin is drawn into the syringe.
+• usually found as green top tubes
+• Drawbacks
+• It inhibits the acid phosphatase activity.
+• It gives a blue background for wright’s stain smears so not good for peripheral blood smear interpretation.
+• It also affects the binding of triiodothyronine and thyroxine to their carrier protein and produces a higher free concentration of these hormones.
+• It interferes with binding of calcium to EDTA.",,D,
+Q17,when you add calcium and thromboplastin to platelet poor plasma which pathway is assessed?,"a)Extrinsic
+b)Intrinsic
+c)Fibrinolysis
+d)common","• platelet poor plasma is used in assessing coagulation pathway.
+
+
+
+• Thromboplastin (Factor III) binds with Factor VII. when calcium is added, it gears up the coagulation process via Extrinsic pathway.
+•  coagulation parameters used to assess :
+• Extrinsic pathway - prothrombin time (pT)
+• Intrinsic pathway - Activated partial Thromboplastin time (apTT)
+• common pathway - Both pT and apTT",,A,1834-1160.PNG
+Q18,origin of B cell in cLL/SLL is:,"a)centrocytes
+b)Extranodal mature peripheral B cells
+c)Naive B cells in Interfollicular zones
+d)Bone Marrow progenitors","In cLL/SLL, B cells originate from naive B cell or pre/post Germinal centre memory B cell. cLL arises in the lymph node.
+DNA sequencing has revealed that the Ig genes of some cLL/SLL are somatically hypermutated, whereas others are not, suggesting that the cell of origin may be either a postgerminal center
+memory B cell or a naive B cell. For unclear reasons, tumors with unmutated Ig segments (those putatively of naive B-cell origin) pursue a more aggressive course.
+centrocytes are present in Germinal centre. They are not the origin of cLL.",,C,
+Q19,"A young boy from high altitude came with fever and weakness and had the following reports - Hemoglobin 17 g%, TLc is 21,ooo with neutrophils 25, lymphocytes 3o, eosinophils 5,
+myelocytes and metamyelocytes 4o in peripheral smear. Next step in the investigation should be:","a)philadelphia chromosome
+b)JAK mutation
+c)Erythropoietin levels
+d)Bone Marrow biopsy with reticulin stain","The given clinical scenario is suggestive of polycythemia (Hb&gt;16 g/dL). Hence, erythropoietin levels (EpO) are estimated next, to differentiate between primary or secondary polycythemia.
+Based on EpO levels:
+• primary polycythemia - normal/ decreased
+• Secondary polycythemia - increased
+
+
+
+options A and B: JAK 2 mutation and philadelphia chromosome analysis is only done as a last resort.
+option D: Bone marrow estimation with reticulin is done for myelofibrosis which can be seen in the spent/ late stage of the disease. However, peripheral smear findings are not suggestive of
+primary myelofibrosis. Leukoerythroblastic reaction with dacrocytes is seen in myelofibrosis.",,C,
+Q20,A 4o-year-old man presents with complaints of facial puffiness and frothy urine. Given below is the histological image of the condition. what do you think is the diagnosis?,"a)Membranous nephropathy
+b)Focal segmental glomerulosclerosis
+c)Membranoproliferative nephritis
+d)Dense deposit disease","The image is characteristic of membranous nephropathy. The given hematoxylin and eosin
+(H&amp;E)-stained image shows uniform, diffuse thickening of the glomerular capillary wall. (intense pink color)
+Membranous nephropathy is one of the most common causes of nephrotic syndrome in older adults, with a peak incidence in 3o–5o years and a male:female ratio of 2:1.
+It is a form of chronic immune-complex-mediated disease.
+It can be primary (75% of cases) or secondary (associated with systemic diseases/identifiable etiologic agents).
+Microscopy:
+• Light microscopy: diffuse thickening of the glomerular capillary wall without cellular
+proliferation. Irregular spikes projecting from the basement membrane are best seen with silver stains.
+• Immunofluorescence microscopy: granular deposits containing Ig and complement along the glomerular basement membrane
+• Electron micrograph: electron-dense subepithelial deposits (epimembranous spikes) and effacement of foot processes of podocytes
+Image: The silver stain of the glomerulus highlights the proteinaceous basement membranes in  black. There are characteristic ""spikes"" of basement membrane between the immune deposits of membranous nephropathy. The black basement membrane material shown here appears
+as projections in the capillary loops.",1815-1141.PNG,A,1836-1161.PNG
+Q21,"A 5o-year-old man presented with the blurring of vision. urine examination showed
+proteinuria. Fundus examination showed dot and blot hemorrhages, microaneurysms, and
+cotton wool spots. Histopathology of the kidney was as shown below. what is your diagnosis?","a)Renal amyloidosis
+b)Focal segmental glomerulosclerosis
+c)kimmelstiel-wilson disease
+d)Lupus nephritis","Histopathological image shows acellular periodic acid Schiff (PAS)-positive nodules suggestive of nodular glomerulosclerosis/intercapillary glomerulosclerosis/kimmelstiel–wilson disease,    which occurs in patients with diabetic nephropathy.
+These lesions appear as ovoid or spherical, often laminated, PAS-positive nodules within the mesangial core of the glomerular lobules.
+These nodular lesions are frequently accompanied by prominent accumulations of hyaline
+material in capillary loops (“fibrin caps”) or adherent to Bowman capsules (“capsular drops”).
+Renal failure is the second common cause of death in diabetes mellitus, the first being myocardial infarction.
+Three renal lesions are encountered in diabetic nephropathy:
+1. Glomerular lesions:
+• capillary basement membrane thickening
+• Diffuse mesangial sclerosis
+• Nodular glomerulosclerosis/kimmelstiel–wilson disease
+2. Renal vascular lesions, principally hyaline arteriolosclerosis
+3. Pyelonephritis, including necrotizing papillitis
+Renal histopathology in
+• Amyloidosis: Glomerular deposits appearing as thickenings of the mesangial matrix, forming interlacing broad ribbons of amyloid
+• Lupus nephritis: Immune complex deposits in the mesangium or along the entire basement membrane (wire loop lesions), with mesangial cell proliferation
+
+
+
+• Focal segmental glomerulosclerosis: Focal and segmental hyalinosis and sclerosis of the capillary wall; lipid droplets in the sclerosed area.",1816-1142.PNG,C,
+Q22,"If the RB gene is hypophosphorylated, which of the following will happen?","a)cell cycle will stop at G2
+b)cell cycle will stop at G1
+c)There will be no effect on cell cycle as RB gene phosphorylation is not needed
+d)The cell cycle progresses and cell divides","If the retinoblastoma (RB) gene is hypophosphorylated, it is active and the cell cycle will stop at G1.
+RB is a cell-cycle regulator because it binds to and inactivates a transcription factor (E2F). This is necessary for the transcription of certain genes necessary for the progression from the G1 to S
+phase. The phosphorylation of RB results in the release of E2F. This activates gene transcription and cell-cycle progression occurs.
+The image given below shows the cell cycle regulation by RB gene.",,B,1837-1162.PNG
+Q23,"A 35-year-old patient presented with heartburn and increased salivation. upper
+gastrointestinal endoscopy was done, and the biopsy result is shown below. what is the diagnosis?","a)Esophagitis
+b)squamous cell carcinoma
+c)Adenocarcinoma
+d)Barrett’s esophagus","This image indicates the diagnostic features of Barrett’s esophagus.
+The histological image above shows the transition between normal squamous epithelium and the mucin-filled glands, indicating intestinal-type metaplasia with plenty of goblet cells.
+Barrett’s esophagus is a complication of chronic gastroesophageal reflux disease (GERD) characterized by intestinal metaplasia within the esophageal squamous mucosa. It is a     premalignant condition that confers an increased risk of esophageal adenocarcinoma.
+Hence, patients diagnosed with Barrett’s Esophagus must be subjected to a regular surveillance endoscopy annually or with 2-year intervals, provided no dysplasias have been detected. The
+presence of dysplasia is associated with prolonged symptoms, longer segment length, increased patient age, and caucasian race.",1817-1144.PNG,D,
+Q24,A 6o-year-old male presented with a history of intractable diarrhea. Based on the histological image shown below which of the following is the most appropriate diagnosis:,"a)Lymphoma
+b)Leishmaniasis
+c)urate nephropathy
+d)Multiple myeloma","The given clinical scenario points to the diagnosis of multiple myeloma.
+The image shows Russell bodies which are eosinophilic, large, homogeneous
+immunoglobulin-containing inclusions usually found in a plasma cell undergoing excessive synthesis of immunoglobulins. Russell bodies are distended endoplasmic reticulum.
+Globular inclusions are Russell bodies (if cytoplasmic) and Dutcher bodies (if nuclear).
+The below image shows Russell bodies:",1817-1143.PNG,D,1838-1163.PNG
+Q25,"A 1o-year-old boy with fever, weight loss came to the hospital. on examination, he was pale and had significant lymphadenopathy. The bone marrow histology of the person is as given below. your diagnosis is?","a)Acute monocytic leukemia
+b)Acute myelomonocytic leukemia
+c)Acute lymphoblastic leukemia
+d)Juvenile myelomonocytic leukemia","The given scenario with bone marrow histology showing lymphoblasts (condensed nuclear  chromatin, small nucleoli, scanty agranular cytoplasm) is suggestive of acute lymphoblastic leukemia.
+ALL is more common in childhood. Clinical features of ALL include:
+• Bone marrow failure - anemia, fever, infections, bleeding
+• Mass effects due to neoplastic infiltration - bone pain, generalized lymphadenopathy, splenomegaly, hepatomegaly, and testicular enlargement
+• CNS manifestations - headache, vomiting, and nerve palsies
+• B-ALL - pancytopenia due to marrow involvement
+• T-ALL - Mediastinal mass, compression of large vessels and airways in the mediastinum, lymphadenopathy, splenomegaly",1818-1145.PNG,C,
+Q26,A 32 year old female with history of back ache and polyarthralgia was investigated and found to have nucleolar pattern in IF. which of the following is the best fit in her case?,"a)Raynaud phenomenon and sclerodactyly
+b)Genital and oral painful ulcers
+c)Glomerulonephritis and heart failure
+d)Joint pains with nodules on skin","The nucleolar pattern on IF (immunofluorescence) is suggestive of RNA antibodies which point  towards the diagnosis of systemic sclerosis. Hence, Raynaud phenomenon and sclerodactyly are the best fit in the given case.
+The nucleolar pattern in immunofluorescence:
+
+
+some sclerodactyly patients develop a combination called the CREsT syndrome:
+• Calcinosis
+• Raynaud phenomenon
+• Esophageal dysmotility
+• sclerodactyly
+• Telangiectasia
+Patients with this syndrome have relatively limited involvement of skin, often confined to fingers, forearms, and face, and calcification of the subcutaneous tissues. Involvement of the viscera may  not occur at all or occur late. In general, these patients live longer than those with systemic
+sclerosis with diffuse visceral involvement at the outset.",,A,1839-1164.PNG
+Q27,"A young male presented with cervical lymphadenopathy. The biopsy of the lymph node
+showed RS cells with vague nodule formation and a background of reactive T-lymphocytes. The cells were positive for CD2o, LCA, EMA and negative for CD 15 and CD3o. what is the diagnosis?","a)Nodular Sclerosis - Hodgkin Lymphoma
+b)CLL
+c)T cell rich B cell lymphoma
+d)Nodular Lymphocyte predominant Hodgkin Lymphoma (NLPHL)","The given clinical scenario is suggestive of nodular lymphocyte-predominant Hodgkin's lymphoma (NLPHL).
+Axial group (cervical) lymphadenopathy and along with the L&amp;H variant of Reed-sternberg cells is characteristic.
+Rs cells are neoplastic giant cells. In NLPHL, the cells have vague nodular formation.
+Immunophenotyping is positive for CD2o (B cell-associated), LCA (CD45), EMA (epithelial
+
+
+
+marker), and negative for CD15 (monocyte or macrophage-associated) and CD3o (activation marker).
+The image given below shows the L&amp;H variant of RS cells seen in NLPHL.",,D,1840-1165.PNG
+Q28,which of the following is a tool used in gene editing:,"a)CRISPR
+b)Big data
+c)Gene xpert
+d)GwAS","Guide RNAs called CRISPRs help to selectively alter or correct DNA sequences.
+CRISPR is Clustered Regularly Interspaced Short Palindromic Repeats
+• CRISPR-Cas9 is a genome editing tool and this system enables select bacteria to respond to and eliminate invading genetic material.
+• CRISPRs are transcribed into an RNA sequence that directs the Cas9 to a sequence leading to its cleavage.
+• Gene editing uses an artificial guide RNA that binds Cas9 and is complementary to a DNA sequence of interest and Cas9 induces the break of double-stranded DNA.
+one of the first successful diseases used on experimental basis is Sickle Cell Anemia.
+other gene editing tools are:
+• Zinc-finger nucleases (ZNFs)
+• Transcription-Activator Like Effector Nucleases (TALEN)
+• Meganucleases",,A,
+Q29,"A 37-year-old presented with fever. on examination,■ he had enlarged and ulcerated tonsils. His peripheral blood smear showed lymphocytosis. Monospot test was negative.
+Tonsillectomy was done and it showed large cells mixed with lymphocytes. The cells were
+positive for CD2o, EBV LMP1, MUM1, CD 79a. Background cells were positive for CD3. The cells are negative for CD15. your most probable diagnosis is","a)Hodgkin lymphoma
+b)EBV positive – DLBCL, NOS
+c)Infectious mononucleosis
+d)EBV positive mucocutaneous ulcer","The given clinical scenario suggests a likely diagnosis of EBV positive DLBCL, NoS (Epstein Barr virus-positive Diffuse Large B cell Lymphoma, Not otherwise specified).
+
+
+
+The given slide shows sheets of large lymphoid cells with irregular vesicular nuclei and prominent nucleoli typical of DLBCL.
+Approach to the question:
+• In the given case, Monospot test negative rules out Infectious Mononucleosis and the
+identification of Reed-Sternberg cell and their variant is essential for the diagnosis of Hodgkin Lymphoma, which can also be ruled out.
+• EBV-positive mucocutaneous ulcer is a localized lymphoproliferative disorder in
+immunocompromised patients. It is a self-limiting ulcer which reverts on treatment in
+Immunocompromised people. Histologically characterized by atypical large B cells with RS cell-like morphology. Hence, this is also ruled out.
+• EBV positive DLBL(Diffuse Large B cell Lymphoma) occurs in patients more than 5o years of     age and without a previous history of lymphoma. DLBCL typically presents as a rapidly enlarging mass at a nodal or extranodal site.
+• Immunohistochemical studies indicate that EBV+ DLBCL, NoS is molecularly heterogeneous with a prominent background ofT lymphocytes. The cells are positive for CD 2o, CD 79a,
+IRF4/MUM1. EBV LMP-1(Latent membrane protein-1) is positive in about 2/3rdof cases, while   EBNA-2 (Epstein-Barr nuclear antigen) is positive in the remaining 1/3rd of cases. It is negative for CD1o and BCL6.",1820-1146.PNG,B,
+Q30,"The scraping of a painless genital ulcer, when stained with Gram stain and viewed under the microscope, shows a gram-negative coccobacillus surrounded by neutrophils. what is your    diagnosis?","a)Chlamydia trachomatis
+b)Hemophilus ducreyi
+c)klebsiella granulomatis
+d)Neisseria gonorrhoea","The above description of a gram stain showing Gram-negative Coccobacillus surrounded by neutrophils is suggestive of klebsiella granulomatis.
+Granuloma inguinale, or donovanosis, is a sexually transmitted chronic inflammatory disease caused by klebsiella granulomatis, a minute, encapsulated, Coccobacillus. It can exhibit a
+characteristic safety pin appearance on microscopy.
+klebsiella granulomatis is difficult to culture and diagnosis needs visualization of dark-staining
+Donovan bodies on tissue crush preparation or biopsy. The organisms are demonstrable in
+Giemsa-stained smears of the exudate as a minute, encapsulated Coccobacilli (Donovan bodies) in macrophages.
+options 1, 4: Gram-negative Diplococci
+option 2: School of fish appearance",,C,
+Q31,"when papain acts on a molecule of immunoglobulin, which of the following are the end products?","a)2 FC and 1 FAB fragments
+b)1 Variable chain and 1 constant chain
+c)1 Fc and 2 Fab fragments
+d)2 Fc and 2Fab fragments","when papain acts on a molecule of immunoglobulin, the end products are 1 Fc and 2 Fab fragments.
+If an antibody molecule is digested with papain, cleavage occurs above the disulfide bonds that    hold the heavy chains together. This generates 3 separate fragments, two of which are called Fab (fragment antigen binding), and one of which is called Fc (fragment crystallizable).
+
+
+
+The image given below shows the cleavage of immunoglobulin by papain.
+
+
+cleavage of the antibody molecule with pepsin generates one large fragment called F(ab´)2 and a digested Fc fragment.
+The image given below shows the cleavage of immunoglobulin by pepsin.",,C,1842-1167.PNG;1842-1166.PNG
+Q32,which of the following Immunohistochemistry marker is used in Cyclin D1 negative Mantle cell lymphoma?,"a)SOx11
+b)ITRA 1
+c)MYD88
+d)Annexin V","Sox11 is used in cyclin D1 negative Mantle cell lymphoma. Mutation of Sox11 is associated with worse prognosis in mantle cell lymphoma.
+other options are not associated with mantle cell lymphoma.",,A,
+Q33,"During development, thymic cells recognizing self-antigens are removed to prevent autoimmunity. which gene among the following is involved in the process?","a)NOTCH1
+b)RB gene
+c)CpK gene
+d)AIRE","The above process is called central tolerance and the AIRE (AutoImmune REgulator) protein is necessary for this process.
+Immature self-reactive T and B lymphocyte clones recognize self-antigens during their maturation in the central lymphoid organs (thymus for T cells, bone marrow for B cells). They are killed or
+rendered harmless.
+The removal of self reacting T lymphocytes in the thymus is called negative selection/ deletion. For this process, AIRE protein is needed. Mutations in the AIRE gene results in autoimmune
+disorders (autoimmune polyendocrinopathy).
+B cells undergo a process called receptor editing. when developing B cells encounter an antigen, it formulates a change in the receptor that makes the antigen unrecognizable. self-reacting B cells
+can also undergo apoptosis.",,D,
+Q34,"Among the following, which cells have MHC class II?","a)NK cells
+b)All nucleated cells
+c)B cells, dendritic cells, mononuclear phagocytes
+d)platelets","Class II major histocompatibility complex (MHC) molecules are mainly expressed
+on macrophages, B lymphocytes, and dendritic cells. These cells present ingested antigens to T-cells.
+The function of MHC molecules is to display peptide fragments of protein antigens for recognition by antigen-specific T cells. In humans, the MHC molecules are called human leukocyte antigens
+(HLA) because they were initially detected on leukocytes by the binding of antibodies. The combination of HLA alleles in each individual is called the HLA haplotype.
+The genes encoding HLA molecules are clustered on the short arm of chromosome 6.
+uses of MHC/ HLA typing include:
+• Anthropology
+• Transfusion
+• paternity testing
+• Forensic science
+• Transplantation
+• Disease correlation",,C,

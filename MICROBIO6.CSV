@@ -1,0 +1,274 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,BCYE medium is used to culture:,"a)Leptospira
+b)Bacillus cereus
+c)Campylobacter
+d)Legionella","BCYE medium (buffered charcoal yeast extract agar) is used to culture Legionella pneumophila. Legionella pneumophila has fastidious growth requirements and grows on complex media such  as  BCYE medium with L-cysteine and antibiotic supplements (e.g., polymyxin B, cefazolin,
+vancomycin). The charcoal acts as a detoxifying agent. It grows slowly, and the colonies may take 3–6 days to appear.
+other options:
+
+option A: Leptospira is cultured on EMJH (Ellinghausen, Mccullough, Johnson and Harris) medium
+option B: Bacillus cereus is cultured on PEMBA (Polymyxin pyruvate egg-yolk mannitol–bromothymol blue) agar
+option c: campylobacter is cultured on skirrow's, campy BAP or Butzler's agar.",,D,
+Q2,"A 16-year-old boy is admitted with fever, icterus, conjunctival suffusion, and hematuria for 15 days. which serological test should be done for diagnosis?","a)widal test
+b)Microscopic agglutination test
+c)weil felix reaction
+d)paul Bunnell test","A history of fever with liver and kidney involvement should arouse suspicion of leptospirosis (weil's disease). A microscopic agglutination test is used for the diagnosis of leptospirosis.
+Antibodies against leptospirosis appear in the blood 5-7 days after infection. serotype-specific tests for leptospirosis includes:
+• Microscopic agglutination test
+• Macroscopic agglutination test
+other options:
+option A: widal test is used to screen for typhoid fever
+option c: weil-Felix reaction is used to diagnose rickettsial fevers
+option D: Paul-Bunnell test is the investigation of choice for infectious mononucleosis.",,B,
+Q3,"A patient presents with gastrointestinal problems including abdominal pain and distension, bloody and mucus-filled diarrhea, and tenesmus, with rectal prolapse. A stool examination   reveals the presence of typical barrel-shaped eggs. what is the possible causative agent?","a)Giardia lamblia
+b)Trichuris trichiura
+c)Ascaris lumbricoides
+d)Ancylostoma duodenale","The given clinical picture and the barrel-shaped eggs are suggestive of infection with Trichuris trichiura (whipworm).
+The characteristic features of whipworm eggs are:
+• Eggs are barrel-shaped in the middle with a projecting mucus plug at each pole containing an unsegmented ovum. The plugs are colorless.
+• They float in the saturated salt solution.
+• It has a triple shell, the outermost layer of which is stained brown.
+The below image shows the egg of Trichuris trichiura.
+
+
+
+In moderate infections of 2o adult worms or less, the worms are confined to the caecum and   ascending colon. The symptoms include epigastric and lower abdominal pain, diarrhea (rarely bloody), vomiting, flatulence and distention, weight loss, and increased blood and iron loss.
+In heavy infections of 2oo adults worms or more (trichuris dysentery syndrome), the worms are in the distal colon and rectum. The symptoms include bloody diarrhea with profuse mucus,
+abdominal pain, tenesmus, weight loss leading to cachexia, severe anemia, and rectal prolapse. on examination, clubbing may be present. Blood investigations may show moderate eosinophilia.
+Chronic infection leads to growth retardation and nutritional deficiencies. Around o.oo5 ml of   blood is lost per day per worm. In heavy infections, as much as 4 to 5 ml can be lost per day per worm.
+Treatment is mebendazole or albendazole.",,B,1466-891.PNG
+Q4,Viral infection mimicking erythroblastosis fetalis is:,"a)HSV
+b)Epstein-Barr virus
+c)picornavirus
+d)parvovirus B19","parvovirus B19 infection mimics erythroblastosis fetalis.
+parvovirus B19, belonging to the parvovirus group consisting of the smallest animal DNA viruses,  primarily infect immature cells of the erythroid lineage. It is associated with erythema infectiosum (fifth disease), transient aplastic crisis, pure red cell aplasia and hydrops fetalis.
+During pregnancy, infection with parvovirus B19 can lead to severe anemia, non-immune hydrops fetalis and fetal death. This is because parvovirus preferentially infects RBC progenitor cells. This  mimics erythroblastosis fetalis, in which maternal antibodies against fetal RBCs cause varying
+degrees of anemia and immune-mediated hydrops fetalis in sever cases.
+picornavirus, Epstein-Barr virus and HSV infections do not mimic erythroblastosis fetalis.",,D,
+Q5,"An 11-year-old boy was brought to the pediatric OpD with multiple abscesses over his face,
+chest, and back. The child has a history of recurrent■ respiratory infections. On examination, he has atopic excoriating skin and multiple cold abscesses on his back. what is the most
+probable diagnosis?","a)Hyper IgM syndrome
+b)wiskott-Aldrich syndrome
+c)Hyper IgE syndrome
+d)Carcinoid syndrome","From the above clinical history and examination, the most probable diagnosis is hyper IgE syndrome (Job’s syndrome).
+It is an autosomal dominant primary immunodeficiency disease caused by  a mutation of STAT3 gene. Neutrophils do not generate an immune response, probably due to a defect in chemotaxis. patients present with recurrent staphylococcal skin abscesses, recurrent lung infections
+(pneumatoceles), eczema, eosinophilia and high serum levels of lgE.",,C,
+Q6,Cowdry type A inclusions are seen in:,"a)Herpes simplex
+b)Rabies
+c)Molluscum contagiosum
+d)Adenovirus","Cowdry type A inclusions are seen in herpes simplex infection.
+The classic Cowdry type A (Lipshutz) inclusion appears as a light purple, homogeneous
+intranuclear structure surrounded by a clear halo. The inclusions stain with antibodies to HSV, permitting a rapid, specific diagnosis of HSV infection.",,A,1467-892.PNG
+Q7,which of the following statements is false regarding MHC molecules?,"a)MHC class II presents peptide antigen to CD4 T cells
+b)The action of MHC II occurs via endocytic pathway
+c)MHC Class II presents endogenous antigens
+d)MHC II is present on antigen presenting cells",MHC class II presents exogenous antigens while MHC class I presents endogenous antigens.,,C,1468-893.PNG
+Q8,which of the following investigations does not use antibody marking?,"a)ELISA
+b)Radioimmunoassay
+c)Immunofluorescence
+d)Hemagglutination","The hemagglutination test is not based on the principle of antibody marking.
+In tests based on the principle of antibody marking, the antigens or antibodies are labelled or
+marked with enzymes, fluorescent dyes, radioisotopes etc. In radioimmunoassay, fixed amounts     of antibody and radiolabelled antigen react in the presence of unlabelled antigen. The labelled and unlabelled antigens compete for binding sites on the antibody. Thus, the concentration of the test  antigen can be calculated from the ratio of the bound and total antigen counts using a standard
+dose-response curve. In immunofluorescence, fluorescent dyes are conjugated to antibodies or
+antigens. The labelled antibodies or antigens can then be used to identify antigens and antibodies, respectively. In ELISA, an adsorbing material - cellulose, agarose, polystyrene, polyvinvyl etc - is    used to bind to either antigens or antibodies.
+when antibodies bind to antigens on the surface of red blood cells, the resultant clumping
+reaction is referred to as hemagglutination. It is routinely performed to type red blood cells in ABO blood-typing. The image below shows hemagglutination.
+
+
+
+Note: If no hemagglutination occurs it means the patient’s serum has anti-haemagglutinin
+antibodies that bind to hemagglutinin and prevent the clumping reaction. This hemagglutination inhibition reaction is a method of detection of viruses and antiviral-antibodies and is used to
+make a diagnosis of influenza.",,D,1469-894.PNG
+Q9,A 3-year-old child presents with a history of repeated sinopulmonary infections caused by encapsulated organisms. which of the following is most likely to be deficient in this case?,"a)IgG1
+b)IgG2
+c)IgG3
+d)IgG4","Deficiency of IgG2 results in recurrent sinopulmonary infections with encapsulated organisms.
+IgG is the only maternal immunoglobulin that is normally transported across the placenta and  provides natural passive immunity to the newborn. IgG1 is the antibody maximally transported across the placenta, whereas IgG2 has the least transplacental movement.
+Deficiencies of other IgG:
+• IgG1- bacterial infections (diphtheria, tetanus)(option A)
+• IgG3- viral infections (option C)
+• IgG4- parasitic infections (option D)",,B,
+Q10,A veterinarian developed an ulcer with central black eschar over the forearm as shown in the image. which of the following is the most probable causative organism?,"a)pseudomonas aeruginosa
+b)yersinia pestis
+c)Bacillus anthracis
+d)Francisella tularensis","The given clinical scenario is suggestive of cutaneous anthrax which is caused by Bacillus anthracis.
+Human anthrax presents in one of three ways:
+• Cutaneous Anthrax(hide porter’s disease)- Black eschar at the base, with a very prominent inflammatory ring around the eschar, is referred to as a malignant pustule.
+• pulmonary Anthrax(wool sorter’s disease)- Hemorrhagic pneumonia.
+
+• Intestinal Anthrax- Hemorrhagic diarrhoea. It occurs mainly in primitive communities that eat the carcasses of animals dying of anthrax.
+Robert koch validated the germ theory of disease after discovering the anthrax bacillus as the
+cause of anthrax. He also discovered the causative agents of tuberculosis and cholera. Hence, he is known as the Father of Bacteriology.
+koch's postulates, which link specific microorganisms to specific diseases, state that the
+microorganism must be:
+• Found in abundance in diseased organisms, but not in healthy organisms.
+• Isolated from a diseased organism and grown in pure culture
+• Able to cause disease when inoculated into a healthy organism
+• Re-isolated from the diseased experimental host and identical to the original specific causative agent",1458-886.PNG,C,
+Q11,which of the following is not used as an immediate test in the screening of urinary tract infections (UTI)?,"a)Pour plate culture
+b)Griess Nitrite test
+c)Leukocyte esterase test
+d)wet mount examination","pour plate culture (quantitative test) is not used as an immediate test for screening of
+UTI. However it is considered the best diagnostic test for confirmation of UTI due it’s high sensitivity and specificity.
+The screening tests for UTI are as follows:
+• wet mount examination: It is done to demonstrate pus cells in urine.
+• Leukocyte esterase test: It is a rapid and cheaper method, and detects leukocyte esterases secreted by pus cells present in urine.
+• Nitrate reduction test (Griess test): Nitrate reducing bacteria like E. coli give a positive result.
+• catalase test: E. coli and other bacteria that produce the enzyme catalase give a positive result.
+Quantitative culture:
+• standardized loop technique
+• pour plate method",,A,
+Q12,In which of the following is the disc diffusion method for antibiotic susceptibility testing applied?,"a)Agar dilution method
+b)kirby-Bauer method
+c)Broth dilution method
+d)PCR based assay","The disc diffusion method for antibiotic susceptibility testing is applied in the kirby-Bauer method.
+In kirby-Bauer’s disc diffusion method, a suitable standard dilution of a broth culture of the test bacterium is inoculated on the surface of a solid medium (cation-adjusted Mueller-Hinton agar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. zones of
+inhibition around the disc are recorded and interpreted according to the zone diameters available in the tables of the clinical and Laboratory standards Institute (cLsI) guidelines. The results
+obtained are qualitative (resistant, sensitive, or partially sensitive).
+
+The image below shows kirby-Bauer disc diffusion method.
+
+
+Laboratory testing for antibiotic sensitivity can be done by:
+• Diffusion methods: The drug diffuses through a solid medium so that a gradient is established. The concentration is highest near the site of drug application and decreases with distance. The
+test bacterium is cultured on the medium and its sensitivity to the antibiotic is determined by the zone of growth inhibition. Examples include kirby–Bauer method and Stokes method.
+• Dilution methods: Serial dilutions of the drug are prepared and inoculated with bacteria.
+Examples include tube dilution method and agar dilution method
+• Diffusion and dilution method: E–test (Epsilometer)",,B,1471-895.PNG
+Q13,what is the investigation of choice for neurosyphilis?,"a)Venereal disease research laboratory (VDRL) test
+b)FTA-ABS- Fluorescent Treponemal Antibody Absorption test
+c)RPR- Rapid Plasma Reagin test
+d)TPI-Treponema pallidum immobilization test","The investigation of choice for neurosyphilis is VDRL.
+The CSF-VDRL test is highly specific and, when reactive, is considered diagnostic of
+neurosyphilis.
+Involvement of the CNS in syphilis is detected by examination of CSF for:
+• Mononuclear pleocytosis (&gt;5 white blood cells/μL).
+• Increased protein concentration (&gt;45 mg/dL).
+• CSF VDRL reactivity.",,A,
+Q14,Contact based isolation is employed for which of the following diseases?,"a)Diphtheria
+b)MRSA
+c)Mumps
+d)Asthma","Contact based isolation is employed for patients who are infected with
+MRSA (methicillin-resistant Staphylococcus aureus).
+
+The three categories of transmission-based precautions include:
+• Contact-based isolation is used for infections, diseases, or germs that are spread by touching the patient or items in the room. Examples include MRSA, vancomycin-resistant enterococci (VRE),   diarrheal illnesses, open wounds, and respiratory syncytial virus (RSV).
+• Droplet-based isolation is employed for diphtheria and mumps.
+• Airborne precautions are required to protect against conditions like measles, severe acute respiratory syndrome (SARS), varicella (chickenpox), and Mycobacterium tuberculosis.",,B,
+Q15,"An 18 year old female presents with severe headache and high fever of 101 °F. on
+examination, papilloedema and nuchal rigidity was present. Gram staining of the CSF is shown below. Causative organism is","a)Haemophilus influenza type B
+b)Neisseria meningitidis
+c)Streptococcus pneumoniae
+d)Listeria monocytogenes","History and physical examination findings are suggestive of meningitis.
+The given image shows intracellular gram negative diplococci i.e. Neisseria meningitidis.
+option a:Haemophilus influenzae type B is a gram negative bacillus. In CSF, long bacillary filamentous forms predominate.
+
+
+option c: Streptococcus pneumoniae is a gram positive, capsulated, flame shaped or lanceolate shaped diplococci.
+
+
+
+option d: Listeria monocytogenes is a gram positive bacillus.",1460-887.PNG,B,1472-896.PNG;1473-897.PNG;1473-898.PNG
+Q16,what is the stain used for identifying cryptococcus?,"a)Giemsa stain
+b)ziehl-Nielsen stain
+c)Gram staining
+d)Mucicarmine","Mucicarmine stain is used in the identification of cryptococcus.
+Mucicarmine stain helps in the detection of the cryptococcal capsule, as it stains mucins of
+epithelial origin (PAS, alcian blue). Given below is an image of Mucicarmine stained specimen of lung tissue containing cryptococci:",,D,1474-899.PNG
+Q17,which of the following organisms follow a bird-arthropod-human transmission route?,"a)Malaria
+b)Japanese encephalitis
+c)plague
+d)paragonimiasis","Japanese encephalitis follows bird-arthropod-human transmission.
+JE virus infects several extra-human hosts, e.g., pigs and birds (like pond herons).  The basic cycles of transmission are:
+(a)pig → Mosquito  → pig
+(b) Bird → Mosquito → Bird
+Humans are incidental ""dead-end"" hosts and are infected by the bite of infected culex mosquitoes.",,B,
+Q18,A 23-year-old patient has a history of travel to china and the consumption of pickled crab. He now complains of rusty sputum and cough. what is the most likely causative organism?,"a)Fasciola buski
+b)Fasciola hepatica
+c)paragonimus westermani
+d)schistosomajaponicum","The given clinical scenario is suggestive of infection with paragonimus westermani.
+paragonimus westermani is a trematode. The transmission to humans occurs by eating raw or   undercooked crab or crayfish containing metacercariae. The metacercariae excyst in the human gut and young worms migrate to the lungs, where they become encapsulated in lung tissue.
+The patient complains of cough, chest pain, and hemoptysis. The viscous sputum is speckled with golden-brown eggs.
+praziquantel (25 mg/ kg TDS for 1-2 days) is the drug of choice.
+The image below shows the life cycle of paragonimus westermani.",,C,1475-900.PNG
+Q19,which type of virus is rubella?,"a)Flavivirus
+b)Togavirus
+c)paramyxovirus
+d)orthomyxovirus","Rubella belongs to the Togaviridae family.
+Rubella (German measles)
+• causative organism belongs to family Togaviridae
+• period of infectivity is -5 to +6 days after the onset of the rash
+• Incubation period: 2-3 weeks
+• Rash appears on day 1
+• Forchheimer spots are seen, which are tiny, rose-colored lesions in the oropharynx
+• Associated with post infectious thrombocytopenia
+• Most serious complication: Encephalitis
+• vaccination: 27/3 live attenuated
+congenital rubella syndrome:
+• when a woman in the 1st trimester gets infected with rubella, the resulting complications may include miscarriage, fetal death, premature delivery, or live birth with congenital defects.
+• The commonest malformations caused by rubella are cardiac defects, cataract, and deafness, which constitute the classical congenital rubella syndrome.
+• Thrombocytopenic purpura present in the babies gave rise to the term “blueberry muffin syndrome.”
+Expanded rubella syndrome:
+• some babies present with several other features like hepatosplenomegaly, thrombocytopenic purpura, myocarditis, and bone lesions constituting the expanded rubella syndrome.
+• This term also refers to a baby with metastatic neuroblastoma.
+
+Note: Rubella has been reclassified into the family of Matonaviridae in 2020. This is an McQ from NEET 2019, hence the best answer out of the given options would be Togaviridae.",,B,
+Q20,"A 3o year old female developed pruritic papules with excoriated plaques in the interdigital
+web spaces. Later the lesion spread to the groin and under-surface of the breasts. The lady
+gives a history of intense pruritus which is more severe at night. Given below is the organism responsible for this condition. Identify the wrong statement about the same.","a)Life history has 4 stages
+b)Larvae have 3 pairs of legs
+c)The entire life cycle takes about 15 days
+d)Male parasite burrows into the epidermis","The clinical background is probably suggestive scabies. The given image depicts Itch mite also called sarcoptes scabiei. The female parasite burrows into the stratum corneum layer of the
+epidermis and lays eggs in the burrow.
+A single female may lay about 30 eggs at a rate of 2 to 3 per day, and ultimately dies at the end of the burrow.
+The life cycle has 4 stages: Egg, Larva, Nymph, and Adult. The adult mites live for 1 to 2 months. Itching is a hypersensitivity reaction to the eggs and dead parasite in the epidermis.
+permethrin cream - 5% is the treatment of choice.",1462-889.PNG,D,
+Q21,A HIV patient presents with persistent diarrhea. Microscopic examination of the stool is given below. Identify the causative organism:,"a)cryptosporidium
+b)cyclospora
+c)Microspora
+d)cystoisospora","Diarrhea in an HIV patient is suggestive of a coccidean parasitic infestation. kinyoun stain - positive oocysts as seen in the given image is suggestive of cryptosporidium.
+points in favor:
+• HIV patient with diarrhea
+• oocysts are round,  contains four sporozites which is uniformly acid fast on staining.
+comparison of coccidian parasites causing diarrhea in an immunocompromised host:
+Treatment is fluid replacement and cotrimoxazole.
+
+property	cryptosporidium	cyclospora	Isospora
+sporulated oocyst	4-6 μm, round contains fo ur sporozoites	8-12 μm, round contains 2 sporocyst each having tw
+o sporozoites	23-36 μm, oval contain tw
+o sporocyst, each having f our sporozoites.
+Acid-fast detection	uniformly acid fast	Variable acid fast	uniformly acid fast
+sporulation of the ooc yst	occurs inside host cell	occurs in soil	occurs in soil
+Diagnostic form	sporulated cyst	unsporulated cyst	unsporulated oocyst",1462-888.PNG,A,1477-902.PNG;1477-901.PNG
+Q22,"A patient is brought to the hospital, with complaints of seizures and the MRI image of the brain is given below. The disease is most probably caused by?","a)cysticercosis cellulosae
+b)T. saginata
+c)cysticerocosis bovis
+d)T. asiatica","The given clinical scenario and MRI brain showing scolex within multiple cystic lesions are suggestive of neurocysticercosis caused by the larval form of T. solium called Cysticercosis  cellulosae.
+Neurocysticercosis is the most common central nervous system parasitic infection.
+The clinical features of neurocysticercosis include epilepsy, features of raised intracranial tension, and evident hydrocephalus. patients can also have psychiatric disturbances, transient paresis, and visual disturbances.
+The CT and MRI findings seen in neurocysticercosis are:
+• scolex within a cyst
+
+• cystic lesions with or without ring enhancement
+• Nodular calcifications
+• Focal enhancing lesions
+• Multilobulated cystic lesions in the subarachnoid space.
+Note: About 7o% of adult-onset epilepsy is due to neurocysticercosis.
+Albendazole is the drug of choice for neurocysticercosis. Glucocorticoid therapy is usually
+begun before initiating albendazole (an antiparasitic drug). This is continued for several days after the institution of therapy to reduce the incidence of side effects from inflammatory reactions to
+dead and dying cysticerci of Taenia solium.",1463-890.PNG,A,
+Q23,vaccine that requires strain change due to evolving organism is?,"a)Influenza
+b)Diphtheria
+c)polio
+d)Typhoid","Influenza vaccine requires periodic strain change due to antigenic change in the surface
+glycoprotein of the virus.
+The change may be gradual (antigenic drift) or drastic (antigenic shift).
+
+Microbiology NEET 2020
+
+
+
+Question 1:
+
+A 35-year-old HIV positive■ patient presents with mucosal lesions in the mouth as shown in the image below. on microscopy, budding yeasts and pseudohyphae are seen. what is the
+likely diagnosis?",,A,

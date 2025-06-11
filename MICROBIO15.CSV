@@ -1,0 +1,638 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,which of the following is used for syndromic diagnosis of infected cases like meningitis?,"a)Real time PCR
+b)Nested PCR
+c)Reverse transcriptase PCR
+d)Multiplex PCR","Multiplex PCR can be used for syndromic diagnosis of meningitis.
+A syndromic diagnosis is a method of diagnosing infectious diseases that uses a single test to screen for multiple pathogens that could be causing a specific set of symptoms.
+Multiplex PCR (Polymerase Chain Reaction) is a variation of the standard PCR technique that
+allows simultaneous amplification of multiple target sequences in a single reaction. It uses more     than one set of primers (specific to different target sequences) to amplify different DNA fragments at the same time.
+other options:
+option A: Real-time PCR helps quantify the PCR and gives an estimate of the pathogen DNA load in the specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR
+(Quantitative PCR).
+option B: Nested PCR involves the sequential use of two primer sets. The first primer set is used for amplification and the amplicon obtained is then used as a target sequence for second
+amplification. This ensures specificity. used in Genexpert to detect Mycobacterium TB and resistance to rifampicin.
+option C: Reverse transcriptase PCR: The enzyme reverse transcriptase (RT) is used to synthesize a complimentary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for
+PCR. unlike conventional PCR which can only amplify DNA, this one can even amplify RNA. It is used to detect H1N1 from Nasopharyngeal swab.",,D,
+Q2,"A patient receiving chemotherapy develops pneumonia with skin lesions. Microscopy of
+specimen from skin lesions showed broad based budding with a thick capsule. what is the likely diagnosis?","a)Blastomycosis
+b)Histoplasmosis
+c)Coccidioidomycosis
+d)Candidiasis","In this case of an immunocompromised patient with pneumonia and skin lesions, the microscopy of specimens from skin lesions showing broad-based budding with a thick capsule suggests the
+diagnosis of Blastomycosis caused by Blastomyces dermitidis.
+Blastomycosis is a chronic infection, characterized by the formation of suppurative and
+granulomatous lesions, especially, in the lungs and skin.
+Blastomycosis predominantly affects individuals in regions where the fungus Blastomyces is endemic, such as the Midwest and southeastern united States. It is most common in North  America and so is also called North American Blastomycosis.
+The disease has a broad demographic impact, occurring in both immunocompetent and
+immunocompromised individuals. However, those with impaired immune systems—such as
+patients with AIDS, those on glucocorticoid therapy, or those receiving TNF-α inhibitors—are at    higher risk for severe or disseminated disease involving the skin, bone, or central nervous system. Healthy individuals may experience a range of symptoms from mild pulmonary illness to more
+severe forms of pneumonia. It is more commonly observed in males aged 3o-5o years, possibly due to occupational or recreational exposures.
+Blastomycosis can present in three forms:
+
+
+
+• pulmonary disease:
+• presents with cough, sputum production, chest pain, and fever
+• Hilar lymphadenopathy may be present
+• Focal or diffuse consolidation, miliary lesions, or abscess formation may occur.
+• Resembles TB and Histoplasmosis
+• cutaneous disease:
+• Involvement of face and exposed parts of the skin
+• skin lesion: ulcerated verrucous granulomas with an advancing border and central scarring. The border is filled with microabscesses and has a sharp, sloping edge.
+• Disseminated disease:
+• Multiple skin lesions are the most common presentation
+• Highly fatal
+• The genitourinary tract (especially the prostate) is frequently involved
+• Bone involvement resembles chronic osteomyelitis.
+It can be diagnosed based on culture findings. characteristic findings include the presence of
+thick-walled round yeast cells with a single broad-based bud when cultured at 37°c. (figure of 8 appearance)
+Treatment of localised mild/moderate disease includes Itraconazole (6 months) and for disseminated/ severe disease- amphotericin B.
+The image given below shows the skin lesions and microscopy of broad-based budding by Blastomyces dermitidis.
+
+
+other options
+option B: Histoplasmosis is caused by Histoplasma capsulatum. It has tiny oval yeast cells with     narrow-based budding within the macrophages with an underlying granulomatous response. This
+
+
+
+is a dimorphic fungus that exists in the yeast form in body tissues and cultures maintained at 37°c, and in the filamentous mould form in cultures at room temperature (25°c).
+option c: coccidiomycosis is caused by coccidioides immitis which is a thermally dimorphic
+fungus. It occurs as a spherule in tissues and culture at 37°c and as the mycelial form in soil and culture at room temperature. They are endemic to the arid desert regions of the southwestern
+UsA and california. Infection is acquired by inhaling dust containing arthrospores of the fungus.
+option D: candidiasis is caused by candida species which are yeast-like fungi. They exist as yeast and pseudohyphae. It appears as budding gram-positive cells on wet films and smears. Mycelial   forms suggest colonization. candida albicans form chlamydospores on corn meal agar.",,A,1779-1124.PNG
+Q3,"A 3o-year-old man came to the OPD with a febrile illness of 2 days, associated with
+abdominal tenderness, malaise and diarrhoea. He had a fever with bradycardia and BP was
+noted as 11o/7o mmHg. He lives in a crowded neighborhood with poor sanitation where many others have reported similar complaints recently. which of the following investigations would be the most appropriate choice for this patient?","a)stool culture
+b)widal test
+c)urine culture
+d)Blood culture","This patient's history of fever with relative bradycardia, abdominal tenderness, and similar cases   in the neighbourhood suggests enteric fever. It is caused by salmonella typhi or paratyphi. out of the given options, blood culture is the most sensitive test in this patient.
+Diagnosis of enteric fever:
+Blood culture: It is more sensitive during 1st week than in the subsequent weeks. It rapidly becomes negative on treatment with antibiotics.
+Antibody testing: WIDAL test to detect rising titres of H and o agglutinins against salmonella
+typhi and paratyphi. Agglutinins appear by the end of the first week and rise steadily up to the 3rd or 4th week, after which they disappear.
+stool culture: It yields positive results from the 3rd week onwards.
+Urine culture: Results may be positive after the 2nd week.
+Bone marrow culture remains positive for 5 days even after the start of antibiotics and is the most sensitive test in the first week. The culture of duodenal aspirate may yield positive results when
+bone marrow culture is inconclusive.
+Relative bradycardia is seen when patients have a lower heart rate than expected for a given rise in body temperature. (Faget's sign)
+Infectious causes of relative bradycardia include:
+• salmonella typhi
+• Francisella tularensis
+• coxiella burnetii (Q fever)
+• Leptospira interrogans
+• Legionella pneumophila
+• Rickettsia spp.
+Noninfectious causes include:
+• Drug fever
+• Beta-blocker use
+
+
+
+• central nervous system lesions
+• Malignant lymphoma
+• Factitious fever",,D,1979-1243.PNG;1979-1242.PNG;1979-1241.PNG
+Q4,"A child is brought with complaints of abdominal pain, diarrhoea and perianal itching for the last 3 days. The mother said she noticed a white thread-like structure in the child's night
+clothes. she collected the worm and brought it to the clinician. A perianal swab was collected. Microscopy of the swab and the worm are shown in the images. what is the likely causative     organism?","a)Enterobius vermicularis
+b)Ascaris lumbricoides
+c)Ancylostoma duodenale
+d)strongyloides stercoralis","The likely causative organism for the child's abdominal pain, diarrhoea, perianal itching, and the   white thread-like worm found in the night clothes is Enterobius vermicularis, as evidenced by the  worm's pointed end and wing-like cuticular expansions (cervical alae) shown in the left image, and the colourless, non-bile stained, planoconvex eggs with an outer albuminous layer that stick to
+each other and other objects.
+Enterobius vermicularis completes its entire life cycle in the human host. They
+are oviparous. Man acquires infection by ingesting embryonated eggs containing larva through contaminated fingers and by autoinfection.
+At night, the gravid female worm comes out through the anus and lays its sticky eggs on the
+perianal skin. This leads to pruritus and the patient scratches the affected perianal area. The
+worm can crawl into the vulva and vagina causing irritation and a mucoid discharge. It can also cause chronic salpingitis, cervicitis, peritonitis, recurrent urinary tract infections,
+and appendicitis.
+Since pinworms are rarely released in faeces, the faecal examination is not useful in the
+diagnosis.
+The NIH swab (National Institutes of Health, USA) consists of a glass rod with a piece of
+transparent cellophane attached at one end with a rubber band. The cellophane part is used for swabbing by rolling over the perianal area. The cellophane piece is spread over a glass side and examined microscopically.
+The image given below shows the NIH swab.
+
+
+
+
+Another method of demonstrating eggs is the scotch tape method. Here, the tape is firmly pressed against the anal margin, covering all sides, and transferred to a glass slide. A drop of toluene is
+added and examined under the microscope.
+The below image shows the scotch tape method.
+
+
+The adult worms may sometimes be noticed on the surface of stools, can be found crawling out of the anus, or may be detected in stools collected after an enema.
+Frequent hand washing, fingernail cleaning, regular bathing, and frequent washing of night clothes, and bed linen should be done. Infection can be treated with pyrantel pamoate,
+albendazole, or mebendazole as single-dose therapy.
+other options:
+option B: Ascaris lumbricoides causes infection when the egg containing the infective
+rhabditiform larva is swallowed. The eggs hatch in the duodenum to release the rhabditiform
+larvae, which then migrate to the liver via the portal vein, heart, and then to the lungs, pass up the respiratory tract, and are swallowed. They finally develop into adults in the small intestine. Here,  the gravid females lay eggs, which are shed via the feces, and the cycle repeats. Definitive
+diagnosis is by demonstration of eggs in feces. The life cycle is shown below.
+
+
+
+
+
+option C: Ancylostoma duodenale or hookworm infects a person by direct penetration of the skin by filariform larvae. They develop into adult worms in the small intestine. segmented eggs are
+passed in feces and these develop into filariform larvae in the soil. They can cause severe local itching, cutaneous larva migrans, and respiratory symptoms. Adult hookworm disease is
+characterized by anaemia, epigastric pain, dyspepsia, vomiting, and reddish black stools.
+Diagnosis is by demonstration of eggs or larvae in feces. The life cycle is shown below.
+
+
+option D: strongyloides stercoralis infection is by direct penetration of the skin by the filariform larva or by autoinfection. The larvae enter lay eggs in the small intestine mucosa. The eggs hatch and release rhabditiform larvae which pass through feces into the soil and start another cycle.
+External autoinfection occurs when the larvae penetrate the perianal skin. Internal autoinfection occurs in immunocompromised patients. Here, the larvae mature to the infective form in the
+bowel itself. Diagnosis is by demonstration of rhabditiform larvae in feces.",1769-1120.PNG,A,1781-1125.PNG;1782-1126.PNG;1783-1127.PNG;1783-1128.PNG;1980-1245.PNG;1980-1244.PNG
+Q5,"A male patient comes to you with a history of UTI, the cause of which is suspected to be bacteria. which of the following is used by the bacteria for adherence?","a)cytoplasmic membrane
+b)cilia
+c)Fimbriae
+d)Flagella","Bacteria utilise fimbriae for adherence.
+Fimbriae, also called pili are hair-like surface appendage that projects from the cell surface as straight filaments. Fimbriae are classified based on the function of ordinary pili and sex pili.
+Functions of pili:
+• Bacterial adhesion of symbiotic and pathogenic bacteria to host cells using adhesins.
+• Resistance to phagocytosis.
+• Antigenic pilin proteins are responsible for the immune response.
+• Twitching motility to bacteria.
+• Bacterial conjugation through sex pili, in which transfer of genetic material occurs.
+other options:
+option A: The cytoplasmic membrane, or plasma membrane, is a fundamental structure of all
+cells, including bacteria. It acts as a selective barrier, regulating the entry and exit of substances.
+option B: In organisms like protozoa, cilia are used for locomotion and feeding. These organisms use their cilia to move through water and to sweep food particles towards their oral groove.
+option D: Flagella are thread-like appendages composed of protein. They are the organs of
+locomotion but motility via pili is completely different from flagellar motion because of the helical arrangement of pilin molecules.",,C,
+Q6,A thalassemia patient has received multiple blood transfusions. Aplastic crisis can occur in this patient due to infection from?,"a)parvovirus
+b)Epstein barr virus
+c)cytomegalovirus
+d)Herpes simplex virus","Aplastic crisis in this patient is triggered by parvovirus infection.
+
+
+
+parvovirus infects and kills the red cell precursors. This creates a transient arrest of erythropoiesis i.e. aplastic crisis as the life span of RBCs is shortened. The immune response clears the virus in     1-2 weeks. It may be seen in patients with underlying chronic hemolytic anaemia like sickle-cell
+disease, thalassemia, hereditary spherocytosis, and RBC enzyme deficiencies like pyruvate kinase deficiency. patients with aplastic crisis appear ill with fever, malaise, and paleness with
+tachycardia and tachypnea due to profound anaemia. The rash may or may not be present.
+parvovirus B19 infection occurs usually in children 5–1o years causing erythema infectiosum. It is also known as the fifth disease. It begins as a prominent erythema of the cheeks- slapped cheek
+disease, spreading to the trunk and limbs, followed by lymphadenopathy and arthralgia. Fever and mild constitutional symptoms may accompany the rash.
+
+
+other options:
+option B: Epstein Barr virus affects adolescents and younger adults more frequently but may
+occur from childhood to old age. It is transmitted primarily through close contact with
+oropharyngeal secretions. The incubation period of EBV infectious mononucleosis is 4-6 weeks. Clinically, patients may present with, fever, malaise, nausea, anorexia, lymphadenopathy-
+bilateral and symmetrical, pharyngitis, tonsillar enlargement, hepatomegaly and splenomegaly. A drug-induced rash may develop on using beta-lactam. antibiotics.
+option C: Cytomegalovirus causes mononucleosis in healthy individuals and disseminated
+diseases like leukopenia, hepatitis, colitis, pneumonitis, esophagitis, gastritis, and retinitis in immunocompromised patients.
+option D: Herpes simplex virus type 1 which belongs to the subfamily alpha viruses causes Herpes labialis (also known as cold sores). HSV type 1 (human herpes virus type 1 or HHY type 1) is
+isolated from lesions in and around the mouth and is transmitted by direct contact or droplet spread from cases or carriers. The most common site is the face- around the mouth, on the
+cheeks, chin, or the forehead.",,A,1785-1129.PNG
+Q7,"A 45-year-old farmer comes with complaints of high-grade fever with chills, retro-orbital pain and conjunctival suffusion. on examination, he has severe calf tenderness. Lab examination    shows hypokalemia and neutropenia. what is the likely diagnosis?","a)chikungunya
+b)Leptospirosis
+c)Dengue
+d)Malaria","The most likely diagnosis based on the clinical vignette of high-grade fever with chills,
+retro-orbital pain, conjunctival suffusion, severe calf tenderness, and laboratory findings of hypokalemia and neutropenia is suggestive of leptospirosis.
+Leptospirosis is a zoonosis caused by spirochetes of the genus Leptospira. patients with mild
+disease may present with flu-like symptoms of sudden onset, fever with chills, headache,
+abdominal pain, conjunctival suffusion, and myalgia. The muscle pain usually affects the calves, abdomen, and back. severe cases of leptospirosis, which can progress rapidly and have a high     fatality rate, are associated with weil's syndrome, characterized by triad of:
+• Hemorrhage
+• Jaundice
+• Acute kidney injury
+Jaundice, when present, can be profound, and physical examination may reveal an enlarged, tender liver. Temperature-pulse dissociation or relative bradycardia may also be observed.
+The image below shows icterus and conjunctival suffusion in a patient with leptospirosis:
+
+
+Leptospira are actively motile organisms and are best seen using a dark-field microscope. They are thin, tightly coiled, and flexible spirochetes with one end forming a hook. Diagnosis is by
+microscopic agglutination test.
+Transmission occurs through cuts or breaks in the skin and mucous membranes (conjunctival and oral mucosa). several outbreaks have been reported that resulted from exposure to floodwaters
+contaminated by urine from infected animals. The organism enters the bloodstream and lodges in the parenchymatous organs (liver and kidneys) leading to haemorrhage and necrosis of the tissue  causing dysfunction of the organs. The progression and lifecycle of Leptospira are shown below.
+
+
+
+
+
+
+Treatment for leptospirosis is based on the severity of the disease. In mild cases, oral doxycycline, ampicillin, or amoxicillin is preferred and in severe cases, intravenous penicillin, ampicillin, or
+ceftriaxone is commonly used.
+other options:
+option A: Chikungunya is a viral disease that presents with saddle-back fever, conjunctival
+suffusion, and photophobia. Migratory arthralgia, especially involving small joints may also be seen. A maculopapular or petechial rash is frequently seen on the trunk.
+option C: Dengue hemorrhagic fever is a form of severe dengue with bleeding manifestations. Evidence of plasma leakage and thrombocytopenia is also generally seen.
+option D: Malaria is a parasitic infection caused by the plasmodium species transmitted by the
+Anopheles mosquito. It is characterized by many nonspecific symptoms, including but not limited to tachycardia, tachypnea, chills, malaise, fatigue, diaphoresis (sweating), and headache. The fever of malaria is characterized by periodicity depending on the infective plasmodium species. The
+
+
+
+fever returns every other day for plasmodium vivax, plasmodium ovale, and plasmodium falciparum, and every three days for p. malariae.",,B,1643-1050.PNG;1644-1051.PNG;1643-1049.PNG
+Q8,"A patient with a history of consumption of oysters comes with complaints of nausea, vomiting and crampy abdominal pain. The culture of the organism showed the kanagawa
+phenomenon. what is the causative organism?","a)vibrio cholera
+b)salmonella typhi
+c)vibrio parahemolyticus
+d)E coli","kanagawa phenomenon is shown by vibrio parahemolyticus.
+on wagatsuma agar (blood agar with 2% salt), pathogenic strains of v. parahemolyticus are
+hemolytic, while non-pathogenic strains are non-hemolytic. This is due to a heat-stable hemolysin. They produce green-coloured colonies on the TCBs agar as they do not ferment sucrose.
+
+
+on staining with Giemsa stain or methylene blue (wayson's stain), the bacteria has bipolar staining with two ends densely stained and the central area clear. This is the characteristic  'safety-pin appearance' seen in vibrio parahemolyticus.
+other options:
+option A: vibrio cholerae is a facultative anaerobe, which produces yellow-colored colonies on
+thiosulfate citrate bile salts sucrose agar (TCBs). It is a selective and differential medium used for the culture of vibrio species.
+option B: wilson and Blair's medium is selective for salmonella species. It is a type of selective
+and indicator media. salmonella typhi reduces sulphite to sulphide in the presence of glucose and produces jet-black colonies with a metallic sheen due to the production of H2s on wilson and
+Blair bismuth sulphite medium.
+option D: E. coli is a gram-negative, flagellated rod. It is the most frequent cause of acute
+complicated urinary tract infections. It is a lactose fermenter and hence, grows on MacConkey medium to produce pink colonies.",,C,1788-1130.PNG
+Q9,"A man is having petechial rashes with a previous history of meningitis. He was vaccinated at the age of 5 years. Now, Brudzinski and kernig's signs were positive. Microscopy showed
+gram negative diplococci. what is the likely causative organism?","a)Hemophilus influenzae
+b)Neisseria Meningitidis
+c)cytomegalovirus
+d)klebsiella","The clinical vignette is suggestive of fulminant meningococcemia. The organism causing this condition is Neisseria meningitidis.
+Neisseria meningitidis is an aerobic, gram-negative, nonmotile diplococcus that is catalase and
+oxidase-positive. It oxidizes glucose and maltose but not lactose or sucrose. The bacteria typically spread from the nasopharynx to the meninges via the perineural sheath of the olfactory nerve
+following an initial flu-like infection.
+Meningococcemia often starts with acute fever, chills, malaise, and a petechial rash. As the disease advances, symptoms of meningitis, such as severe headache, vomiting, photophobia, confusion,
+and a stiff neck, may develop, potentially progressing to coma within a few hours. In its fulminant form, meningococcemia presents with high fever and a hemorrhagic rash and can lead to severe     complications like disseminated intravascular coagulation, circulatory collapse, and
+waterhouse-Friderichsen syndrome, characterized by bilateral adrenal gland necrosis and subsequent adrenal failure.
+Meningitis can rapidly progress to fulminant meningococcemia, evolving from acute illness to
+severe disease in hours. classic meningitis symptoms include fever, headache, neck stiffness, and   decreased consciousness. Nuchal rigidity, along with kernig’s and Brudzinski’s signs, may indicate meningeal irritation, though their sensitivity can vary. seizures, occurring in 15-4o% of patients,    may result from complications like raised intracranial pressure, leading to severe outcomes such    as cerebral herniation. The rash associated with meningococcemia evolves quickly from a diffuse    maculopapular appearance to petechiae on the trunk, extremities, mucous membranes, and
+sometimes palms and soles.
+other options:
+option A: Haemophilus influenzae is a gram-negative, non-motile, and non-sporing coccobacillus. H.influenzae causes meningitis, a potentially fatal disease that is most common in children of two months to 3 years old. It also causes laryngo-epiglottitis, pneumonia, suppurative lesions, and
+bronchitis.
+option c: cytomegalovirus infection is the most common congenital infection. The clinical manifestations are hepatosplenomegaly, petechial rashes, jaundice, chorioretinitis, and
+microcephaly. one of the long-term sequelae is sensorineural hearing loss
+option D: klebsiella pneumonia causes fatal pneumonia, which occurs in middle-aged or older persons with risk factors such as alcoholism, chronic bronchopulmonary disease or diabetes
+mellitus. Gram stain and culture are used for diagnosis.",,B,
+Q10,"A patient who has a central line on long-term IV antibiotics develops a fever. Blood cultures show staphylococcus epidermidis along with biofilm formation. which of the following
+describes its features of antibiotic resistance?","a)Biofilm increased susceptibility to antibiotics
+b)Biofilm offers resistance so catheter is to be removed
+c)Biofilm does not affect susceptibility to antibiotics
+d)Biofilm can be washed off from the catheter","In a patient with a central line on long-term IV antibiotics along with culture showing biofilm formation, the correct measure is to remove the catheter as biofilm offers resistance.
+Biofilms are structured microcolonies of organisms that are enclosed in a self-produced glycocalyx matrix. Bacteria within biofilms are usually metabolically less active.
+Biofilms are aggregates of bacteria that are enclosed in an exopolysaccharide matrix that is
+produced by there bacteria itself. The biofilms are attached to solid surfaces and form a slimy layer over them. organisms that produce biofilm include:
+
+
+
+• staphylococcus epidermidis on medical devices and implants
+• streptococcus viridians on heart valves
+• pseudomonas aeruginosa lung infections
+• staphylococcus aureus on catheters
+• Legionella pneumophila colonization of hospital water systems
+The exopolysaccharide helps in protection against the host's immunity. It acts diffusion barrier for antimicrobials and makes the organism relatively insusceptible to drug action(option A and c).
+Bacteria embedded in biofilms frequently become metabolically less active or dormant. It is thus harder to eradicate these organisms with antibiotics.
+These bacteria within biofilms also produce small molecules, such as homoserine lactones. These molecules are taken up by adjacent bacteria and function as a communication system called
+Quorum sensing and help turn on certain genes at a particular time.
+Domboro's solution, containing o.25% acetic acid, helps prevent biofilm formation but is not
+effective at removing established biofilm. Biofilm, once established, adheres strongly to surfaces and is resistant to simple washing or flushing(option D). More aggressive methods, such as
+mechanical debridement or specialized treatments, are required to remove it.",,B,
+Q11,Laboratory investigations in a patient with desert rheumatism showed dimorphic and thermal fungi with arthrospores. what is the causative organism of desert rheumatism?,"a)Histoplasma capsulatum
+b)paracoccidioides brasiliensis
+c)Blastomyces dermatitidis
+d)coccidioides immitis","coccidioidomycosis, commonly known as valley fever or desert rheumatism, is a mammalian fungal disease caused by coccidioides immitis or coccidioides posadasii.
+The primary infection is often respiratory, with symptoms resembling bronchitis or pneumonia that resolve over a few weeks. The classic triad of coccidioidomycosis, known as 'desert
+rheumatism', includes the combination of fever, joint pains, and erythema nodosum.
+Fluconazole and intravenous amphotericin B are used in progressive or disseminated disease, or immunocompromised individuals.Itraconazole or ketoconazole may be used for milder disease.   Fluconazole is the preferred medication for coccidioidal meningitis, due to its penetration into     csF. Intrathecal or intraventricular amphotericin B therapy is used if infection persists after
+fluconazole treatment. The image showing mature spherules of coccidioides is given below.
+
+
+
+
+
+other options
+option A: Histoplasma causes histoplasmosis/ Darling's disease/ reticuloendotheliosis. It has tiny oval yeast cells with narrow-based budding within the macrophages with an underlying
+granulomatous response. This is a dimorphic fungus that exists in the yeast form in body tissues and cultures maintained at 37°c, and in the filamentous mould form in cultures at room
+temperature (25°c).
+option B: paracoccidioidomycosis, also known as Brazilian blastomycosis, south American
+blastomycosis,Lutz-splendore-de Almeida disease and paracoccidioidal granuloma, is a fungal infection caused by the fungus paracoccidioides brasiliensis.
+option c: Blastomycosis is a chronic infection caused by a dimorphic fungus called Blastomyces    dermatitidis. It is characterized by the formation of suppurative and granulomatous lesions in the lungs and skin. It is most common in North America and is also called North American
+Blastomycosis.",,D,1791-1131.PNG
+Q12,"A farmer from south East India presents with fever, respiratory distress and neurological deficits. The vector of the causative organism is shown below. what is the associated
+organism?","a)Ebola virus
+b)zika virus
+c)Malaria
+d)Nipah virus","The given clinical scenario along with the vector bat is suggestive of infection from the nipah virus.
+Nipah virus is an RNA virus that belongs to the family paramyxoviridae, genus Henipavirus. It is a zoonotic virus that shows both animal-to-human (bats, pigs) and human-to-human
+transmission. The natural hosts are fruit bats of the pteropodidae family.
+The clinical manifestations include asymptomatic subclinical infection, acute respiratory
+infection, and fatal encephalitis. There is no treatment or vaccine available for either people or
+animals. The primary treatment for humans is supportive care. Nipah virus is on the WHo list of Blueprint priority diseases.
+The life cycle of nipah virus is shown below:
+
+
+
+
+
+other options
+option A: Ebola virus belongs to the family Filoviridae and is transmitted by African fruit bats. Human-to-human transmission through blood or body fluids can occur. It causes fever,
+abdominal pain, diarrhoea, and haemorrhage
+option B: zika virus is transmitted to human beings by the bite of an infected Aedes mosquito. It can also be transmitted trans-placentally, causing microcephaly and other severe fetal brain
+defects.
+option c: Malaria is a parasitic infection caused by the plasmodium species and is transmitted by the female anopheles mosquito. symptoms include fever, chills, and myalgia with periodicity
+differing for each species. The fever returns every two days for P. ovale, P. vivax, and P.
+falciparum and every three days for P. malariae.",1772-1121.PNG,D,1792-1132.PNG
+Q13,"A 21-year-old female complains offever, headache and vomiting from the past 3 days. she has been living in the army recruitment camp for the last three weeks. on examination, she has     neck stiffness and a maculopapular rash was noted over the trunk and extremities. which of   the following is false about the disease she's likely suffering from?","a)carriers of this disease can be treated with Rifampicin
+b)It can lead to adrenal hemorrhage
+c)Terminal complement deficiency increases the risk of this disease
+d)Metronidazole is the drug of choice","The clinical features are suggestive of meningococcal meningitis and metronidazole is not the drug of choice. The drug of choice is a third-generation cephalosporin such as ceftriaxone.
+chloramphenicol is used in patients with penicillin allergy.
+It is caused by Neisseria meningitidis, a gram-negative, oxidase-positive, catalase-positive
+diplococci. outbreaks usually occur in mass gatherings such as in army camps or hostel dorms.
+The risk of infection is increased in patients with terminal complement deficiency,
+hypogammaglobulinemia and hyposplenism. This is because opsonization by complement is a major mechanism by which the bacteria is cleared from the blood.
+characteristic clinical findings include:
+• Maculopapular or purpuric rash
+• shock due to capillary leak
+• Bilateral adrenal hemorrhage (waterhouse–Friderichsen syndrome)
+
+
+
+Rifampicin, ciprofloxacin and cephalosporins can be used to treat carriers.",,D,
+Q14,"A young sexually active female presented with a symptomatic UTI. Urinalysis and cultures showed novobiocin-resistant coagulase negative staphylococcus with a count of 1oΛ4
+cells/HPF. what is true about this condition?","a)Asymptomatic bacteriuria
+b)Test must be repeated with a fresh specimen
+c)Diagnose and treat as urinary tract infection
+d)Normal skin commensal grown on culture that needed to proved","A young sexually active female presenting with a symptomatic UTI and urinalysis and cultures   showing novobiocin-resistant coagulase-negative staphylococcus with a count of 1o^4 cells/HPF should be diagnosed as a urinary tract infection and should be treated.
+staphylococcus saprophyticus is a gram-positive, coagulase-negative staphylococcus. It is
+non-pigmented, novobiocin resistant, and non-hemolytic on blood agar. It is a leading cause of cystitis in women. It is a part of the normal flora of human skin and periurethral area and thus causes cystitis in sexually active women.
+other options
+option A: A colony count of &gt;1o^5/mL of a clean catch sample is considered significant
+bacteriuria with no clinical symptoms of UTI. In men, a count of 1oo,ooo CFU/ml is sufficient to diagnose a UTI, while for women a UTI is diagnosed when the count is 1oo,ooo CFU/ml in two    consecutive midstream urine samples.
+option B: As the patient already has symptoms of UTI and the culture is showing a significant count redoing the test is not required.
+option D: Though staphylococcus saprophyticus is a normal commensal of skin since the patient already has symptomatic UTI with a proven culture,it need not be proved again.",,C,
+Q15,"A group of hostel boys consumed hamburgers from a local street food shop following which they developed abdominal pain, diarrhoea, vomiting, and fever. They were diagnosed with   hemolytic uremic syndrome (HUs). Escherichia coli o157:H7 was detected in the stool
+samples and the ham. what does H represent in H7?","a)Fimbriae
+b)capsule
+c)Flagella
+d)Lipopolysaccharide","H in E coli o157:H7 represents flagellar antigen.
+o represents somatic antigen.
+E. Coli o157:H7 is an enterohemorrhagic bacterial strain that causes hemorrhagic diarrhoea and cramping in the abdomen. It is transmitted through the fecal-oral route after consumption of
+contaminated, undercooked liquids and foods.
+E. Coli o157:H7 uses the fimbriae to adhere to the microvilli of intestinal epithelial cells. when bacteria attach to an epithelial layer, they rearrange the cytoskeletal actin, which flattens the
+microvilli and interferes with normal intestinal cell function. This is known as an effacing lesion.
+Three days after exposure to the contaminated food specimen, diarrhoea—often the hemorrhagic kind- occurs due to exposure to the shiga toxin. The patients will experience bloody diarrhoea
+after three days of symptoms. After seven days, the symptoms of hemorrhagic diarrhoea usually go away on their own for 85% of patients; the remaining 15%, who are usually children, will
+experience systemic manifestations, most commonly HUs.
+EHEC are gram-negative bacilli which are lactose fermenting. Unlike most other E. coli serotypes, o157: H7 does not use sorbitol and produces clear colonies on the sorbitol MacConkey agar,
+whereas other serotypes produce pink colonies. o157: H7 is a strain of E.coli called
+enterohemorrhagic E. coli (EHEC) which produces verocytotoxin or shiga-like-toxin. shiga toxin
+
+
+
+acts by inactivating the 6os ribosomal subunit thereby inhibiting protein synthesis. It is absorbed  from the inflamed gastrointestinal mucosa into the circulation and causes endothelial dysfunction, and causes platelet activation and aggregation. children and older adults are at the highest risk. It causes mild non-bloody diarrhea to hemorrhagic colitis, or a severe form of dysentery, with
+hemolytic uremic syndrome, a disease resulting in acute renal failure, microangiopathic hemolytic anemia, and thrombocytopenia.",,C,
+Q16,"An elderly female with a central line undergoes surgery. on postoperative day 3, she develops fever and tachycardia. A culture from the tip of the central line revealed brown buff colonies.  Microscopy showed gram-positive organisms that reproduce by budding. what is the likely
+causative organism?","a)staphylococcus epidermidis
+b)streptococcus
+c)candida
+d)Aspergillus","The given clinical scenario along with microscopy showing gram-positive budding yeasts cells and brown buff colonies is suggestive of invasive candidiasis.
+candida species are yeast-like fungi that can cause bloodstream infections, particularly in patients with central lines or other invasive devices. It is a common cause of central line-associated
+bloodstream infections (cLABSI) and frequently presents with fever and signs of systemic infection..
+The most common species implicated in candidal infections are c. albicans, c. parapsilosis, and c. glabrata. clinically, infection with candida can present as cutaneous &amp; mucosal candidiasis,    systemic candidiasis, or rarely, as chronic mucocutaneous candidiasis.
+cutaneous and mucosal infections manifest as thrush affecting the tongue, lips, gums, and palate. It is seen as a patchy to confluent whitish pseudomembranous lesion and is commonly associated with AIDS. candida may also invade the vaginal mucosa leading to vulvovaginitis, and the nails,   and around the nail plate leading to onychomycosis.
+Morphologically, they are yeast-like fungi. They exist as yeast and pseudohyphae (Shown in the image below). It appears as budding gram-positive cells on wet films and smears. Mycelial
+forms suggest colonization. candida albicans form chlamydospores on corn meal agar.
+
+
+when colonies of candida albicans are inoculated in serum, the yeast cells start to form elongations called germ tubes within 2 hours, when kept at 37 °c. The image below
+
+
+
+shows germ tube formation, also known as the Reynolds Braude phenomenon, seen in candida albicans.
+
+
+other options:
+option A: staphylococcus epidermidis is a gram-positive cocci that commonly colonizes the skin  and can cause infections related to indwelling devices, such as central lines. However, it does not reproduce by budding, and the description of brown buff colonies does not fit.
+option B: streptococcus species are gram-positive cocci that are typically found in chains. They do not reproduce by budding, and the brown buff colonies seen in the culture do not align with the
+typical appearance of streptococcus in culture.
+option D: Aspergillus is a mold that forms septate hyphae, not yeast-like cells, and does not   reproduce by budding. Additionally, Aspergillus forms colonies with a different characteristic appearance, usually described as greenish or fuzzy, rather than brown buff.",,C,1694-1080.PNG;1695-1081.PNG
+Q17,"A 22-year-old farmer develops an ulcer on his foot with a white powdery substance and
+multiple discharging sinuses. Microscopy reveals a gram-positive organism with radiating filaments. what is the most likely organism isolated from the discharging sinus?","a)Nocardia
+b)staphylococcus aureus
+c)Mucormycosis
+d)sporothrix schenckii","The given clinical scenario of multiple discharging sinuses and aspirate showing filamentous gram-positive bacteria are suggestive of Nocardia.
+Nocardia species appear as filamentous organisms with extensive hyphae-like branching. They are aerobic, gram-positive, catalase-positive, and urease-positive. They are weakly acid-fast because
+they stain with carbolfuchsin and retain when decolourized with 1–4% sulfuric acid instead of the stronger acid-alcohol decolorant.
+Infections caused by Nocardia include cutaneous, subcutaneous, or systemic lesions. It may lead  to local abscesses, cellulitis, or lymphocutaneous lesions. systemic nocardiosis occurs more often in immunodeficient persons.
+They can present with a characteristic powdery substance that appears as gritty or necrotic
+material on the skin or within soft tissues. Accompanying this are multiple discharging sinuses, which are abnormal openings that form as the body attempts to expel infected material; these
+
+
+
+sinuses can drain purulent, often foul-smelling discharge typically associated with localized abscesses, and the discharge may be viscous, sometimes containing necrotic tissue.
+systemic nocardiosis usually caused by N.asteroides manifests primarily as pulmonary disease,
+pneumonia, lung abscess, or other lesions resembling tuberculosis. Extrapulmonary manifestation may involve the brain, kidneys, and other organs.
+The image given below is a smear of modified acid-fast kinyoun staining showing filamentous red-stained partially acid-fast rods suggestive of Nocardia.
+
+
+other options:
+option B: staphylococcus aureus is a common cause of skin and soft tissue infections, but it
+appears as gram-positive cocci in clusters, not as branching filaments. It would not typically be associated with discharging sinuses and white powdery discharge.
+option C: Mucormycosis is a fungal infection that typically affects immunocompromised    individuals, particularly those with diabetes or undergoing chemotherapy. It presents with necrotizing infections but does not exhibit branching filaments in microscopy and is not
+associated with white powdery discharge from sinuses.
+option D: sporothrix schenckii is a dimorphic fungus that causes sporotrichosis, typically
+following exposure to soil or plants. It can cause skin ulcers, but it appears as cigar-shaped yeast under microscopy, not as gram-positive filamentous bacteria.",,A,Picture4.png
+Q18,"A middle-aged man with a history of unprotected sexual intercourse presents with complaints of painful urination and itching. on examination, Gram-negative intracellular cocci are
+observed. what is the most likely causative organism?","a)staphylococcus aureus
+b)Neisseria gonorrhoeae
+c)proteus vulgaris
+d)chlamydia trachomatis","The above clinical scenario along with the Gram stain showing gram■negative intracellular diplococci within phagocytes is suggestive of infection by Neisseria gonorrhea.
+Gonorrhea is a sexually transmitted disease caused by Neisseria gonorrhea. It uses pilli in
+adhesion to the urethra or other mucosal surfaces. The cocci penetrate the intracellular spaces to reach the subepithelial tissue by the third day of infection. The incubation period is 2-8 days.
+
+
+
+The major symptoms include vaginal discharge, dyspareunia, and dysuria, usually without urinary frequency or urgency. The specific symptoms seen in males and females are as follows:
+In female patients:
+About half the female patients remain asymptomatic. But, patients typically present with urethritis, cervical discharge, pruritus, dysuria, and intermenstrual bleeding.
+The ectocervix and vagina are not usually affected in adults as the stratified squamous epithelium
+is resistant to infection by the cocci. The acidic pH of vaginal secretions is also protective. The principal sites of invasion for gonococcal infection are
+the columnar and transitional epithelium.
+pelvic inflammatory disease and salpingitis may lead to sterility. other complications are
+tubo-ovarian abscesses and ectopic pregnancies. Rarely peritonitis may develop with perihepatic inflammation (Fitz Hugh curtis syndrome). The patient presents with right upper quadrant pain and tenderness with abnormal liver function tests.
+In male patients :
+• Acute urethritis
+• Genital discharge: It is mucopurulent that can be described as that resembling the flow of seed (semen).
+• strictures
+• water-can perineum: The infection may spread to the periurethral tissues causing abscesses and multiple discharging sinuses.
+Lab diagnosis:
+The discharge is collected and subjected to Gram's stain which reveals gram■negative
+intracellular diplococci within phagocytes. It is non-sporulating, non-motile and aerobic but may grow anaerobically also. It acidifies glucose but not maltose in serum sugars. stuart's transport
+medium is used. cultures can be obtained from chocolate agar or Mueller-Hinton agar. specifically, Thayer-Martin agar is used to isolate Neisseria gonorrheae.
+Treatment:
+According to cDc guidelines (2o21), treatment of uncomplicated gonococcal infections is as follows:
+• weight &lt;15o kg – ceftriaxone 5oo mg intramuscular (IM) in a single dose
+• weight ≥15o kg – ceftriaxone 1 g intramuscular (IM) in a single dose
+concurrent chlamydial infection must also be treated unless it has been excluded by molecular testing. First-line drugs used are as follows:
+• oral azithromycin 1g single dose
+• oral doxycycline 1oo mg BD for 7 days (non-pregnant patients only)
+The sexual partners of the patient must be treated to reduce the risk of recurrence. Expedited
+partner therapy refers to the index patient delivering therapy to one's own partners. However, this type of empirical therapy ignores the importance of direct counseling.
+other options:
+
+
+
+option A: staphylococcus aureus is a gram-positive bacterium that can cause various infections, but it is not typically associated with sexually transmitted infections (sTIs) or intracellular
+gram-negative cocci.
+option C: proteus vulgaris is a gram-negative bacillus and is not typically associated with sexually transmitted infections. It is more often linked to urinary tract infections but would not appear as   gram-negative intracellular cocci.
+option D: Chlamydia trachomatis is another common cause of sexually transmitted infections. It is an obligate intracellular bacterium that is difficult to visualize using standard Gram staining.",1774-1122.PNG,B,
+Q19,"A patient diagnosed with HIV presents with complaints of recurrent diarrhoea. The stool
+sample reveals only larvae and no ova. which of the following is the most probable causative organism?","a)Ancylostoma
+b)Ascaris
+c)strongyloides
+d)Enterobius","The presence of recurrent diarrhea in HIV patient along with the presence of only larvae in stool is suggestive of infection by strongyloides stercoralis.
+strongyloides stercoralis is a parasitic nematode known for causing chronic diarrhea, particularly in immunocompromised individuals such as those with HIV. In this case, only larvae (and not
+ova) are seen in the stool, which is characteristic of strongyloides infection due to its autoinfective cycle, where the larvae hatch inside the intestine and are passed in the stool.
+strongyloidiasis:
+strongyloides are ovoviviparous. The transmission of infection occurs through penetration of the skin by filariform larvae in the soil. Then, they migrate to the small intestine. The larvae moult     twice and become adult female worms in the small intestine. The eggs laid in the mucosa of the
+intestine hatch immediately releasing the rhabditiform larva (L1 stage). These rhabditiform larvae in the bowel can develop directly into filariform larvae that penetrate the colonic wall or perianal  skin and enter the circulation to repeat the migration. This establishes ongoing internal
+reinfection.
+The life cycle of strongyloides is shown below.
+
+
+
+
+It is generally an asymptomatic condition. There may be cutaneous, pulmonary, and intestinal   manifestations in some cases. pulmonary manifestations occur when the larva escapes from the pulmonary capillaries into the alveoli leading to bronchopneumonia, chronic bronchitis, and
+asthmatic symptoms.
+The term larva currens (meaning ‘racing larvae’) has been applied to the rapidly progressing linear or serpiginous urticarial tracks caused by migrating filariform larvae of strongyloides stercoralis.   These often follow autoinfection and start perianally. Disseminated strongyloidiasis is seen in
+immunodeficient individuals.
+Larva currens is shown in the image below.
+
+
+visceral larva migrans is caused by the migration of larvae of nonhuman species of nematodes that infect via the oral route.
+Etiological agents causing visceral larva migrans:
+• Human nematode: Ascaris lumbricoides, strongyloides stercoralis.
+• zoophilic nematode: Toxocara canis, toxocara cati, Angiostrongylus cantoniensis, Angiostrongylus costaricensis, Anisakis.
+• Non human nematode: Filarial species, Brugia pahangi, Brugia pate Laboratory diagnosis of strongyloidiasis:
+• Eosinophilia and raised IgE levels.
+• Microscopic examination of the direct wet mount of the stool demonstrating rhabditiform larvae forms the definitive diagnosis
+• stool culture and serological tests are also done
+Treatment: Ivermectin is the preferred agent in the management of strongyloidiasis.
+other options:
+option A: Ancylostoma presents with creeping eruption. cutaneous larva migrans or creeping eruption is caused by nematode larvae that are infected by skin penetration.
+
+
+
+option B: Ascaris is a large intestinal worm, and its ova are typically seen in the stool, not larvae. It is not commonly associated with chronic diarrhoea, especially in immunocompromised
+patients.
+option D: Enterobius or pinworm infection presents as itching (pruritus) and restless sleep (due to nocturnal perianal or perineal pruritus)",,C,1555-974.PNG;1555-973.PNG
+Q20,"A young man who has just returned from the USA develops fever, cough, and breathlessness. A chest radiograph shows bilateral hilar lymphadenopathy and mediastinal
+lymphadenopathy. culture on Sabouraud Dextrose Agar (SDA) reveals white to light brown  puffy colonies. Lactophenol blue staining shows the findings as depicted in the image. what is the most likely causative organism?","a)cryptococcosis
+b)Histoplasmosis
+c)Blastomycosis
+d)Mucormycosis","The image shows the tuberculate macroconidia, with finger-like projections which, along with the history, is a characteristic feature of Histoplasma.
+Histoplasmosis (Darling’s disease) is a granulomatous disease caused by a dimorphic fungus,
+Histoplasma capsulatum. It is endemic in the USA, in the states bordering the ohio River valley    and the lower Mississippi River. In India, it is reported from the region of west Bengal, along the Ganga River. The fungus inhabits humid and acidic soil that contains a large amount of bird or
+bat droppings.
+H. capsulatum is transmitted by inhalation of spores (i.e. microconidia) which usually circulate in the air after the contaminated soil is disturbed. After the spores enter into the lungs, they are
+engulfed inside the alveolar macrophages and then transform into yeast forms.
+Clinically, the classical histoplasmosis ranges from asymptomatic infection (in immunocompetent people) to life-threatening illness seen in people with low CMI. The various clinical types include:
+• pulmonary histoplasmosis - Acute form presents with mild flu-like illness, pulmonary infiltrates in the chest X-ray with hilar or mediastinal lymphadenopathy. Chronic cavitary histoplasmosis
+may be seen in smokers with underlying structural lung disease.
+• Mucocutaneous histoplasmosis - Skin and oral mucosal lesions may develop secondary to pulmonary infection. oral lesions are particularly seen in Indian patients.
+• Disseminated histoplasmosis - It develops if CMI is very low (e.g. untreated HIV-infected people or following organ transplantation). The common sites affected are bone marrow, spleen, liver,
+eyes, and adrenal glands.
+Diagnosis :
+Direct microscopy - Histopathological staining of the specimens reveals tiny oval yeast cells (2–4 μm size) with narrow-based budding within the macrophages with an underlying granulomatous response.
+
+
+
+
+
+culture - It is the gold standard method of diagnosis. Specimens should be inoculated onto media such as SDA, blood agar, and BHI agar in duplicate and incubated simultaneously at 25°c and
+37°c.
+At 25°c it forms a mycelial phase and produces white to buff brown colonies that consist of two
+types of conidia or spores - tuberculate macroconidia (with typical thick walls and finger-like
+projections which is a characteristic feature) and microconidia( smaller, thin, and smooth-walled). At 37°c it gets converted into yeast form (creamy white colonies), which is best developed in
+special media like kelley’s media.
+Treatment :
+Liposomal amphotericin B is the antifungal agent of choice in acute pulmonary and disseminated histoplasmosis. Itraconazole is recommended for chronic cavitary pulmonary histoplasmosis.
+other options :
+option A - cryptococcosis: cryptococcus neoformans typically presents as a lung infection or
+meningitis in immunocompromised individuals. on SDA, cryptococcus forms mucoid colonies,    and Lactophenol blue would show encapsulated yeast, which differs from the presentation in this case.
+option c - Blastomyces causes North American Blastomycosis/ chicago disease. pulmonary involvement is the most common form followed by skin. Histopathological staining shows   thick-walled yeast, with single broad-based budding (figure 8 appearance).
+
+
+
+
+
+option D: Mucormycosis typically affects immunocompromised patients and presents with
+invasive disease, often causing necrotizing infections in the sinuses or lungs. The fungal hyphae seen on Lactophenol blue are broad, non-septate, and ribbon-like, which does not match the
+culture description here.",1775-1123.PNG,B,1801-1133.PNG;1779-1124.PNG
+Q21,"A middle-aged man presents with complaints of itching around the perianal region and
+unilateral lower limb lymphadenopathy. Larvae of approximately 2oo microns in size were identified, and these larvae lacked nuclei at their tail tips. what is the most likely causative organism?","a)wuchereria bancrofti
+b)Brugia malayi
+c)Brugia timori
+d)Mansonella perstans","The given clinical presentation of perianal itching and unilateral lower limb lymphadenopathy is suggestive of wuchereria bancrofti.
+It is a major cause of lymphatic filariasis, often presenting with lymphadenopathy and lower limb swelling. Its microfilariae are approximately 2oo-3oo microns long and are characterized by the   absence of nuclei at the tail tip. clinical features include massive eosinophilia,
+hepatosplenomegaly, pulmonary manifestations like dry nocturnal cough, asthmatic wheezing,   and dyspnea. It can also cause arthritis, glomerulonephritis, thrombophlebitis, etc. The classical features seen in lymphatic filariasis are usually absent.
+Elephantiasis refers to the painful swelling of the legs and genital organs seen in late-stage disease.
+Image showing elephantiasis-
+
+
+
+
+
+Investigations:
+Demonstration of the microfilaria in peripheral blood, chylous urine, hydrocele fluid, etc is done. The specimen of choice is peripheral blood. Night blood samples between 1o pm and 4 am are
+preferred. This is because the microfilaria shows nocturnal periodicity.
+DEC provocation test: In this test, a small dose of DEC is given 2o-5o minutes before sample collection so that the microfilaria appears in the blood even during the daytime.
+The image below shows the life cycle ofwuchereria bancrofti.",,A,1636-1038.PNG;1636-1039.PNG
+Q22,"A middle-aged man presented to the OPD with dysuria and purulent urethral discharge for
+the last 3 days. Gram stain of the discharge is shown below. He admits to having unprotected sexual intercourse one week ago. what is the most appropriate treatment?","a)Tab. Acyclovir 5oo mg TDS for 1 week
+b)Tab. Doxycycline 1oo mg BD for 14 days
+c)Tab. Cefixime 4oo mg Stat
+d)Inj. Benzathaine Penicillin 2.4 MU IM Stat","This clinical scenario along with the microscopic findings of gram■negative intracellular   diplococci indicates infection with Neisseria gonorrhoeae. The treatment of choice for the infection among the given options would be Tab. cefixime 4oo mg stat.
+Gonorrhea is a disease acquired by sexual contact. The first step in infection is the adhesion of
+gonococci to the urethra or other mucosal surfaces. The incubation period is 2-8 days. The major symptoms include purulent urethral discharge and dysuria.
+In males, the disease starts as acute urethritis presenting with purulent discharge. The patients   may also have penile lymphangitis when the soft tissue inflammation is extensive. This infection may extend along the urethra to involve the prostate, seminal vesicles, and epididymis.
+In females, the initial infection involves the cervix uteri and urethra which may extend to
+Bartholin glands, endometrium, and fallopian tubes. pelvic inflammatory disease and salpingitis may lead to sterility. Rarely peritonitis may develop with perihepatic
+inflammation (Fitz-Hugh-curtis syndrome).
+The discharge is collected and subjected to Gram stain, revealing gram■negative intracellular diplococci within phagocytes. stuart's transport medium is used. cultures can be obtained
+from chocolate agar or Mueller-Hinton agar. specifically, Thayer-Martin agar is used to isolate N. gonorrhoeae.
+single-agent therapy with ceftriaxone is preferred for the treatment of gonococcal infections.
+According to cDc guidelines (2o21), treatment of uncomplicated gonococcal infections is as follows:
+• weight &lt;15o kg – ceftriaxone 5oo mg intramuscular (IM) in a single dose
+• weight ≥15o kg – ceftriaxone 1 g IM in a single dose
+The doses of ceftriaxone are higher than the previous guidelines as the gonococcal minimum inhibitory concentrations (MIcs) are rising worldwide. The British BAsHH guidelines also
+
+
+
+recommend a high dose of 1g. other cephalosporins like cefixime can be given orally.
+concurrent chlamydial infection must also be treated unless it has been excluded by molecular testing.
+First-line drug administered is
+• oral doxycycline 1oo mg BD for 7 days
+As per suraksha clinic, syndromic management of urethral discharge is done by Gray kit which contains Tab. Azithromycin 1gm stat and Tab. cefixime 4oomg stat.    Partner treatment is also required.
+other options:
+option A: Acyclovir is given for viral infections. It has no role in gonococcal urethritis
+option B: Doxycycline is given alongside ceftriaxone or cefixime to concurrently treat chlamydial infection along with gonorrhoea.
+option D: Benzathine Penicillin was once a treatment option for gonorrhoea, but it is no longer recommended due to widespread resistance.",1774-1122.PNG,C,
+Q23,"A young man presents with burning and painful micturition. Microscopy showed
+gram-negative intracellular kidney bean-shaped organisms. which of the following culture media is used to isolate the organism?","a)Blood agar
+b)Thayer-Martin media
+c)MacConkey agar
+d)TCBS agar","The clinical scenario is suggestive of gonococcal urethritis caused by Neisseria
+gonorrhoeae. Thayer-Martin and modified Thayer-Martin media are used for the culture of this organism.
+Gonorrhoea may manifest as a mucopurulent genital discharge which can be described as
+resembling the 'flow of seed' (semen). The discharge is collected and subjected to Gram's stain
+which reveals gram■negative intracellular diplococci within phagocytes. stuart's media is used as transport media and Thayer Martin media is used for culture. Thayer-Martin medium contains
+vancomycin, colistin and nystatin.
+Gonorrhoea is a sexually transmitted disease where infection occurs due to the adhesion of     gonococci to the urethra or other mucosal surfaces with the help of pili. By the third day of     infection, the cocci have penetrated intracellular spaces and reached subepithelial tissue. The incubation period ranges from 2 to 8 days. The main symptoms are urethral discharge and
+dysuria.
+In females: The infection begins in the cervix uteri and urethra and may spread to the Bartholin glands, endometrium, and fallopian tubes. The vaginal mucosa is usually unaffected in adults
+because the stratified squamous epithelium is resistant to cocci infection and also because vaginal secretions have an acidic pH. Rarely peritonitis may develop with perihepatic inflammation (Fitz   Hugh curtis syndrome).
+In males: The disease starts as acute urethritis. This infection has the potential to spread down the urethra and into the prostate, seminal vesicles, and epididymis. chronic urethritis may lead to
+stricture formation. Infections in the periurethral tissues can lead to abscesses and multiple discharging sinuses (watercan perineum)
+Treatment: ceftriaxone (25o mg, IM) single-dose + azithromycin 1 g Po, single-dose, or doxycycline 1oo mg Po BD for 7 days.
+
+
+
+The image below shows the Gram-stain of a urethral exudate showing typical intracellular gram-negative diplococci and pleomorphic extracellular gram-negative organism",,B,1652-1052.PNG
+Q24,"A 35-year-old man presented with high fever, bleeding gums, myalgia, and
+hepatosplenomegaly. His TLC is 31oo, Hb- 11 g/dl, hematocrit- 55%, and platelets - 25,ooo cells. what is the most important prognostic factor in this condition?","a)Hematocrit
+b)Total Leukocyte count
+c)Hemoglobin
+d)platelets","The given clinical history of a patient with a fever, myalgia, gum bleeding, hepatosplenomegaly,
+and laboratory investigations showing anaemia, leukopenia, raised hematocrit and low platelets is suggestive of dengue with warning signs and hematocrit is the most important prognostic factor    in this patient.
+Hematocrit is the percentage of red blood cells in a given blood volume, and a rising hematocrit is a sign of hemoconcentration due to plasma leakage. As plasma leakage signifies the severity of the disease, hematocrit is monitored to assess prognosis.
+Dengue is an arbovirus disease transmitted by Aedes aegypti and causes a clinical spectrum:
+• probable dengue: fever with myalgia, nausea, vomiting, leukopenia or a positive tourniquet test.
+• Dengue with warning signs: abdominal pain, tenderness, persistent vomiting, fluid accumulation (pleural effusion, ascites), mucosal bleed, hepatomegaly(&gt;2cm), rapid rise in hematocrit and
+fall in platelet count
+• Severe dengue: severe plasma leakage causing dengue shock syndrome, respiratory distress,  severe hemorrhagic manifestations, severe organ involvement (AST or ALT &gt;1ooou/L, CNS manifestations, AKI, pancreatitis, DIC)
+other options:
+options B and C- Although dengue causes anaemia and leukopenia, they do not determine the prognosis of the disease.
+option D- Reduced platelet count is a warning sign but does not correlate with plasma leakage. Therefore hematocrit monitoring would be a better option.",,A,

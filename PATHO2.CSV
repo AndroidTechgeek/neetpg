@@ -1,0 +1,246 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,choose the correct option regarding the storage temperatures of blood components.,"a)RBc 2o-22°c, Platelet 2-6°c, FFP -3o°c
+b)RBc 2-6°c, Platelet 2o-22°c, FFP -3o°c
+c)RBc -3o°c, FFP 2-6 °c, Platelet 2o-22°c
+d)RBc 2o-22°c, FFP below -3o°c, Platelet 2-6 °c","The recommended storage temperatures of different blood components is as follows:
+
+Blood component	storage temperatu re
+whole blood and red blood c ells	2–6°c
+Fresh frozen plasma	-3o°c or lower
+cryoprecipitate	Below -3o°c
+AlbuminFreeze-dried factor VIII	2–8°c
+platelet	2o–24°c",,B,
+Q2,Acid mucin is stained by _____________________.,"a)PAS
+b)Alcian blue
+c)Masson trichrome
+d)PTAH",Acid mucin is stained by Alcian blue.,,B,
+Q3,Toluidine blue staining is used in the Identification of which of the following cells?,"a)Lymphocyte
+b)Fibroblast
+c)Macrophage
+d)Mast cell","Toluidine blue is the special stain for mast cells.
+It stains the mast cells violet in a blue background.
+Mast cells may be difficult to differentiate from lymphocytes in routine, hematoxylin, and
+eosin–stained sections, and special metachromatic stains (toluidine blue or Giemsa) are used to visualize their granules.
+other options:
+Melanocytes can be identified using melan A/ MART-1, MITF, S1oo, HMB45.
+Macrophages can be identified using MITF, Sox 1o, CD31, CD68.
+Fibroblast can be identified using Fibroblast Surface Antigen, vimentin, HSP47,
+Fibroblast-specific protein 1.",,D,
+Q4,"t(11,22) is best diagnosed by _______","a)conventional karyotyping
+b)FISH
+c)Bone marrow aspiration
+d)Next generation sequencing","t(11,22) can be best detected using fluorescence in situ hybridization (FISH).
+t(11,22) is a characteristic translocation giving rise to Ewing's Sarcoma. In 85 to 9o percent of cases of Ewing sarcoma family of tumors (EFT), a recurrent chromosomal translocation,
+t(11;22)(q24;q12), fuses the 5' portion of the EWSR1 gene on chromosome 22 to the 3' portion of the FLI1 gene on chromosome 11.",,B,
+Q5,Gamma delta T cell(γδ TCRs) receptors recognizes,"a)Lipids without MHC proteins
+b)peptides with MHC proteins
+c)CD2o
+d)CD3","γδ TCRs (T-cell receptors) have been shown to recognize lipid antigens presented by CD1d in an MHC-independent manner
+T lymphocytes develop in the thymus from precursors that arise from hematopoietic stem cells.  Mature T cells are found in the blood, where they constitute 6o% to 7o% of lymphocytes, and in T-cell zones of peripheral lymphoid organs.
+• Each T cell recognizes a specific cell-bound antigen by means of an antigen-specific T-cell receptor (TCR).
+• In approximately 95% of T cells, the TCR consists of a disulfide-linked heterodimer made up of
+α and β polypeptide chain, each having a variable (antigen-binding) region and a constant region.
+
+
+
+• The αβ TCR recognizes peptide antigens that are presented by major histocompatibility complex (MHC) molecules on the surfaces of antigen-presenting cells. By limiting the specificity of T cells    for peptides displayed by cell surface MHC molecules, called MHC restriction, the immune system ensures that T cells see only cell-associated antigens.
+•
+• A small population of mature T cells expresses another type ofTCR composed of γ and δ
+polypeptide chains. The γδ TCR recognizes lipids, and small molecules, without a requirement for display by MHC proteins.",,A,
+Q6,Cancer that least commonly spreads by lymphatic route is ______.,"a)squamous cell carcinoma
+b)Merkel Cell Carcinoma
+c)Basal Cell Carcinoma
+d)Malignant melanoma","Basal cell carcinoma is a locally aggressive tumor that rarely spreads by the lymphatic route.
+Mutations in sonic hedgehog pathway are associated with it.
+It presents as small, slowly growing pearly nodule, often with tortuous telangiectatic vessels on its surface, rolled borders, and a central crust (nodular BCC).
+The occasional presence of melanin in this variant of nodular BCC (pigmented BCC) may lead to confusion with melanoma.
+The most common site is the inner canthus of the eye.
+Basal cell carcinoma does not show lymphatic or hematogenous metastasis. It is primarily locally invasive.",,C,
+Q7,what is correct regarding transfusion of the blood received from blood bank?,"a)It should be started within 4 hours of receiving it from the blood bank.
+b)It should be completed within 4 hours of receiving from the blood bank.
+c)No such time restraint and can be done anytime.
+d)It should be completed within 6 hours of receiving from the blood bank.","Blood received from blood bank should be completely transfused within 4 hours of receiving.
+principles of blood administration:
+• All blood products should be given through an appropriate blood administration set containing a filter.
+• A careful aseptic technique should be practised at all times.
+• vital signs should be documented before and after transfusion and as clinically required. For the first 15 minutes after the infusion has begun, the patient should be kept under close observation    to detect any signs of a serious transfusion reaction. If none is observed, the infusion rate may be  increased.
+• one unit of red cells is often given in 1 to 4 hours, depending on the amount to be transfused and on the patient’s cardiovascular status. Infusion of a unit for longer than 4 hours is not
+recommended, as there is a risk of bacterial proliferation because the opened unit is at room temperature.
+• No other solution and no medication should be added to or infused through the same tubing as a blood product.
+
+
+
+• Ringer’s lactate or other solutions containing calcium must never be added to a blood product because the calcium present leads to coagulation.
+• After the transfusion has been completed, the transfusion tag or record should become part of the patient’s chart.",,B,
+Q8,A patient working in a factory presented with lung fibrosis and thickening of pleura. Biopsy was done. Diagnosis from the histopathology picture is:,"a)Asbestosis
+b)silicosis
+c)Tuberculosis
+d)Mesothelioma","This clinical scenario and image showing typical asbestos bodies are suggestive of asbestosis.
+Asbestosis is a type of pneumoconiosis associated with asbestos exposure. The disease-causing capabilities of the different forms of asbestos depend on concentration, size, shape, and
+solubility. This condition is marked by diffuse pulmonary interstitial fibrosis.
+Asbestos bodies are a typical finding. They are golden brown, fusiform, or beaded rods with a     translucent center. They consist of asbestos fibers coated with an iron-containing proteinaceous material and arise when these fibers are phagocytosed by macrophages.
+
+
+
+
+
+
+Other inorganic particulates may become coated with similar iron-protein complexes and are called ferruginous bodies.",1846-1168.PNG,A,1846-1168.PNG;1856-1173.PNG
+Q9,All leukemias come under provisional entity in WHO 2016 classification of hematolymphoid tumours except______.,"a)Natual killer cell lymphoblastic leukemia/lymphoma
+b)B-lymphoblastic leukemia/lymphoma with hypodiploidy
+c)Acute myeloid leukemia with RUNX1 mutation
+d)splenic B-cell lymphoma/leukemia","Recent update: As per WHO 2022 classification of Hematopoietic and Lymphoid Tumors,
+provisional entities were not created as they lack sufficient evidence. However, we have retained the question and the answer as it is a previous year question.
+B-lymphoblastic leukemia/lymphoma is not a provisional entity under the WHO 2016 classification of Hematopoietic and Lymphoid Tumors.
+provisional entities are tumors that appear to be clinicopathologically distinct, but require additionally published studies for full acceptance.
+The following are included as provisional entities in the classification.
+
+Tumor class	provisional Entity
+Myeloid/Lymphoid Neoplasm s with eosinophilia and rearr  angement	Myeloid/Lymphoid neoplasm with pcM1-JAK2
+Myelodysplastic syndromes	Refractory cytopenia of child hood
+Acute myeloid leukemia with related neoplasms	AML with mutated RUNX1
+precursor Lymphoid neoplas m	Natural killer cell lymphoblas tic leukemia/lymphoma
+
+
+
+
+Tumor class	provisional Entity
+Mature B cell neoplasm	splenic B cell lymphoma/leuk emiapediatric nodal marginal zone lymphomaLarge B-cell l ymphoma with IRF4 rearran   gementEBV-positive mucocut aneous ulcerBurkitt-like lym   phoma with 11q aberration
+Mature T and NK cell neopla sm	Chronic lymphoproliferative   disorder of NK cellsIndolent   T-cell lymphoproliferative dis order of the gastrointestinal t ractprimary cutaneous CD8-   positive aggressive epidermot ropic cytotoxic T-cell lympho  maprimary cutaneous acral C D8-positive T-cell lymphoma  primary cutaneous CD4-posit ive small/medium T-cell lymp hoproliferative disorderBreas t implant-associated anaplast  ic large cell lymphoma",,B,
+Q10,A 65-year-old HIV-positive man presented with fever and breathlessness for 2 weeks. Imaging shows dense infiltration in the lower lobe and the lung biopsy showed the following finding.    What is the diagnosis?,"a)small-cell lung cancer
+b)CMV-associated organizing pneumonia
+c)Cryptococcal pneumonia
+d)Tuberculosis","The given image shows a cytomegalic pneumocyte containing characteristic intranuclear
+basophilic inclusion surrounded by a clear halo known as owl’s eye appearance. Along with the given clinical scenario, it is suggestive of cytomegalovirus (CMV) pneumonia.
+
+
+
+
+
+
+CMV is a β-group herpesvirus. It causes the following conditions:
+• Immunocompetent individuals - asymptomatic or mononucleosis-like infection
+• Neonates - devastating systemic infections
+• Immunosuppressed individuals - serious, life-threatening, disseminated CMV infections of the lungs (pneumonitis) and gastrointestinal tract (colitis)
+option A: small-cell carcinoma has small cells with scant cytoplasm, salt-and-pepper chromatin with inconspicuous nucleoli.
+option C: In cryptococcal infection, encapsulated yeasts are seen on direct microscopy.
+option D: Tuberculosis is associated with well-defined epithelioid granuloma.",1847-1169.PNG,B,1857-1174.PNG;1858-1175.PNG
+Q11,which of the following is a true statement about apoptosis?,"a)There is enzymatic digestion of cellular contents
+b)It is associated with adjacent inflammation
+c)karyolysis is present
+d)plasma membrane remains intact","The plasma membrane remains intact in apoptosis.
+Apoptosis literally means falling-off in Greek. It is a pathway of programmed cell death.
+Apoptotic cells break up into fragments called apoptotic bodies. These apoptotic bodies have
+intact plasma membrane but altered structures. Hence, they are subjected to phagocytosis without eliciting inflammation.
+Necrosis is an unprogrammed form of cell death that includes:
+• Enzymatic digestion
+• Adjacent inflammation
+• karyolysis",,D,
+Q12,which of the following is the color of vacutainer containing sodium fluoride as a content?,"a)Red
+b)Grey
+c)Blue
+d)yellow","sodium fluoride is present in the grey coloured tube.
+sodium fluoride inhibits glycolysis. Hence, is used for the estimation of blood glucose and alcohol.",,B,
+Q13,what does the following image show?,"a)Autophagy
+b)Emperipolesis
+c)phagocytosis
+d)Amoebic autophagy","The image shows the phenomenon of emperipolesis. Here, intact hematopoietic cells are seen within the cytoplasm of the host cell without any damage.
+The cells frequently involved are neutrophils, lymphocytes, and plasma cells. Both the cells are viable and there are no physiological and morphological consequences to either of them.",1848-1170.PNG,B,1859-1177.PNG;1859-1176.PNG
+Q14,"A patient presents with abdominal distension and intermittent fever. peripheral smear
+findings are normal. A tumor is resected and the histopathology image of the resected lymph node is shown below. what is the most probable diagnosis?","a)Angiolymphoma
+b)Hodgkin's lymphoma
+c)IgG4-related disease
+d)Castleman disease","The given clinical scenario and histopathological image showing follicular hyperplasia of lymph nodes are suggestive of Castleman disease.
+Castleman disease (angiofollicular lymph node hyperplasia) is a lymphoproliferative disorder that can be associated with HHV-8 (multicentric Castleman disease or MCD) or idiopathic (unicentric  Castleman disease or UCD)
+There are 3 major histological subtypes:
+• Hypervascular (UCD) -
+• Lollipop appearance - atrophic germinal centers with radially penetrating blood vessels
+• onion skin appearance of mantle zone around germinal centers
+• plasma cell subtype (UCD or MCD) - hypertrophic germinal centers, increased vascularity
+• Mixed variant (MCD) - mix of hypervascular and plasma cell subtype features in the same lymph node
+The clinical features include:
+• Multiple enlarged lymph nodes
+• Night sweats
+• weight loss
+• weakness and fatigue
+• Hepatosplenomegaly
+As this condition is associated with elevated levels of IL-6, the treatment involves IL-6 inhibitors like siltuximab and tocilizumab.
+Note: Hodgkin's lymphoma has characteristic Reed-sternberg cells in the histopathological section of lymph nodes.",1849-1171.PNG,D,
+Q15,which of the following is not usually involved in the immunohistochemistry of acute lymphoblastic leukemia?,"a)Tdt
+b)CD1a
+c)CD3
+d)Cytokeratin","Cytokeratin is not a marker of acute lymphoblastic leukemia (ALL). It is an epithelial cell marker for thymoma.
+Tdt, CD1a, and CD3 are markers of ALL.",,D,
+Q16,Antibody-dependent cellular cytotoxicity (ADCC) is seen with:,"a)Natural killer (NK) cells only
+b)Macrophages only
+c)NK cells, neutrophils and eosinophils
+d)Neutrophils and eosinophils only","Antibody-dependent cellular cytotoxicity (ADCC) is mediated by NK cells, neutrophils and eosinophils (killing certain parasitic worms like helminths via IgE antibodies).
+In ADCC, cells/ antigens are coated with IgG antibodies. These are killed by effector cells like NK cells and macrophages. These effector cells bind to the target by their receptors for the Fc
+
+
+
+fragment of IgG and cell lysis proceeds without phagocytosis.",,C,
+Q17,"A middle-aged male patient has proteinuria. Looking at the immunofluorescence image below, what is the diagnosis?","a)Focal segmental glomerulosclerosis (FSGS)
+b)Post-streptococcal glomerulonephritis (PSGN)
+c)Good pasture syndrome
+d)Lupus nephritis","The given immunofluorescence staining of the kidney biopsy specimen shows positive staining for fibrinogen, IgG, IgA, IgM, C1q, C3, λ chain, and k light chain. This is known as full-house effect. It is seen in lupus nephritis.",1850-1172.PNG,D,1861-1178.PNG
+Q18,which of the following is involved in recognition and clearance of necrotic cells?,"a)Inflammasome
+b)Toll-like receptors (TLRs)
+c)P selectin
+d)Manoreceptor","Inflammasomes are involved in the recognition and clearance of necrotic cells.
+Inflammasomes are involved in pyroptosis, a process of programmed cell death distinct from
+apoptosis and necrosis. This process is dependent on caspases 1, 4, and 5 and is responsible for killing of infected cells. It occurs in the following sequence:
+• Activation of inflammasome complex by infected cells
+• This causes activation of caspase-1
+• This results in generation of IL-1, which is responsible for fever, inflammation, leukocyte recruitment
+option B: Toll-like receptors (TLR)- recognizes molecules shared by pathogens
+option C: P-selectins - an important role in the initial recruitment of wBCs at the site of inflammation &amp; in platelet recruitment and aggregation at the site of injury.",,A,
+Q19,A patient has been brought with severe bleeding to your ER. His blood group is unknown. Fresh frozen plasma from which of the following blood groups can be given?,"a)o
+b)AB
+c)B
+d)A","Fresh Frozen plasma (FFp) from AB blood group can be given to this patient as it is the universal plasma donor. AB plasma does not contain antibodies against antigens on RBCs of AB blood
+group.
+o Rh-negative blood is the universal blood donor. It is used during emergency packed cell blood transfusion with an unknown blood group. It is preferred because it lacks the A and B and Rh
+antigens. Hence, it cannot be hemolyzed by anti-A, anti-B or anti-D antibodies in the recipient’s blood.",,B,
+Q20,which of the following is not a proto-oncogene implicated in carcinoma of thyroid?,"a)RAS
+b)RET
+c)BRAF
+d)p53","p53 is is a tumor-suppressor gene and not an oncogene.
+The following are the proto-oncogenes implicated in carcinoma of the thyroid.
+
+proto-oncog ene	Tumor
+RAS	papillary thyroid carcinomaF ollicular thyroid carcinomaH urthle cell carcinoma
+RET	papillary thyroid carcinoma   Medullary thyroid carcinoma
+MET	papillary thyroid carcinomaF ollicular thyroid carcinoma
+BRAF	papillary thyroid carcinomaT all-cell poorly differentiated c ancerAnaplastic carcinoma",,D,
+Q21,NARP syndrome is a?,"a)Lysosomal storage disorder
+b)Mitochondrial function disorder
+c)Glycogen storage disorder
+d)Golgi body transport disorder","NARp syndrome - Neuropathy Ataxia Retinitis pigmentosa syndrome is described as
+a mitochondrial function disorder.
+NARp syndrome is due to a point mutation of the mitochondrial ATpase-6 gene. It has 2
+phenotypes:
+• NARp
+• Maternally inherited Leigh syndrome (MILS)
+It is characterized by moderate, diffuse cerebral and cerebellar atrophy and symmetric lesions of  the basal ganglia on MRI. The severity of the syndrome corresponds to the mutant mitochondrial DNA load in the tissues.",,B,
+Q22,which amongst the following is true about Turner's syndrome?,"a)webbing of hands and toes are associated with risk of visceral anomalies b) Noonan syndrome is more associated with cardiac defects
+b)Absence of neck webbing is associated with higher risk of co-arctation of aorta
+c)webbing of neck is associated with higher risk of cardiac anomalies","In Turner's syndrome, webbing of the neck is associated with a higher risk of cardiac anomalies. The image below summarises the clinical features of Turner's syndrome.
+
+
+The image given below shows the webbing of neck.
+
+
+Noonan syndrome is characterised by mutations in the RAs-MAPK pathway. The most common of these is the PTPN11 which encodes a protein tyrosine phosphatase on chromosome 12.
+clinical features include:
+• short stature
+• short webbed neck
+• cystic hygroma
+• Tall forehead
+• Low posterior hairline
+
+
+
+• Dental malocclusion
+Although it shares many clinical features with Turner’s syndrome, Noonan syndrome
+affects both sexes. It follows an autosomal dominant pattern and it also has a different pattern of congenital heart disease, typically involving right-sided lesions.",,D,1863-1180.PNG;1863-1179.PNG

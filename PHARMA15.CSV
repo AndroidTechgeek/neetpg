@@ -1,0 +1,383 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,which of the following drugs used in the treatment of diabetes is known to cause urinary tract infections?,"a)Dapagliflozin
+b)sitagliptin
+c)pioglitazone
+d)Glimeperide","Dapagliflozin is known to cause urinary tract infections.
+Dapagliflozin is a sodium-glucose transporter 2 (SGLT-2) inhibitor. It acts by inhibiting the
+SGLT-2 transporter which is present on the proximal segment of the renal tubule and is
+responsible for the reabsorption of 8o-9o% of filtered glucose. This results in glycosuria. other SGLT-2 inhibitors include canagliflozin and empagliflozin.
+Apart from their effect on lowering blood glucose levels, SGLT2 inhibitors can cause mild weight loss and reduction in blood pressure. They have also been shown to reduce the risk of
+hospitalization in patients with heart failure.
+The common side effects include urinary tract infections and genital mycotic infections due to the high glucose content of the urine. There is a risk of the development of diabetic ketoacidosis.
+other options :
+option B - Sitagliptin is a dipeptidyl peptidase-4 inhibitor. Its use is associated with an increased risk of heart failure.
+
+option c - Pioglitazone is an activator of the peroxisome proliferator-activated receptor γ (PPARγ), which is involved in the regulation of genes related to glucose and lipid metabolism. Its adverse
+effects include increased incidence of heart failure, peripheral edema, weight gain, macular edema, and osteoporosis.
+option D - Glimepiride belongs to the class of sulfonylureas. It stimulates insulin release by
+inhibiting the activity of the β cell KATP channel complex. Its side effects include hypoglycemia and weight gain.",,A,
+Q2,which of the following medications used in treating leprosy causes skin pigmentation?,"a)oflaxacin
+b)Dapsone
+c)clofazamine
+d)Rifampicin","clofazimine is a dye with leprostatic and antiinflammatory properties.The mechanism of
+antimicrobial activity of clofazimine against mycobacteria appears to be multifactorial and
+includes membrane disruption, inhibition of mycobacterial phospholipase A2, inhibition of
+microbial K+ transport, generation of hydrogen peroxide, interference with the bacterial electron transport chain, and efflux pump inhibition.
+clofazimine is orally active. It accumulates in macrophages and gets deposited as needle-shaped crystals in many tissues including subcutaneous fat.
+clofazimine is used as a component of multidrug therapy (MDT) for leprosy. Because of its anti-inflammatory properties, it is valuable in lepra reactions. occasionally, it is used as a   component of a combination regimen for extensive drug resistant TB (XDR-TB).
+Adverse effects -
+• Skin - The major disadvantage is reddish-black discoloration of skin, especially on exposed parts. Discoloration of hair and body secretions may also occur. Dryness of the skin, itching and scaling  are often troublesome. Acneform eruptions and phototoxicity have been noted. conjunctival
+pigmentation may create cosmetic problems.
+• GI symptoms - Nausea, anorexia, abdominal pain, weight loss and enteritis with intermittent loose stools can occur, particularly when higher doses are used to control lepra reaction.
+Deposition of clofazimine crystals in the intestinal submucosa may produce gastrointestinal symptoms.
+clofazimine is to be avoided during early pregnancy and in patients with liver or kidney damage. other options :
+option A- ofloxacin is a fluroquinolone. As a component of MDT, it has been found to hasten the bacteriological and clinical response, where it is cidal to M.leprae. Its side effects include nausea,  vomiting, and abdominal discomfort. cNS side effects like dizziness, anxiety and insomnia are
+also seen. Tendinitis is another adverse effect seen with the use of fluoroquinolones.
+option B- Dapsone exerts its antimicrobial effect by the inhibition of PABA incorporation into
+folic acid by folate synthase. Apart from being used in leprosy, dapsone is also used for the
+prophylaxis of T. gondii. The anti-inflammatory effects are the basis for therapy of dermatitis
+herpetiformis, linear immunoglobulin A bullous disease, and relapsing chondritis. Mild hemolytic anemia is common, especially in those with G-6-PD deficiency. Isolated instances of reversible
+peripheral neuropathy, drug fever, hematuria, pruritus, psychosis, and a variety of skin rashes have been reported.
+
+option D - Rifampicin interrupts RNA synthesis by binding to a subunit of mycobacterial
+DNA-dependent RNA polymerase. Apart from being used to treat leprosy, it is used in the
+management of tuberculosis, brucellosis, and prophylaxis of Meningococcal meningitis. Hepatitis is a major adverse effect. other side effects include pruritus with rash, redness and watering of
+eyes,
+flu-like symptoms and abdominal cramps. urine and secretions may become orange-red.",,C,
+Q3,A patient is set to receive intermittent treatment with teriparatide. which of the following complications does this drug predispose him to?,"a)osteonecrosis of the jaw bone
+b)subtrochanteric fractures
+c)Net loss of bone mass
+d)osteosarcoma","The use of teriparatide predisposes an individual to the development of osteosarcoma.
+Teriparatide is a parathormone analog, which is given as subcutaneous injections.
+pharmacokinetics and systemic actions ofteriparatide on mineral metabolism are the same as for pTH. Its main target of action are the osteoblasts.
+Teriparatide is administered by once-daily subcutaneous injection of 2o μg into the thigh or   abdomen. The site of administration should be rotated, but the time at which the injection is made should be the same each day.
+Teriparatide and abaloparatide (pTHrp analog) are the only anabolic agents currently available
+that increase new bone formation (option C). Candidates for treatment include women who have a history of osteoporotic fracture, who have multiple risk factors for fracture, or who failed or are
+intolerant of previous osteoporosis therapy. Men with primary or hypogonadal osteoporosis are also candidates for treatment with these agents.
+Adverse effects include hypercalcemia, exacerbation of nephrolithiasis, and elevation of serum
+uric acid levels. The development of osteosarcoma has been a serious concern in patients treated    with teriparatide. It comes with a black-box warning, and use should be limited to no more than 2 years and avoided in patients who are at increased baseline risk for osteosarcoma (including those with paget disease of bone, unexplained elevations of alkaline phosphatase, open epiphyses, or
+prior radiation therapy involving the skeleton).
+other options :
+options A and B - osteonecrosis of the jaw bone and subtrochanteric fractures are the adverse effects ofbisphosphonates.",,D,
+Q4,which of the following monoclonal antibodies is not a HER - 1 inhibitor?,"a)pertuzumab
+b)cetuximab
+c)panitumumab
+d)Necitumumab","pertuzumab is a humanized IgG1 monoclonal antibody directed against HER2.
+pertuzumab is approved for the treatment of patients with HER2-positive, locally advanced,
+inflammatory, or early-stage breast cancer in combination with trastuzumab and docetaxel. Its adverse effect includes cardiotoxicity.
+The other three antibodies act against epidermal growth factor receptor (EGFR)/ HER-1.
+option B - Cetuximab is used to treat patients with metastatic colon cancers and head and neck squamous cell carcinoma (HNSCC).
+
+option c - panitumumab is approved for the treatment of EGFR-expressing metastatic colorectal cancer.
+option D - Necitumumab is approved for first-line treatment of patients with metastatic, squamous non-small cell lung cancer in combination with gemcitabine and cisplatin.",,A,
+Q5,"A G2p1 delivered a preterm baby at 36 weeks. The baby was admitted in the NIcU for a week and was given expressed breast milk. Unfortunately the baby did not survive. which of the
+following drugs can be used to reduce the engorgement and pain of the lactating breasts?","a)cabergoline
+b)Sumatriptan
+c)chlorpromazine
+d)pramipexole","In the given scenario, the woman requires suppression of lactation, for which cabergoline is indicated.
+In the postpartum period, prolactin promotes lactation. Dopamine(DA) is the primary regulator of prolactin secretion from the pituitary gland. DA released from the hypothalamus into the
+hypophyseal portal blood supply acts on lactotroph D2 receptors to decrease prolactin secretion.  The DA agonists like bromocriptine and cabergoline are used in conditions requiring suppression of prolactin.
+cabergoline is an ergot derivative with a longer t1/2 (~65 h), higher affinity, and greater selectivity for the DA D2 receptor compared to bromocriptine. cabergoline is the preferred drug for the
+treatment of hyperprolactinemia because of greater efficacy and lower adverse effects. Therapy is  initiated at a dose of o.25 mg twice a week or o.5 mg once a week. cabergoline induces remission in a significant number of patients with prolactinomas. At higher doses, cabergoline is used in
+some patients with acromegaly alone or in conjunction with somatostatin analogs.
+Adverse Effects -
+compared to bromocriptine, cabergoline has a much lower tendency to induce nausea, although it still may cause hypotension and dizziness. cabergoline has been linked to valvular heart disease,   an effect proposed to reflect agonist activity at the serotonin 5HT2B receptor. However, this effect is seen primarily at the high doses used in patients being treated for parkinson's disease and is not seen in the conventionally used doses (≤2 mg/week) for patients with prolactinomas.
+other options:
+option B - sumatriptan is a 5HT1B/1D receptor agonist used in the treatment of acute attacks of migraine.
+option c - chlorpromazine is a typical antipsychotic, which has D2 antagonistic activity. It is used in the treatment of schizophrenia, acute mania, and refractory nausea and vomiting.
+Hyperprolactinemia is an adverse effect associated with its use.
+option D - pramipexole is a non-ergot alkaloid with a broader DA receptor agonist activity, with   the highest affinity to D3 receptors. It is used in the treatment of parkinson's disease and restless leg syndrome. It is not indicated for the treatment of breast engorgement.",,A,
+Q6,coagulation profile monitoring is required for which of the following drugs?,"a)Lepirudin
+b)Enoxaparin
+c)Fondaparinux
+d)Dabigatran","coagulation profile monitoring is required while using lepirudin.
+
+Lepirudin is a parenteral direct thrombin inhibitor, which is a recombinant form of hirudin
+extracted from the saliva of leech. Its action is independent of anti-thrombin, which means it can   reach and inactivate fibrin-bound thrombin in thrombi. It is excreted by the kidney and should be used with great caution in patients with renal insufficiency as no antidote exists.
+Like heparin, lepirudin must be administered parenterally and is monitored by apTT. Lepirudin was approved for use in patients with thrombosis related to heparin-induced thrombocytopenia  (HIT). Its production was discontinued by the manufacturer in 2012.
+other options :
+option B - Enoxaparin is a low molecular weight heparin (LMWH) that inhibits activated factor X with less effect on thrombin. Hence, it has a smaller effect on the coagulation profile and does not need monitoring.
+option C - Fondaparinux avidly binds antithrombin, resulting in efficient inactivation of factor
+Xa. It is effective in the prevention and treatment of venous thromboembolism and does not
+appear to cross-react with pathologic HIT antibodies in most individuals. Like LMWH, it does not require monitoring of the coagulation profile.
+option D - Dabigatran is an oral direct thrombin inhibitor approved for the reduction in risk of stroke and systemic embolism with nonvalvular atrial fibrillation, treatment of venous
+thromboembolism (VTE) and VTE prophylaxis following hip or knee replacement surgery. It does not require monitoring of coagulation profile.",,A,
+Q7,"A patient known case of diabetes, shows microalbuminuria on urine analysis, done twice at    an interval of 6 months. Renal function tests are normal. which of the following drugs is not useful in preventing the progression of renal damage?","a)Finerenone
+b)Hydrochlorothiazide
+c)Angiotensin receptor blockers
+d)SGLT2 inhibitor","The given clinical scenario suggests chronic kidney disease secondary to diabetes, and
+hydrochlorothiazide is not useful in preventing the progression of renal damage.
+Chronic kidney disease (CKD) is defined as abnormalities of kidney structure or function, present for a minimum of 3 months, with implications for health. CKD is classified based on cause,
+glomerular filtration rate (GFR) category (G1–G5), and albuminuria category (A1–A3). some of the leading causes of  CKD are diabetes, hypertension, glomerulonephritis and polycystic kidney
+disease.
+In patients with diabetes mellitus, often there exists a state of glomerular hyperfiltration due to decreased vascular resistance of afferent arterioles and increased vascular resistance of efferent arterioles resulting in increased glomerular hydrostatic pressure. This contributes to the
+progression ofthe CKD.
+The following drugs have been approved in the management of CKD :
+• Angiotensin-converting enzyme inhibitors / Angiotensin receptor blockers - These medications appear to slow the rate of decline of kidney function in a manner that extends beyond the
+reduction of systemic arterial pressure and that involves a reduction in the intraglomerular hyperfiltration and hypertension.
+• Finerenone - It is a non steroidal mineralocorticoid receptor antagonist which decreases
+proteinuria. It has been approved to reduce the risk of end-stage kidney disease, cardiovascular death, and heart failure in diabetic patients with CKD.
+
+• sGLT-2 inhibitors - These drugs inhibit sodium-glucose cotransporter type 2 in the proximal
+convoluted tubule. By increasing Nacl delivery to the thick ascending limb, gliflozins trigger
+tubuloglomerular feedback and thereby increase preglomerular vascular resistance and decrease glomerular hypertension. This contributes to the effectiveness of gliflozins to prevent diabetic
+kidney disease.",,B,
+Q8,which of the following causes a decrease in serum parathyroid hormone?,"a)calcitriol
+b)Risedronate
+c)Furosemide
+d)Lithium","The active form of vitamin D, 1,25-dihydroxyvitamin D (calcitriol), directly suppresses PTH gene expression
+calcitriol is the active form of vitamin D. It increases calcium absorption from the intestines and helps maintain adequate serum calcium levels. when calcium levels rise, this triggers a negative  feedback mechanism on the parathyroid glands, leading to decreased secretion of parathyroid
+hormone (PTH). PTH's primary role is to raise blood calcium levels, so when calcium is sufficient, the need for PTH decreases, resulting in lower PTH levels.
+vitamin D and its derivatives are the primary treatment for hypoparathyroidism.
+Dihydrotachysterol (DHT), a reduced form of vitamin D2, has a quicker onset, shorter duration, and stronger impact on bone mobilization than traditional vitamin D, making it a preferred
+option. while most hypoparathyroid patients respond well to any form of vitamin D, calcitriol may be preferred for temporary treatment of hypocalcemia while waiting for the effects of a
+slower-acting vitamin D form. calcium is used to address calcium deficiency and as a dietary supplement. vitamin D is the primary treatment for hypoparathyroidism.
+severe hypermagnesemia or hypomagnesemia can also inhibit PTH secretion.
+other options:
+option B: Risedronate is a bisphosphonate that inhibits bone resorption, but it doesn't directly affect PTH secretion.
+option c: Furosemide is a diuretic that can increase calcium excretion, potentially raising PTH as the body tries to conserve calcium.
+option D: Lithium can actually increase PTH secretion by affecting calcium-sensing receptors in the parathyroid glands.",,A,
+Q9,which of the following acts by suicide inhibition?,"a)1,2
+b)3,4
+c)1,2,4
+d)1,3,4","Ritonavir and benzbromarone are both suicide inhibitors.
+suicide inhibition is when an inhibitor binds to an enzyme and then undergoes a reaction to form an irreversible complex with the enzyme, inactivating it permanently. Ritonavir is a protease
+inhibitor used in HIv treatment and benzbromarone is a uricosuric agent used to treat gout by    increasing uric acid excretion. It also inhibits cyP2c9 via mechanism-based (suicide) inhibition. other options:
+
+Ethinyl estradiol is a synthetic estrogen used in oral contraceptives and hormone replacement therapy. It acts through receptor-mediated mechanisms, not through suicide inhibition.
+spironolactone is a potassium-sparing diuretic and aldosterone antagonist. It works by
+competitively inhibiting aldosterone receptors in the distal tubules of the kidney, not through suicide inhibition.",,B,
+Q10,which of the following diuretics is matched correctly with its location of action?,"a)1,2,3
+b)3,4
+c)2, 4
+d)1,2","The osmotic diuretics act at the proximal convoluted tubule and the potassium-sparing diuretics act on the collecting tubule. Hence c and D are the right statements.
+A - Osmotic diuretics, like mannitol, retain water isoosmotically in the proximal convoluted tubule (PcT) and descending loop of Henle which are freely permeable to water. Luminal fluid is diluted  and opposes Nacl reabsorption. They are indicated in raised intracranial tension and in dialysis
+disequilibrium.
+B - Thiazides act on the distal convoluted tubule (DcT). They block the Na+/cl- co-transporter in   the DcT. This results in the loss of sodium, chloride, and water contributing to the diuretic effect. some of the examples are hydrochlorothiazide, chlorthalidone and metolazone. Their indications  include hypertension, edema, diabetes insipidus and hypercalciuria.
+c - carbonic anhydrase inhibitors act on the proximal convoluted tubule (PcT). By inhibiting carbonic anhydrase, HcO3- reabsorption is blocked and diuresis occurs. Examples are
+acetazolamide, methazolamide, dichlorphenamide, and dorzolamide. They are used in the
+treatment of glaucoma, urinary alkalinization in cystinuria, management of metabolic alkalosis, and acute mountain sickness.
+D - Potassium-sparing diuretics include aldosterone antagonists (spironolactone, eplerenone) and inhibitors of renal epithelial Na+ channel (triamterene, amiloride). They act on the late distal
+tubule and the collecting duct. Aldosterone antagonists are used in the treatment of edema, hypertension, heart failure and conn's syndrome. Amiloride has a role in lithium-induced    diabetes insipidus.",,B,
+Q11,which of the following drugs acts as an inhibitor of Pcsk-9?,"a)Bempedoic acid
+b)Lomitapide
+c)Ezetemibe
+d)Evolocumab","Evolocumab is a monoclonal antibody that acts by inhibiting Pcsk9.
+Pcsk9 (proprotein convertase subtilisin/kexin type) is a serine protease that causes lysosomal
+degradation of the low-density lipoprotein (LDL) receptors present on hepatocytes. Monoclonal     antibodies against Pcsk9 such as alirocumab and evolocumab counter this and cause persistence of LDL receptors on hepatocytes. This leads to more LDL uptake from the circulation, bringing
+down the LDL-cholesterol levels.
+Evolocumab is administered as a 14o-mg injection every 2 weeks or as a 42o-mg injection once a month. Pcks9 inhibitors should not be used in pregnancy because transmission across the
+placenta is expected.
+
+PCSk9 inhibitors are indicated only as adjunctive therapy in patients with familial
+hypercholesterolemia(FH) or established atherosclerotic cardiovascular disease(ASCVD) who have elevated LDL-cholesterol levels despite being on maximum statin therapy.
+other options :
+option A - Bempedoic acid acts by inhibiting de novo hepatocyte cholesterol biosynthesis, by
+blocking the enzyme adenosine triphosphate citrate lyase. The drug is approved as an adjunct to diet and maximally tolerated statin therapy to further lower LDL-C in patients with FH or
+established ASCVD.
+option B - Lomitapide acts by inhibiting microsomal triglyceride transfer protein (MTP), which is essential for the intracellular transfer of triglycerides into triglyceride-rich lipoproteins, thus
+inhibiting the formation of VLDLs in hepatocytes and chylomicrons in intestinal epithelial cells. It is approved as an adjunct to diet for lowering LDL-C levels, total cholesterol, apo B, and
+non–HDL lipoproteins in patients with FH.
+option C - Ezetimibe inhibits luminal cholesterol uptake by jejunal enterocytes, by inhibiting
+Niemann-Pick C1–like 1 transport protein. The role of ezetimibe as monotherapy for patients with elevated LDL-C levels is generally limited to a small group of statin-intolerant patients.",,D,
+Q12,Inhaled nitric oxide (iNO) is used for?,"a)Persistent pulmonary hypertension of newborn
+b)unstable angina
+c)obstructive sleep apnea
+d)Erectile dysfunction","Inhaled nitric oxide(iNo) is used for persistent pulmonary hypertension in newborns. (option A) Inhaled No selectively dilates the pulmonary vasculature, hence used in diseases associated with increased pulmonary vascular resistance. Inhaled No is an FDA-approved drug for persistent
+pulmonary hypertension in the newborn.
+Inhaled No can also be used during cardiac catheterization to evaluate the pulmonary
+vasodilating capacity of patients with heart failure and infants with congenital heart disease.
+Another use of inhaled No is to determine the diffusion capacity (DL) across the alveolar-capillary membrane. It is more effective than Co2 because of its greater affinity for hemoglobin and its
+higher water solubility at body temperature.
+No is produced from the nasal passages and the lungs of normal human subjects and can be
+detected in exhaled gas. The measurement of fractional exhaled No is a noninvasive marker for
+airway inflammation in the assessment of respiratory tract diseases, including asthma, respiratory tract infection, and chronic lung disease.
+Inhaled No is administered at low concentrations (o.1–5o ppm) since high concentrations of 5o to 1oo ppm can cause significant methemoglobinemia that can cause death.
+other options:
+option B: unstable angina is treated by anti-platelet drugs such as aspirin and clopidogrel, and anticoagulants such as heparin.
+option C: obstructive sleep apnoea is mainly treated by using a BiPAP machine during sleep and CNS stimulants such as armodafinil for daytime sleepiness associated with the condition.
+option D: Erectile dysfunction is treated by PDE5 inhibitors such as sildenafil, tadalafil, etc.",,A,
+Q13,A patient presents with complaints of a cough producing tenacious white sputum. which of the following statements is true about the drug that could be prescribed for this condition?,"a)codeine as it is a potent drug and quickly relieves symptoms.
+b)Bromhexine and Dextromethorphan syrup as they liquify sputum and reduce cough due to antitussive effect
+c)Dextromethorphan alone as it does not have addictive potential like codeine
+d)Bromhexine as it liquifies sputum","Bromhexine should be prescribed for a patient with a productive cough, as it liquifies the sputum.
+Bromhexine belongs to a class of drugs called mucolytics, capable of inducing thin copious
+bronchial secretion. It depolymerizes mucopolysaccharides directly as well as by liberating
+lysosomal enzymes- the network of fibers in tenacious sputum is broken. It is particularly useful if mucus plugs are present.
+other examples of mucolytics are ambroxol, carbocisteine, and N-acetyl cysteine.
+other options :
+codeine and dextromethorphan belong to the class of drugs called antitussives. These are drugs     that act in the cNS to raise the threshold of the cough center or act peripherally in the respiratory tract to reduce tussal impulses, or both these actions. Because they aim to control rather than
+eliminate cough, antitussive drugs should be used only for dry nonproductive cough or if it is unduly tiring, disturbs sleep, or is hazardous (hernia, piles, cardiac disease, ocular surgery).
+cough is a defensive reflex and its suppression may be inappropriate in bacterial lung infection. Hence, before treatment with antitussives, it is important to identify underlying causal
+mechanisms that may require therapy.",,D,
+Q14,which of the following antidiabetic drugs is known to cause unexplained diarrhea?,"a)sitagliptin
+b)Metformin
+c)Glimepiride
+d)pioglitazone","Metformin is known to cause unexplained diarrhoea as its adverse effect.
+Metformin is a member of the biguanide class of oral hypoglycemic drugs. It acts by primarily by inhibiting hepatic gluconeogenesis. It activates AMP-dependent protein kinase, leading to
+stimulation of hepatic fatty acid oxidation, glucose uptake, and nonoxidative glucose metabolism and reduction of lipogenesis and gluconeogenesis. It also appears to act in the gut.
+Metformin is accepted as the first-line treatment of type 2 diabetes and is the most commonly used oral agent for this condition. It has been used as a treatment of infertility in women with polycystic ovarian syndrome.
+The most common side effects of metformin are gastrointestinal: nausea, indigestion, abdominal   cramps, bloating, and diarrhea. The use of metformin is also associated with lower blood levels of vitamin B12.
+Most adverse GI effects of metformin abate over time and can be minimized by starting at a low    dose and gradually titrating to a target dose over several weeks, as well as by having patients take the drug with meals. Extended-release metformin has decreased GI side effects and can be
+substituted for immediate-release metformin. Lactic acidosis has been linked with the use of metformin.
+other options:
+option A - Sitagliptin is a dipeptidyl peptidase-4 inhibitor. Its use is associated with an increased risk of heart failure.
+
+option C - Glimepiride belongs to the class of sulfonylureas. It stimulates insulin release by
+inhibiting the activity of the β cell KATP channel complex. Its side effects include hypoglycemia, and weight gain.
+option D - Pioglitazone is an activator of the peroxisome proliferator-activated receptor γ
+(PPARγ), which is involved in the regulation of genes related to glucose and lipid metabolism. Its adverse effects include increased incidence of heart failure, peripheral edema, weight gain,
+macular edema, and osteoporosis.",,B,
+Q15,A young female weighing 46 kg is on digoxin with vd-6 L/kg and clearance 4.6 L/h. calculate the half-life of digoxin.,"a)4h
+b)68h
+c)42h
+d)o.9h","The half-life of Digoxin is 42 hours.
+In first-order kinetics:
+
+
+Therefore,
+t1/2 ~ o.7 x 46x6/4.6 〓 o.7 x 6o
+t1/2 ~ 42 hours
+where,
+t1/2 - Plasma half-life
+vd - volume of distribution
+CL - Clearance",,C,1303-794.PNG
+Q16,choose the correct option regarding phenytoin.,"a)Acute oral overdose results primarily in cerebellar and vestibular symptoms and high doses have been associated with marked cerebellar atrophy
+b)High dose causes cardiotoxicity in old and nephrotoxicity in young patients
+c)These complications can be minimized by administering fosphenytoin at a rate of less than 25o mg of phenytoin sodium equivalents per minute
+d)Given in all patients with seizures regardless of cardiac arrhythmias, hypotension and/or CNS depression","Acute oral overdose results primarily in cerebellar and vestibular symptoms and high doses have been associated with marked cerebellar atrophy.
+
+Dose-related toxicity of phenytoin causes ataxia, vertigo, diplopia, and nystagmus.
+other options:
+option B: High dose causes cardiotoxicity in both old and young, healthy patients. However,
+cardiotoxicity is more pronounced and frequent in older patients and those with known cardiac diseases.
+option C: These complications can be minimised by administering fosphenytoin at a rate of less than 15o mg of phenytoin sodium equivalents per minute, not 25o mg.
+option D: phenytoin is not effective in generalised absent seizures.",,A,
+Q17,True statement about Iron Isomaltoside 1ooo is,"a)Iron requirement can be fulfilled in single dose
+b)More immunogenic than iron dextran
+c)Given intravenously and gets deposited in adipose tissue therefore less toxic
+d)Cannot be given with erythropoietin","Iron requirement can be fulfilled in a single dose is true regarding Isomaltoside 1ooo.
+Iron isomaltose 1ooo is a new IV iron formulation that can supply a complete replacement dose in a short, single visit. It is used in adult patients with an intolerance to oral iron or for patients with CKD not requiring hemodialysis.
+other options:
+option B:  Isomaltoside 1ooo is not more immunogenic than iron dextran.
+option  C: The strength of iron binding causes a controlled slow release of bioavailable iron,
+decreasing the risk of toxicity from labile-free iron. Its decreased toxicity cannot be attributed to deposition in adipose tissue.
+option D: Isomaltoside 1ooo can be given with erythropoietin.",,A,
+Q18,The drug that binds to CD4 and has action on both CCR5 and CXCR4 in tropic HIV infections is,"a)Maraviroc
+b)Ibalizumab
+c)Elvitregravir
+d)Fosamprenavir","The drug that binds to CD4 and has an action on both CCR5 and CXCR4 in tropic HIV infections is Ibalizumab.
+Ibalizumab is an anti-CD4 monoclonal antibody approved for use in the treatment of
+multidrug-resistant HIV-1. It has action on both CCR5 and CXCR4 in tropic HIV infections and is administered intravenously.
+It acts as an entry inhibitor. It blocks HIV-1 from infecting CD4+ T cells by binding to domain 2 of CD4 cells. It also interferes with post-attachment steps required for the entry of HIV-1 virus
+particles into host cells and thus prevents the viral transmission that occurs via cell-cell fusion.
+other options:
+option A: Maraviroc binds to the host cell CCR5 receptor to block the binding of viral gp12o. It prevents the entry of the viral particles. It does not bind to CD4.
+option C: Elvitegravir is an integrase inhibitor that inhibits HIV 1 viral integrase enzyme and prevents proviral DNA integration into host cells.
+
+option D: Fosamprenavir is a protease inhibitor that blocks the viral protease enzyme necessary to produce mature virions upon budding from the host membrane.",,B,
+Q19,Inhibitors of Poly ADP ribose polymerase (PARP) are approved for BRCA-positive breast cancers. which among the following drugs is used?,"a)Pablociclib
+b)Rucaparib
+c)Regorafenib
+d)Vandetinib","Rucaparib is an inhibitor of Poly ADP ribose polymerase (PARP) used for BRCA-positive breast cancers.
+Rucaparib is a poly ADP-ribose polymerase/ PARP inhibitor approved for the treatment of breast and advanced ovarian cancer.
+PARP is a nuclear protein that transfers ADP-ribose from NAD+ to target proteins and this plays an important role in the DNA damage response. Rucaparib and olaparib are PARP inhibitors.
+Inhibitors of PARP (Poly ADP Ribosyl Polymerase) approved for breast cancer:
+• olaparib
+• Rucaparib
+• Talazoparib
+other options:
+option A: Palbociclib is a selective inhibitor of the cyclin-dependent kinases CDK4 and CDK6. It is used in the treatment of metastatic breast cancer.
+option C: Regorafenib is an angiogenesis inhibitor that is indicated as a second-line treatment for unresectable hepatocellular carcinoma. (The first line is Sorafenib).
+option D: Vandetanib is an oral tyrosine kinase inhibitor recently FDA-approved for unresectable locally advanced or metastatic medullary thyroid carcinoma.",,B,
+Q20,"A 6o-year-old patient who is a known case of hypertension and diabetes underwent pCI stent placement for NSTEMI last year. He is currently on aspirin, metoprolol and atorvastatin. He  comes for a follow-up, and his lipid profile is as follows- Total cholesterol 252mg/dl LDL:
+156mg/dl, triglyceride 158mg/dl and HDL- 4o mg/dl. which drugs can be added based on his lipid profile?","a)1, 2 and 4
+b)only 1 and 2
+c)1,3 and 4
+d)only 1 and 3","1,2 and 4 can be added based on his lipid profile.
+A patient with hypertension and diabetes who underwent PCI stent placement for NSTEMI has    atherosclerotic cardiovascular disease (ASCVD). The treatment goal in patients with ASCVD is to decrease LDL levels.
+Ezetemibe, Evolocumab, Bemepedoic acid decrease LDL. Gemfibrozil mainly decreases
+triglycerides and not LDL.
+1. Evolocumab is a monoclonal antibody that inhibits PCSK-9 (proprotein convertase
+subtilisin/kexin). Inhibition of PCSK-9 prevents the degradation of LDL receptors and thus
+increases LDL-cholesterol clearance by the liver. They are used in patients with atherosclerotic cardiovascular disease (ASCVD) to decrease LDL levels.
+2. Ezetimibe inhibits cholesterol absorption by enterocytes in the small intestine. It lowers the total and LDL-C levels.
+
+3. Gemfibrozil belongs to the fibrate group of drugs that binds to peroxisome
+proliferator-activated receptors (ppARα), which stimulate fatty acid oxidation and thereby reduce triglyceride levels mainly.
+4. Bempedoic acid inhibits adenosine triphosphate-citrate lyase (ACL) and results in decreased LDL in patients not responding to statin therapy.
+Note - Ezetimibe, colestipol, bempedoic acid and pCSk-9 inhibitors like alirocumab have been   proven to reduce atherosclerosis risk when added to statins, whereas the fibrate group of drugs and niacin show no significant effect in addition to statins.",,A,
+Q21,which of the following is a true statement regarding pretomanid?,"a)Given in XDR TB with Bedaquiline and Linezolid
+b)Contraindicated in patients on enzyme inducer drugs
+c)Acts by reactive oxygen species
+d)For resistant cases of malaria","Contraindicated in patients on enzyme inducer drugs is the true statement regarding pretomanid.
+pretomanid is metabolized in part by Cyp3A. So co-administration with strong or moderate
+Cyp3A inducers should be avoided. Hence, it is contraindicated in patients on enzyme-inducer drugs.
+pretomanid is a bicyclic nitroimidazole that acts by inhibiting mycolic acid (a component of the mycobacterial cell wall) and protein synthesis in the mycobacteria.
+pretomanid in combination with Bedaquiline and Linezolid, was approved by the FDA in 2019 for the treatment of adult patients with pre (XDR) TB (resistant to rifampicin and any
+fluoroquinolones) and for patients who are treatment-intolerant or nonresponsive to
+multidrug-resistant pulmonary (MDR) TB treatment.
+other options:
+option A: pretomanid is given for pre -XDR TB (not XDR TB) in combination with Bedaquiline and Linezolid (BpaL regimen). pre-XDR TB is resistant to rifampicin and any fluoroquinolone,  and therefore, BpaL is given to such patients.
+option C: pretomanid acts by reactive nitrogen species like No and not by reactive oxygen species.
+option D: pretomanid is not used for resistant cases of malaria.
+*Note: For people with MDR/RR-TB, the regimen comprises bedaquiline (B), pretomanid (pa), linezolid (L) and moxifloxacin (M), and is referred to as BpaLM. For people who have
+pre-XDR-TB, the regimen can be used without moxifloxacin (BpaL).",,B,
+Q22,which of the following drugs act on sodium channels and potentiate slow sodium inactivation?,"a)phenytoin
+b)Lamotrigine
+c)Lacosamide
+d)Topiramate","Lacosamide is a drug acting on sodium channel and potentiating slow sodium inactivation.
+Lacosamide acts by blocking the voltage-gated sodium channels. It is used as adjunctive therapy for focal-onset seizures in patients older than 17 years.
+It is the first anti-seizure medication that limits persistent repetitive firing, the neuronal firing pattern typical of focal seizures, and prolongs the gradual inactivation of voltage-gated Na+
+
+channels. Additionally, lacosamide binds to the phosphoprotein collapsing response mediator
+protein-2 (cRMp-2), which is mostly expressed in the nervous system and has a role in controlling axonal outgrowth and neuronal differentiation.
+The role of cRMp-2 binding in seizure control is unknown.
+Therapeutic uses:
+• It is used for both monotherapy and add-on therapy for focal-onset seizures in patients 17 years and older.
+• It is mostly beneficial in hospitalized patients because it is available in an intravenous formulation, has minimal hepatic metabolism, and has no adverse respiratory effects.
+
+Antiepileptic Drugs	Mechanism of Action
+phenytoin (option A)carbam azepineLamotrigine (option   B)	Inhibit Na channels
+phenobarbitalvigabatrinTiag abine	Enhance GABA inhibitionvig  abatrin – block GABA aminot ransferase irreversiblyTiagabi ne – block GABA reuptake
+EthosuximidezonisamideGab apentinpregabalin	Block ca channelsEthosuximi de, zonisamide –block T-type ca channelsGabapentin, pre  gabalin –block voltage sensiti  ve ca channels
+Levetiracetam	Binds synaptic vesicle protei n 2A
+valproate	Multiple MoA:GABA related  actionNMDA receptor antago nistHistone deacetylase inhib itor
+Topiramate (option D)	Multiple MoA:GABAergic act ionAMpA receptor antagonis  tActs on Na, ca and K chann  els
+Drugs acting on glutamate re ceptors	NMDA-type glutamate recept ors:valproate, FelbamateAM
+pA-type glutamate receptors: Topiramate, perampanel
+Newer drugs:RufinamideLac osamideEzogabineperampan el	prolongs inactivation of volta ge-gated Na channels   Enha  nces inactivation of voltage-g ated Na channels Inhibits col lapsin response mediator pro tein 2potassium channel ope  nerAMpA-type glutamate rec eptor antagonist",,C,
+Q23,which drug acts on the marked receptor?,"a)Tiagabine
+b)Ganaxolone
+c)Felbamate
+d)stiripentol","The marked receptor is GABA Transporter 1 Receptor (GAT-1), and Tiagabine acts on this receptor.
+Tiagabine inhibits the neuronal uptake of GABA and prolongs its time in the synaptic cleft, where the GABA molecules can activate GABA receptors.
+other drugs which act on the GABAergic pathway are:
+• Activation of GABA A receptors - Barbiturates, phenobarbitone
+• Activation of GABA B receptors - Baclofen
+• prevents the uptake of GABA - Tiagabine
+• prevents the degradation of GABA (inhibits GABA transaminase) - vigabatrin
+
+
+other options:
+option B: Ganaxolone is a recently approved drug for the treatment of seizures associated with CDKL5 deficiency. The exact mechanism of action of Ganaxolone is unknown, but its
+anticonvulsant effects are thought to result from positive allosteric modulation of the GABA-A receptor in the CNS. It can be used in adults as well as children older than 2 years of age. The  most common adverse reactions associated with the drug are somnolence, pyrexia, salivary
+hypersecretion and seasonal allergy.
+option C: Felbamate is the NMDA receptor antagonist prescribed to this patient. It also
+potentiates GABA action. It is indicated in refractory primary or secondary generalised seizures and Lennox-Gastaut syndrome. Felbamate is associated with aplastic anemia and liver failure.
+option D: Stiripentol is a GABA A receptor modulator with GABA-enhancing activity. It is
+clinically used in conjunction with valproate and clobazam for refractory generalized tonic-clonic seizures with severe myoclonic epilepsy in infants (Dravet syndrome).",,A,1308-795.PNG
+Q24,Match the treatment with its respective condition.,"a)a-i, b-ii, c-iii, d-iv
+b)a-ii, b-iii, c-i, d-iv
+c)a-iii, b-i, c-iv, d-ii
+d)a-iv, b-ii, c-iii, d-i","The correct set of matching is a-ii, b-iii, c-i, d-iv.
+Naloxone is an opioid antagonist used to reverse the effects of opioid overdose, such as
+respiratory depression.
+oxazepam is a benzodiazepine used for the management of delirium tremens, a severe alcohol withdrawal syndrome.
+varenicline is a partial agonist at the nicotinic acetylcholine receptors, used for smoking cessation by reducing withdrawal symptoms and cravings.
+Acamprosate is a modulator of glutamate and GABA neurotransmission, used for the treatment of alcoholism by reducing cravings and the risk of relapse in alcohol abstinence.
+
+a. Naloxone	ii. opioid overdose
+b. oxazepam	iii. Delirium tremens
+c. vareniclin e	i. smoking cessation
+d. Acampros ate	iv. Treatment of alcoholism",,B,
