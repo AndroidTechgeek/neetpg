@@ -1,0 +1,661 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+1,The extent of drug absorption is represented by:,"a) Tmax
+b) Area under the curve
+c) cmax
+d) t1/2","The extent of drug absorption is represented by the area under the curve.
+The rate and extent of absorption of a drug from dosage form administered by any route refer to the bioavailability of a drug. Bioavailability is determined by the concentration-time curve in blood or by its excretion in urine. The area under the blood concentration-time curve (AUC) is proportional to the dose and the extent of bioavailability of a drug.
+Bioavailability is defined as the fraction of unchanged drug that reaches systemic circulation. It can be represented by the formula:
+Bioavailability(F) = Quantity of drug reaching systemic circulation/ Quantity of drug administered. Bioavailability depends on two factors:
+• Absorption
+• 1st pass metabolism
+The area under the plot of plasma concentration of a drug versus time after dosage is called the area under the curve or AUC. It can be used as a measure of the bioavailability of a drug and to calculate its clearance rate from the body.
+The image given below shows the AUC (bioavailability) in a plasma concentration-time curve:
+Bioavailability of drug injected intravenously is 1oo%, but it is lower after oral ingestion because of incomplete absorption and first-pass metabolism in the intestinal wall/liver.
+The image below shows the difference between the bioavailability of drugs injected intravenously(iv) and orally(po). Note the area under the respective curves is shaded in red and blue colours which represent the absorption of the drug.",,B,1182-771.PNG;1182-770.PNG
+2,which of the following statement is correct regarding the given graph?,"a) Drug 1 represents agonist and drug 2 represents inverse agonist
+b) Drug 3 represents agonist and drug 4 represents inverse agonist
+c) Drug 1 represents agonist and drug 4 represents inverse agonist
+d) Drug 2 represents partial agonist and drug 3 represents inverse agonist","The correct statement is Drug 1 represents agonist and drug 4 represents inverse agonist.
+Graph 1 represents the agonist: An agonist is an agent which initiates the normal physiological response when combined with a receptor.
+Example: salbutamol is a beta-2 receptor agonist.
+Graph 2 represents a partial agonist: An agent which produces a submaximal or partial effect when combined with a receptor.
+Example: Buprenorphine and butorphanol are partial agonists at opioid receptors.
+Graph 3 represents the antagonist: An agent which blocks or reduces the action of an agonist on a receptor, but does not have any effect of its own.
+Example: Naltrexone and naloxone are antagonists at opioid receptors
+Graph 4 represents an inverse agonist: An agent which activates a receptor to produce an effect in the opposite direction to that of the agonist.
+Example: ß-carboline is an inverse agonist at benzodiazepine site of GABA-A receptor. The image given below shows action of various types of selective receptor modulators.",,C,1183-772.PNG
+3,which among the following drugs is the new FDA approved immune check point inhibitor for carcinoma endometrium?,"a) Nivolumab
+b) pembrolizumab
+c) Trastuzumab
+d) Ipilimumab","The new FDA-approved immune checkpoint inhibitor for carcinoma endometrium is pembrolizumab.
+Pembrolizumab acts by inhibiting programmed death receptor - 1 (PD-1) and was used for the treatment of advanced melanoma. Now, the FDA has approved the use of pembrolizumab for any cancer with mismatch repair (MMR) deficiency or high microsatellite instability (MSI-H).
+on March 21, 2022, the food and drug administration approved pembrolizumab, as a single agent, for patients with advanced endometrial carcinoma that is microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR), as determined by an FDA-approved test.
+other options:
+option A: Nivolumab is an immune checkpoint inhibitor that acts by inhibiting programmed death receptor - 1 (PD-1) and is used for the treatment of advanced melanoma and relapsed/refractory classical Hodgkin lymphoma.
+option C: Trastuzumab is a monoclonal antibody that inhibits the HER2 receptor. It is used in the treatment of HER2-positive breast cancer.
+option D: Ipilimumab is a monoclonal antibody that binds to cytotoxic T lymphocyte–associated Protein 4 (CTLA-4) and is approved for the treatment of late-stage melanoma.",,B,
+4,which of the following is not an immune checkpoint inhibitor?,"a) Nivolumab
+b) pembrolizumab
+c) Atezolimumab
+d) cetuximab","Cetuximab is not an immune checkpoint inhibitor. Cetuximab is a monoclonal antibody against epidermal growth factor receptor(EGFR). It is used for the treatment of colon cancer and head and neck squamous cell cancer.
+other options.
+option A: Nivolumab is an immune checkpoint inhibitor. It acts by inhibiting programmed death receptor - 1 (PD-1) and is used for the treatment of advanced melanoma and classical Hodgkin lymphoma.
+option B: Pembrolizumab is an immune checkpoint inhibitor. It acts by inhibiting programmed death receptor - 1 (PD-1) and is used for the treatment of advanced melanoma. In 2021, approval was granted for the treatment of patients with endometrial carcinoma that progressed after systemic treatment, in combination with lenvatinib.
+option C: Atezolimumab is an immune checkpoint inhibitor. It acts by inhibiting programmed death-ligand - 1 (PDL-1) and is used for the treatment of non-small cell lung cancer.
+Important note:
+The FDA on May 2021 approved the use of nivolumab in patients having completely resected esophageal or gastroesophageal junction cancers with residual pathologic disease who have received neoadjuvant chemoradiotherapy.",,D,
+5,NApQI is the metabolite of which of the following drug toxicity?,"a) Aspirin
+b) paracetamol
+c) Diclofenac
+d) ketorolac","N-acetyl-p-benzoquinone imine (NAPQI) is a metabolite of paracetamol drug toxicity.
+Paracetamol is an analgesic and antipyretic with weak anti-inflammatory action. It is mainly metabolized in the liver by conjugation with glucuronic acid and sulfate and is excreted in the urine.
+At toxic doses, the glucuronide and sulfate conjugation pathway becomes saturated. The metabolites of paracetamol get converted into NAPQI. NAPQI is highly reactive and causes enzymatic dysfunction in the liver. Normally, minor amounts of NAPQI produced in our body are rapidly eliminated by conjugation with reduced glutathione(GSH) and then excreted into the urine.
+Therefore, paracetamol toxicity is treated with N-acetyl cysteine(NAC), which replenishes GSH. NAC thereby helps in the excretion of NAPQI from the body. N-acetyl cysteine is an anti-oxidant and functions by detoxifying NAPQI.
+Paracetamol poisoning is the most common cause of liver failure necessitating transplantation.
+The maximum dose of acetaminophen that can be given is 4 g/day.",,B,
+6,"Identify the correct match, regarding the drug and its adverse effect.","a) Hydralazine - heart failure
+b) Atenolol - hemolytic anemia
+c) Aliskiren - hypokalemia
+d) verapamil - constipation","The correct match is verapamil causes constipation.
+verapamil is a calcium channel blocker used for the treatment of paroxysmal supraventricular tachycardia, atrial fibrillation, and atrial flutter. Bradycardia and constipation are the important side effects of verapamil.
+other options:
+option A: Hydralazine is a vasodilator used in the treatment of heart failure, and hypertensive emergencies, especially preeclampsia. The drug is used as a combination pill containing isosorbide dinitrate (BiDil) in the treatment of heart failure. The important side effect of hydralazine is drug-induced lupus.
+option B: Atenolol is a cardioselective beta-1 blocker used in the treatment of angina and hypertension. Atenolol doesn't cause hemolytic anemia.
+option C: Aliskiren is a direct renin inhibitor used as an alternative antihypertensive drug for those who do not respond or do not tolerate 1st line drugs. The side effect of aliskiren is hyperkalemia and not hypokalemia.",,D,
+7,A lady who had undergone mastectomy for breast cancer is being treated with tamoxifen. How long should it be stopped for before she can conceive?,"a) 1 month
+b) 3 months
+c) No need to stop
+d) Can be stopped and conceived soon after stopping","In a post-mastectomy patient undergoing therapy with tamoxifen, it should be stopped for 3 months before she can conceive.
+Tamoxifen is a selective estrogen receptor modulator (SERM) and is used as a chemotherapeutic agent in receptor positive breast cancer patients to prevent recurrence after surgery. It is the drug of choice in pre-menopausal women. It has an agonistic action on the endometrium, leading to an increased risk of endometrial cancers (2 fold risk). Hence, it is not used in post-menopausal women.
+It is contraindicated in pregnancy due to teratogenic effects such as craniofacial abnormalities and reproductive tract abnormalities. For the same reason, it has to be stopped for 3 months (due to long half-life) prior to conceiving. It is also stopped during lactation as it is secreted in breast milk. other complications of tamoxifen include deep vein thrombosis, pulmonary embolism, and hot flashes.
+other breast cancer risk reduction techniques:
+• Lifestyle modification: Low-calorie diet, daily exercise, no smoking, no drinking, etc.
+• More frequent screening with mammogram +/- MRI
+• Chemoprevention: Preferred in women >35 years of age in patients who are ER/PR positive.
+Given for 5-1o years.
+• SERMS (selective estrogen receptor modulators) - Tamoxifen and raloxifene. These have adverse effects.
+• Aromatase Inhibitors (AIs): They are used only in post-menopausal women.
+• Risk-reduction surgeries: preferred in patients with BRCA1/2 mutations or patients with first-degree relatives with breast cancers. provides >9o% risk-reduction. preferred in patients who have completed their family.
+• Bilateral mastectomy
+• Salpingo-oophorectomy: Best results when done < 4o years of age.",,B,
+8,A young boy with a history of multiple blood transfusions presents with bone pain for the past 6 months. A peripheral smear showed sickle-shaped RBCs. which of the following drugs are not used in the treatment of his condition?,"a) Bebtelovimab
+b) voxelotor
+c) Hydroxyurea
+d) L-glutamine","Bebtelovimab is not used in the treatment of sickle cell disease. The clinical features of multiple blood transfusions, bone pain, and sickle cells on peripheral smear are suggestive of sickle cell disease.
+Bebtelovimab is the new monoclonal antibody used for the treatment of CoVID-19. It works by binding to the spike protein of the CoVID-19 virus. It has been found useful in reducing the risk of hospitalization or death. Bebtelovimab retains the activity against the omicron variant.
+other options:
+option B: Voxelotor is an inhibitor of hemoglobin S polymerase and stabilizer of sickle cell hemoglobin (HbS) that is used in the therapy of sickle cell disease.
+option C: Hydroxyurea improves fetal haemoglobin (HbF) and is the primary drug for controlling HbS in sickle cell disease. Thus improving the oxygen-carrying capacity of the blood. Hydroxyurea also inhibits the enzyme ribonucleotide reductase (RNR), which is a rate-limiting step in the biosynthesis of DNA. This property of hydroxyurea is used in the treatment of various cancers, and myeloproliferative disorders like chronic myelogenous leukemia, and polycythemia.
+option D: L-glutamine is a naturally occurring amino acid with antioxidant properties.
+It increases the availability of reduced glutathione which may lessen oxidative damage in sickle red blood cells.",,A,
+9,The half-life of letrozole is:,"a) 45 hours
+b) 7o hours
+c) 9o hours
+d) 12o hours","The half-life of letrozole is 45 hours.
+Letrozole is a reversible aromatase inhibitor. It is a non-steroidal compound that inhibits the aromatization of estrogen thereby causing estrogen depletion. Letrozole is rapidly absorbed with 99.9% oral bioavailability and has a t½ of around 41 hours.
+Letrozole is used as the first-line drug for estrogen-positive breast cancer following mastectomy in post-menopausal women.
+Adverse effects of letrozole are due to the depletion of estrogen. The commonly seen adverse effects are hot flashes, vaginal dryness, nausea, diarrhea, dyspepsia, accelerated bone loss, and thinning of hair.",,A,
+10,Identify the false statement about eicosanoids.,"a) synthesized from arginine
+b) synthesized from arachidonic acid
+c) prostaglandins have 5 carbon ring
+d) synthesized in platelets","A false statement about eicosanoids is they are synthesized from arginine. Eicosanoids are synthesized from arachidonic acid (option B)
+Eicosanoids are the most universally distributed autocoids in the body. prostaglandins, thromboxanes, and leukotrienes comprise eicosanoids. Every cell is capable of synthesizing one or more eicosanoids. platelets primarily synthesize thromboxanes (option D).
+Eicosanoids are synthesized from arachidonic acid. Arachidonic acid is derived from membrane phospholipids. The release of arachidonic acid (AA) from the membrane phospholipids is mainly mediated by phospholipase A.
+AA is metabolized by cyclooxygenases to produce prostaglandins and lipoxygenases to produce leukotrienes and lipoxins.
+Inhibitors of metabolism of arachidonic acid:
+• corticosteroids cause inhibition of prostaglandin synthesis by inhibiting phospholipase A2.
+• Non-steroidal anti-inflammatory (NSAIDs) drugs inhibit the synthesis of prostaglandins by inhibiting the enzyme cyclooxygenase.
+• zileuton inhibits the enzyme lipoxygenase thereby decreasing the synthesis of leukotrienes.
+chemically, all prostaglandins are considered to be derivatives of prostanoic acid, having a five-carbon ring (option c).
+The image given below shows the synthesis of various eicosanoids from arachidonic acid:",,A,1187-773.PNG
+11,The given diagram shows the steps in bacterial cell wall formation. Identify the site of action of beta-lactam antibiotics.,"a) 1
+b) 2
+c) 3
+d) 4","Beta lactams act on step 4 in the given image.
+Mechanism of action of beta-lactams: They are the cell wall synthesis inhibitor. The ß-lactam antibiotics inhibit this last step in peptidoglycan synthesis. They inhibit the enzyme transpeptidase which is required for cross-linking of the peptidoglycan chain.
+Transpeptidases cleave the terminal D-alanine of the peptide chains and form cross-linkages between them. This cross-linking provides rigidity and stability to the cell wall.
+Transpeptidases and other related proteins constitute penicillin-binding proteins(PBP) and, are located in the bacterial cell membrane. ß-lactam antibiotics are bactericidal. This is because bacterias swell and burst due to deficient cell walls when they divide in the presence of ß-lactam antibiotics. Penicillins, cephalosporins, monobactams, and carbapenems are examples of ß-lactam antibiotics.
+Gram-positive bacteria are more susceptible to ß-lactam antibiotics than gram-negative because their cell wall is almost entirely made of peptidoglycan.
+Resistance to ß-lactam antibiotics develops due to the production of the beta-lactamase enzyme and the development of altered penicillin-binding proteins like in methicillin-resistant Staphylococcus aureus (MRSA). ß-lactamases inactivate ß-lactam antibiotics by opening the ß-lactam ring. This could be overcome by using drugs that inhibit this enzyme. Examples of ß-lactamase inhibitors are clavulanic acid, sulbactam, and tazobactam.
+other options:
+option A: Fosfomycin inhibits step 1 in the image. It inhibits the cytoplasmic enzyme enol pyruvate transferase that catalyses the initial step in the bacterial cell wall and hence cell wall synthesis. It is used for the treatment of urinary tract infections.
+option B: Bacitracin inhibits step 2 in the image. It is a cell wall synthesis inhibitor that interferes with dephosphorylation in the cycling of the lipid carrier which transfers peptidoglycan subunits to the growing cell wall. It is only given for topical application because of its severe nephrotoxicity when given systemically.
+option C: vancomycin inhibits step 3 in the image. It binds to the D-Ala-D-Ala terminus of the newly formed peptidoglycan pentapeptide. This prevents further elongation of the peptidoglycan and its cross-linking. It is used against MRSA and Clostridium difficile infection. Redman syndrome due to histamine release following infusion is an important side effect.
+Note: The FDA has approved the use of cefepime-enmetazobactam, a combination of a fourth-generation cephalosporin and beta-lactamase inhibitor for use in complicated UTIs (including pyelonephritis).",1164-761.PNG,D,
+12,phospholipase C acts via which of the following G protein-coupled receptors?,"a) Gs
+b) Gi
+c) Gq
+d) Go","Phospholipase C acts via the Gq type of G protein-coupled receptors.
+G protein-coupled receptors (GPCRs) are cell membrane receptors that span across the membrane 7 times. They also serve as receptors for various peptide hormones, neurotransmitters, amino acids, etc.
+Subtypes of GPCRs are distinguished by their alpha subunits. The important subtypes of GPCRs are Gs, Gp, Gq, and Go.
+GPCRs act via various second messengers. The important ones with their action on the effector are:
+• Gs causes activation of adenylyl cyclase and results in Ca2+ channel opening.
+• Gi causes inhibition of adenylyl cyclase and results in k+ channel opening.
+• Go causes Ca2+ channel inhibition.
+• Gq causes activation of phospholipase C which generates the second messengers inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG). The water-soluble IP3 diffuses to the cytosol and mobilizes Ca2+ from endoplasmic reticular depots.
+The given below image shows the effects of phospholipase C after activation by Gq",,C,1189-774.PNG
+13,A patient was diagnosed with pulmonary tuberculosis and was started on first-line antitubercular drugs. which of the following drug acts by inhibiting the synthesis of the marked layer shown in the image?,"a) Isoniazid
+b) Rifampicin
+c) Pyrazinamide
+d) Ethambutol","Isoniazid is the first-line antitubercular drug that acts by inhibiting the synthesis of mycolic acid.
+Isoniazid is a first-line bactericidal drug that is used for the treatment of tuberculosis. This drug enters bacilli by passive diffusion. It then gets activated to its toxic form by the enzyme catalase-peroxidase(the enzyme encoded by the kat gene).
+Normally, InhA and kasA are involved in the synthesis of mycolic acid. upon activation, the reactive metabolite of isoniazid forms complexes with NAD that inhibit InhA and kasA. Hence, isoniazid inhibits the production of mycolic acid.
+The reactive isoniazid metabolite also forms complexes with NADP. This complex inhibits mycobacterial dihydrofolate reductase which results in the interruption of DNA synthesis.
+side effects of isoniazid include:
+• Peripheral neuritis due to interference with the production of active coenzyme pyridoxal phosphate from pyridoxine. Therefore, pyridoxine 1omg/day (vitamin B6) is given prophylactically along with isoniazid to prevent neurotoxicity.
+• Hepatitis - isoniazid must be stopped at the first sign of hepatotoxicity.
+• Rashes
+• Anaemia
+• Arthralgia
+Toxicity of isoniazid results in metabolic acidosis, seizures, and coma.
+other options:
+option B: Rifampin acts by binding to DNA-dependent RNA polymerase to form a stable drug-enzyme complex. This complex suppresses RNA synthesis. side effects of rifampin are hepatitis, flu-like illness, orange-red colored urine, and body secretions.
+option C: pyrazinamide is a prodrug, it is converted into an active metabolite pyrazinoic acid which makes the intracellular environment acidic and collapses the transmembrane proton motive force, thereby killing the bacteria. side effects include hyperuricemia and hepatotoxicity.
+option D: Ethambutol inhibits arabinose transferase III, thereby decreasing arabinogalactan biosynthesis. This results in disruption in mycobacterial cell wall synthesis. optic neuritis is an important side effect of ethambutol. It results in decreased visual acuity and loss of red-green discrimination.",1165-762.PNG,A,
+14,A man was brought to the emergency room after poisoning with an unknown substance. Muscarinic poisoning was suspected and he was treated for the same. what is the possible presenting feature which led to the diagnosis?,"a) Mydriasis
+b) Diuresis
+c) Muscle fasciculations
+d) Bradycardia","Bradycardia is the possible presenting feature which led to the diagnosis of muscarinic poisoning.
+Muscarinic poisoning occurs due to the consumption of poisonous mushroom-like Inocybe.
+Muscarinic symptoms appear within an hour of eating the mushroom. These symptoms (along with nicotinic symptoms) can also be seen in organophosphate poisoning.
+There are 5 subtypes of muscarinic receptors they are M1, M2, M3, M4, and M5. The effects exerted by the M receptors are given below:
+• M1: Increased seizure activity.
+• M2: Tremors, bronchoconstriction, bradycardia, abdominal cramping
+• M3: Increased bladder contraction, miosis, increased salivary secretion
+• M4: Cataplexy(sudden muscle weakness)
+Atropine is used for the management of muscarinic poisoning. It competitively blocks the acetylcholine at the muscarinic receptors.",,D,
+15,"A 29-year-old lady came to psychiatry OPD with symptoms of hypomania. There is a past history of maniac episode. Now, she is planning to conceive. which drug should be avoided for being highly teratogenic to the fetus?","a) valproate
+b) Lithium
+c) Oxcarbazepine
+d) olanzapine","valproate should be avoided for being highly teratogenic to the fetus.
+valproate is an anti-epileptic medication. It is also used as a mood stabilizer in manic episodes as well as in bipolar disorder. The repetitive firing caused by depolarization of cortical or spinal cord neurons is inhibited by valproate. It also prolongs the sodium channel inactivation.
+The side effects of valproate (mnemonic: VALPRoATE)
+• Vomiting
+• Alopecia
+• Liver toxicity
+• Pancreatitis
+• Rash
+• obesity
+• Anorexia
+• Teratogenicity
+• oedema
+It causes congenital anomalies like neural tube defects (spina bififda), clefts, and cardiac anomalies. The intelligence quotient score of school-going children who were exposed in utero to valproate is found reduced. It also contributes to poor cognitive development in children. Folate supplementation reduces the chances of neural tube defects.
+The images below show a baby and a USG with spinal bifida:
+other options:
+option B: Lithium is used for the treatment of bipolar disorder as well as mania. It was earlier implicated in causing Ebstein anomaly, however, recent studies suggest that lithium has a weak teratogenic effect.
+option C: oxcarbazepine was earlier associated with teratogenicity and fetal malformations, however, recent studies suggest that oxcarbazepine monotherapy during pregnancy does not carry a significant risk of fetal malformations.
+option D: olanzapine is an antipsychotic and an antimanic and it is not associated with teratogenicity.",,A,1191-775.PNG;1192-776.PNG
+16,True statement regarding the administration of 5 alpha-reductase inhibitors is/are:,"a) 1, 2, 3
+b) 1, 3, 4
+c) 1, 4
+d) 2, 3","True statements regarding the administration of 5 alpha-reductase inhibitors are 1,4. They reduce dihydrotestosterone levels and decrease prostate-specific antigen (PSA) levels.
+5 alpha-reductase inhibitors are the competitive inhibitors of the enzyme 5 a-reductase which converts testosterone into the more active dihydroxy testosterone (DHT). This enzyme inhibition results in:
+• Decreased DHT levels
+• Decreased PSA levels
+• Reduces prostate volume
+However, plasma testosterone levels and LH (luteinizing hormone) levels remain unchanged
+Finasteride and dutasteride are the 5 a-reductase drugs currently in use. They are used in benign prostatic hyperplasia (BPH) along with surgery and adrenergic a1 blockers for symptomatic relief. They can also be used in male pattern of baldness and hirsutism.
+Side effects of 5 a-reductase drugs are:
+• Impotence
+• Decreased libido
+• Gynecomastia
+• Skin rashes",,C,
+17,"The manufacturer of a drug company labels a drug as having 5oo mg paracetamol. on quantitative analysis of the drug, it actually contained only 2oo mg of paracetamol. what is this type of drug called?","a) spurious drug
+b) Adulterated drug
+c) unethical drug
+d) Misbranded drug","This type of drug is called a misbranded drug. A drug stating that 5oomg of paracetamol is present in each tablet, but contains only 2oomg is a misbranded drug, according to the Drugs and cosmetics Act, 194o definition of misbranded drugs.
+According to the Drugs and cosmetics act, 194o, a misbranded drug is a drug if its label or container or anything accompanying the drug bears any statement, design, or device which makes any false claim for the drug or which is false or misleading in any particular.
+other options:
+option A: Spurious drugs include drugs manufactured under another drug or manufacturer's name, imitations of other drugs, and drugs with labels from a fictitious company or individual. It also includes drugs substituted partly or wholly by another drug or substance.
+option B: Adulterated drugs include those drugs that contain filthy, or decomposed substances, substances that are injurious to health, or if the drug harmful substances to reduce the quality or strength of the drug. It also includes drugs that were prepared in unsanitary conditions.
+option C: The term unethical drug is not standard terminology in pharmacology. However, the term ethical drug is sometimes used to describe those drugs that are available only by prescription of a medical practitioner.",,D,
+18,which of the following anti-diabetic drugs is associated with the increased risk of fractures?,"a) Rosiglitazone
+b) Liraglutide
+c) voglibose
+d) canagliflozin","canagliflozin is associated with an increased risk of fractures.
+canagliflozin is a sodium-glucose transporter-2 (SGLT2) inhibitor. SGLT2 is a Na+-glucose cotransporter that is located in the proximal convoluted tubule. They reabsorb glucose and sodium from the tubular lumen back into the blood through the epithelial cells. SGLT2 inhibitors block the transport of glucose in the proximal tubule and promote glycosuria and hence, lowering blood glucose.
+The currently available SGLT2 inhibitors are canagliflozin, dapagliflozin, and empagliflozin. other than decreasing blood glucose they also decrease blood pressure and, cause weight loss of 2–4 kg. Empagliflozin and canagliflozin reduce the risk for major cardiovascular events.
+The main side effect of SGLT2 inhibitors is an increase in lower urinary tract infections and genital mycotic infections. This is because of their glycosuric properties. A recent warning from the FDA says that SGLT2 inhibitors may increase the risk of fractures. They also affect circulating levels of parathyroid hormone, and 1,25-hydroxy vitamin D thereby affecting the mineral balance in bone.
+other options:
+option A: Rosiglitazone is a thiazolidinedione that acts as a peroxisome proliferator-activated receptor ? agonist in the adipose tissue which increases insulin sensitivity and adipose differentiation. Side effects are weight gain, edema, and increased risk of fractures. compared to rosiglitazone, canagliflozin is commonly used in clinical practice. American diabetes association recommends canagliflozin as the first-line drug along with metformin, in patients with a high risk of cardiovascular disease, renal failure, and heart failure. Even when thiazolidinediones are required, clinicians prefer pioglitazone over rosiglitazone due to the higher risk of cardiovascular-related mortality in rosiglitazone. Therefore, canagliflozin would be a better option compared to rosiglitazone.
+option B: Liraglutide is a long-acting glucagon-like peptide-1 agonist. Nausea, diarrhea, and acute pancreatitis are some frequent side effects.
+option c: voglibose reduces the intestinal absorption of starch, dextrin, and disaccharides by inhibiting the action of a-glucosidase in the intestinal brush border. The most prominent adverse effects are malabsorption, flatulence, diarrhea, and abdominal bloating.",,D,
+19,The active metabolite of cyclophosphamide is:,"a) N - hydroxy cyclophosphamide
+b) 4 - hydroxy cyclophosphamide
+c) 4 - acetyl cyclophosphamide
+d) N - acetyl cyclophosphamide","The active metabolite of cyclophosphamide is 4 - hydroxy cyclophosphamide.
+cyclophosphamide is an alkylating agent with antitumor and immunosuppressant properties. It is used for many solid tumors. The important side effects are cystitis due to metabolite acrolein and bladder carcinoma.
+cystitis caused by cyclophosphamide is treated by systemic administration of mesna and by irrigating the bladder with acetylcysteine. Both these drugs contain –SH which detoxifies the toxic metabolites. plenty of fluids and frequent bladder voiding are also helpful.",,B,
+20,urinary alkalinization will be most useful in toxicity of which of the following drugs?,"a) Beta blockers
+b) calcium channel blockers
+c) Acetaminophen
+d) Aspirin","Alkalinization of urine will be helpful in the removal of aspirin, which is a weakly acidic drug and is susceptible to ion trapping in the urine.
+Aspirin is a weak acid, with a pka of 3.o. Drugs that are subjected to renal clearance are excreted into the urine by glomerular filtration and active tubular secretion. Nonionized compounds are reabsorbed more rapidly than ionized polar molecules. when the pH of the urine increases, more salicylate is in its ionized form at equilibrium. Hence, salicylic acid diffuses into the tubular lumen of the kidney. urine alkalinization is recommended as a first-line treatment only for moderately severe salicylate poisoning that does not meet the criteria for hemodialysis.
+Alkalinization of the urine is achieved by administration of 1oo–15o mEq of sodium bicarbonate in 1 L of 5% dextrose in water (D5w). It is infused intravenously at twice the maintenance fluid requirements.
+Alkalinization of urine is contraindicated in renal failure or if fluid administration may worsen pulmonary edema or congestive heart failure.",,D,
+21,A hospital is conducting a study to check the efficacy of statins in multiple centers. There are 4-5 patients per center and half of the patients receive the drug and the other half receive the placebo. Neither the patients nor clinicians know which drug is being administered. what phase of the clinical trial describes the above scenario?,"a) phase 1
+b) phase 3
+c) phase 2
+d) phase 4","A hospital conducting a double-blinded study in multiple centers to check the efficacy of statins describes phase 3 of the clinical trial. A phase 2 clinical trial is generally conducted at a few centers (2-4) by physicians.
+phase 3 of a clinical trial is also known as a multisite trial. It is conducted on a large patient population (5oo–3ooo) by several physicians at multiple centers. This phase involves patients who have been diagnosed with the disease that the drug claims to treat. Its purpose is to confirm the efficacy of the newly developed drug in a larger population. phase 3 is randomized, controlled, and may be blinded.",,B,
+22,A patient who is a known addict is brought to the hospital with the intoxication of an agent. An ocular examination shows the following finding. which of the following is true regarding this condition?,"a) This action can be reversed by phenylephrine.
+b) It cannot be reversed by levallorphan.
+c) It is caused by activation of the Edinger-westphal nucleus.
+d) Tolerance develops due to long-term use.","The given clinical scenario and the image showing a pin-point pupil (miosis) suggest opioid overdose. The true statement among those given is that it is caused by activation of the Edinger-westphal nucleus.
+Edinger-westphal nucleus is a part of the light reflex pathway and is located in the midbrain. This nucleus is responsible for causing pupillary constriction when the retina is exposed to light.
+opioid overdose symptoms are a triad of coma, respiratory depression, and pinpoint pupils (miosis). other features are hypotension, bradycardia, shallow breathing, and hypothermia. Tolerance to miosis does not develop even in addicts who develop a high tolerance to opioids. Miosis is induced by all opioid agonists.
+Naloxone is the drug of choice for opioid overdose. It is administered after adequate ventilation is established. Airway protection and ventilatory maintenance are the most important steps in the treatment of opioid overdose; this is because respiratory depression is the major cause of mortality in such cases. single-dose activated charcoal can be administered if the opioid ingestion occurred within one hour.
+Levallorphan is an opioid antagonist, with properties similar to those of naloxone. It can be used for opioid overdose. It reverses severe opioid-induced respiratory depression.
+phenylephrine is an a1-selective agonist that causes mydriasis, but it is not useful in the reversal of opioid-induced miosis.",1168-763.PNG,C,
+23,Match the following drugs in Column A with their contraindications in Column B.,"a) A-1, B-3, C-2, D-4
+b) A-4, B-1, C-3, D-2
+c) A-2, B-4, C-1, D-3
+d) A-3, B-2, C-4, D-1","The correct answer is option B: A-4, B-1, C-3, D-2
+In a patient with head injury, morphine is contraindicated because it increases intracranial tension due to Co¦ retention, precipitates respiratory depression, and may cause vomiting, miosis, and altered mental state which interferes with assessment of mental state.
+Amiodarone should not be used in patients with prolonged QT interval because it may cause marked prolongation of the QT interval, bradycardia, and torsades de pointes.
+Vigabatrin, an inhibitor of GABA-transaminase, an anti-convulsant, is contraindicated in pregnancy due to its potential teratogenic effect.
+Estrogen preparations can contribute to the incidence and severity of thromboembolism, particularly if other risk factors are present. The risk of serious cardiovascular side effects is particularly marked in women more than 35 years of age who smoke heavily.
+A. Morphine
+4. Head Injury
+B. Amiodarone
+1. QT prolongatio n
+C. Vigabatrin
+3. pregnancy
+D. Estrogen preparation s
+2. Thromboembo lism",,B,
+24,which of the following statements is true regarding memantine?,"a) 1, 2, 3, 4
+b) 1, 2
+c) 3, 4
+d) 1, 2, 3","1 and 2 are true statements regarding memantine.
+Memantine is a non-competitive NMDA receptor antagonist. It inhibits glutamate excitotoxicity. It delays the progression of dementia in Alzheimer's disease. Commonly, it is started in patients with moderate-to-severe disease.
+It can be given both as monotherapy or can be given along with cholinesterase inhibitors. It can be started at a dose of 5 mg once daily and then progressively increased up to 1o mg twice daily for a minimum of 6 months.
+It can cause dizziness and headache. Since it is excreted in the kidney, careful dose adjustments should be made in patients with renal failure.",,B,
+25,The image below shows the life cycle of a virus. which of the following drugs acts at step 5?,"a) Raltegravir
+b) Enfuvirtide
+c) Tenofovir
+d) zidovudine","Step 5 in the given life cycle shows the integration of the viral DNA into the host genome.
+Raltegravir is an integrase inhibitor and is active against both HIV-1 and HIV-2. It can be used in adults and children >1 month old.
+It is advised for patients to consume antacids and sucralfate, 6 hours before or 2 hours after raltegravir intake.
+It may cause headaches, nausea, weakness and fatigue. Rarely, it can lead to drug reactions with eosinophilia and systemic symptoms (DRESS) syndrome.
+The steps involved in the lifecycle of HIV as given in the image are described as follows:
+• step 1: Binding of HIV-1 to the cell membrane of a CD4+ cell
+• step 2: HIV-1 enters the cell via interaction with the membrane glycoproteins
+• step 3: Reverse transcription of the viral genetic material using the virus' reverse transcriptase enzyme
+• step 4: The HIV-1 genome travels into the nucleus
+• step 5: The viral genome integrates into the host's DNA through the integrase enzyme
+• step 6: The HIV-1 proviral genome undergoes transcription with the host DNA
+• step 7: The viral messenger RNA (mRNA) undergoes translation to produce new viral proteins
+• steps 8 and 9: Assembly and maturation of the virion
+other options:
+option B: Enfuvirtide acts at step 2 in the given image. It blocks gp41 of the cell membrane and blocks the entry of the virus into the cell. It prevents the free viral particles from invading new CD4+ cells. It is effective against HIV-1.
+option C: Tenofovir acts at step 3 in the given image. It is a nucleotide reverse transcriptase inhibitor (NRTI) that is effective against HIV-1,2 and hepatitis B infections. It is used in adults and children >2 years old. It can also be used for pre-exposure prophylaxis.
+option D: zidovudine also acts at step 3 in the given image. It is an NRTI and is effective against HIV-1,2 and Human T-cell Lymphoma Virus (HTLV). It can be used in adults and children. It can also be used to prevent mother-to-child transmission.",,A,1197-777.PNG
+26,which of the following statements is correct regarding clinical trials?,"a) New drug application is done after phase 4
+b) phase 4 is also called post-marketing surveillance
+c) phase 3 is always double-blinded
+d) phase 2 is done on healthy individuals","phase 4 clinical trials are also called post-marketing surveillance is the correct statement.
+other options:
+option A: New drug application is done after phase 3 of clinical trials.
+option C: phase 3 trials may or may not be blinded.
+option D: phase 2 trials are the first round of trials in patients. phase 1 trials are done in healthy volunteers.",,B,
+27,Match the following teratogenic drugs with their teratogenic effects.,"a) 1-a, 2-b, 3-c, 4-d
+b) 1-c, 2-d, 3-a, 4-b
+c) 1-d, 2-a, 3-d, 4-c
+d) 1-d, 2-c, 3-b, 4-a","The correctly matched pairs of teratogenic drugs and their effects is 1-d, 2-c, 3-b, 4-a.
+Lithium use in early pregnancy causes Ebstein anomaly in the fetus. Fetal lithium exposure is associated with neonatal goiter, CNS depression, hypotonia (floppy baby syndrome), and cardiac murmur.
+Gray baby syndrome occurs in neonates, especially premature ones, exposed to high doses of chloramphenicol (1oo mg/kg), which are administered prophylactically.
+Fetal warfarin syndrome or warfarin embryopathy presents with CNS abnormalities, depressed nasal bridge/ saddle nose at birth, bleeding diathesis, and growth retardation. Hypoplasia of the nose, eye sockets, and long bones with stippling of epiphyses are also seen.
+Fetal thalidomide exposure causes phocomelia. This disorder is associated with underdeveloped limbs and absent pelvic bones. Both upper and lower limbs are affected, and a part of the limbs may be missing. Fused fingers and missing thumbs are also seen. Thalidomide was originally used for the treatment of pregnancy-associated morning sickness but was withdrawn due to this adverse effect. It re-entered the market for the treatment of erythema nodosum leprosum. It also has antiangiogenic and immunomodulatory effects.",,D,
+28,"A young man sustained a scorpion sting 2 hours ago. on examination, his blood pressure is 108/ 60 mm Hg; HR, 72 beats/minute, and respiratory rate, 32 breaths/minute. He also complains of breathlessness. How do you manage this patient?","a) Metoprolol
+b) Ivabradine
+c) prazosin
+d) Frusemide","The drug used to manage this condition is prazosin as it can counteract the effects of breathlessness most probably caused by pulmonary edema.
+The venom is a potent autonomic stimulator that causes the release of massive amounts of catecholamines from the adrenals. It also has a direct effect on the myocardium.
+It can present as neurotoxicity with restlessness or seizure-like activity, abnormal oculomotor function, and loss of pharyngeal muscle control that leads to respiratory compromise. Tongue fasciculations and hypersalivation are also common. Cardiovascular toxicity from systemic envenomation includes tachycardia, hypertension, pulmonary edema, and cardiogenic shock.
+If the scorpion has hemolytic venom, the reaction is mainly local, with edema, pain, and reddening. This usually lasts for one to two hours.
+Treatment:
+• pain - paracetamol, NSAIDs, or opioids
+• sedation for agitation, oculomotor abnormalities, uncoordinated neuromuscular activity, and muscle spasms - Benzodiazepines
+• Hypertension and pulmonary edema - Prazosin counteracts the adrenergic surge that can lead to these effects
+• cardiogenic shock - Antivenom, prazosin, nitroglycerin, dobutamine
+• cholinergic effects - Atropine
+• supportive care, wound care",,C,
+29,An experiment is being conducted on a cat spine to study the effect of acetylcholine. The blood pressure is recorded at each intervention and is shown below. what does phase 4 in the graph indicate?,"a) Muscarinic action of acetylcholine
+b) potentiation of acetylcholine
+c) Antagonism of acetylcholine
+d) Nicotinic action of acetylcholine","Phase 4 in the graph indicates the nicotinic action of acetylcholine at higher doses.
+In phases 1 and 2, acetylcholine (Ach) acts on muscarinic receptors (at 2 micrograms and 5o micrograms) bringing down blood pressure. Atropine blocks the muscarinic receptor, so this action of acetylcholine is not seen in phase 3. However, in phase 4, higher doses ofAch (like 5 mg) act via the nicotinic receptor, shooting up the blood pressure. This phenomenon is called the reversal of Ach in blood pressure and was studied by Dale.
+Nicotinic receptors are ligand-gated ion channels. It can be divided into two groups: muscle receptors (NM), which are found at the skeletal neuromuscular junction, and neuronal receptors (NN), which are found in the ganglia and cNs. when stimulated at higher doses, Ach acts on NN receptors, leading to the stimulation of sympathetic ganglia and adrenal medulla.
+This increases the heart rate, blood pressure, and myocardial contractility.
+Muscarinic receptors are G-coupled protein receptors involved in the parasympathetic nervous system. M1, M2, M3, M4, and M5 are the receptor subtypes. They act via Gi or Gq subunits. when Ach is administered, it acts on muscarinic receptors, primarily the M3 receptors, which are located on vascular endothelial cells. It stimulates guanylyl cyclase and promotes relaxation via a cyclic GMP–dependent mechanism. At higher doses, it acts on M2 receptors, which have direct effects on the heart. It also inhibits the release of norepinephrine from sympathetic nerve terminals and decreases cyclic AMP levels.",1170-765.PNG,D,
+30,"A patient who is a known case of HIV is started on combined active antiretroviral therapy (cART). After 5 months of treatment, he develops hyperpigmentation in the palms and soles. what is the most likely drug causing this?","a) Nelfinavir
+b) Emtricitabine
+c) Abacavir
+d) zidovudine","The most likely drug causing hyperpigmentation of the hands and soles would be emtricitabine.
+Emtricitabine is an anti-retroviral drug that acts by inhibiting nucleoside reverse transcriptase (NRTI). It is well-tolerated and has minimal toxic effects. Adverse effects include hyperpigmentation of the skin (especially sun-exposed areas, palms, and soles), headache, vomiting, and nausea.
+other options:
+option A: Nelfinavir is a protease inhibitor that causes diarrhea or loose stools. It usually resolves within a month of starting the drug.
+option C: Abacavir is an NRTI that can cause a life-threatening hypersensitivity syndrome. The syndrome presents with fever, abdominal pain, and maculopapular rash within 6 weeks of initiating abacavir. The drug must be immediately discontinued and must not be administered to the patient thereafter. Rarely, there might be respiratory and musculoskeletal side effects.
+option D: zidovudine is an NRTI that causes malaise, fatigue, myalgia, anorexia, and insomnia. Chronic use leads to nail hyperpigmentation. It can also cause bone marrow suppression.",,B,
+31,Dorzolamide is a ______.,"a) Topically applied sulfonamide antibacterial
+b) Topical ocular carbonic anhydrase inhibitor
+c) second-generation sulfonylurea
+d) opioid receptor agonist","Dorzolamide is a topical ocular carbonic anhydrase inhibitor.
+It acts on carbonic anhydrase in the ciliary processes of the eye and mediates the formation of HCo3- in aqueous humor. Inhibition of carbonic anhydrase decreases the rate of formation of aqueous humor and consequently reduces intraocular pressure.
+The major indication for carbonic anhydrase inhibitors is open-angle glaucoma. Dorzolamide and brinzolamide, which are available only as ophthalmic drops, are used for this purpose.
+Dorzolamide may be used for secondary glaucoma and in acute angle-closure glaucoma to lower intraocular pressure before surgery.",,B,
+32,A patient with erectile dysfunction is given sildenafil. The penile erectile function is found to be improved after the therapy. which of the following mediates the action of sildenafil?,"a) cAMP
+b) cGMP
+c) Calcium
+d) Phosphatidyl glycerol and inositol phosphate","sildenafil is a phosphodiesterase 5 inhibitor and the action of the drug is mediated through cGMP. Erectile dysfunction is treated by phosphodiesterase-5 (PDE-5) inhibitors like sildenafil, vardenafil, and tadalafil.
+The corpus cavernosum produces nitric oxide during arousal that stimulates the formation of cGMP. cGMP causes relaxation of the smooth muscle of the corpus cavernosum and penile arteries, engorgement of the corpus cavernosum, and erection.
+The above-mentioned drugs compete for cyclic GMP, binding at the site of cyclic GMP hydrolysis on PDE5, enhancing the accumulation of cGMP and hence used in the management of erectile dysfunction. They are useful in treating pulmonary arterial hypertension.
+Adverse effects of the drug are headache, flushing, nasal congestion, nasopharyngitis, and dyspepsia. sildenafil and vardenafil also cause retinal PDE-6 inhibition and can result in blurring of vision and blue-green tinting of the vision.",,B,
+33,Match the following diuretics in column A to their site of action in column B.,"a) A-2, B-3, C-1, D-4
+b) A-3, B-4, C-2, D-1
+c) A-1, B-2, C-4, D-3
+d) A-4, B-1, C-3, D-2","The correct match is as follows:
+Acetazolamide, a carbonic anhydrase inhibitor, acts on the enzyme in epithelial cells of the proximal convoluted tubule. Acetazolamide is mainly used in patients with secondary glaucoma to reduce intra-ocular pressure, provide symptomatic relief in acute mountain sickness, and as treatment for absence seizures.
+Torsemide, a loop diuretic, inhibits the Na+-K+-ATpase symporter in the thick ascending loop of Henle. It is used in acute pulmonary edema, edema associated with congestive cardiac failure, hypertension with renal insufficiency, and hyponatremia.
+chlorthalidone, a thiazide-like diuretic, inhibits the Na+-cl- symporter in the distal convoluted tubule. It is used in hypertension and in edema associated with congestive cardiac failure, hepatic cirrhosis, nephrotic syndrome, and chronic renal failure.
+vasopressin, also known as anti-diuretic hormone, is secreted by the posterior pituitary and mainly acts on the collecting duct, and increases the reabsorption of water (anti-diuresis).
+vasopressin or its agonists (such as desmopressin) are used in cases of diabetes insipidus, type I and type II von willebrand's disease, primary nocturnal enuresis, and postoperative ileus.
+column A
+column B
+A. Acetazolamid e
+4. proximal convoluted tubul e
+B. Torsemide
+1. Thick ascending loop of He nle
+c. chlorthalido ne
+3. Distal convoluted tubule
+D. vasopressin
+2. collecting duct",,D,
+34,Alkalinization of urine will be helpful in the removal of______.,"a) weakly basic drugs
+b) strong electrolytes
+c) polar drugs
+d) weakly acidic drugs","Alkalinization of urine will be helpful in the removal of weakly acidic drugs as they are susceptible to ion trapping in the urine.
+Drugs that are subjected to renal clearance are excreted into the urine by glomerular filtration and active tubular secretion. Nonionized compounds are reabsorbed more rapidly than ionized polar molecules. when the pH of the urine increases, more salicylate is in its ionized form at equilibrium. Hence, salicylic acid diffuses into the tubular lumen of the kidney. urine alkalinization is recommended as a first-line treatment only for moderately severe salicylate poisoning that does not meet the criteria for hemodialysis.
+Alkalinization of the urine is achieved by administration of 1oo–15o mEq of sodium bicarbonate in 1 L of 5% dextrose in water (D5w). It is infused intravenously at twice the maintenance fluid requirements.
+Alkalinization of urine is contraindicated in renal failure or if fluid administration may worsen pulmonary edema or congestive heart failure.",,D,
+35,"All of the following side effects are more commonly seen with carbamazepine than oxcarbazepine, except_____.","a) Hypotension
+b) Hyponatremia
+c) Rash
+d) Elevated levels of gamma glutamyl transpeptidases","Hyponatremia occurs more frequently in the case of oxcarbazepine than carbamazepine.
+Both carbamazepine and oxcarbazepine are sodium-channel blockers.
+carbamazepine is most effective in complex partial seizures. It is also used in GTcs and simple partial seizures, trigeminal and related neuralgias, and manic depressive psychosis.
+carbamazepine potentiates the action of antidiuretic hormone (ADH). It can result in water retention with decreased osmolarity and hyponatremia, especially in elderly patients with cardiac disease. carbamazepine and oxcarbazepine can cause leukopenia, aplastic anemia, hepato-toxicity and hyponatremia in the elderly.
+oxcarbazepine shows lesser hypersensitivity reaction. Hence, rashes are more commonly seen with carbamazepine than with oxcarbazepine.
+studies have shown that carbamazepine elevates enzyme gamma-glutamyl transpeptidases (GGT) more frequently than oxcarbazepine because of enzyme p45o induction.
+Mechanism of action of some common antiepileptics:
+Mechanism of action
+Antiepileptics
+sodium-channel blockers
+phenytoincarbamazepine, o xcarbazepineEslicarbazepine LamotrigineTopiramateFelba matevalproateRufinamideLe vetiracetam
+calcium-channel blockers
+valproateLamotrigineEthosu ximide
+GABAAreceptor modulators
+Benzodiazepinesphenobarbit alFelbamateprimidoneTopira matecarbamazepine, oxcarb azepinestiripentolclobazam
+GABA uptake inhibitors
+Tiagabinevigabatrin
+NMDA receptor antagonist
+Felbamate
+AMpA/kainate receptor anta gonist
+phenobarbitalTopiramateper ampanel
+HcN channel activity enhanc ers
+Lamotrigine
+Inhibitors of brain carbonic a nhydrase
+AcetazolamidezonisamideTo piramate
+potassium-channel openers
+RetigabineTopiramate",,B,
+36,Match the following drugs with the targets of their actions.,"a) A-2, B-3 , C-1 , D-4
+b) A-4, B-3 , C-1 , D-2
+c) A-3, B-4 , C-2 , D-1
+d) A-4, B-3 , C-2 , D-1","The correct pairs are as follows:
+Trastuzumab is a humanized monoclonal antibody against the external domain of HER2/neu. It is indicated as an adjuvant in the management of metastatic HER-2-positive breast cancer.
+Infliximab binds with high affinity to TNF-a and prevents the cytokine from binding to its receptors. Infliximab is used for the treatment of rheumatoid arthritis; it is used in combination with methotrexate in patients who do not respond to methotrexate alone. Infliximab is also used for the treatment of the symptoms of moderate-to-severe Crohn's disease.
+sirolimus is an antimetabolic and antiproliferative drug. It acts by forming a complex with an immunophilin called FKBP-12, which in turn inhibits the mammalian target of rapamycin (mToR). mToR is a protein kinase that blocks cell cycle progression at the G1 phase to s phase transition. It is used in the prophylaxis of organ transplant rejection.
+Imatinib is a first-generation tyrosine kinase inhibitor. Imatinib attacks BCR-ABL translocation and is used in chronic myelocytic leukemia. It also inhibits c-kit and produces extended control of GI stromal tumors.
+A. Trastuzu mab
+4. HER2/neu
+B. Inflixima b
+3. TNF a
+C. sirolimus
+2. mToR
+D. Imatinib
+1. BCR-ABL tyrosine kinas e",,D,
+37,A patient is brought with altered sensorium and seizures. Attender shows the laboratory report which reveals elevated transaminases. which of the following can be used in this condition?,"a) Midazolam
+b) Diazepam
+c) Alprazolam
+d) oxazepam","oxazepam can be used in patients with elevated transaminases. It is short-acting and so, can be used in patients with liver impairment or brain damage.
+oxazepam is an orally available benzodiazepine used to treat anxiety and alcohol withdrawal states. Hepatic oxidation is decreased in persons with liver disease and the elderly. oxazepam and lorazepam undergo only hepatic glucuronidation.
+other options:
+option A: Midazolam is the benzodiazepine of choice for induction of anesthesia. The onset of anesthesia is within 3o to 6o seconds. It can also be used to control seizures, but there is no difference in the efficacy of intravenous midazolam and intravenous diazepam.
+option B: Diazepam is a long-acting benzodiazepine. It is metabolized in the liver to active metabolites like nordazepam which are long-acting. Diazepam and its long-acting metabolites can accumulate significantly in elderly patients with liver disease and therefore should not be used in such cases.
+option C: Alprazolam is metabolized by hepatic oxidation which is significantly decreased in liver impairment and elderly patients.",,D,
+38,The lipid profile of a patient who suffered from acute coronary syndrome is given below. what drug can be used to treat this condition?,"a) Fenofibrate 16o mg
+b) Rosuvastatin + Fenofibrate
+c) Rosuvastatin 1o mg
+d) Atorvastatin 8o mg","Atorvastatin 8o mg can be used to treat this condition. The first line of therapy in controlling cholesterol in patients with atherosclerotic cardiovascular disease (ASCVD) is starting a high-intensity statin. High-intensity statins include atorvastatin (4o-8o mg) and rosuvastatin (2o-4o mg).
+Statins are competitive inhibitors of HMG-CoA reductase. This leads to a decrease in cholesterol biosynthesis. Statins are also effective in reducing LDL and triglyceride levels.
+other options:
+option A. Fenofibrate reduces lipoprotein levels by interacting with Peroxisome proliferator-activated receptor (PPAR-a) and stimulating lipoprotein lipase. They are used as drugs of choice for treating hyperlipoproteinemia and severe hypertriglyceridemia (>1ooo mg/dL).
+option B. Rosuvastatin and fenofibrate combination was previously used to reduce atherosclerotic cardiovascular disease risk. But recent studies have indicated no change in reduction and hence is not recommended anymore.
+option C: Rosuvastatin 1o mg is a low-intensity statin and is mainly used for primary prevention against atherosclerotic cardiovascular disease.",,D,
+39,An anti-arrhythmic drug is shown to have the following effect. It is effective in both atrial and ventricular arrhythmias. Identify the drug.,"a) Tocainide
+b) propranolol
+c) Quinidine
+d) Lignocaine","Quinidine is a class IA anti-arrhythmic agent. Class 1a agents are sodium channel blockers with significant potassium channel blocking properties. This slows conduction and prolongs the QRS duration and action potential duration.
+Lignocaine and tocainide (options D and A) are class 1b anti-arrhythmic drugs. These are sodium channel blockers that inhibit both inactivated and open sodium channels and can open potassium channels. It reduces phase 4 slope and reduces automaticity. It also alters the excitation threshold.
+The below image shows the changes in the action potential of a cardiac muscle when a class 1b anti-arrhythmic drug is used.
+class 1c agents like flecainide and propafenone block sodium channels with insignificant potassium channel-blocking properties.
+The image below illustrates the action potential changes when a class 1c anti-arrhythmic is used.
+option B: propranolol is a ß-receptor-blocker and a class II antiarrhythmic.",1173-766.PNG,C,1204-778.PNG;1205-779.PNG;1205-780.PNG
+40,which among the following is the false statement regarding statins?,"a) Although HMG-CoA reductase inhibitors substantially reduce the risk of cardiovascular events, there is mild increase in lipoprotein a (Lpa) levels.
+b) These drugs should not be stopped even in severe conditions like injury, surgery, etc.
+c) They can be given with verapamil and other enzyme inhibitors.
+d) with the long term use, there is slight increase in the incidence of type 2 diabetes mellitus.","The false statement regarding statins is that they can be given with verapamil and other enzyme inhibitors.
+statins like atorvastatin and rosuvastatin are metabolized by the cytochrome 3A4 enzymes of the liver. verapamil is a cytochrome 3A4 inhibitor and may interfere with statin degradation. This leads to an increase in serum statin levels. The most important feature of statin toxicity is myopathy. It can present as myalgia but can sometimes also lead to fatal rhabdomyolysis.
+statins are the most commonly used hypolipidemic drugs. statins act by inhibiting the rate-limiting HMG-CoA reductase enzyme, which in turn inhibits cholesterol synthesis. They decrease levels of low-density lipoproteins (LDL) and triglycerides and increase the levels of high-density lipoproteins (HDL) in plasma.
+other options:
+option A: Lipoprotein (lp) a is an LDL molecule that has apolipoprotein b and an additional apolipoprotein a. studies indicate that these molecules are atherogenic and may independently cause cardiovascular disease. Although HMG-CoA reductase inhibitors substantially reduce the risk of cardiovascular events, there is a mild increase in lipoprotein a levels.
+option B: statins can be continued during surgery. These drugs have proved to decrease overall mortality due to cardiovascular events. statins also influence inflammatory responses and can be safely used in trauma.
+option D: Chronic administration of high statin doses also leads to an increased incidence of type 2 diabetes mellitus.",,C,
+41,"Identify the drugs marked as A, B, and C.","a) A - Aspirin, B -vorapaxar, C - prasugrel
+b) A - Aspirin, B - Eptifibatide, C - vorapaxar
+c) A - Aspirin, B - Eptifibatide, C - prasugrel
+d) A - Aspirin, B - prasugrel, C - Eptifibatide","The drugs marked A, B and C are aspirin, eptifibatide, and vorapaxar, respectively.
+Aspirin causes inhibition of cyclooxygenase-1 (Cox-1), which would inhibit the formation of thromboxane A2. Thromboxane A2 is an inducer of platelet aggregation and is a potent vasoconstrictor. Hence, inhibition of its formation is responsible for antiplatelet action.
+Aspirin is a non-competitive, irreversible inhibitor of the cyclooxygenase (Cox) enzyme. It is a nonselective Cox inhibitor and inhibits both Cox-1 and Cox-2.
+Abciximab, tirofiban, and eptifibatide act by blocking Gp IIb/IIIa receptors. They are mainly used during percutaneous coronary intervention for acute coronary syndrome. They carry a high risk of bleeding and can cause thrombocytopenia.
+vorapaxar primarily inhibits platelet aggregation caused by thrombin. PAR-1 activation by thrombin contributes to platelet aggregation. vorapaxar is a competitive antagonist of protease-activated receptor-1 (PAR-1). vorapaxar is indicated in combination with aspirin and/or clopidogrel to reduce thromboembolic events in patients with MI or peripheral vascular disease.
+Prasugrel is an irreversible P2y12 inhibitor and lasts for the entire lifetime of a platelet.
+Prasugrel is a prodrug that is used in patients with acute coronary syndrome who have undergone percutaneous coronary intervention. It reduces the rate of thrombotic cardiovascular events in such patients.",,B,1207-781.PNG
+42,which of the following is false regarding disulfiram?,"a) only 3
+b) 1, and 3
+c) 1, 3, and 4
+d) 2, 3, and 4","The wrong statement/s regarding disulfiram is only 3.
+Disulfiram is an irreversible inhibitor of both cytosolic and mitochondrial forms of aldehyde dehydrogenase. It is used in behavioral modification for alcohol de-addiction. The principle of action is aversive conditioning (not anti-craving).
+Disulfiram can be given only to highly motivated individuals. It should not be administered until the person has abstained from alcohol for at least 12 hours. The disulfiram-alcohol reaction may persist as long as 14 days after the last dose of disulfiram.
+Alcohol consumption during disulfiram therapy can lead to increased concentrations of acetaldehyde. This can cause aversive reactions, resulting in flushing, pulsating headache, throbbing pain in the head and neck, nausea, vomiting, rashes, respiratory difficulties, chest pain, and autonomic manifestations.
+Disulfiram is usually given in the dose of 25o mg/day (range of 125–5oo mg/day).",,A,
+43,G6pD can manifest with which of the following drugs?,"a) primaquine
+b) chloroquine
+c) penicillin
+d) Tetracycline","G6PD deficiency will manifest with primaquine.
+G6PD deficiency is an X-linked recessive (XLR) disorder that causes congenital hemolytic anemia due to enzyme deficiency. Hemolysis occurs in conditions of high oxidative stress that are triggered by infections, fava beans, and certain drugs.
+G6PD is an enzyme in the hexose monophosphate pathway (HMP) that maintains the cellular levels of NADPH. NADPH then provides reducing equivalents needed for the conversion of oxidized glutathione to reduced glutathione. Reduced glutathione helps neutralize free radicles, protecting against oxidant injury.
+clinically, most patients are asymptomatic. some patient develops episodic hemolysis, causing hemolytic anemia, hemoglobinemia, and hemoglobinuria.
+Both primaquine and chloroquine cause hemolysis in G6PD-deficient individuals, but hemolysis is rare with chloroquine and it can be used in patients with G6PD deficiency, whereas primaquine is contraindicated in these individuals.
+Hematological findings in G6PD deficiency are shown HEINZ BODY AND BITE CELLS
+Drugs that carry a risk of clinical hemolysis in persons with G6PD deficiency:
+cLAss
+DRUGs
+Antimalarials
+Primaquine >chloroquineDa psone/chlorproguanil
+sulphonamides/sulphone s
+sulfamethoxazolesulfasalazin e, sulfisoxazole
+cLASS
+DRUGS
+Antibacterial/antibiotics
+cotrimoxazole,ciprofloxacin, chloramphenicol, Nalidixic a cid, Norfloxacin,Nitrofuranto in
+others
+Naphthalene, RasburicaseMe thylene blue",,A,
+44,choose the correctly matched pairs regarding the drugs used in schizophrenia:,"a) 1,3
+b) 1,4
+c) 1,2,4
+d) 1,2,3,4","The correct option regarding the drugs used to treat schizophrenia symptoms is option c.
+Drugs used to treat schizophrenia can be classified:
+• Typical or 1st generation antipsychotics.
+• Atypical or 2nd generation antipsychotics.
+All typical antipsychotics markedly improve positive symptoms of schizophrenia, which is attributed to their antagonism at the D2 receptor. Some of the drugs included in this class are chlorpromazine and haloperidol.
+Atypical antipsychotics are antagonists or inverse agonists at the 5HT2A receptor. 5HT2A antagonism is responsible for reducing negative symptoms in schizophrenia. Some of the drugs that belong to this class are clozapine, aripiprazole, and brexpiprazole.
+Atypical antipsychotics have lower extrapyramidal symptoms as compared to typical antipsychotics as the former has a lesser affinity to the D2 receptor. Muscarinic antagonists can be given to decrease the extrapyramidal symptoms. For example, promethazine or hydroxyzine is given for acute muscular dystonia, which is a form of extrapyramidal symptoms.
+5HT1A receptor antagonism, not agonism, has been found to reduce food intake and hence reduce body weight.
+Aripiprazole and brexpiprazole are atypical antipsychotics that have partial agonist effects at the 5HT1A receptor. They have been approved for the treatment of schizophrenia and as an adjunctive treatment for depression.",,C,
+45,"A patient presented with a lesion, as shown in the image below. she is an immunocompromised patient currently on HAART. what are the systemic antifungal drugs that can be added along with the HAART in this patient?","a) Inj. Amphotericin B 4-8 weeks, followed by oral itraconazole
+b) Inj. Amphotericin B 8 weeks, followed by oral posaconazole
+c) Inj. Fluconazole, followed by oral fluconazole
+d) Inj. Amphotericin B, followed by flucytosine","The given clinical scenario is suggestive of mucormycosis. The patient can be given injection amphotericin B for 8 weeks, followed by oral posaconazole.
+Mucormycosis is an opportunistic mycosis. It is typically seen in immunocompromised patients and invades blood vessels.
+The rhino-orbital-cerebral is the most common form of mucormycosis. patients present with rhinitis, eye or facial pain, and facial numbness, followed by the onset of conjunctival suffusion and swelling along with blurry vision.
+Diagnosis is made by biopsy with histopathologic examination. The biopsy shows characteristic wide, ribbon-like aseptate hyphal elements that branch at right angles.
+The image below shows biopsy findings seen in mucormycosis:
+Treatment of the infection includes 4 steps:
+• Initiation of therapy (amphotericin B) as early as possible. Posaconazole can also be used in the management of this condition.
+• surgical debridement
+• Reversal of underlying conditions and risk factors
+• Treatment of underlying malignancy if present
+Amphotericin B is a broad-spectrum antifungal. It binds to ergosterol in the fungal membrane and forms pores or channels in the fungal cell membrane. This allows the leakage of cytosolic molecules and ions, leading to a loss of membrane integrity.
+other options:
+option A: Itraconazole can be used for the treatment of chronic aspergillosis if there is resistance or failure of voriconazole. ketoconazole is used for both dermatophytosis and deep mycosis, but it has been replaced by itraconazole.
+option C: Fluconazole is used for the treatment of candidiasis and cryptococcosis.
+option D: Amphotericin B in combination with 5-flucytosine is used as induction treatment for cryptococcal meningitis.",,B,1210-782.PNG
+46,A patient who is on treatment for hyperlipidemia develops gallstones. what is the mechanism of action of the causative drug that was given to this patient?,"a) Inhibits HMG CoA reductase
+b) Activates PPAR alpha
+c) Binds to deoxycholic acid
+d) Decreases VLDL","The antilipidemic drugs likely to cause gallstones are the peroxisome proliferator-activated receptors (PPARs) that act by activating PPAR alpha.
+PPARs are a superfamily of nuclear receptors involved in the regulation of energy homeostasis and metabolic function. It has three subtypes:
+• PPARa - reduces triglyceride level
+• PPAR? - causes insulin sensitization
+• PPARd - enhances fatty acids metabolism
+Lipoprotein lipase (LPL) is a key enzyme in the degradation of vLDL. Fibrates bind to PPAR alpha and cause stimulation of lipoprotein lipase enzyme. Increased LPL synthesis enhances the clearance of triglyceride-rich lipoproteins. Additionally, fibrates also stimulate fatty acid oxidation and reduce the expression of apo C-III (inhibitor of lipolysis). All fibrates increase the lithogenicity of bile, thereby increasing the risk of gall stones other options:
+Class
+HMG- CoA reductase inh ibitors (statins)
+Niacin
+Bile acid-binding resins
+Examples
+Lovastatin, atorvastatin
+Niacin
+Colestipol,colesevelam
+Mechanism of action
+Inhibits HMG-CoA reduc tase
+Decreases the production of vLDLs and the catabo lism of HDLs
+Binds to bile acids in the intestinal lumen and incr eases excretion.
+Major effects on lipoprot ein levels
+Reduces LDL levels
+Reduces triglycerides, L DL, and lipoprotein a lev elssignificantincrease H DLlevels
+Reduces LDL levels
+Important side effects
+MyopathyElevations of s erum amino-transferase activityElevation of creati ne kinase activity
+Cutaneous vasodilationEl evations in amino-transfe rases levels
+ConstipationBloating",,B,
+47,The dose-response curve for three drugs in the same tissue is shown in the image below. which of the following statements is true?,"a) Efficacy of drug A is more than that of drug B.
+b) Potency of drug B is more than that of drug A.
+c) Drug A & drug B are agonists.
+d) Drug C is a non-competitive antagonist.","In the given image, drug A & drug B are agonists.
+Drugs that bind to physiological receptors and mimic the regulatory effects of endogenous signaling compounds' are agonists. Drugs that are only partially as effective as agonists are partial agonists.
+The efficacy of a drug indicates the capacity of a drug to activate a receptor and generate a cellular response. A drug with high efficacy is a full agonist, eliciting a full response at some concentration. A drug with a low intrinsic efficacy will be a partial agonist. Drug A & drug B are agonists (option C) that have the same efficacy (option A), although, at different concentrations.
+Drug C does not produce a full response at any concentration, making it a partial agonist. In the presence of a full agonist, a partial agonist behaves like a competitive antagonist (option D).
+when two drugs produce equivalent responses, the drug whose dose-response curve lies to the left is said to be the more potent since it requires a lower dose to produce the same effect. Drug A & drug B produce the same action and level of response in the tissue. The curve of drug A on the left indicates that it produces the same response at a lower concentration, making it more potent than drug B (option B).",1176-769.PNG,C,
+48,which of the following drugs is a ß2 agonist?,"a) 1, 2, 3
+b) 4, 3, 2, 1
+c) 1, 2
+d) 3, 4","Dipivefrine and dopexamine are ß2-adrenergic receptor agonists.
+Dipivefrine causes a decrease in aqueous production and increases outflow. It was used in the treatment of open-angle glaucoma and ocular hypertension but has since been replaced.
+Dopexamine is a synthetic analogue related to dopamine with activity at D1 and D2 receptors as well as at ß2 receptors. It is used in patients with severe congestive heart failure, sepsis, and shock.
+other options:
+B. Fenoldopam is a peripheral D1 agonist with moderate affinity for a2-adrenergic receptors. It is a rapidly acting vasodilator that is used in severe hypertension.
+D. Mirabegron is a ß3-adrenergic receptor agonist which is used for bladder incontinence.
+Activation of this receptor in the bladder leads to detrusor muscle relaxation and increased bladder capacity. This action prevents voiding and provides relief for those with an overactive bladder and urinary incontinence.",,C,
+49,what is the mechanism of action of sildenafil?,"a) Inhibition of 5a-reductase
+b) Inhibition of phosphodiesterase-5
+c) Release of nitrous oxide radicals
+d) Blockage of voltage-gated calcium channels","sildenafil acts by inhibiting phosphodiesterase-5 (PDE-5) and is used in the treatment of erectile dysfunction.
+PDE-5 inhibitors cause the accumulation of cGMP in the corpus cavernosum, which leads to the relaxation of smooth muscles of penile arteries that fill the corpus cavernosum, thereby improving erectile function in patients with erectile dysfunction.
+In addition to erectile dysfunction, sildenafil can be used in the treatment of pulmonary arterial hypertension.
+Adverse effects include headache, flushing, nasal congestion, blue-green tinting of vision, and erections lasting more than 4 hours.
+sildenafil is contraindicated in patients using nitrate vasodilators, which could result in dangerously low blood pressure.",,B,
+50,Choose the correct options regarding the route of administration and bioavailability.,"a) A,B,D
+b) A,C,D
+c) A and C
+d) A and D","The correct option among the following is A, C, and D.
+Bioavailability is defined as the fraction of a drug reaching systemic circulation in an unchanged form after administration by any route. The area under the blood concentration-time curve (AUC) is proportional to the dose and the extent of bioavailability for a drug.
+Bioavailability (F) = Quantity of drug reaching systemic circulation/Quantity of drug administered Bioavailability depends on two factors, absorption and 1st pass metabolism. The bioavailability of the drug injected intravenously is 1oo%. But it is lower after oral ingestion because of incomplete absorption and first-pass metabolism in the intestinal wall or liver and lies between 5% to <1oo%. The bioavailability of subcutaneous and intramuscular routes lies between 75% to =1oo%.
+The image given below shows the difference between the bioavailability of drugs injected intravenously (IV) and administered per orally (po). Note the area under the respective curves shaded in red and blue colors which represent the absorption of the drug.",,B,1182-770.PNG
+51,A hypertensive patient on medication presents with the lab values as shown below. which of the following drugs should be stopped?,"a) Amlodipine
+b) Metoprolol
+c) Losartan
+d) Furosemide","In this hypertensive patient with hyperkalemia, losartan must be stopped.
+Losartan is competitive angiotensin I (AT1) receptor antagonist, which binds to the AT1 receptor with high affinity. Uses of losartan are:
+• Antihypertensive
+• Renoprotective drug in diabetes mellitus
+• stroke prophylaxis
+• portal hypertension in cirrhosis without compromising renal function
+• Anti-aggregant as it is a competitive antagonist of the thromboxane A2 receptor.
+Hyperkalemia is an important side effect ofARBs. Losartan appears to be a safe and efficacious agent to lower serum uric acid levels in patients with hyperuricemia.
+option A: Gingival hyperplasia and ankle swelling are side effects of calcium channel blockers like amlodipine. Ankle edema occurs due to increased hydrostatic pressure in the capillaries present in the dependent parts of the body. This is due to reflex constriction of postcapillary vessels. other common side effects of amlodipine include headache, dizziness, and abdominal pain.
+option B: Metoprolol is a cardioselective beta blocker. cardioselective beta blockers are less likely to cause hyperkalemia as an adverse effect. The risk of metoprolol-induced hyperkalemia is increased if the patient is also diabetic.
+option D: Furosemide is a loop diuretic. It acts by inhibiting the Na+-K+-2cl- symporter in the thick ascending limb of the loop of Henle resulting in increased excretion of sodium, potassium, and chloride. Hypokalemia, hyperuricemia, hypocalcemia, and hypomagnesemia are the important side effects.",,C,
+52,which of the following is the most effective oral drug in smoking cessation?,"a) varenicline
+b) cevimeline
+c) Muscarine
+d) Atropine","varenicline is the most effective oral drug for smoking cessation.
+Nicotine is the principal constituent of tobacco responsible for its addictive behaviour. varenicline works by blocking the effects of nicotine on the brain. It blocks a4, and ß2 nicotinic acetylcholine receptor subtypes and inhibits dopaminergic activation produced by smoking through their partial agonism. It decreases the craving and withdrawal syndrome that occurs with cessation attempts. It prevents nicotine stimulation of the mesolimbic dopamine system associated with nicotine addiction, thus helping to occlude the rewarding effect of smoking.
+varenicline is prescribed only to patients 18 years or older. It is taken orally and the dose taken is o.5 mg once daily on days 1 to 3, increased to o.5 mg twice daily on days 4 through 7, and 1 mg twice daily after day 8 for 11 weeks. Therapy should start one week before the target quit date. It can be continued for another 12 weeks (1 mg BD) to maintain abstinence.
+The adverse effects include nausea, disturbed sleep, sleepwalking, agitation, drowsiness, and constipation, and may also increase the risk of pancreatitis. varenicline has also been implicated in specific skin syndromes such as stevens-Johnson syndrome, erythema multiforme, and photosensitivity. varenicline can cause renal failure and kidney stones, thus renal function must be monitored.
+The FDA has issued a warning about mood and behavioural changes associated with its use, and there is some evidence of increased cardiovascular risk.
+cevimeline is a muscarinic agonist with an affinity for both M1 and M3 receptors on the lacrimal and salivary glands. while M1 activation results in increased secretion, M3 activation results in smooth muscle contraction, and expulsion of the secretions. cevimeline enhances lacrimal secretions in sjogren’s syndrome.",,A,
+53,Match the following antiarrhythmic drugs with their mechanism of action:,"a) 1-d, 2-b, 3-a, 4-c
+b) 1-a, 2-c, 3-d, 4-b
+c) 1-a, 2-d, 3-b, 4-c
+d) 1-d, 2-c, 3-a, 4-b","The correct option is option c: 1-a, 2-d, 3-b, 4-c
+Quinidine is a class IA anti-arrhythmic agent. Class 1a agents are sodium channel blockers with significant potassium channel blocking properties. This slows conduction and prolongs the QRS duration and action potential duration.
+Digoxin is a Na+ K+ ATPase inhibitor that works by increasing AV node refractoriness.
+Esmolol is a ß-receptor-blocker and a class II antiarrhythmic.
+Ibutilide is a class III anti-arrhythmic agent. It works by blocking K+ channels.",,C,
+54,which of the following drugs increases trabecular outflow?,"a) Timolol
+b) Netarsudil
+c) Brimonidine
+d) Acetazolamide","The drug that increases trabecular outflow is netarsudil.
+Netarsudil is a rho-kinase inhibitor used in the treatment and management of glaucoma and ocular hypertension. It lowers the intra-ocular pressure directly through the relaxation of the trabecular meshwork, leading to an increase in aqueous outflow. It also reduces aqueous humor production.
+Netarsudil ophthalmic solution is instilled in one drop into the affected eye once daily in the evening. Adverse effects are conjunctival hyperemia, and corneal verticillata.
+other options:
+option A- Timolol is a non-selective ß-blocker that decreases the IoP by reducing the aqueous humor production through the blockade of the ß-receptors on the ciliary epithelium. ocular adverse effects are allergy, decreased corneal sensation, and punctate keratitis.
+option C- Brimonidine is a selective alpha-2 agonist which decreases aqueous synthesis and increases uveoscleral outflow. It can cross the blood-brain barrier and, hence, causes drowsiness and CNS depression. It is contraindicated in infants and children.
+option D- Acetazolamide is a topical carbonic anhydrase inhibitor that decreases IoP by reducing aqueous formation. The main adverse effect is the bitter taste following administration. It is contraindicated in people with allergies to sulfonamide antibiotics.",,B,
+55,Finasteride is used to treat male-pattern baldness acts by inhibiting which of the following enzymes?,"a) Aromatase
+b) 17-hydrolase
+c) 5-alpha reductase
+d) phosphodiesterase","Finasteride is used to treat male pattern baldness acts by inhibiting 5-alpha reductase.
+Finasteride is a competitive inhibitor of the 5-alpha-reductase enzyme that inhibits the conversion of testosterone into its active form dihydrotestosterone (DHT).
+Finasteride inhibits type 2 5-alpha reductase within the hair follicle and reduces the production of DHT. Hence, it is used in the treatment of male pattern hair loss. But, new hair growth will be lost when finasteride is discontinued, similar to minoxidil.
+on long-term use (nearly 6 months), it produces an effect by reducing prostatic epithelial cell proliferation, thereby reducing the size of the prostate and improving urine flow.
+Adverse effects of finasteride:
+• Decreased libido
+• Erectile dysfunction
+• Ejaculation disorder and decreased ejaculate volume
+Finasteride is highly teratogenic and pregnant women should not be exposed to the drug because of the potential for inducing genital abnormalities in male fetuses.",,C,
+56,Rituximab is a:,"a) polyclonal antibody which acts against CD2o
+b) polyclonal antibody which acts against CD5o
+c) Monoclonal antibody which acts against CD2o
+d) Monoclonal antibody which acts against CD5o","Rituximab is a monoclonal antibody that acts against CD2o B-cell antigen expressed on the surface of B-lymphocytes, plasma cells, and B-cell lymphomas.
+It promotes apoptosis through transmembrane signalling as well as by antibody dependent and complement dependent cytotoxicity. It is used in the treatment of B-cell lymphoma, non-Hodgkin lymphoma, and chronic lymphocytic leukemia. It can be used both as a single agent as well as in combination with cytotoxic chemotherapy.
+Adverse effects are infusion reactions like chills, fever, urticarial rashes, pruritus, dyspnea, and hypotension. pretreatment with antihistaminics and corticosteroids prevents the reactions.",,C,
+57,A new drug application is filed after which phase of clinical trials?,"a) 4
+b) 3
+c) 2
+d) 1","New drug application is filed after phase 3 of clinical trials.
+other options:
+option A: phase 4 clinical trials are also called post-marketing surveillance.
+option C: phase 2 trials are the first round of trials in patients.
+option D: phase 1 trials are done in healthy volunteers.",,B,

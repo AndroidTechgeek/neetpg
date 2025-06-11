@@ -1,0 +1,193 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,calculate the therapeutic index of a drug whose dose-response curves are plotted as shown below:,"a) 1
+b) 2
+c) 4
+d) 8","The therapeutic index is 4.
+In the above graph,
+Median lethal dose (LD5o) = 4oo
+Median effective dose (ED5o) = 1oo
+Therapeutic index (TI) = LD5o/ED5o.
+Hence,
+Therapeutic index (TI ) = 4oo/1oo = 4
+Clinically, the therapeutic range bound by the dose that produces the minimal therapeutic effect and the dose that produces the maximal acceptable adverse effect is more relevant.",1080-752.PNG,C,IMAGE Q
+Question 2,which of the following statements is true regarding the dose-response curve shown in the image below?,"a) C is competitive antagonist
+b) C is more potent than A
+c) B is more potent than A
+d) B is competitive antagonist","In the above image, drug B is a competitive antagonist.
+In competitive antagonism, the DRC is shifted to the right whereas in non-competitive antagonism the DRC is flattened.
+Thus in the above image Drug B is the Competitive antagonist while drug C is the non-competitive antagonist.
+Potency:
+• It is defined as the amount of drug needed to produce a given response.
+• A highly potent drug evokes a given response at low concentrations and vice-versa.
+• The more the curve is on the left in a dose-response curve (DRC), the greater is its potency.
+• Thus, in the above image, the potency is drug A > drug C > drug B.
+Efficacy:
+• It is defined as the maximum effect produced by the drug.
+• It expresses the effect produced by the receptors when bound by a certain drug.
+• In the log dose-response curve, the perpendicular height represents the drug efficacy.
+• Thus, in the above image, the efficacy is drug A 〓 drug B > drug C.",1081-753.PNG,D,IMAGE Q
+Question 3,which of the following antiglaucoma medications is unsafe in infants?,"a) Timolol
+b) Brimonidine
+c) Latanoprost
+d) Dorzolamide","The use of brimonidine is unsafe in infants. It is an alpha-2 agonist that can cross the blood-brain barrier. This may result in CNS depression and apnoea in neonates. Therefore it is contraindicated in children less than 2 years.
+α2 agonists, through the activation of G-protein coupled receptor activation, inhibit the activity of adenylate cyclase. This reduces cAMP and hence reduces aqueous humor production by ciliary action.",,B,
+Question 4,Apparent volume of distribution of a drug is very high (6L/kg). which of the following is true regarding the distribution of that drug?,"a) Highly bound to plasma proteins
+b) Confined to vascular compartment
+c) sequestered in body tissues
+d) Both A and B","In the present case, the volume of distribution of the drug is 6L/kg (42o L in a normal adult with reference weight 7okg) which is very high when compared to the total body water of 42L. Therefore, it can be implied that the drug is having high sequestration in tissues.
+The apparent volume of distribution (vd) is an imaginary volume throughout which the drug is distributed if the plasma concentration remains constant throughout.
+vd 〓 Dose administered Iv/ plasma concentration
+The difference in the volume of distribution based on drug type:
+• Low vd
+• Restricted to the intravascular compartment
+• seen in drugs with high molecular weight (e.g., heparin) or high protein binding (e.g., warfarin - 9.8L)
+• Medium vd
+• Lipid insoluble drugs (e.g., gentamicin - 2OL) do not enter the cells and are distributed in the extracellular fluid volume
+• small water-soluble molecules (e.g., ethanol - 42L) are distributed in the total body water
+• High vd
+• sequestered and accumulated in the tissues
+• small lipophilic molecules (e.g., chloroquine - 13OOOL)",,C,
+Question 5,Which of the following phases of a clinical trial is also referred to as efficacy trial?,"a) phase 1
+b) phase 2
+c) phase 3
+d) phase 4","Efficacy and appropriate dose range is the main aim of phase 2 of clinical trials. It is evaluated on a small group of patients with the target disease.
+phase II of clinical trials involve a small group of patients (5O-5OO). Most of the new drugs will be administered for the first time in patients with the target disease. The study is designed to obtain proof of concept (potential of the drug to treat the disease) and dose-ranging study (provides input for choosing the most appropriate dose for phase 3 studies).
+phase 3 studies are also known as pivotal studies as they establish treatment benefits.",,B,
+Question 6,which of the following is an oral factor xa inhibitor?,"a) Bivalirudin
+b) Dabigatran
+c) Rivaroxaban
+d) Enoxaparin","Rivaroxaban is an oral direct factor xa inhibitor. They represent a new class of oral anticoagulant drugs that do not require monitoring.
+This group of drugs inhibit factor xa in the final common pathway of clotting [conversion of prothrombin (Factor II) to thrombin (Factor IIa)]. They are given as fixed doses and have a rapid onset of action.
+oral direct factor xa inhibitors are indicated in:
+• prevention of embolic stroke in patients with atrial fibrillation (without valvular heart disease)
+• venous thromboembolic disease (vTE)
+• postoperative thromboprophylaxis in patients undergoing hip and knee arthroplasty",,C,
+Question 7,what is the drug of choice for diphtheria carrier state?,"a) Amoxicillin
+b) Erythromycin
+c) Rifampicin
+d) Tetracycline","The drug of choice for diphtheria carrier state is erythromycin.
+Erythromycin for 7 days is very effective for eradicating the diphtheria carrier state or acute infections.",,B,
+Question 8,what is the mechanism of action of oseltamivir and zanamivir?,"a) DNA polymerase inhibition
+b) protein synthesis inhibition
+c) Nucleotide analogue
+d) Neuraminidase inhibition","oseltamivir and zanamivir are neuraminidase inhibitors.
+They competitively and reversibly interact with the enzyme sites to inhibit viral neuraminidase activity. This interferes with the release of the progeny from infected host cells, halting the spread of infection.
+Early administration hastens the resolution of symptoms if given within 48 h of infection.
+oseltamivir is given at a dose of 75 mg, BD for 5 days for the treatment of Influenza A and B. For prophylaxis, it is given at a dose of 75mg, oD and continued for the duration of exposure.",,D,
+Question 9,which of the following is a synthetic PGF2 alpha derivative used as an abortifacient?,"a) Dinoprost
+b) Dinoprostone
+c) Misoprostol
+d) carboprost","Carboprost is a 15-methyl synthetic derivative of PGF2 alpha. It is used as an abortifacient and in refractory PPH.
+options A: Dinoprost is a natural PGF2 alpha preparation.
+option B: Dinoprostone is natural PGE2 preparation.
+option C: Misoprostol is a synthetic PGE1 analog. Gemeprost is also a synthetic PGE1 analog.",,D,
+Question 10,which of the following drugs causes activation of K+-ATP channels?,"a) Nicorandil
+b) Molsidomine
+c) Isosorbide dinitrate
+d) Nitroglycerin","Nicorandil causes activation of K+-ATP channels. This leads to the hyperpolarization of the smooth muscle cells leading to vasodilatation.
+It also has nitrate like cGMP dependent action. Nicorandil dilates both arteries and veins leading to a decrease in afterload and preload of the heart.
+Molsidomine, isosorbide dinitrate, and nitroglycerin are nitrates. They do not act on K-ATP channels.",,A,
+Question 11,Most effective antiemetic for chemotherapy-induced vomiting is_________.,"a) Domperidone
+b) Tegaserod
+c) Granisetron
+d) Doxylamine","Granisetron is a 5HT3 receptor antagonist. They are the most effective drugs for the treatment of chemotherapy-induced and post-operative nausea and vomiting.
+Palonosetron is a second-generation 5HT3 antagonist that has the highest affinity for 5HT3 receptors and has the maximum potency. It is also the longest acting that makes it effective in delayed emesis associated with chemotherapy. Palonosetron has minimal/no propensity to cause QT interval prolongation.",,C,
+Question 12,True statement about teduglutide is :,"a) It is a GLP- 2 analogue
+b) It’s half life is 6 - 8 hours
+c) It is administered orally
+d) It is recommended for patients with colorectal cancer","Teduglutide is a GLP-2 analogue.
+It has been recently approved for the treatment of short bowel syndrome. Teduglutide binds to enteric neurons and endocrine cells, stimulating the release of a number of hormones such as insulin-like growth factor, this stimulates mucosal epithelial growth and enhances fluid absorption.
+The drug has a t1/2 of 1–2 hours and is administered subcutaneously once daily. It can potentially cause bowel cancer, therefore it is not recommended for patients with active malignancies.
+Note: GLP-1 analogs are used for the treatment of Type II diabetes mellitus.",,A,
+Question 13,cisatracurium is preferred over atracurium because?,"a) It has rapid onset of action
+b) It has less depressant action on heart
+c) It has short duration of action
+d) It causes less release of histamine","cisatracurium is preferred over atracurium because it causes less release of histamine.
+other options:
+option A- cisatracurium has a slower onset of action
+option B and c- Both atracurium and cisatracurium have similar duration of action and cardiac action.",,D,
+Question 14,which one of the following drugs inhibits neutrophil recruitment?,"a) Montelukast
+b) sodium cromolyn
+c) colchicine
+d) Febuxostat","colchicine inhibits neutrophil (granulocyte) recruitment.
+colchicine acts by preventing the polymerisation of microtubules by binding to tubulin. This reduces neutrophil recruitment to inflamed tissue and also decreases the secretion of chemotactic factors by activated neutrophils, thus reducing the inflammatory response overall.
+colchicine is used in gout and Mediterranean fever.",,C,
+Question 15,which of the following fluoroquinolones has maximum bioavailability?,"a) ciprofloxacin
+b) Levofloxacin
+c) Gatifloxacin
+d) Norfloxacin","Levofloxacin and ofloxacin have the maximum bioavailability among fluoroquinolones. Hence, intravenous and oral doses are the same for these drugs.",,B,
+Question 16,what is the mechanism of triazoles?,"a) Interferes with DNA and RNA synthesis b) Inhibition of ergosterol synthesis
+c) Forms pores in fungal membranes
+d) Inhibits epoxidation of squalene in fungi","Triazoles act by inhibition of ergosterol synthesis.
+The azole group inhibits the fungal cytochrome P45o enzyme called 14-α-sterol demethylase and results in an impairment of conversion of lanosterol to ergosterol. This results in the depletion of membrane ergosterol.
+Azole antifungals are of two types:
+• Imidazoles - clotrimazole, ketoconazole, luliconazole
+• Triazoles - itraconazole, fluconazole, voriconazole, posaconazole and isavuconazole",,B,
+Question 17,A dermatologist wants to prescribe acitretin to a patient with psoriasis. which of the following statements is false regarding the drug?,"a) contraindicated in persons with hyperlipidemia
+b) It can cause increased sensitivity to sunlight
+c) Female patients should avoid getting pregnant for 6 months after therapy
+d) Acitretin has a half life of about 5o hours","Female patients should avoid conception for 3 years after discontinuing acitretin treatment to prevent retinoid-induced embryopathy.
+Acitretin is approved for use in the cutaneous manifestations of psoriasis.
+Absolute contraindications:
+• Pregnant women
+• women who are planning to get pregnant
+• Breastfeeding
+Relative contraindications:
+• Leukopenia
+• Alcoholism
+• Hyperlipidemia
+• Hypercholesterolemia
+• Hypothyroidism
+• significant hepatic or renal disease
+Note: Female patients should avoid conception for 1 month after discontinuation of isotretinoin.",,C,
+Question 18,cilastatin is administered to prolong the action of which of the following drugs?,"a) Meropenem
+b) Imipenem
+c) cefazolin
+d) piperacillin","Imipenem is rapidly hydrolyzed by the enzyme renal dehydropeptidase. It is administered with cilastatin, a reversible inhibitor of dehydropeptidase to inhibit the breakdown and prolong the action of imipenem.
+Meropenem is not hydrolyzed by renal dehydropeptidase. Cilastatin administration is not necessary with meropenem.",,B,
+Question 19,what is the drug used to differentiate myasthenia gravis from cholinergic crisis?,"a) obidoxime
+b) Edrophonium
+c) Donepezil
+d) Atropine","The drug used to differentiate myasthenia gravis from a cholinergic crisis is edrophonium.
+Muscle weakness is a common presentation in patients with myasthenia gravis and cholinergic crisis (excessive dose of anti-ChE drugs). Intravenous injection of edrophonium improves muscular weakness in a patient with myasthenia gravis and not in a case of cholinergic crisis.
+The test used for this differentiation is known as the edrophonium test.
+Initially, 2 mg is administered; if improvements of symptoms do not occur within 45 seconds, an additional 8 mg can be administered. Improvement of strength is a positive test for myasthenia gravis.",,B,
+Question 20,which of the following is true about pegylated-filgrastim?,"a) Duration of action is shorter than normal filgrastim
+b) Added advantage is that it can be taken orally
+c) It should not be administered in sickle cell patients
+d) It is not effective in the treatment of severe neutropenia","Patients with sickle cell anemia should not receive pegylated filgrastim as it can trigger a sickle cell crisis.
+Filgrastim is a recombinant human G-CSF (granulocyte colony-stimulating factor). The pegylated forms of filgrastim, pegfilgrastim, and lipefilgrastim, are longer-acting forms. It is administered subcutaneously or by slow intravenous infusion only.
+Indications of recombinant G-CSF:
+• Severe neutropenia after autologous hematopoietic stem cell transplantation
+• Severe neutropenia after high dose cancer chemotherapy
+• Severe congenital neutropenias
+• Neutropenia of patients with AIDS receiving zidovudine",,C,
+Question 21,The best approach in the treatment of chronic SIADH is ______,"a) Tolvaptan
+b) Reducing fluid intake to <5oo ml per day
+c) Demeclocycline
+d) Fludrocortisone","The best approach in the treatment of chronic SIADH is the oral administration of a vaptan like tolvaptan, which is a selective V2 receptor antagonist. This increases urinary water excretion by blocking the antidiuretic effect of AVP.
+other treatment options for chronic SIADH include:
+• Fluid intake < 5oo ml/day
+• Demeclocycline
+• Fludrocortisone
+Increased thirst is a frequently observed characteristic of hyponatremia in SIADH. Fluid restriction is usually a burden to the patient. It is unreliable, impractical, and slow to work. As thirst is particularly difficult to suppress, water restriction in SIADH frequently leads to non-compliance in the long run. vaptans would be especially suited for the treatment of these patients. Serum sodium concentrations are also corrected by vaptans and hence, vaptans substantially improve the quality of life in these patients.",,A,
+Question 22,Intravenous mannitol is used in ____?,"a) Pulmonary edema
+b) congestive cardiac failure
+c) Acute kidney injury with anuria
+d) Glaucoma","Intravenous mannitol is used for the treatment of acute attacks of glaucoma.
+uses of mannitol are:
+• To reduce cerebral edema and intracranial pressure
+• Enhancement of urinary excretion of salicylates, barbiturates, bromides, and lithium
+• Diagnosis of bronchial hyperreactivity (inhalation)
+• Antihemolytic urological irrigation during transurethral procedures
+• Treatment of acute attacks of glaucoma.",,D,
+Question 23,which of the following carbapenems has increased risk of causing seizures?,"a) Meropenem
+b) Imipenem
+c) Etrapenem
+d) Doripenem","Imipenem is the carbapenem that is associated with an increased risk of causing seizures, especially when high doses are given to patients with CNS lesions.
+Excretion of imipenem is mainly renal and dosage modification is required to avoid seizures in renal failure patients.",,B,
+Question 24,which of the following helps in maintaining the patency of ductus arteriosus?,"a) PGF2α
+b) PGE1
+c) PGH2
+d) PGI2","Prostaglandin E1 (PGE1) maintains the patency of ductus arteriosus (PDA). This is used in term neonates with underlying cyanotic congenital heart disease awaiting surgical intervention as they have duct-dependant circulation.
+Indomethacin and Ibuprofen are the NSAID indicated for closing the ductus arteriosus in premature infants and neonates.",,B,

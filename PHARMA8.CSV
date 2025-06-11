@@ -1,0 +1,207 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,which of the following is an inhibitor of DNA synthesis?,"a) 6-mercaptopurine
+b) Mitomycin
+c) Actinomycin
+d) Asparaginase","6-Mercaptopurine is an inhibitor of DNA synthesis.
+6-Mercaptopurine is inactive in its parent form. It must be metabolized by hypoxanthine-guanine phosphoribosyltransferase to form monophosphate nucleotide 6-thioinosinic acid. This inhibits several enzymes of de novo purine nucleotide synthesis.
+option B- Mitomycin acts as an alkylating agent and crosslinks DNA. It also generates free radicals which damage DNA.
+option C- Actinomycin causes single-strand breaks in DNA. It blocks RNA transcription as well.
+option D- L-Asparaginase causes the breakdown of asparagine and thus interferes with protein synthesis.",,A,
+Question 2,"A patient on lithium therapy developed hypertension. He was started on thiazides for hypertension. After few days, he developed coarse tremors and other symptoms suggestive of lithium toxicity. Explain the likely mechanism of this interaction.","a) Thiazide inhibits the metabolism of lithium
+b) Thiazides act as an add on drug to lithium
+c) Thiazides increase the tubular reabsorption of lithium
+d) Thiazides cause water loss therby increase lithium levels","Thiazides act by increasing the tubular reabsorption of lithium.
+Thiazide use is accompanied by sodium loss which is compensated in a few days by increased reabsorption of Na+ in the proximal tubule.
+The kidney handles both lithium and Na+ in the same way. Thus, along with Na+ reabsorption, there will be an increase in the reabsorption of lithium also, resulting in decreased excretion of lithium.",,C,
+Question 3,which of the following should not be prescribed with theophylline?,"a) Erythromycin
+b) cefotaxime
+c) cotrimoxazole
+d) Amoxicillin","Erythromycin should not be prescribed with theophylline.
+Theophylline is mainly metabolized by Cyp1A2 in the liver. Erythromycin inhibits Cyp1A2 and thereby decreases the clearance of theophylline.
+Factors decreasing the clearance of theophylline are:
+• Drugs - erythromycin, cimetidine, ciprofloxacin, allopurinol, fluvoxamine, zileuton, zafirlukast
+• Congestive heart failure
+• Liver disease
+• pneumonia
+• viral infection and vaccination
+• High-carbohydrate diet
+• old age",,A,
+Question 4,which of the following drugs gets deposited in cornea?,"a) Leflunamide
+b) chloroquine
+c) Methotrexate
+d) sulfasalazine","Chloroquine, an anti-malarial drug may get deposited in the cornea leading to corneal opacity. ocular toxicity of chloroquine:
+• short-term therapy - blurring of vision and diplopia, reversible on stoppage of drug.
+• Long-term use (high-dose):
+• keratopathy
+• pigmentary retinopathy
+• optic atrophy
+Hydroxychloroquine has lower ocular toxicity compared to chloroquine.
+Drugs causing corneal opacity:
+• Amiodarone
+• phenothiazine
+• Indomethacin
+• chloroquine
+Long-term treatment with these drugs can cause a whorl-like opacity in the corneal epithelium called cornea verticillata. It is also seen in Fabry's disease.",,B,
+Question 5,A patient was prescribed an antipsychotic drug following which he developed parkinsonism. which of the following drugs■ can be given?,"a) Trihexiphenidyl
+b) Entacapone
+c) Rasagiline
+d) Pramipexole","Trihexyphenidyl is the drug of choice for drug-induced parkinsonism. It is a central anticholinergic.
+Drug-induced parkinsonism is a condition caused by certain drugs having D2 antagonistic action (typical antipsychotics). The decrease in dopaminergic activity results in an unbalanced cholinergic activity. Anticholinergics act by restoring the balance.",,A,
+Question 6,which of the following antiarrhythmic drugs is contraindicated in a patient with interstitial lung disease?,"a) Amiodarone
+b) sotalol
+c) Quinidine
+d) Lignocaine","Amiodarone is contraindicated in a patient with interstitial lung disease.
+The most serious adverse effect during chronic amiodarone therapy is pulmonary fibrosis, which can be rapidly progressive and fatal. underlying lung disease, doses of 4oo mg/day or more, and recent pulmonary insults such as pneumonia appear to be risk factors for this condition.
+Amiodarone is a class III antiarrhythmic drug.
+The side effects of amiodarone include:
+• pulmonary fibrosis
+• Hypotension, depressed ventricular function
+• Torsades de pointes
+• corneal microdeposits
+• Hepatotoxicity
+• Neuropathies
+• photosensitivity
+• Thyroid dysfunction",,A,
+Question 7,which of the following drugs acts by inhibiting the late sodium current in the heart?,"a) Ivabradine
+b) Ranolazine
+c) Trimetazidine
+d) Fasudil","Ranolazine acts by inhibiting the late sodium current in the heart.
+Late sodium current (INa) facilitates entry of calcium via the sodium-calcium exchanger. Inhibition of INa, therefore, reduces the intracellular calcium concentration which in turn reduces the diastolic tension, cardiac contractility and work.
+At higher doses, it may also modify the fatty acid oxidation, which improves the efficiency of cardiac oxygen utilization.
+It is used in the prophylaxis of angina.",,B,
+Question 8,A patient with diabetes and COPD developed post-operative urinary retention. which of the following drugs can be used for short-term treatment of the condition?,"a) Tamsulosin
+b) Bethanechol
+c) Terazosin
+d) Methacoline","Tamsulosin is the drug used to relieve the symptoms in cases of postoperative urinary retention in a patient with CoPD.
+It is also efficacious in the treatment of benign prostatic hyperplasia (BPH) with little effect on blood pressure.
+option B: Bethanechol is the drug of choice to relieve the symptoms in cases of postoperative urinary retention. However, it can cause bronchoconstriction in patients with CoPD. Hence tamsulosin is the best answer here.
+option C: Terazosin is an α1 receptor antagonist, used in the treatment of benign prostatic hyperplasia (BPH).
+option D: Methacholine is a muscarinic agonist but acts specifically on bronchial smooth muscle causing its contraction. It is available as an inhalational agent and is used for the diagnosis of bronchial hyper-reactivity in patients who do not have clinically apparent asthma.",,A,
+Question 9,which of the following drugs is used for the treatment of motion sickness?,"a) cetrizine
+b) promethazine
+c) Misolastin
+d) Loratidine",Promethazine is used for motion sickness. It is an antihistaminic agent that acts as an antagonist of H1 receptors. It also has central anticholinergic activity that is responsible for its antiemetic action.,,B,
+Question 10,which of the following is not a prokinetic?,"a) 5HT4 agonist
+b) Dopamine antagonist
+c) Motilin
+d) Diphenylmethane","Diphenylmethane is not a prokinetic agent. Its derivative (Bisacodyl) is used as a laxative.
+Prokinetic agents are the drugs that increase GI motility and transit of material in the GI tract. These agents include:
+• Dopamine receptor antagonists- metoclopramide and domperidone
+• serotonin receptor agonists- cisapride and prucalopride
+• Motilin
+• Macrolide antibiotics mimicking motilin - erythromycin
+• Miscellaneous agents:
+• Sincalide (c-terminal octapeptide of cck)
+• camicinal (motilin receptor agonist)
+• Relamorelin (ghrelin receptor agonist)
+• velusetrag and naronapride (5HT4 agonists)",,D,
+Question 11,which of the following is used in the first-line management of postmenopausal osteoporosis?,"a) Estrogen
+b) Bisphosphonates
+c) Raloxifene
+d) combined oral contraceptives","Bisphosphonates are used in the first-line management of postmenopausal osteoporosis.
+Bisphosphonates are analogs of pyrophosphates. They specifically inhibit bone resorption and thus are very effective for the treatment of postmenopausal osteoporosis.
+Bisphosphonates concentrate at sites of active remodeling. They remain in the matrix until the bone is remodeled. Then, they are released in the acid environment of the resorption lacunae and induce apoptosis in osteoclasts.
+classification ofbisphosphonates (mainly based on potency):
+First-generation:
+• Etidronate (least potent)
+• clodronate
+• Tiludronate
+second-generation: 1o-1oo times more potent than the first generation
+• Alendronate
+• pamidronate
+• Ibadronate
+Third-generation: 1o,ooo times more potent than the first generation
+• Risedronate
+• zoledronate",,B,
+Question 12,what is the mechanism of resistance by lactamases■ to β-lactam antibiotics?,"a) Alteration of penicillin binding protein
+b) Degradation of antibiotics
+c) Drug efflux
+d) Alteration in 5os ribosome structure","Resistance by lactamases is through the degradation of antibiotics.
+The bacterial cell wall is made of heteropolymeric peptidoglycan that confers mechanical stability. The β-lactam antibiotics inhibit the last step in peptidoglycan synthesis by acylating the transpeptidase via cleavage of the –Co–N– bond of the β-lactam ring. These transpeptidase targets are collectively called Penicillin Binding Proteins (PBPs)
+Beta-lactamases are enzymes produced by certain bacteria that inactivates β-lactam antibiotics by hydrolysis of the β-lactam ring in their structure.
+The resistance to penicillins and other beta-lactam antibiotics can be conferred through one of the four mechanisms:
+• Inactivation of antibiotic by lactamases
+• Modification of target PBPs
+• Impaired penetration of drug to target PBPs
+• Antibiotic efflux",,B,
+Question 13,"A female patient is on first-line pharmacological therapy for bipolar disorder for 6 months. she is fasting for a few days due to religious reasons and presented with seizures, coarse tremors, confusion, and weakness of limbs. which of the following investigations should be done to help diagnose her condition?","a) serum potassium level
+b) serum lithium level
+c) ECG
+d) MRI","The clinical features given in the question are most likely suggestive of lithium toxicity, and hence serum lithium levels should be measured to confirm it.
+Lithium is a mood stabilizer with a very narrow therapeutic index and is the first line of management in bipolar disorder.
+The kidney handles both lithium and Na+ in the same way via ENac channel. Thus during fasting/dehydration, along with Na+ reabsorption in renal tubules, there will be an increase in the reabsorption of lithium also, resulting in decreased excretion of lithium.
+Lithium has a very narrow therapeutic index of o.8-1.2 mEq/L. The severity of lithium toxicity is often divided into the following three grades:
+A fine tremor is common in patients taking lithium at therapeutic doses. Therapeutic lithium tremor is generally symmetric, limited to the arms, and nonprogressive. The tremor from lithium toxicity is coarser and more disabling, may also affect the legs, and occurs with other symptoms of toxicity. other adverse effects include mental confusion, hypothyroidism, nephrogenic diabetes insipidus, and edema.
+As lithium is readily dialyzed, lithium overdose or toxicity is treated with hemodialysis.
+*Note - serum Na+ levels are significant with respect to lithium toxicity, where as serum potassium levels becomes significant in digoxin toxicity. Hypokalemia increases the risk of digoxin toxicity.
+Grade: Mild symptoms, Moderate intoxicatio n, severe intoxication
+sr. lithium concentration(in mEq/L): 1.5-2.5, 2.5-3.5, >3.5
+symptoms: nausea, vomiting, tremor, and fatigue; confusion, agitation, delirium, tachycardia, and hypertonia; coma, seizures, hyperthermia, and hypotension",,B,
+Question 14,Pegloticase is used in management of:,"a) Chronic gout
+b) Rheumatoid arthritis
+c) Psoriatric arthritis
+d) Calcium pyrophosphate dihydrate crystal deposition (CPPD)","pegloticase is used in the treatment of chronic gout.
+pegloticase is a pegylated uricase (urate oxidase). It catalyzes the enzymatic oxidation of uric acid into allantoin, which is a more soluble and inactive metabolite.
+It is used in the treatment of severe,refractory chronic gout or in cases where other urate-lowering therapies are contraindicated.",,A,
+Question 15,which of the following is an inhibitor of RNA synthesis?,"a) 5-Fluorouracil
+b) Rifampicin
+c) Nitrofurantoin
+d) Novobiocin","Rifampicin is an inhibitor of RNA synthesis. It binds to the beta subunit of DNA dependent RNA-polymerase (rpoB) to form a stable drug-enzyme complex. The binding suppresses the chain formation in RNA synthesis.
+option A: 5-Fluorouracil inhibits thymidylate synthesis.
+option C: Nitrofurantoin produces highly reactive intermediates that cause DNA damage
+option D: Novobiocin is a potent inhibitor of bacterial DNA gyrase.",,B,
+Question 16,which of the following fluoroquinolone is not given in liver disease?,"a) ofloxacin
+b) Levofloxacin
+c) Pefloxacin
+d) Lomefloxacin","Pefloxacin is mainly metabolized in the liver and hence avoided in patients with liver disease.
+Quinolones with primarily hepatic metabolism include moxifloxacin, pefloxacin, and trovafloxacin (withdrawn from the market due to hepatotoxicity).
+Quinolones primarily excreted by the kidneys include ciprofloxacin, levofloxacin, norfloxacin, lomefloxacin, and ofloxacin.",,C,
+Question 17,Theophylline causes diuresis by:,"a) Adenosine antagonism
+b) PDE 4 inhibition
+c) Beta 2 agonism
+d) PDE 3 inhibition","The diuretic effect of theophylline is due to blockade of adenosine (A1) receptors.
+Theophylline is a methylxanthine drug that acts by:
+• Inhibition of phosphodiesterase enzyme (PDE). PDE3 inhibition causes relaxation of bronchial smooth muscle and PDE4 inhibition causes inhibition of the release of cytokines and chemokines which further leads to a decrease in immune cell migration and activation.
+• Blockade of adenosine receptors, which inhibits bronchoconstriction. However, blockade of A1 receptors in the glomerular afferent arteriole and pCT causes diuresis.
+• Activating enzyme histone deacetylase-2, which is responsible for its anti-inflammatory action",,A,
+Question 18,"The graph below shows the relationship between the log(dose) and the response of three drugs, A, B, and C. which of these drugs has the highest potency?","a) A
+b) B
+c) Both A and B
+d) C","Drug A has the highest potency.
+potency:
+• It is defined as the amount of drug needed to produce a given response. A highly potent drug evokes a given response at low concentrations and vice-versa.
+• The more the curve is on the left in a dose-response curve (DRC), the greater is its potency.
+• Thus, in the above image, the potency is Drug A >Drug B> Drug C.
+Efficacy:
+• It is defined as the maximum effect produced by the drug. It reflects the capacity of the drug to activate a receptor and produce the response.
+• In the log dose-response curve, the perpendicular height represents the drug efficacy.
+• Thus, in the above image, the efficacy is Drug A 〓 Drug B > Drug C.
+• Drugs having a similar pharmacological effect can have different efficacies e.g furosemide and metolazone are both diuretics but furosemide has greater efficacy than metolazone.",1099-754.PNG,A,IMAGE Q
+Question 19,"A patient presented with biliary colic. The intern has administered an analgesic, following which the pain got aggravated. which of the following could be responsible for the aggravation of the patient's symptoms?","a) Morphine
+b) Diclofenac
+c) Nefopam
+d) Etoricoxib","Morphine is the analgesic which could be responsible for the aggravation of the patient's symptoms.
+It causes constriction of the sphincter of oddi causing an increase in fluid pressure in the common bile duct and gall bladder.
+Note: pethidine causes lesser spasm of the sphincter of oddi and can be used in biliary colic.",,A,
+Question 20,A patient with gout develops hypertension. The uric acid level was found to be elevated. which of the following is not administered?,"a) Hydrochlorothiazide
+b) Atenolol
+c) Enalapril
+d) Prazosin","Hydrochlorothiazides are not given to this patient.
+Gout is a metabolic disease associated with hyperuricemia.Thiazides increase direct urate reabsorption in the proximal renal tubules and are associated with elevated serum uric acid levels and may precipitate gout. Hence, hydrochlorothiazides are not used to treat hypertension in gout patients.",,A,
+Question 21,Voriconazole is not effective against which of the following?,"a) candida albicans
+b) Mucormycosis
+c) candida tropicalis
+d) Aspergillosis","Voriconazole is not effective against mucormycosis.
+Mucormycosis is treated by amphotericin B. Posaconazole can also be used. However, other azoles are not effective against this fungus.
+Voriconazole is the drug of choice for the treatment of aspergillosis. It can also be used for candida species (including glabrata and krusei), scedosporium and Fusarium.",,B,
+Question 22,"A patient who was diagnosed with ADPKD was prescribed tolvaptan. After a few weeks, he presented with dry mouth and increased thirst. what is the likely cause?","a) Increased free water clearance
+b) V2 receptor agonism
+c) Increased renal cAMP levels
+d) Increase in urine osmolality","Tolvaptan causes increased free water clearance, which causes dehydration. Hence, the patient may present with dry mouth and increased thirst.
+Tolvaptan is a vasopressin V2 receptor antagonist. Decreased binding of vasopressin to the V2 receptor in the kidney lowers the adenyl cyclase activity leading to decreased intracellular cAMP. Decreased cAMP concentrations prevent the fusion of aquaporin 2 containing vesicles with the plasma membrane, leading to an increase in urinary water excretion (free water clearance), and a decrease in urine osmolality.
+The common side effects of tolvaptan include:
+• dehydration
+• hypernatremia
+• hypovolemia
+• liver injury
+Tolvaptan is used to delay disease progression in patients with ADPKD.",,A,

@@ -1,0 +1,207 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,The following Lineweaver-Burk plots depict enzymatic action in the presence of enzyme inhibitors. The enzyme action without inhibitor is represented by a blue line. what type of inhibitors are depicted in images 1 and 2?,"a) 1- uncompetitive inhibition 2- competitive inhibition
+b) 1- Noncompetitive inhibition 2- competitive inhibition
+c) 1- competitive inhibition 2- uncompetitive inhibition
+d) 1- competitive inhibition 2- Noncompetitive inhibition","The Lineweaver-Burk plot in image 1 depicts non-competitive inhibition, and that in image 2 depicts competitive inhibition.
+Important parameters in a reaction include:
+• The affinity of the enzyme for its substrate, given by the Michaelis constant or km. A low km reflects a high affinity of the enzyme for substrate and vice versa. The value of km is given by the substrate concentration at which the reaction velocity is equal to one-half vmax. It does not change with changes in enzyme concentration.
+• vmax is the maximum velocity of a reaction.
+competitive inhibition is when the inhibitor binds reversibly to the substrate-binding site and competes with the substrate for the active enzyme-binding site. This effect can be overcome by increasing the substrate concentration by which maximum velocity can still be achieved. Therefore, vmax is unaltered in this type of inhibition. However, the concentration of the substrate required to achieve half of the maximum velocity is increased. Therefore, km is increased in this condition.
+In a Lineweaver-Burk plot, the addition of a competitive inhibitor causes plots with the same y-intercept (vmax is unaffected) but different x-intercepts (due to increased km).
+Noncompetitive inhibition is by binding of inhibitors to enzymes in locations remote from the active site. Increasing the concentration of the substrate does not overcome non-competitive inhibition. Thus, noncompetitive inhibitors decrease the vmax of the reaction. They do not interfere with the binding of the substrate to the enzyme. Thus, the enzyme shows the same km in the presence or absence of noncompetitive inhibitors.
+In a Lineweaver-Burk plot, the addition of a non-competitive inhibitor causes plots with the same x-intercept (km is unaffected) but different slopes and y-intercepts (due to decreased vmax).
+In uncompetitive inhibition, inhibitors bind with the enzyme-substrate intermediate complex and inhibit it. This leads to a decrease in both vmax and km.",931-705.PNG,B,931-705.PNG
+Question 2,FISH technique helps to identify all except?,"a) Gene amplification
+b) Deletion
+c) point mutation
+d) Translocation","Fluorescent in situ hybridization (FISH) is not useful in identifying point mutation. point mutations are identified by other means like sequencing studies and restriction fragment length polymorphism.
+FISH is a method of molecular analysis of genetic lesions involving large deletions, duplications, or more complex rearrangements that are not readily amenable to detection using polymerase chain reaction or DNA sequencing approaches.
+FISH uses DNA probes that recognize sequences specific to particular chromosomal regions. To perform FISH, large fragments of cloned genomic DNA spanning up to 2oo kb are labeled with fluorescent dyes and applied to metaphase chromosome preparations or interphase nuclei. The probe hybridizes to its homologous genomic sequence and thus labels a specific chromosomal region that can be visualized under a fluorescent microscope.
+FISH can be performed on prenatal samples, peripheral blood cells, touch preparations from cancer biopsies, and even fixed archival tissue sections. It is used to detect numeric abnormalities of chromosomes (aneuploidy), subtle microdeletions and complex translocations that are not demonstrable by routine karyotyping, and gene amplification (e.g., HER2 in breast cancer or NMYC amplification in neuroblastomas).",,C,
+Question 3,which of the following micronutrients are associated with decreased sexual maturation and hypogonadism?,"a) zinc
+b) copper
+c) selenium
+d) Iron","zinc deficiency is associated with decreased sexual maturation and hypogonadism.
+zinc is the second most common trace element in the body after iron. As a component of zinc finger proteins, zinc regulates gene transcription and participates in nucleic acid metabolism, protein synthesis and thereby cell growth. zinc is a major antioxidant being part of the enzyme superoxide dismutase.
+zinc is derived mainly from animal protein. Diets based on cereals, plants and legumes are associated with zinc deficiency due to dietary phytic acid decreasing the bioavailability of zinc.
+zinc is absorbed throughout the small intestine by a process of facilitated diffusion. Almost 9o% of the total body zinc is localized in bone and skeletal muscle.
+Deficiency -
+• poor physical growth is an important feature of zinc depletion in preschool and school-age children. Delayed sexual maturation and hypogonadism are prominent features of zinc deficiency in adolescents. other features include anemia, anorexia, diarrhea, alopecia, impaired immune function and poor wound healing.
+• Acrodermatitis enteropathica is an autosomal recessive disorder of severe zinc deficiency, caused by impaired intestinal absorption due to a defect in intestinal zinc transporter protein. It presents in early infancy with vesiculobullous, dry, scaly, or eczematous skin lesions chiefly in the periorificial and acral areas.
+Normal requirements for children range between 3.5 and 5.o mg/day. Acquired zinc deficiency stats can be treated with o.5 to 1.o mg/kg/day for several weeks. Malnourished children have much higher requirements of 2-4mg/kg/day.
+other options :
+option B - copper deficiency results in microcytic, hypochromic anemia unresponsive to iron therapy, depigmentation of hair, neutropenia, neurological problems and osteoporosis. Disruption in copper transport is linked to wilson's disease and Menke's disease.
+option c - selenium deficiency is a cause of keshan disease, a form of cardiomyopathy in young children seen in some regions of china. In combination with iodine deficiency, lack of selenium can result in myxedematous endemic cretinism.
+option D - Iron deficiency causes anemia, irritability, anorexia, pica, angular stomatitis, leg cramps and congestive heart failure.",,A,
+Question 4,which of the following is not a heme breakdown product?,"a) carbon Monoxide
+b) Ferric / Fe 3+
+c) ALA
+d) Biliverdin","Aminolevulinic acid (ALA) is not a product of heme breakdown; rather it is an intermediate in the synthesis of heme molecules.
+The process of heme breakdown occurs over a series of reactions. In the reticuloendothelial system of the liver, spleen and bone marrow, heme is degraded by microsomal heme oxygenase. It requires NADPH and cytochrome c. In this process, the alpha methenyl bridge of the heme molecule is liberated as carbon monoxide. The Fe+ liberated is oxidized to Fe3+++ and taken up by transferrin.
+The linear tetrapyrrole formed is biliverdin (green pigment), which is further reduced to bilirubin (red-yellow pigment) by an NADPH-dependent biliverdin reductase. The bilirubin is transported in the plasma bound to albumin and is taken up by the liver, where it is conjugated with glucuronic acid to make it water-soluble, which is finally excreted in the bile.
+The intestinal bacteria deconjugate the bilirubin, which is reduced to urobilinogen. It is further reduced to stercobilinogen, which is excreted through feces.",,C,934-706.PNG
+Question 5,which type of mutation results in the reversal to wild type of phenotype when the mutant gene is suppressed?,"a) Deletion of mutated gene
+b) Frameshift of mutated gene
+c) Addition of another normal gene
+d) Mutations in tRNA","Mutations in tRNA are known to suppress the mutant gene and cause reversal to wild phenotype. such mutations are called suppressor mutations.
+suppressor mutations are secondary mutations that alter the phenotypes caused by an existing mutation. This is not to be confused with reversion mutations in which the original mutation has been lost. Instead, suppressor mutations return the phenotype caused by the original mutation to a more wild-type phenotype despite the presence of the original mutation. The suppressor mutation’s effect on the phenotype can vary from partial restoration to full restoration of the wild-type phenotype.
+In prokaryotic and lower eukaryotic organisms, abnormally functioning tRNA molecules have been discovered that are themselves the results of mutations. some of these abnormal tRNA molecules are capable of binding to and decoding altered codons, thereby suppressing the effects of mutations in the structural genes.
+These suppressor tRNA molecules, usually formed as a result of alterations in their anticodon regions, are capable of suppressing certain missense mutations, nonsense mutations, and frameshift mutations. An example of suppressor mutation is illustrated below.
+A primary mutation occurs changing the original codon sequence from UGG (Trp) to UAG (stop). A secondary mutation occurs in the gene for a glutamine tRNA leading to the anticodon switch from a GUC to AUC. This mutant tRNA can recognize the UAG stop codon and insert glutamine in place of the stop, allowing translation to continue past the stop and suppressing the original mutation.
+In the laboratory context, such suppressor tRNAs, coupled with mutated variants of aminoacyl-tRNA synthetases, can be utilized to incorporate unnatural amino acids into defined locations within altered genes that carry engineered nonsense mutations. The resulting labeled proteins can be used for in vivo and in vitro cross-linking and biophysical studies.",,D,935-707.PNG
+Question 6,which of the following is not a post-transcriptional modification?,"a) 5 prime capping
+b) Methylation
+c) Glycosylation
+d) Endonuclease cleavage","Glycosylation is not a post-transcriptional modification; it is a post-translational modification.
+A primary transcript is the initial, linear, RNA copy of a transcription unit. The collection of all the primary transcripts synthesized in the nucleus by RNA polymerase II is known as heterogeneous nuclear RNA (hnRNA). The pre-mRNA components of hnRNA undergo extensive co- and posttranscriptional modification in the nucleus and become mature mRNA. These modifications usually include the following :
+• Addition of a 5, cap - This is the first of the processing reactions for pre-mRNA. The cap is a 7-methylguanosine attached to the 5, terminal end of the mRNA and is resistant to most nucleases. creation of the cap requires the removal of the γ-phosphoryl group from the 5, triphosphate of the pre-mRNA, followed by the addition of guanosine monophosphate.
+Methylation of this terminal G occurs in the cytosol and is catalyzed by guanine- 7-methyltransferase. Additional methylation steps may occur (options A and B).
+• Addition of a 3,-poly-A tail - Most eukaryotic mRNA have a chain of 4o to 25o adenylates (adenosine monophosphates) attached to the 3, end. This poly-A tail is added by the nuclear enzyme, polyadenylate polymerase. The poly-A tail terminates eukaryotic transcription. In addition, it helps stabilize the mRNA, facilitates its exit from the nucleus, and aids in translation.
+• splicing - Maturation of eukaryotic mRNA usually involves removal from the primary transcript of RNA sequences (introns) that do not code for protein (endonuclease cleavage). The remaining coding (expressed) sequences, the exons, are joined together to form the mature mRNA. The process of removing introns and joining exons is called splicing. The molecular complex that accomplishes these tasks is known as the spliceosome (option D).",,C,
+Question 7,Match the following conditions :,"a) 1 - b, 2 -a, 3 -d, 4 -c
+b) 1 -c, 2 -d, 3 -b, 4 -a
+c) 1 -b, 2 -d, 3 -a, 4 -c
+d) 1 -c, 2 - b, 3 -a, 4 -d","The correct answer is option B: 1 -c, 2 -d, 3 -b, 4 -a
+von Gierke disease (type I glycogen storage disorder) occurs due to the deficiency of glucose-6-phosphatase enzyme in the liver, kidney, and intestinal mucosa. patients present commonly by 3-4 months of age with hypoglycemia (leading to seizures), lactic acidosis, and hepatomegaly. Affected children often have a doll-like face with fat cheeks, relatively thin extremities, short stature, and a protuberant abdomen due to massive hepatomegaly. The kidneys are also enlarged, whereas spleen and heart are not involved. Laboratory findings include hypoglycemia, lactic acidosis, hyperuricemia, and hyperlipidemia.
+pompe's disease (type II glycogen storage disorder) occurs due to a mutation in alpha-1,4-glucosidase (also known as acid maltase), a lysosomal enzyme. A defect in this enzyme leads to the accumulation of glycogen in the lysosomes of peripheral, voluntary muscles and progresses to involve the cardiac muscle and diaphragm. clinical features include hypotonia (floppy baby syndrome), cardiomyopathy, hepatomegaly, and failure to thrive. Myozyme can prevent worsening or can reverse cardiac and skeletal abnormalities.
+cori disease (type III glycogen storage disorder) occurs due to a deficiency of the glycogen debranching enzyme. The features of cori disease include hypoglycemia, hepatomegaly, and hyperlipidemia but with normal blood lactate and uric acid levels. Muscle weakness and atrophy can also occur in these patients. Liver biopsy shows the accumulation of glycogen in the form of limit-dextrins (branched structures).
+McArdle disease (type v glycogen storage disorder) typically presents during late childhood or in the second decade of life. The muscle glycogen phosphorylase enzyme deficiency interferes with ATp generation by glycogenolysis in the muscles. This causes muscle glycogen accumulation.
+symptoms are exercise intolerance associated with muscle cramps. This leads to severe muscle damage resulting in a massive release of myoglobin in the blood.
+1) Glycogen accumulation in l iver and renal cells and lactic acidemia, associated with hy poglycemia: c) von Gierk disease
+2) Glycogen accumulation in lysosomes: d) pompe disease
+3) Exercise intolerance: b) McArdle disease
+4) Accumulation of branched structures: a) cori disease",,B,
+Question 8,All are true statements regarding folate deficiency except,"a) Increased levels of homocysteine and normal methylmalonic acid
+b) Folate supplementation on diagnosis of pregnancy prevents neural tube defect
+c) It is important to treat co-existing vitamin B12 deficiency before initiating folate therapy
+d) Folate deficiency is commonly seen in children with hemolytic anemia","Folate deficiency is seen in children with macrocytic anemia and not with hemolytic anemia.
+Folic acid (vitamin B9) is the synthetic form of folate used in supplements and fortification of foods. Folic acid plays a key role in one-carbon metabolism, essential for the biosynthesis of several compounds. Tetrahydrofolate (THF), the reduced, coenzyme form of folate, receives one-carbon fragments from donors such as serine, glycine, and histidine and transfers them to intermediates in the synthesis of amino acids, purine nucleotides, and thymidine monophosphate (TMP), a pyrimidine nucleotide incorporated into DNA.
+Leafy vegetables such as spinach, turnip, lettuce and fortified cereal products are rich sources.
+Folate deficiency is caused by increased demand (e.g., pregnancy and lactation), poor absorption caused by pathology of the small intestine, alcoholism, or treatment with drugs (e.g., methotrexate) that are dihydrofolate reductase inhibitors. Children with hemolytic anemia have high folate requirements due to increased erythropoiesis predisposing them to deficiency (option B). Its manifestations are :
+• Anemia - A primary result of folic acid deficiency is megaloblastic anemia, caused by diminished synthesis of purine nucleotides and TMP, which leads to an inability of cells to make DNA and, therefore, an inability to divide.
+• Neural tube defects - Maternal deficiency of folate, during pregnancy, is implicated in neural tube defects. Periconceptional folate supplements, begun 1 month before conception and continued for 3 months after, are recommended to reduce the risk.
+• Hyperhomocysteinemia - Folate, along with vitamin B12, is involved in converting homocysteine to methionine, as depicted below. Hence, folate deficiency results in increased levels of homocysteine.
+However, levels of methylmalonic acid are normal. Methylmalonic acid levels are elevated in deficiency of vitamin B12, which is required as a coenzyme in the conversion of methylmalonyl CoA to succinyl CoA (option A).
+Treatment: In patients with megaloblastic anemia, it is imperative to exclude and treat vitamin B12 deficiency before treating with folate. otherwise the neurological signs of vitamin B12 deficiency may develop and progress irreversibly (option C). Deficiency is corrected using folic acid at a dose of o.5-1mg/day orally for 3-4 weeks.",,D,IMAGE A
+Question 9,congenital lactic acidosis is seen due to a defect in which of the following enzymes?,"a) pyruvate dehydrogenase
+b) Branched chain ketoacid dehydrogenase
+c) Transketolase
+d) Isocitrate dehydrogenase","Congenital lactic acidosis is seen due to a defect in pyruvate dehydrogenase.
+The major source of acetyl CoA for the tricarboxylic acid (TCA)cycle is the oxidative decarboxylation of pyruvate by the multienzyme pyruvate dehydrogenase complex (PDHC). The PDHC is a protein aggregate of multiple copies of three enzymes, pyruvate decarboxylase (E1), dihydrolipoyl transacetylase (E2), and dihydrolipoyl dehydrogenase (E3). Each catalyzes a part of the overall reaction.
+A deficiency of the E1 component of the PDHC is the most common biochemical cause of congenital lactic acidosis. The deficiency results in a decreased ability to convert pyruvate to acetyl CoA, causing pyruvate to be shunted to lactate via lactate dehydrogenase. This creates particular problems for the brain, which relies on the TCA cycle for most of its energy and is particularly sensitive to acidosis. symptoms include neurodegeneration, muscle spasticity, and, in the neonatal-onset form, early death. The inheritance pattern is X- linked dominant, with both males and females affected. Although there is no proven treatment for PDHC deficiency, dietary restriction of carbohydrates and supplementation with thiamine may reduce symptoms in select patients.
+other options :
+option B - Branched-chain ketoacid dehydrogenase deficiency results in maple syrup urine disease. There is defective oxidative decarboxylation of leucine, isoleucine and valine. The disease is characterized by feeding problems, ketoacidosis, changes in muscle tone, and coma.
+option C - Defective transketolase is a rare disorder of pentose phosphate metabolism with symptoms apparent in infancy including developmental delay and intellectual disability, delayed or absent speech, short stature, and congenital heart defects.
+option D - Isocitrate dehydrogenase is an enzyme of the TCA cycle which converts isocitrate to alpha-ketoglutarate. Defects in this enzyme are linked to carcinogenesis.",,A,
+Question 10,which of the following is not associated with G6pD deficiency?,"a) Equal incidence in males and females
+b) Defective NADpH synthesis
+c) predisposes the patient to oxidative stress
+d) patient presents with hemolysis","G6PD Deficiency does not have an equal incidence in males and females. It is an X-linked recessive (XLR) disorder, hence males are more affected than females.
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency causes congenital hemolytic anemia due to enzyme deficiency. G6PD is required to generate NADPH while oxidizing glucose-6-phosphate in the hexose monophosphate pathway (HMP). G6PD deficiency leads to reduced NADPH levels (option B) which then reduces the level of reduced glutathione. Reduced glutathione is required to protect the cells against oxidative stress to RBCs and hemolysis.
+Clinically, most patients are asymptomatic. when exposed to triggers like fava beans, infections, drugs such as primaquine, chloroquine, sulfonamides/sulfones, dapsone, and nitrofurantoin patient develops:
+• Episodic hemolysis, both intravascular and extravascular
+• Hemolytic anaemia
+• Hemoglobinemia
+• Hemoglobinuria
+Increased oxidative damage to RBCs leads to the formation of denatured precipitates known as Heinz bodies. These bodies can damage the RBC membrane leading to intravascular hemolysis. Additionally, when such RBCs pass through the splenic cords, macrophages pluck out these precipitates, giving them the characteristic appearance of bite cells.
+The images below show the presence of Heinz bodies and bite cells.",,A,939-710.PNG;940-711.PNG
+Question 11,which of the following is not a neurotransmitter derived from aminoacids ?,"a) Gamma amino butyric acid
+b) Dopamine
+c) 5 hydroxytryptamine
+d) creatine","creatine is not a neurotransmitter derived from amino acids.
+creatine is an intermediate product in the process of formation of creatinine. The steps involved in the formation are as follows:
+• The amidino group of arginine is transferred to glycine to form guanidoacetic acid. This step occurs in the kidneys and pancreas.
+• Guanido acetic acid is methylated by S-adenosyl methionine to form creatine. This step occurs in the liver.
+creatine is phosphorylated to creatine phosphate by the enzyme creatine kinase, which is present in the muscle, brain and liver. The reaction needs hydrolysis of ATP. The stored creatine phosphate in the muscle serves as an immediate store of energy in the muscle. During muscle contraction, the energy is first derived from ATP hydrolysis. Thereafter, the ATP is regenerated by the hydrolysis of creatine phosphate. This is called the Lohmann's reaction.
+The creatine phosphate may be converted to its anhydride, creatinine, which is excreted in the urine. creatinine level in the blood is an indicator of renal function.
+other options :
+option A - Gamma amino butyric acid (GABA) functions in brain tissue as an inhibitory neurotransmitter. It is formed by decarboxylation of glutamate by L-glutamate decarboxylase.
+option B - Dopa is a precursor in the formation of the neurotransmitters dopamine, norepinephrine and epinephrine. It is formed by the hydroxylation of tyrosine by tyrosine hydroxylase.
+option c - 5 Hydroxytryptamine is an important neurotransmitter in the brain, where it functions as an antidepressant. It is derived from the amino acid tryptophan, in a process of hydroxylation followed by decarboxylation.",,D,
+Question 12,which of the folloWing methods is used to test the blood taken from a neonate for metabolic disease screening?,"a) complete blood count
+b) Tandem Mass Spectrometry
+c) Next Generation Sequencing
+d) ELISA","Tandem mass spectrometry is used to screen a blood sample for metabolic diseases.
+Mass spectrometry is a very sensitive quantitative analytical technique used to measure a wide range of clinically relevant analytes. It identifies molecules based on their mass or molecular size. A sample is vaporized such that a positive charge is produced on the molecule. An electric field is applied so that particles move. At the same time, a magnetic field is applied, so the cations are deflected and hit on the detector. For molecules of identical charge, the time required for the molecule to reach the detector is inversely proportional to the mass of the molecule.
+In tandem mass spectrometry, two mass spectrometers (MS) are arranged sequentially. The first MS separates big peptides, based on their mass. From this observation, the parent ion can be directed into the second MS. Here the ions collide with argon gas molecules and are broken into smaller ions. These daughter ions are detected and quantified by their mass spectrum in the second instrument.
+Tandem MS is used to screen blood samples from newborns for the presence and concentrations of amino acids, fatty acids and other metabolites. Abnormalities in metabolite levels can serve as diagnostic indicators for a variety of genetic disorders like phenylketonuria.",,B,
+Question 13,Familial hypercholesterolemia is a result of a defect in Which of the folloWing?,"a) LDL receptor
+b) Apo E
+c) Apo cII
+d) Apo B48","Familial hypercholesterolemia occurs due to a defect in the LDL (low-density lipoprotein) receptor.
+The primary function of LDL particles is to provide cholesterol to the peripheral tissues (or return it to the liver). They do so by binding to plasma membrane LDL receptors that recognize apo B-1oo.
+After binding, the LDL–receptor complex is endocytosed. The pH of the endosome falls, which allows the separation of the LDL from its receptor. The receptors can be recycled, whereas the lipoprotein remnants in the vesicle are transferred to lysosomes and degraded by lysosomal acid hydrolases, releasing free cholesterol, amino acids, fatty acids, and phospholipids. These compounds can be reutilised by the cell.
+Defects in the synthesis of functional LDL receptors cause a significant elevation in plasma LDL-C. Patients with such deficiencies have type IIa hyperlipidemia /familial hypercholesterolemia (FH). This autosomal dominant condition predisposes individuals to premature atherosclerosis and coronary artery disease.
+Patients with homozygous FH must be treated aggressively to delay the onset and progression of CVD. Two drugs that reduce the hepatic production of VLDL and thus LDL, a small-molecule inhibitor of the microsomal TG transfer protein (MTP) and an antisense oligonucleotide to apoB, and an antibody that inhibits ANGPLT3 are approved and should be considered in patients who have insufficient response to statins and PCSk9 inhibitors. LDL apheresis should be considered in patients who have persistently elevated LDL-C levels despite drug therapy.
+other options :
+option B - Defects in apo-E lead to type III hyperlipoproteinemia / familial dysbetalipoproteinemia. It is characterized by defective clearance of chylomicron remnants and intermediate-density lipoproteins by the liver. This leads to hypercholesterolemia, xanthomas, and atherosclerosis.
+option C - Defective apo-C II results in type I hyperlipoproteinemia/ familial lipoprotein lipase deficiency. The resulting inactive lipoprotein lipase leads to slow clearance of chylomicrons and VLDL, and low levels of LDL and HDL. Patients present with eruptive xanthomas and acute pancreatitis.
+option D - Apo-B 48 is involved in the assembly of chylomicrons. Defects in this protein are not associated with familial hypercholesterolemia.",,A,
+Question 14,"In a patient With Diabetes Mellitus, the liver produces more TG and vLDL. what is the cause of the same?","a) Decreased action of LPL With increased action of HSL
+b) Decreased action of LPL With Decreased action of HSL
+c) Increased action of LPL With increased action of HSL
+d) Increased action of LPL With decreased action of HSL","In a patient with Diabetes Mellitus, the liver produces more TG and VLDL, due to decreased action of LPL with increased action of HSL.
+• Lipoprotein lipase (LPL): Enzyme responsible for hydrolyzing triglycerides (TG) in VLDL and chylomicrons into free fatty acids (FFAs) for storage or energy use in tissues.
+• Hormone-sensitive lipase (HSL): Enzyme that breaks down stored triglycerides in adipocytes into free fatty acids and glycerol.
+Insulin has an inhibitory effect on hormone-sensitive lipase (HSL). In diabetes, low insulin corresponds to an increase in HSL activity. This promotes the breakdown of lipids and a release of TG and free fatty acids from the adipose tissue.
+Insulin induces the activity of lipoprotein lipase (LPL) which is present on the capillary walls. LPL promotes hydrolysis of TG and the degradation of the transport proteins, VLDL and chylomicrons. In diabetes, low insulin leads to decreased LPL activity which corresponds to an increase in VLDL and TG.
+This results in increased production of triglycerides and VLDL in the liver.",,A,
+Question 15,"Nutritional deficiency of copper, required by lysyl oxidase which is an importent key step for formation for covalent cross linking in collagen synthesis, gives rise to which of the following condition?","a) Menke's disease
+b) scurvy
+c) Ehlers Danlos syndrome
+d) scoliosis","Nutritional deficiency of copper, required by lysyl oxidase for formation for covalent cross linking in collagen synthesis, gives rise to Menke's disease.
+Menke's disease is an X-linked recessive condition caused due to a mutation in the ATP7A gene on chromosome X. This causes impaired transport of dietary copper from the small intestine to the liver leading to low levels of copper-containing enzymes.
+The final step of collagen synthesis involves the formation of covalent cross-links. This is done by the enzyme lysyl oxidase, a copper-containing protein. This is essential for the strength and rigidity of collagen. As a result of deficiency of copper in Menkes disease, this step of collagen synthesis is affected.
+The patients presents with depigmented kinky hair, failure to thrive, neurodegenerative symptoms (loss of developmental milestones, truncal hypotonia, epilepsy), multiple fractures, anaemia due to ceruloplasmin deficiency, neutropenia, and recurrent infections.
+other options:
+option B: scurvy: caused by vitamin c deficiency, leading to defective collagen synthesis due to impaired hydroxylation of proline and lysine.
+option c: Ehlers-Danlos syndrome: A group of genetic disorders affecting collagen structure or production.
+option D: scoliosis: A structural deformity of the spine.",,A,
+Question 16,Match the following with appropriate precursors,"a) i-b, ii-d, iii-a, iv-c
+b) i- c, ii-d, iii-a, iv-b
+c) i- a, ii-d, iii-b, iv-c
+d) i- b, ii-a, iii-d, iv-c","The correct matched sequence is : i-b, ii-d, iii-a, iv-c.
+i. Melatonin – b. Tryptophan
+Tryptophan is an essential amino acid and the precursor for the synthesis of melatonin, produced by the pineal gland. The process begins with tryptophan being converted into serotonin, and then serotonin is further converted into melatonin.
+ii. Histamine – d. Histidine
+Histamine is derived from the amino acid histidine. The conversion of histidine into histamine is catalyzed by the enzyme histidine decarboxylase. Histamine is involved in local immune responses, acts as a neurotransmitter, and plays a role in regulating gastric acid secretion.
+iii. Norepinephrine – a. Tyrosine
+Norepinephrine (noradrenaline) is synthesized from tyrosine. Tyrosine is first converted to L-DoPA by the enzyme tyrosine hydroxylase, and then L-DoPA is converted into dopamine. Finally, dopamine is hydroxylated to form norepinephrine. Norepinephrine is a neurotransmitter involved in the sympathetic nervous system's fight-or-flight response.
+iv. Glutathione – c. cystine
+Glutathione is a tripeptide composed of glutamate, cystine, and glycine. The cystine component is crucial because it contains a thiol (-sH) group, which is responsible for the antioxidant properties of glutathione.
+i. Melatonin: b. Tryptophan
+ii. Histamine: d. Histidine
+iii. Norepinephrine: a. Tyrosine
+iv. Glutathione: c. cystine",,A,
+Question 17,In the current scenario treatment for urea cycle disorder is available. Administration of amino acid phenylbutyrate can decrease ammonia formation. which amino acid provides phenylbutyrate?,"a) Arginine
+b) Glutamate
+c) Aspartate
+d) Glycine","The amino acid that provides phenylbutyrate in the treatment of urea cycle disorders is glutamate.
+Ammonia to urea cycle: Ammonia gets converted to glutamate (non toxic form) through transamination. Glutamate is transported to the liver as glutamine (by glutamine synthase). In the liver, ammonia is released from glutamine, converting it to alpha keto glutatamte. The released ammonia enters the urea cycle.
+In acetylation therapy, phenylbutyrate (a prodrug) which is metabolized to phenylacetate. phenylacetate combines with glutamine (a nitrogen-rich amino acid) to form phenylacetylglutamine. phenylacetylglutamine is water-soluble and is excreted in the urine. This process helps trap excess nitrogen, bypassing the urea cycle.
+other drugs that can be used to achieve the same outcome (ammonia scavengers) include:
+• phenylacetate
+• Benzoate
+other options:
+option A and C: Arginine and Aspartate do not play a role in this specific reaction.
+option D: Glycine: The combination of benzoate and glycine forms hippuric acid, a non-toxic compound. when Benzoate is administered to the body, it acts as a nitrogen-scavenging agent. Hippuric acid is water-soluble and is excreted in the urine, effectively removing one nitrogen molecule from the body per molecule of hippuric acid formed. This mechanism is similar to how phenylacetate acts as a scavenger for glutamate.",,B,
+Question 18,which among the following are appropriate techniques for chromosomal aneuploidy?,"a) i,ii,iii,iv
+b) i,ii
+c) ii,iii
+d) iii,iv","In situ hybridization, Conventional cytogenetics, sanger sequencing and polymerase chain reaction are appropriate techniques for chromosomal aneuploidy.
+Techniques to detect aneuploidy:
+• In situ hybridization: Fluorescent In situ Hybridisation (FIsH) helps in the detection of specific genetic information using fluorescent probes. FIsH is used to detect chromosomal aneuploidy, subtle microdeletions and rearrangements, complex translocations, and gene amplification.
+• Conventional cytogenetics: This technique involves the study of chromosomes under a microscope, typically using methods like karyotyping, which arranges chromosomes by size, shape, and number. The analysis allows the identification of large chromosomal abnormalities, such as aneuploidy or structural changes.
+• sanger sequencing: DNA sequencing that uses chain-termination to identify the exact sequence of nucleotides in a DNA molecule. simple senger sequencing can detect aneuploidy only with massive parallel sequencing.
+• polymerase chain reaction: polymerase chain reaction (pCR) is a rapid automated method for the amplification of specific DNA sequences (or genes). It can accurately quantify the target nucleic acid sequence within a sample. It is useful for determining somatic mutation with low allele frequency. Quantitative Fluorescence (QF) pCR is a method of rapid aneuploidy detection. It is less expensive and allows simultaneous processing of large number of samples of FISH.
+• Array comparitive Genomic Hybridization: microarray based technique which can reveal imbalances across the genome.
+• Multiplex Ligation probe Amplification: to detect gene dosage.",,A,
+Question 19,Enzyme used in recombinant DNA technology are?,"a) 1,2,3,4
+b) 1,2,3
+c) 2,3,4
+d) 1,3,4","phosphatase, Terminal transferase and crispr cas9 are used in recombinant DNA technology.
+Recombinant DNA technology is a technique where DNA from different sources is combined to create new genetic material. Applications of recombinant DNA technology include producing insulin, growth hormones, vaccines, gene therapy, and studying gene functions and disease mechanisms.
+phosphatase dephosphorylates 5, ends of RNA and DNA. It is primarily used for the removal of phosphate groups pror to kinase labelling and it is also used to prevent self ligation.
+Terminal transferase catalyzes the addition of nucleotides to the 3' terminus of a DNA molecule. It is used in homopolymer tailing.
+cRISpR-cas9 acts as an RNA-directed nuclease. It is a DNA editing/gene regulatory system. It involves two essential components: cas9, an endonuclease that causes a double-stranded DNA break, allowing modifications to the genomic DNA to be made; and a synthetic single-guide RNA, or sgRNA, responsible for guiding cas9 to its target.
+Isomerase is a class of enzymes that catalyze the structural rearrangement of molecules, converting one isomer into another. Isomerase is not commonly used directly in recombinant DNA technology, it has broader applications. They are used in metabolic pathways and as biocatalysts in industrial processes.",,C,

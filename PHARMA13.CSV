@@ -1,0 +1,134 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+1,A bronchial asthma patient on inhalational steroids presented with white patchy lesions on the tongue and buccal mucosa. what is the drug that can be used to treat this condition?,"a) clotrimazole
+b) Griseofulvin
+c) Terbinafine
+d) Flucytosine","The given clinical scenario of white patchy lesions on the tongue and buccal mucosa in a patient using inhalational steroids is oral candidiasis. The drug that can be used for the treatment is clotrimazole.
+MDI results in the deposition of steroids in the oropharyngeal space, which can cause cough, dysphonia, and oropharyngeal candidiasis.
+clotrimazole is a topical imidazole used in the treatment of tinea infections like ringworm. It is particularly used for the treatment of vaginitis as a once-daily application because of its long-lasting residual effect.
+For oral candidiasis, 1o mg troche of clotrimazole is allowed to dissolve in the mouth 3-4 times a day. Alternatively, lotion or gel is applied and swirled in the mouth for as long as possible. side effects are local irritation and a burning sensation.
+other options:
+option B: Griseofulvin acts by inhibiting microtubule assembly, disrupting the fungal cell division. It is mainly used against dermatophytes and is the drug of choice for tinea capitis in children. It is not effective against candida.
+option C: Terbinafine acts by inhibiting epoxidation of fungal squalene that reduces ergosterol biosynthesis. It is helpful for treating nail onychomycosis and tinea capitis.
+option D: Flucytosine acts by inhibiting fungal DNA synthesis. It is used exclusively in combination with amphotericin B for cryptococcal meningitis.",,A,
+2,A pregnant woman with a history of bronchial asthma is in the third stage of labor. which of the following drugs should be avoided in the management of postpartum hemorrhage in this mother?,"a) carboprost
+b) oxytocin
+c) Dinoprostone
+d) Methyl ergometrine","The drug that should be avoided in the management of postpartum hemorrhage in this mother with a history of bronchial asthma is carboprost.
+Carboprost is an analog of PGF2α . It is used in obstetrics to induce second-trimester abortions and to control postpartum hemorrhage. vomiting, diarrhea, and bronchoconstriction can occur.
+Contraindications of carboprost:
+Absolute
+Relative
+AsthmaPulmonary hypertens ionsuspected amniotic fluid e mbolism
+Pre-eclampsiaRenal diseaseLi ver diseaseHeart disease
+other options :
+option B: oxytocin is the first-line drug to prevent and treat PPH according to WHo guidelines. It is administered by intravenous route and may lead to hypotension and reflex tachycardia.
+option C: Dinoprostone is a prostaglandin E2 analog used for cervical ripening, induction of labor, and in atony treatment. It should be avoided in patients with a history of asthma, glaucoma, or myocardial infarction. one major adverse effect is uterine hyperstimulation.
+option D: Ergot derivatives are used in the control of postpartum uterine bleeding. It is given intramuscularly and is effective within 1–5 minutes. It is given at the time of delivery of the placenta or immediately after if bleeding is significant. side effects are gastrointestinal disturbances like diarrhea, nausea, and vomiting.",,A,
+3,Name the drug that acts on both the marked areas.,"a) sacubitril
+b) omapatrilat
+c) Losartan
+d) Nesiritide","The drug that acts on both the marked areas is omapatrilat.
+omapatrilat is a dual inhibitor of neutral endopeptidase and Angiotensin-converting enzyme (ACE). It decreases angiotensin II and increases atrial and brain natriuretic peptide, promoting vasodilation, diuresis, and anti-hypertrophic effect.
+other options:
+option A - sacubitril is a neprilysin inhibitor. It reduces the breakdown of natriuretic peptides such as ANP, BNP, and CNP, thereby increasing their levels. sacubitril combined with valsartan reduces mortality in heart failure with reduced ejection fraction (HFrEF).
+option C - Losartan is the angiotensin receptor blocker used in the treatment of hypertension. Hyperkalemia is an important side effect ofARBs. It appears to be a safe and efficacious agent to lower serum uric acid levels in patients with hyperuricemia.
+option D - Nesiritide is a recombinant human brain natriuretic peptide (BNp). It causes vasodilatation and natriuresis. It is administered intravenously and used in acute decompensated heart failure.",1236-786.PNG,B,
+4,"A patient with a previous history of myocardial infarction and ventricular arrhythmia is on treatment for a few months. He developed fatigue, dyspnea, and weight gain. He had also developed pulmonary fibrosis. which of the following drugs is responsible for the above-mentioned side effects?","a) Amiodarone
+b) Atenolol
+c) Aspirin
+d) spironolactone","The drug that is responsible for the above-mentioned side effects is amiodarone.
+Amiodarone is a class III antiarrhythmic drug. The most serious adverse effect during chronic amiodarone therapy is pulmonary fibrosis, which is rapidly progressive and fatal. The side effects of amiodarone include:
+• pulmonary fibrosis
+• Hypotension, depressed myocardial function
+• Corneal microdeposits
+• Hepatotoxicity
+• Neuropathies
+• photosensitivity
+• Hypo- or hyperthyroidism
+other options:
+option B: Atenolol is a beta-1 selective antagonist. Bradycardia, fatigue, and cold extremities are common adverse effects. It is used in combination with a diuretic, in elderly patients with isolated systolic hypertension. CNS side effects like depression and nightmares are seen.
+option C: Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) that blocks the formation of thromboxane A2 by acetylation of Cox1. Through this mechanism, it shows antipyretic, analgesic, and anti-inflammatory actions. Higher doses can result in bleeding.
+option D: Spironolactone is a potasium-sparing diuretic. It is a competitive inhibitor of the mineralocorticoid receptor in the late distal tubule and collecting duct of the kidneys.
+It promotes sodium diuresis but maintains the body's potassium levels. It is contraindicated in patients with hyperkalemia. Side effects are gynecomastia, impotence, decreased libido, and menstrual irregularities.",,A,
+5,A young female comes to the emergency department after consuming 1oo tablets of aspirin. what should be the next step in management?,"a) N-acetyl cysteine to replenish glutathione stores
+b) pralidoxime
+c) Glucagon to control bradycardia and hypoglycemia
+d) Give sodium bicarbonate to alkalize urine","The next step in the management of this patient who consumed 1oo tablets of aspirin is to give sodium bicarbonate to alkalize the urine.
+Alkalinization of urine will be helpful in the removal of aspirin, which is a weakly acidic drug and is susceptible to ion trapping in the urine. It is done by administration of sodium bicarbonate in 1 L of 5% dextrose in water (D5w). It is infused intravenously at twice the maintenance fluid requirements.
+Alkalinization of urine is contraindicated in renal failure or if fluid administration may worsen pulmonary edema or congestive heart failure.
+other options:
+option A: N-acetyl cysteine is used as an antidote for the treatment of paracetamol poisoning which replenishes glutathione stores in the liver.
+option B: pralidoxime is also used in organophosphate poisoning. It regenerates active acetylcholinesterase and relieves skeletal muscle end-plate block. It is usually used as an adjuvant to atropine.
+option D: Glucagon is used in beta-blocker toxicity.",,D,
+6,A chronic smoker was on nicotine replacement therapy and clonidine tablets for smoking de-addiction. He stopped taking clonidine tablets and now presents with a headache. what is the reason behind this condition?,"a) postural hypotension
+b) Receptor upregulation
+c) Rebound hypertension
+d) Receptor hypersensitivity","The mechanism that causes headache in this patient, who stopped taking clonidine is rebound hypertension.
+clonidine is an alpha-2 receptor agonist and a centrally acting antihypertensive agent. It treats high blood pressure by stimulating presynaptic α2 receptors in the vasomotor center in the brainstem. This binding has a sympatholytic effect, by suppressing the release of norepinephrine and other sympathomimetics.
+Abrupt withdrawal after long-term therapy can result in rebound hypertension, restlessness, and sympathetic overactivity. Dry mouth and sedation are the major side effects of clonidine. It can also cause impotency and constipation.
+phentolamine is used for the control of hypertension due to clonidine withdrawal.",,C,
+7,A patient with recurrent attacks of gout was started on a therapy that inhibits the synthesis of uric acid. His symptoms were reduced after therapy. which drug was he started on?,"a) probenecid
+b) colchicine
+c) Diclofenac
+d) Allopurinol","Allopurinol which inhibits uric acid synthesis is the likely drug that was added to the regimen.
+It is a purine antimetabolite and a competitive inhibitor of the xanthine oxidase enzyme. It prevents the conversion of hypoxanthine and xanthine to uric acid reducing plasma uric acid levels. The metabolite of allopurinol called oxypurinol is a non-competitive inhibitor of xanthine oxidase.
+It is used in the treatment of hyperuricemia in patients with gout and also in patients with hematological malignancies about to undergo chemotherapy.
+other options:
+option A: probenecid is a uricosuric agent that promotes the excretion of uric acids by inhibiting the organic anion transporter, particularly URAT-1 in the renal tubule. It is used to decrease the body pool of urate in patients with chronic gout. It is used as an adjuvant to allopurinol in chronic gout and hyperuricemia. plenty of fluids are given to avoid urate calculi formation.
+option B: Colchicine is an antimitotic drug that is used in the treatment of acute gout. It acts by inhibiting microtubule and spindle formation. Side effects are nausea, vomiting, myelosuppression, aplastic anemia, and rhabdomyolysis.
+option C: Diclofenac is a commonly used NSAID that has analgesic, antipyretic, and anti-inflammatory activities. It acts by inhibiting the cyclooxygenase-2 enzyme. Side effects are rashes, fluid retention, edema, and renal function impairment.",,D,
+8,A patient with a malignancy is undergoing chemotherapy. The platelet counts were reduced after the previous cycle of chemotherapy. which of the following drugs can be used in the treatment of this patient?,"a) oprelvekin (IL-11)
+b) Filgrastim
+c) Erythropoietin
+d) Amifostine","The most probable diagnosis for this patient is chemotherapy-induced thrombocytopenia. oprelvekin can be used in the treatment of this patient.
+oprelvekin is an IL-11 analog used in the treatment of chemotherapy-induced thrombocytopenia. It increases thrombopoiesis. It is used in the treatment of thrombocytopenia due to non-myeloid malignancies. Important adverse effects are fluid retention, tachycardia, palpitation, edema, and shortness of breath.
+other options:
+option B: Filgrastim is a granulocyte-colony-stimulating factor (G-CSF) that is used for the treatment of severe neutropenia after high-dose cancer chemotherapy.
+option C: Epoetin alfa and darbepoetin alfa are recombinant human erythropoietin. They are used in the treatment of anemias associated with surgery, AIDS, cancer chemotherapy, and certain chronic inflammatory conditions.
+option D: Amifostine is used in the reduction of nephrotoxicity associated with cisplatin.",,A,1243-787.PNG
+9,The true statement among the following is _____,"a) The dose of telmisartan should be reduced in renal failure but not in hepatic failure.
+b) The dose of irbesartan should be reduced in case of mild-moderate hepatic failure and renal failure.
+c) The dose of candesartan should be reduced in mild-moderate liver failure but not in renal failure.
+d) Losartan acts as thromboxane A2 antagonist and inhibits platelet aggregation.","The true statement is losartan acts as a thromboxane A2 antagonist and inhibits platelet aggregation.
+Losartan is a competitive angiotensin receptor antagonist. It binds to the AT1 receptor with high affinity. It is also a competitive antagonist of the thromboxane A2 receptor and attenuates platelet aggregation.
+Losartan is the angiotensin receptor blocker used in the treatment of hypertension. Hyperkalemia is an important side effect ofARBs. It appears to be a safe and efficacious agent to lower serum uric acid levels in patients with hyperuricemia.
+other options:
+option A: The clearance of telmisartan is mainly by biliary secretion. The clearance is affected by hepatic insufficiency. The dose of telmisartan should be reduced in hepatic failure but not in renal failure.
+option B: Irbesartan is metabolized to glucuronide conjugate, and is cleared mainly by biliary excretion. The plasma clearance is unaffected by either renal or mild-to-moderate hepatic insufficiency. Hence, the dose need not be reduced in either of the cases.
+option C: The plasma clearance of candesartan is by biliary excretion and renal elimination. The clearance is affected by renal insufficiency. Hence, the dose should be reduced in case of renal failure and not in mild-moderate liver failure.",,D,
+10,"A patient given digoxin started having side effects like nausea and vomiting. The serum concentration of digoxin was 4 mg/dL. The plasma therapeutic range is 1 mg/dL. If the half-life of digoxin is 4o hours, how long one should wait before resuming the treatment?","a) 4o hours
+b) 8o hours
+c) 12o hours
+d) 14o-18o hours","The treatment can be resumed after 8o hours.
+The half-life (T1/2) is the time it takes for the plasma concentration of the drug to be reduced by 5o%. In the given scenario, the half-life of digoxin is given as 4o hours. The serum concentration of digoxin is given as 4 mg/dL.
+After 4o hours, the serum concentration of digoxin becomes 2 mg/dL (half of the initial concentration), and after 8o hours, it will be reduced to 1 mg/dL. So, to reach a serum concentration of 1 mg/dL (therapeutic range), it will take 8o hours.",,B,
+11,"A patient comes to the casualty with organophosphate poisoning. He was started on atropine infusion and pralidoxime. After 2 hours, the patient had a sudden rise in temperature. what is the likely cause of fever?","a) Atropine toxicity
+b) side effect of pralidoxime
+c) Due to organophosphate poisoning
+d) Idiopathic","The most likely cause of fever in this patient is atropine toxicity.
+The clinical scenario is suggestive of organophosphate consumption and atropine is used for its management. Atropine is a muscarinic receptor antagonist, and it competitively blocks the acetylcholine at muscarinic receptors.
+organophosphates are powerful acetylcholinesterase inhibitors. It is absorbed by inhalation or through the skin. Mucous membranes and the gastrointestinal tract are also the sites for absorption.
+The predominant initial signs are of muscarinic excess which includes: (DUMBBELSS)
+• Diarrhoea
+• urination
+• Miosis
+• Bronchospasm
+• Bradycardia
+• Emesis
+• Lacrimation
+• salivation
+• sweating
+Nicotinic manifestations include twitching of eyelids, tongue, and facial muscles which then leads to paralysis. CNs stimulation results in headache, tremors, ataxia, coma, and death.
+Atropine in larger doses can lead to atropine toxicity. The features are depicted in the following image:
+Solution to Question 12:
+The mechanism of action of the tissue plasminogen activator is to enhance fibrin degradation.
+Tissue plasminogen activators activate plasminogen bound to fibrin, and catalyze the conversion of plasminogen to plasmin, resulting in increased formation of plasmin. This results in fibrinolysis of formed thrombus (thrombolysis).
+It is indicated in pulmonary embolism with hemodynamic instability, acute ischemic stroke, and acute myocardial infarction. Recombinant variants of t-PA like reteplase and tenecteplase have a longer half-life.
+All thrombolytics can cause bleeding, which may be counteracted by the administration of antifibrinolytics, such as aminocaproic acid and tranexamic acid.",,A,1245-788.PNG
+12,The mechanism of action of tissue plasminogen activator is _____,"a) Inhibit extrinsic pathway
+b) Inhibits platelet aggregation
+c) Enhance fibrin degradation
+d) Inhibit clot formation","The mechanism of action of the tissue plasminogen activator is to enhance fibrin degradation.
+Tissue plasminogen activators activate plasminogen bound to fibrin, and catalyze the conversion of plasminogen to plasmin, resulting in increased formation of plasmin. This results in fibrinolysis of formed thrombus (thrombolysis).
+It is indicated in pulmonary embolism with hemodynamic instability, acute ischemic stroke, and acute myocardial infarction. Recombinant variants of t-PA like reteplase and tenecteplase have a longer half-life.
+All thrombolytics can cause bleeding, which may be counteracted by the administration of antifibrinolytics, such as aminocaproic acid and tranexamic acid.",,C,

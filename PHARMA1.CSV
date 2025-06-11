@@ -1,0 +1,244 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,"How much drug will remain at the end of 6 hours when a patient is given 2oo mg drug, 75 mg excreted in 9o min and if the drug follows first-order kinetics?","a) 5o mg
+b) 3o.5 mg
+c) 12.5 mg
+d) 6.25 mg","In first order kinetics, a constant fraction of the drug is excreted in a given time.
+since 75 mg of 2oo mg is excreted in 9o minutes, the fraction of drug excreted in each 9o mins is 75/2oo, which is 3/8. Thus, the fraction of the drug that remains in the body is 5/8.
+There will be 4 cycles of excretion of the drug (6 hours = 36o mins, and 36o/9o = 4). Thus, with a starting dose of 2oomg, the drug remaining in the body after 4 hours will be:
+2oo x 5/8 x 5/8 x 5/8 x 5/8 〓 3o.5mg
+Alternate way to calculate:
+75 mg of 2oo mg is excreted in 9o minutes, thus 75/2oo 〓 o.375 is eliminated
+After 9o minutes; 2oo mg-75 mg 〓 125 mg remains.
+The second 9o minutes (after 18o minutes) 〓 125 x o.375 〓 46.875 mg is eliminated, and 125-46.875 〓 78.125 mg remains
+The third 9o minutes (after 27o minutes) 〓 78.125 x o.375 〓 29.297 mg is eliminated, and 78.125-29.297 〓 48.828 remains
+The fourth 9o minutes (after 36o minutes) 〓 48.828 x o.375 〓 18.31o mg is eliminated, 48.828-18.31o 〓 3o.518 mg remains after 6 hours.",,B,
+Question 2,what is the most bactericidal anti leprotic drug amongst the given drugs?,"a) Amoxicillin
+b) Ciprofloxacin
+c) ofloxacin
+d) Erythromycin","ofloxacin is the most bactericidal anti leprotic drug amongst the given drugs.
+It exhibits high activity against M. leprae, and it is being used in alternative multidrug therapy (MDT) regimens in rifampicin-resistant cases. As a component of MDT, it has been found to hasten the bacteriological and clinical response.
+Among the macrolides, clarithromycin has activity against leprosy bacilli and is used for alternative MDT in cases resistant to both rifampicin and fluoroquinolones. Azithromycin shows activity against Mycobacterium avium complex but not lepra bacilli.
+Note: Rifampicin is the most potent bactericidal anti leprotic drug.",,C,
+Question 3,which of the following is not true about P-glycoprotein?,"a) Pgp stands for permeability glycoprotein
+b) Also known as CD243
+c) Also known as ABCB1
+d) Also known as MDR2","P-glycoprotein is also known as multidrug resistance protein 1 or MDR1 (not MDR2). It is also denoted by cluster of differentiation 243 (CD243).
+P-glycoprotein (P-gp) is one of the first members of the ATP-binding cassette (ABC) transporter, which acts as an efflux membrane transporter. It is responsible for limiting cellular uptake and the distribution of xenobiotics and toxic substances. It is associated with multidrug resistance (MDR).
+• Increased P-gp expression: Reduces the absorption of drugs that are substrates for P-gp
+• Decreased P-gp expression: Leads to supratherapeutic plasma concentrations and drug toxicity",,D,
+Question 4,"For which of the following drugs, is absorption increased after a fatty meal?","a) Griseofulvin
+b) Amphotericin B
+c) Ampicillin
+d) Aspirin","The absorption of griseofulvin is increased after a fatty meal.
+Note: Fatty meals increase the rate of absorption of efavirenz to such an extent as to cause toxicity. Hence, efavirenz is recommended to be taken on an empty stomach.
+Drug absorption reduced /del ayed by food: Ampicillin, Aspirin, Atenolol, Azithromycin, captopril, Indinavir, Isoniazid, Rifampin, sucralfate, Tetracycline, Doxycycline
+Drug absorption increased by food: Atovaquone, carbamazepine, chlorothiazide, cefuroxime, Diaz epam, Ganciclovir, Lithium, Met oprolol, Ritonavir, Hydralazine, Lumefantrine",,A,
+Question 5,A patient with prinzmetal angina is administered isosorbide mononitrate and is noticed to have symptomatic relief. what is the mechanism of action of nitrate in this case?,"a) Endothelium independent coronary vasodilation
+b) Reduced cardiac contractility
+c) Increased left ventricular end diastolic volume
+d) Decreased diastolic perfusion pressure","The mechanism of action of nitrates in prinzmetal angina is endothelium-independent coronary vasodilatation.
+Prinzmetal angina occurs due to vasospasm of the coronary arteries. Nitrates relax the smooth muscles of epicardial coronary arteries and relieve coronary artery spasm.
+In the case of stable angina, the primary mechanism of action of nitrates is preferential dilatation of veins (by increasing cGMP). Venous dilatation leads to a decrease in the venous return to the heart (preload). This decreases the ventricular end-diastolic volume and thereby a decrease in myocardial oxygen consumption. The diastolic perfusion pressure (aortic blood pressure in diastole - left ventricular pressure in diastole) is increased.",,A,
+Question 6,The drug of choice in anaphylactic shock is?,"a) Adrenaline o.5 mg 1/1ooo IM
+b) Adrenaline 1 mg 1/1oooo IV
+c) Atropine 3 mg
+d) Adenosine 6 mg followed by 12 mg IV","Adrenaline o.5 mg 1/1ooo by intramuscular route (IM) is the drug of choice for treatment of anaphylactic shock. Hence it is the answer here.
+In case the patient develops life threatening condition, adrenaline o.25 mg IV is given.
+Note : This is a controversial question. The following inference from journal may help to clarify the concept.
+• As vasodilatation is the main pathological change early in anaphylaxis, this enables the subcutaneous or intramuscular absorption of adrenaline to be rapid and effective.
+• Thus, when the disease is treated early and is progressing slowly, or venous access is difficult or the patient is unmonitored, intramuscular adrenaline has advantages in terms of safety and is usually effective.
+• Later, when intravascular volume is depleted and shock occurs with a life threatening situation, or there is severe dyspnoea or airway compromise, the intravenous route is necessary to achieve optimal absorption.",,A,
+Question 7,what instruction do you give to a mother who is lactating for drug use?,"a) No advice as most of drug are not present in breast milk
+b) Give longer half-life drugs
+c) Tell the mother to feed when it is least efficacious
+d) To feed just before the next dose, when the plasma concentration of the drug would be the least","Ideally, the mother should feed just before the next dose, when the plasma concentration of the drug would be the least.
+• The drugs are present in breast milk in variable amount but lesser than in plasma of mother.
+• Breastfeeding is advised at least 3-4 hours after drug intake so that plasma concentration is lesser and hence the concentration in the breast milk is also less.",,D,
+Question 8,"In a case of acute exacerbation of asthma, salbutamol was given, however, no improvement was noticed. Intravenous corticosteroids and aminophylline were given and the condition improved. what is the probable mechanism by which the corticosteroids would have improved the condition?","a) corticosteroids increase bronchial responsiveness to salbutamol
+b) corticosteroids cause direct bronchodilatation when used with xanthines
+c) corticosteroids indirectly increase the effect of xanthines on adenosine receptor
+d) corticosteroids increase mucociliary clearance","corticosteroids improved the condition by increasing the airway responsiveness to salbutamol. Mechanism of action of corticosteroids in an acute asthma attack:
+• Increases responsiveness to β-2 agonists
+• Decreases mucous secretion
+• Decreases inflammatory cell response.
+steroids increase the transcription of β-2 receptor genes and hence increases responsiveness to β-2 agonists.
+β-2 agonists increase the effect of steroids by enhancing the action of glucocorticoid receptors. Theophylline increases the effects of steroids by activating the enzyme histone deacetylase which is the target for steroids as well.
+Note: As per recent GINA 2021 guidelines, aminophyllines are no longer preferred in the management of acute severe asthma due to their low efficacy and poor safety profile.",,A,
+Question 9,which of the following opioids is a partial agonist at mu and a full agonist at kappa receptors?,"a) pentazocine
+b) Buprenorphine
+c) Tramadol
+d) Fentanyl","pentazocine is a partial agonist at mu and a full agonist at kappa receptors.
+Analgesia produced by pentazocine is predominantly mediated by the κ receptor.
+pentazocine is a mixed agonist-antagonist opioid agent. It is a full agonist at the κ receptor and a partial agonist or weak antagonist at the μ receptor
+Note: Buprenorphine is a partial agonist at mu receptors but an antagonist at kappa receptors",,A,
+Question 10,The drug of choice for insomnia in blind people is,"a) Latanoprostene
+b) zerviate
+c) Tasimelteon
+d) Ramelteon","The drug of choice for insomnia in blind people is tasimelteon.
+option A - Latanoprostene is used in primary open-angle glaucoma.
+option B - zerviate is a cetirizine ophthalmic solution used in allergic conjunctivitis.
+option D - Ramelteon is a synthetic tricyclic analog of melatonin used in sleep onset difficulty insomnia.",,C,
+Question 11,Dofetilide belongs to which class of anti-arrhythmic drugs?,"a) class I
+b) class II
+c) class III
+d) class IV",Dofetilide belongs to class III of anti-arrhythmic drugs.,,C,
+Question 12,what is the mechanism of action of vancomycin?,"a) cell wall synthesis inhibition
+b) cell membrane inhibition
+c) Peptide synthesis inhibition
+d) 5os ribosome inhibition","The mechanism of action of vancomycin is cell wall synthesis inhibition.
+The bacterial cell wall has long chains of peptidoglycan and is cross-linked to each other by the action of the enzyme transglycosylase. vancomycin is a glycopeptide group of antibiotics that binds to the D-alanyl-D-alanine terminus of the synthesized peptidoglycan. This inhibits the transglycosylase enzyme and prevents elongation and cross-linking of peptidoglycan. This leads to the weakening of the cell wall causing lysis.
+It exhibits a time-dependant or concentration-independent killing of bacteria. It primarily acts on Gram +ve organisms which are resistant to other antibiotics such as methicillin-resistant staphylococcus and ampicillin resistant enterococci.
+Lipoglycopeptides are a new generation of glycopeptide congeners which include telavancin, dalbavancin, and oritavancin. Dalbavancin and oritovancin are administered as a single intravenous dose for skin and soft-tissue infections.",,A,990-726.PNG
+Question 13,"The following table gives BP values before and after administration of drug 6x,. what would be the probable mechanism of action of drug 6x,?","a) α1 agonist and β1 agonist
+b) M2 agonist and M3 agonist
+c) α1 antagonist and β2 agonist
+d) β1 agonist and β2 agonist","The probable mechanism of action of drug ‘x’ is β1 and β2 agonism.
+According to the given table, systolic BP and heart rate is increased due to β1 agonistic effect, and diastolic BP is decreased by vasodilatation due to β2 action.
+option A: Action on α1 causes ↑ DBP
+option B: Action on M2 causes ↓ HR and action on M3 causes vasodilatation and reflex increase in HR. Hence there is no net effect on heart rate
+option C: α1 antagonism causes vasodilatation and ↓ DBP. β2 action causes vasodilatation and DBP ↓",980-725.PNG,D,IMAGE Q
+Question 14,A patient requires ceftriaxone 18o mg. You have a 2 ml syringe with 1o divisions per ml. The vial contains 5oo mg/5ml of ceftriaxone. How many divisions in the 2 ml syringe will you fill to give 18o mg ceftriaxone?,"a) 18
+b) 1.8
+c) 2o
+d) 2","• 5oo mg of drug is in 5 ml and hence 1oo mg in 1ml. Thus 18o mg in 1.8 ml
+• 1o divisions for each ml
+• 1 ml 〓 1o divisions
+• Therefore, 1.8 ml 〓 1o*1.8 〓 18 Divisions",,A,
+Question 15,The drug that decreases the size of prostate is:,"a) Tamsulosin
+b) Sildenafil
+c) Finasteride
+d) Flutamide","Finasteride reduces prostatic size.
+Finasteride:
+• It is a competitive inhibitor of 5α-reductase enzyme, thus inhibiting the conversion of testosterone into its active form DHT(Dihydrotestosterone) which is responsible for androgenic action in Prostate gland.
+• It produces effect on long term use (nearly 6 months) by reducing prostatic epithelial cell proliferation thereby reducing the size of prostate and improves urine flow.
+Tamsulosin is an α 1 selective Antagonist which dilates prostatic urethra and hence produces immediate symptom relief in BPH. It has no effect on reducing size of the prostate.
+sildenafil acts by inhibiting phosphodiesterase-5 (PDE-5) and is used in the treatment of erectile dysfunction.
+Flutamide is a Nonsteroidal Androgen Receptor antagonist with no hormonal activity. They are used for treatment of metastatic prostatic cancer in conjunction with GnRH agonists.",,C,
+Question 16,which one of the following is a placebo?,"a) Herbal medication with no effect known b) physiotherapy
+c) Sham surgery
+d) cognitive behavioural therapy","sham surgery (placebo surgery) is a faked surgical intervention that omits the step thought to be therapeutically necessary.
+Note: while option A may be considered a placebo due to there being no known effects, it is not certain as to whether all possible effects (known and unknown) have been considered. Hence, weighing options A and C, the better option among the two would be C as sham surgery is a widely used placebo.",,C,
+Question 17,A young male developed 5 episodes of loose stools 2 hours after eating in a restaurant. He is afebrile and has mild dehydration. what should be the treatment?,"a) ciprofloxacin and tinidazole
+b) Only ciprofloxacin
+c) Only ORS
+d) ciprofloxacin, tinidazole and ORS","It is a case of acute diarrhea in an afebrile, stable patient which can be managed with ORS alone. Management of diarrhea:
+• Mild-moderate dehydration - ORS.
+• Severe dehydration- IV fluids are given.
+• Afebrile patient - No antibiotics are given.
+• Febrile patient - empirical antibiotics. If only bacterial etiology is suspected, ciprofloxacin is given. If giardiasis is suspected, metronidazole or tinidazole are recommended.",,C,
+Question 18,Atropine is indicated in all of the following poisonings except _____.,"a) Baygon
+b) TIK 2O
+c) parathion
+d) Endrin","Endrin is an organochloride pesticide that causes neurotoxicity. There is no antidote available and only symptomatic treatment is done.
+parathion and TIK2o are organophosphates and baygon is a combination of organophosphate and carbamate. For all of these, atropine is the drug of choice.",,D,
+Question 19,27-year-old female came for treatment of infertility to OPD. Bromocriptine was prescribed. what could be the possible reason?,"a) Hyperprolactinemia
+b) PCOD
+c) Hypogonadotrophic hypogonadism
+d) PID","The patient is likely to be suffering from hyperprolactinemia.
+prolactin inhibits the secretion of GnRH, which leads to the decreased secretion of LH and FSH resulting in infertility. Bromocriptine acts on Dopamine D2 receptors to reduce prolactin secretion.",,A,
+Question 20,which is a mood stabiliser with an anti-suicidal role?,"a) Carbamazepine
+b) Lamotrigine
+c) Lithium
+d) valproate","Lithium is a mood stabilizer with an antisuicidal role.
+Maintenance treatment with lithium has shown to decrease the rate of suicide in mood disorders. Lithium was found to be better than other mood stabilizers such as carbamazepine, lamotrigine, and valproate.
+Lithium is also used in recurrent depression with a cyclic pattern is controlled by either lithium or imipramine. It is also used to augment standard antidepressant response in acute major depression in those patients who have had an inadequate response to monotherapy.",,C,
+Question 21,which of the following is not an idiosyncratic reaction of carbamazepine?,"a) Blurred vision
+b) Agranulocytosis
+c) Rash
+d) steven Johnson syndrome","Blurred vision is not an idiosyncratic reaction of carbamazepine.
+Idiosyncratic blood dyscrasias with carbamazepine, include fatal cases of aplastic anaemia and agranulocytosis. The most common idiosyncratic reaction is an erythematous skin rash. It can rarely cause steven Johnson syndrome.",,A,
+Question 22,"In a middle-aged diabetic patient with chronic kidney disease stage 5, which of the following drugs can be given safely without altering the dose?","a) vildagliptin
+b) Linagliptin
+c) saxagliptin
+d) sitagliptin","Linagliptin can be given safely without altering the dose for this patient.
+Linagliptin is a dipeptidyl-peptidase-4 (DPP-4) inhibitor and is eliminated by the hepatobiliary route. Hence no dosage adjustment is needed in renal failure.
+It is used in type 2 diabetes as monotherapy or as combination therapy with other drugs when metformin is not tolerated or contraindicated.
+other DPP-4 inhibitors like sitagliptin, vildagliptin, saxagliptin, alogliptin show renal elimination.",,B,
+Question 23,which of the following drugs can be used as an antidote for fibrinolytic therapy?,"a) protamine
+b) streptokinase
+c) Heparin
+d) ε-Aminocaproic acid","ε-Aminocaproic acid can be used as an antidote for fibrinolytic therapy.
+It is a lysine analog that binds competitively to plasminogen, blocking plasminogen from binding to fibrin and the subsequent conversion to plasmin. This activity subsequently results in the inhibition of fibrinolysis.
+It should not be given unless hemorrhage is life-threatening because it inhibits intrinsic fibrinolytic activity and can precipitate DIC. Fresh frozen plasma and cryoprecipitate may also be used to replenish fibrin and clotting factors.",,D,994-727.PNG
+Question 24,A known epileptic patient on levetiracetam has been seizure-free for 2 years. But he develops agitation and anger issues interfering with his day-to-day activities as a result of the drug intake. which of the following measures is to be taken next?,"a) slowly taper the drug over next 6 months
+b) continue levetriacetam since a 5 year seizure free interval is needed
+c) stop levetiracetam and start on a different anti-epileptic
+d) Discontinue the drug as he is seizure free","The mood changes observed in the above patient must be due to an adverse effect of levetiracetam. Abrupt stoppage of the drug can result in rebound seizures. So the best management will be to slowly taper the drug over the next 6 months.
+Adverse effects of levetiracetam:
+• Somnolence
+• Asthenia
+• Ataxia
+• Dizziness.
+• Mood and behavioral changes
+• psychotic reactions (rare)",,A,
+Question 25,A drug was given IV at a rate of 1.6mg/min. The clearance of the drug is 64oml/min. The half life of the drug is 1.8 hour. calculate the plasma concentration of the drug at steady state.,"a) 2.88mg/ml
+b) o.oo4mg/ml
+c) 3.55mg/ml
+d) o.oo2mg/ml","plasma steady-state concentration is achieved when the amount of drug being administered equals the amount of drug being excreted from the body.
+The amount of drug being administered 〓 1.6mg/min
+Amount of drug being excreted 〓 clearance (cL) x plasma concentration of the drug (c) clearance 〓 64oml/min
+Therefore,
+1.6mg/min 〓 64oml /min ( clearance) x plasma concentration of the drug
+Hence,
+Plasma concentration of the drug 〓 1.6 mg/min / 64o ml/min 〓 o.oo2 mg/ml.",,D,
+Question 26,which of the following disease-modifying anti rheumatoid drug increases extracellular adenosine?,"a) Methotrexate
+b) Lefunamide
+c) Sulphasalazine
+d) Hydroxychloroquine","Methotrexate is the disease-modifying anti rheumatoid drug that increases extracellular adenosine. Methotrexate’s principal mechanism of action relates to inhibition of amino-imidazole carboxamide ribonucleotide (AICAR) transformylase and thymidylate synthetase.
+AICAR accumulates intracellularly, competitively inhibits AMP deaminase, leading to an accumulation of AMP. The AMP is released and converted extracellularly to adenosine, which is a potent inhibitor of inflammation. As a result, the inflammatory functions of neutrophils, macrophages, dendritic cells, and lymphocytes are suppressed.",,A,995-728.PNG
+Question 27,composition of Lente insulin is:,"a) 7o% amorphous 3o% crystalline
+b) 7o% crystalline 3o% amorphous
+c) only 7o% amorphous
+d) other name of NPH insulin","Lente insulin is an intermediate-acting insulin and is a combination of ultralente and semilente in the ratio of 7:3
+Two types of insulin zinc suspensions have been produced. The one with large particles is crystalline and practically insoluble in water (ultralente). It is long-acting. The other has smaller particles and is amorphous (semilente), is short-acting. Their 7:3 ratio mixture is called ‘Lente insulin’ and is intermediate-acting.",,B,
+Question 28,Mechanism of action of oseltamivir as an antiviral agent is:,"a) Inhibition of M2 receptor
+b) Neuraminidase inhibition
+c) Inhibition of RNA dependent DNA polymerase
+d) Apoptosis of infected cells","oseltamivir and zanamivir are neuraminidase inhibitors.
+They competitively and reversibly interact with the enzyme sites to inhibit viral neuraminidase activity. This interferes with the release of the progeny from infected host cells, halting the spread of infection. Early administration is crucial.
+oseltamivir is given at a dose of 75 mg, twice a day for 5 days for the treatment of Influenza A and B. For prophylaxis, it is given at a dose of 75mg, once per day and continued for the duration of exposure.",,B,
+Question 29,"A male patient who is suffering from a psychotic disorder is on antipsychotic, antidepressant and antihypertensive treatment. He suddenly developed tachycardia and chest tightness. on evaluation he had metabolic acidosis. EcG showed widened QRS complex and prolonged QT interval. which of the following drugs is responsible for this?","a) Amitriptyline
+b) Amlodipine
+c) chlorthalidone
+d) Enalapril","The given clinical scenario is suggestive of torsades de pointes. only amitriptyline causes this condition, among the above drugs.
+Torsades de pointes (French: twisting of points) is a life-threatening form of polymorphic ventricular tachycardia with rapid asynchronous complexes and an undulating baseline on ECG.",,A,996-729.PNG
+Question 30,You and your friend plan for a mountain trip for the day after. what medication would you advise him to help with his motion sickness?,"a) Ranitidine tablet before start of trip
+b) Dimenhydrinate before start of trip
+c) scopolamine patch the night before trip
+d) omeprazole the night before and before start of trip","In the above case, a scopolamine patch the night before the trip should be advised.
+Treatment for motion sickness :
+• scopolamine patch- preferred, most effective.
+• Do not give to children <1o years of age.
+• place patch behind the ears at least 4 hours before travel and replace every 72 hours as needed.
+• Transdermal patch – Most effective
+• oral dose - o.4–o.6 mg one hour before travel and then TID may be recommended.
+• cinnarizine – 3omg, 2 hours prior to travel, and 15mg TID as required. Not as effective as scopolamine. Moderately effective.
+• Promethazine
+• other drugs (minimally effective):
+• cyclizine
+• Dimenhydrinate
+• Diphenhydramine
+• Meclizine
+PPI’s / ranitidine / traditional ginger – all are ineffective.",,C,
+Question 31,A patient was treated for septicemia with norepinephrine infusion. which of the following best explains the benefit of this drug?,"a) Bradycardia
+b) Tachycardia
+c) Increases urine output
+d) Increases mean arterial blood pressure","The benefit of using noradrenaline in septicemia is that it increases the mean arterial blood pressure. It acts as a powerful peripheral vasoconstrictor and inotrope.
+Noradrenaline causes a rise in both systolic BP and diastolic BP, resulting in a rise in the mean arterial blood pressure. This increases the organ perfusion in patients in septic shock or cardiogenic shock.
+Another advantage of noradrenaline is that it does so without causing tachycardia, which is often a troublesome event with other inotropes in critical care.
+options A and B: The rise in mean arterial pressure causes reflex bradycardia which is not a major contributor to the treatment of septic shock.
+option c: Low-dose dopamine infusions and furosemide are used to increase urine output in critically ill patients.",,D,
+Question 32,which of the following suggests storage of drugs in tissue?,"a) Excretion in saliva
+b) Excretion in urine
+c) Large volume of distribution
+d) small volume of distribution","storage of drug in tissue suggests large volume distribution.
+Drugs with small volume of distribution are confined to vascular component.
+Drugs with large volume of distribution are in compartments like adipose tissue, muscle, bone. volume of distribution depends on:
+• Lipid solubility
+• pka value of a drug
+• Degree of plasma protein binding
+• presence of tissue-specific transporters
+• differences in regional blood flow.
+volume (v) 〓 Dose administered I.v. / Plasma concentration
+e.g., when 1ooomg of drug is injected I.V. and plasma concentration of drug is 5omg/L, • V〓1ooo/5o
+• V〓2oL",,C,

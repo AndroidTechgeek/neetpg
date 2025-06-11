@@ -1,0 +1,302 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,which of the following is not a side effect of salbutamol?,"a) Hypoglycemia
+b) Hypokalemia
+c) Tremors
+d) Tachycardia","Hypoglycemia is not a side effect of salbutamol. It causes hyperglycemia.
+The side effects of salbutamol are due to the stimulation of extrapulmonary β2 receptors. They are more common after oral or intravenous administration. The side effects seen are:
+• Muscle tremor
+• Tachycardia
+• Hypokalemia
+• Restlessness
+• Hypoxemia
+• Increase in free fatty acid, insulin, glucose, pyruvate, and lactate",,A,
+Question 2,which of the following drugs should be sold only on prescription from a registered medical practitioner?,"a) schedule M drugs
+b) schedule H drugs
+c) schedule J drugs
+d) schedule X drugs","schedule H drugs should be sold only if the prescription is from a registered medical practitioner (RMP).
+Important schedules under the “drugs and cosmetics act”:
+• C and C1: Biological and special products
+• F and F1: Bacterial vaccines
+• G: Drugs that must be labelled with the word “caution” should not be taken without medical supervision
+• J: List of diseases and ailments which a drug may not claim to prevent or cure
+• M: Good Manufacturing Practices (GMP)
+• P: Expiry period of drug formulations
+• W: Drugs marketed under generic name only
+• X: psychotropic drugs requiring a special license for manufacture and sale
+• Y: Requirements and guidelines on clinical trials, import, and manufacture of new drugs.",,B,
+Question 3,The loading dose of a drug is governed primarily by:,"a) clearance
+b) volume of distribution
+c) plasma half life
+d) Bioavailability","The volume of distribution of the drug determines the loading dose of the drug.
+Loading Dose 〓 vol. of distribution x Desired steady state plasma concentration.
+when the time to reach a steady-state is long, as it is for drugs with long half-lives, it may be desirable to administer a loading dose that promptly raises the concentration of drug in plasma to the target concentration.
+option A: Clearance is used to determine the maintenance dose.
+Maintenance dose 〓 Clearance x Desired steady-state plasma concentration.
+options C and D: plasma half-life primarily determines the frequency of dosing, while bioavailability determines the route of administration. Though bioavailability may affect the dose necessary, it will not be the primary factor considered during the calculation of the loading dose.",,B,
+Question 4,Therapeutic index is used for assessing which of the following factors?,"a) safety
+b) Efficacy
+c) potency
+d) Toxicity","Therapeutic index is used to assess the safety of the drug administered.
+Therapeutic index 〓 TD5o/ED5o
+• TD5o (Median toxic dose) 〓 Dose required to produce a toxic effect in 5o% of animals tested. • ED5o (Median effect dose) 〓 Dose required to produce a therapeutic effect in 5o% of the individuals.
+option B: Efficacy is defined as the maximum effect produced by the drug. It expresses the effect produced by the receptors when bound by a certain drug.
+option C: potency refers to the concentration (EC5o) or dose (ED5o) required to produce 5o% of maximum effect where EC5o is the concentration of agonist resulting in a half-maximal response.
+option D: Median toxic dose is the dose required to produce a toxic effect in 5o% of animals tested. Lethal dose is the dose required to kill 5o% of animals tested.",,A,
+Question 5,which of the following drugs causes flagellate pigmentation?,"a) Bleomycin
+b) Doxorubicin
+c) vincristine
+d) Minocycline","Flagellate hyperpigmentation/flagellate erythema is a characteristic cutaneous reaction to treatment with bleomycin.
+Clinical features include multiple linear streaks (erythematous or hyperpigmented) at sites of trauma and generalized pruritus.",,A,IMAGE A;1011-730.PNG
+Question 6,which is the anticoagulant of choice for the management of cancer-associated thromboembolism?,"a) unfractionated Heparin
+b) warfarin
+c) Low molecular weight heparin
+d) Dabigatran","The anticoagulant of choice for the management of cancer-associated thromboembolism is low-molecular-weight heparin (LMWH).
+It is the preferred agent because of more bioavailability, lack of need for anticoagulant monitoring, and a long t1/2.
+Venous thromboembolism (including deep vein thrombosis, pulmonary embolism, and splanchnic vein thrombosis), is a frequent complication of cancer and is the second-leading cause of death in cancer patients receiving chemotherapy.
+Based on the results from the Comparison of Low-molecular-weight heparin vs. oral anticoagulants for long-term anticoagulation in cancer patients with venous Thromboembolism (CLoT) Trial, all recent guidelines now advise LMWH for cancer-associated thromboembolism. However, unfractionated heparin (UFH) can be used in patients with renal failure, and fondaparinux can be considered in patients with heparin-induced thrombocytopenia (HIT).",,C,
+Question 7,which of the following new drugs has been approved for the treatment of amyotrophic lateral sclerosis?,"a) Edaravone
+b) piracetam
+c) Dabrafenib
+d) Trametinib","Edaravone was approved by the FDA for the treatment of amyotrophic lateral sclerosis (ALS).
+It has free radical scavenging properties that may reduce oxidative stress. The exact mechanism of action is unknown. It is to be administered as an IV infusion with an initial treatment cycle of daily dosing for 14 days, followed by a 14-day drug-free period. Subsequent treatment cycles consist of dosing on 1o of 14 days, followed by a 14 day drug-free period.
+The major adverse effect of edaravone is hypersensitivity because the infusion contains sodium bisulfite. other adverse effects include bruising, gait disorder, and headache.
+Tafinlar (dabrafenib) and Mekinist (trametinib), are both indicated as monotherapy in BRAF V6OOE/k (BRAF V6OOE mutation-positive) melanoma. They are approved for combined administration, for the treatment of anaplastic thyroid cancer (ATC) that cannot be removed by surgery or that has spread to other parts of the body (metastatic).
+Piracetam is a nootropic agent (a drug that enhances cognitive function) that is used off-label to enhance memory. It is also used to treat myoclonus.",,A,
+Question 8,what is the drug of choice for scrub typhus during pregnancy and otherwise respectively?,"a) chloramphenicol, doxycycline
+b) Doxycycline, doxycycline
+c) Doxycycline, azithromycin
+d) Azithromycin, doxycycline","The drug of choice for a case of scrub typhus during pregnancy is azithromycin. For other patients the drug of choice is doxycycline.
+An alternative treatment option in pregnant women and patients allergic to doxycycline is chloramphenicol.",,D,
+Question 9,which of the following is an example of a GPCR?,"a) Muscarinic
+b) Nicotinic
+c) GABA-A
+d) Insulin","Muscarinic receptors are G-protein-coupled receptors among the given options.
+M1, M2, M3, M4, and M5 are the muscarinic Ach receptors.
+• M1 and M3 act through Gq protein and activate IP3/DAG causing increased cytosolic calcium.
+• M2 and M4 act through Gi protein and inhibit adenylyl cyclase causing increased potassium conductance.
+Nicotinic receptors and GABA-A are examples of ion channel coupled receptors.
+Insulin receptor is a tyrosine kinase receptor.",,A,1013-733.PNG;1013-732.PNG
+Question 10,"The package description of a drug states that 5oomg of paracetamol is present in each unit of the tablet formulation, but in reality, each unit contains only 2oomg. what is the terminology used to refer to these kinds of drugs?","a) Misbranded drug
+b) Adulterated drugs
+c) spurious drugs
+d) Counterfeit drugs","A drug stating that 5oomg of paracetamol is present in each tablet, but contains only 2oomg is a misbranded drug, according to the CDSCO (Central drugs standard control organization).
+The drug and cosmetics act initially passed in 194o and amended in 2o16 provides a definition of misbranded, spurious, and adulterated drugs.
+A drug is considered misbranded if it fulfills any of the following three conditions:
+• If the appearance of the drug has been altered to conceal physical damage or make it appear of greater therapeutic value than it actually is (or)
+• If it is not labeled in the prescribed manner (or)
+• If the label or container of the drug makes a false or misleading claim about the drug. In this case, the packet states that there is 5oo mg of paracetamol present as opposed to the 2oo mg that is actually present.
+A drug is considered spurious if it fulfills the following conditions:
+• If the drug is imported under a name that belongs to another drug (or)
+• If the drug is an imitation of another drug with the intent to deceive (or)
+• If the label depicts a manufacturer that is either fictitious or a real company with no ties to the product (or)
+• If it has been substituted wholly or in part by another drug or substance. A drug is considered adulterated if it fulfills the following conditions:
+• If it consists wholly or in part of any filthy, putrid, poisonous, or decomposed substance (or)
+• If it has been manufactured under unsanitary conditions (or)
+• If it bears a coloring other than the one prescribed (or)
+• If it has been mixed with any substance that may reduce its quality or strength.
+*Note: The term counterfeit drugs is a broad term and is used by the WHO. This may also be conceived to include misbranded, spurious, or adulterated drugs. However, the term misbranded drugs would be a more appropriate answer here since it is likely that the reference used is from CDSCO.",,A,
+Question 11,"A patient presented to the casualty with signs of dehydration due to severe vomiting. The intern gave the patient a parenteral medication, following which the patient developed grimacing and abnormal posturing. what could have been the inciting drug for this reaction?","a) Atropine
+b) Ranitidine
+c) Metoclopramide
+d) Domperidone","The given clinical scenario describes the adverse effects characteristic of metoclopramide. The most common adverse effects of metoclopramide involve the central nervous system because it crosses the blood-brain barrier (BBB) and blocks the central D2 receptors.
+The adverse effects include:
+• Restlessness
+• Drowsiness
+• Insomnia
+• Anxiety
+• Agitation
+• Extrapyramidal effects - acute reaction with high doses and long-term therapy. (due to central dopamine receptor blockade)
+• Dystonias
+• Akathisia
+• parkinsonian features
+• Tardive dyskinesia
+Adverse events are more common among the elderly. Long-term use should be avoided unless absolutely necessary.",,C,
+Question 12,Identify the wrongly matched pair of antifungals with its mechanism of action:,"a) ketoconazole : Lanosterol-14-demethylase inhibition
+b) Flucytosine : Inhibits microtubule synthesis and thus hinders mitosis
+c) Terbinafine : squalene epoxidase inhibition
+d) Amphotericin B : sequesters ergosterol","Flucytosine acts by inhibition of fungal DNA synthesis.
+It is a pyrimidine antimetabolite. After uptake into fungal cells, fungal cytosine deaminase activates it to 5-fluorouracil, which is an anticancer drug. This is further converted into metabolites that inhibit thymidylate synthase which is necessary for DNA synthesis. Thus fungal DNA synthesis is inhibited. Mammalian cells are spared as they lack cytosine deaminase enzyme. Flucytosine has clinically useful activity against (3c):
+• cryptococcus
+• candida species
+• Agents causing chromoblastomycosis",,B,
+Question 13,which of the following parameters is used to assess the extent of drug absorption in a plasma concentration vs. time graph?,"a) Tmax
+b) cmax
+c) T1/2
+d) Area under the curve","The area under the curve of plasma concentration vs. time curve gives the extent of absorption, which is calculated by the trapezoidal rule.
+The following image shows a plasma concentration vs. time graph:
+Two drugs may have the same rate of absorption but a different extent of absorption or bioavailability.
+The factors upon which the extent of drug absorption depends are:
+• Lipophilicity - If too lipophilic (e.g., acyclovir), the drug is not soluble enough to cross the water layer adjacent to the cell.
+• Hydrophilicity - If too hydrophilic (e.g., atenolol), the drug cannot cross the lipid cell membrane.",,D,IMAGE Q;1015-734.PNG
+Question 14,which of the following routes of administration will not bypass hepatic first-pass metabolism?,"a) sublingual
+b) oral
+c) Intravenous
+d) Transdermal","Hepatic first-pass metabolism occurs in drugs administered via the oral route.
+when drugs are given orally, they are absorbed in the intestine and reach the liver through the portal vein. During this process, the drug is acted on by enzymes of the liver and intestine. Additionally, the liver may excretes part of the drug in the bile, further reducing the bioavailability. This is called the first-pass metabolism.
+In all the other routes, the drug directly enters systemic circulation without reaching the liver.
+Note: Bioavailability is the fraction of an administered dose of unchanged drug that reaches the systemic circulation. Hence, the bioavailability of a drug administered intravenously (I.V) is 1oo%. It is neither subjected to the first-pass metabolism as in the oral route nor does it depend on local factors as in subcutaneous, intramuscular, or transdermal.",,B,
+Question 15,"For the action of heparin as an anticoagulant, availability of which of the following chemical substances is mandatory?","a) Thrombin
+b) plasmin
+c) Antithrombin-III
+d) Thrombomodulin","Antithrombin-III is mandatory for the action of heparin as an anticoagulant. Reduced antithrombin levels can lead to resistance.
+Heparin resistance refers to failure to achieve a therapeutic apTT with daily doses of heparin of 35,ooo units or more.
+In true heparin resistance, there is an actual blunting of heparin’s anticoagulant effect. This occurs due to:
+• Low ATIII levels (most common cause)
+• Increased heparin-binding plasma proteins (acute phase reactants)
+• Increased heparin clearance (e.g. due to splenomegaly in liver disease)
+Low ATIII levels could be due to decreased synthesis (hereditary, hepatic failure), increased consumption (DIC, MAHA, or in a bypass circuit) or increased loss (nephrotic syndrome).
+The dose of heparin has to be increased to achieve therapeutic apTT. severe antithrombin deficiency may require antithrombin concentrate as well.",,C,IMAGE A;1017-735.PNG
+Question 16,what is the bioavailability of a drug administered intravenously?,"a) 1o%
+b) 1oo%
+c) 5o%
+d) variable","The bioavailability of a drug administered intravenously (I.V) is 1oo%.
+It is neither subjected to the first-pass metabolism as in oral route nor does it depend on local factors as in subcutaneous, intramuscular, or transdermal. In IV route, the drug is directly delivered to the systemic circulation and hence has the maximum availability for action at the intended site.
+Bioavailability is the fraction of an administered dose of unchanged drug that reaches the systemic circulation. Hence, by definition, when a medication is administered intravenously, its bioavailability is 1oo%.
+Intrathecal administration does not have a bioavailability of 1oo%.",,B,
+Question 17,A drug solution containing 5oo mg/5 ml of the drug is given to you. You are provided with a 2 ml syringe (having 1o divisions for each ml). How many divisions of the 2 ml syringe need to be administered to deliver 18o mg of the drug to a patient?,"a) 1.8
+b) 1o
+c) 14
+d) 18","concentration of drug solution given = 5oo/5 ml or 1oo mg/ml
+-> 1oo mg of drug in 1ml
+i.e 18o mg of drug in ""X"" ml
+-> X = 18o/1oo = 1.8 ml
+So, 1.8 ml of the drug with 18o mg of the drug is to be given to the patient.
+In the 2 ml syringe provided, each ml has 1o divisions i.e. each division corresponds to o.1 ml. So, for delivering 1.8 ml, 1.8/o.1= 18 divisions need to be administered.",,D,
+Question 18,which of the following is gametocidal to all the species causing malaria?,"a) primaquine
+b) chloroquine
+c) Quinine
+d) None","primaquine is gametocidal to all species causing malaria. It inhibits transmission of malaria. The drugs with clinically important gametocidal activity (against all species) are:
+• High activity:
+• Artemisinins
+• primaquine
+• Low to moderate activity:
+• Chloroquine
+• Quinine
+• Atovaquone/proguanil
+• No activity:
+• Mefloquine
+• pyrimethamine
+• sulfadoxine
+• Tetracycline",,A,IMAGE A;1018-736.PNG
+Question 19,A drug label suggests storage in a 'cool' place. what is the temperature at which this drug is to be stored?,"a) - 2 degree celsius
+b) o degree celsius
+c) 2-6 degree celsius
+d) 8-15 degree celsius","storing at a cool place means to store at 8-15 degrees C.
+Examples for drugs to be stored under cool temperature include insulin, nicorandil.
+Label instructions: store frozen, keep cool, store at room temperature
+Temperature: -2ooc, 8-15oc, 15-25oc",,D,
+Question 20,"A patient with AIDS was treated with zidovudine, lamivudine, indinavir, ketoconazole and cotrimoxazole. He developed nephrolithiasis, central obesity, hyperlipidemia and insulin resistance. which of the drugs could have been the cause?","a) ketoconazole
+b) Indinavir
+c) Lamivudine
+d) zidovudine","Indinavir, a protease inhibitor causes the above given adverse effects.
+Patients being treated with protease inhibitors (e.g., indinavir) develop a syndrome involving the derangement of lipid metabolism. This causes changes in body fat distribution. Type 2 diabetes mellitus has also been reported. This is called HIV/HAART-associated lipodystrophy.
+It is typically seen after 6–12 months of protease inhibitor therapy.",,B,
+Question 21,"If carbamazepine is added to ongoing valproate therapy, what adverse effect is risked?","a) pancreatitis
+b) Thrombocytopenia
+c) Hepatotoxicity
+d) Hyperammonemia","If carbamazepine is added to ongoing valproate therapy, it can result in hepatotoxicity.
+A combination of valproate and carbamazepine increases hepatotoxicity. Valproic acid may inhibit carbamazepine clearance and increase steady-state carbamazepine blood levels.",,C,
+Question 22,"what is the mechanism of action of dapsone, considering that it is used in the treatment of leprosy, fungal infections and, also for immunomodulatory actions?","a) cell wall synthesis inhibitor
+b) Folic acid synthesis inhibitor
+c) protein synthesis inhibitor
+d) cell membrane inhibitor","The mechanism of action of dapsone is inhibition of folic acid synthesis.
+Dapsone [4,4■diaminodiphenylsulphone (DDs)] is a structural analog of para-aminobenzoic acid (PABA) and a competitive inhibitor of dihydropteroate synthase in the folate pathway. It is weakly bactericidal and can cause mild hemolysis, and rarely anemia or psychosis.
+DDs syndrome is a rare side effect of dapsone therapy in leprosy patients which starts after 5-6 weeks of starting dapsone and leads to exfoliative dermatitis, hepatosplenomegaly, lymphadenopathy, fever and hepatitis and may be fatal. It is also called 'five-week dermatitis'.",,B,
+Question 23,what is the mechanism of action of sodium nitroprusside?,"a) Increased cAMp
+b) Stimulation of guanylyl cyclase
+c) calcium channel blockage
+d) K+ channel opener","sodium nitroprusside acts by stimulation of guanylyl cyclase.
+sodium nitroprusside releases nitric oxide which in turn stimulates guanyl cyclase. This activates cGMP secondary messenger which results in the relaxation of the smooth muscle.",,B,
+Question 24,Levothyroxine/liothyronine acts by binding to thyroid receptors. Thyroid hormone receptors belong to which of the following class of receptors?,"a) Transmembrane receptor linked to tyrosine kinase
+b) Nuclear receptor
+c) Ion channel receptor
+d) G protein coupled receptor","Thyroid hormone receptors belong to the class of nuclear receptors.
+Nuclear receptors are a family of ligand-regulated transcription factors that are activated by various lipid-soluble signals, including retinoic acid, thyroid hormone, and steroid hormones. They primarily function as transcription factors and directly interact with the genomic DNA to regulate gene expression.
+Nuclear receptors can either remain anchored in the cytoplasm via chaperone proteins until freed by ligand-binding (e.g., steroid and vitamin D receptors) or can reside in the nucleus bound to specific DNA response elements even in the absence of ligand (e.g., thyroid hormone, PPARγ, and retinoic acid receptors).",,B,
+Question 25,"The Nobel prize in physiology or Medicine, 2018 was awarded to James p. Allison and Tasuku Honjo for which of the following discoveries?","a) Discovery of mechanisms of autophagy
+b) Discoveries of molecular mechanisms controlling the circadian rhythm
+c) Discovery of cancer therapy by inhibition of negative immune regulation
+d) Discovery that mature cells can be reprogrammed to become pluripotent","The Nobel prize in Physiology or Medicine, 2018 was awarded to James P. Allison and Tasuku Honjo for the discovery of cancer therapy by inhibition of negative immune regulation.
+Immune checkpoint inhibitors inhibit proteins that keep immune responses to cancer cells in check. when these proteins are blocked, the brake on the immune system is released and T cells are able to kill cancer cells more efficiently.
+The Nobel prize 2018 in Physiology or Medicine was awarded to James P. Allison and Tasuku Honjo for their breakthrough work on unleashing the body’s immune system to attack cancer, that has led to an entirely new class of these drugs and brought lasting remissions to many patients who had run out of options.",,C,
+Question 26,which of the following drugs does not require dose reduction in patients with renal failure?,"a) Gentamicin
+b) vancomycin
+c) Amphotericin B
+d) Doxycycline","Doxycycline does not require dose reduction in renal failure. Doxycycline, minocycline, and glycylcyclines like tigecycline have fewer renal side effects.
+Antibiotics causing acute kidney injury are as follows:
+• Acute tubular necrosis:
+• Amphotericin B
+• vancomycin
+• Acyclovir
+• Foscarnet
+• Tenofovir
+• Acute interstitial nephritis:
+• Penicillin
+• cephalosporins
+• Quinolones
+• Rifampicin",,D,
+Question 27,which of the following drugs does not increase the risk of bleeding in patients undergoing warfarin therapy?,"a) cimetidine
+b) carbamazepine
+c) Isoniazid
+d) Amiodarone","carbamazepine does not increase the risk of bleeding in patients undergoing warfarin therapy.
+warfarin is mainly metabolized by the cyp2c9 enzyme. Drugs that inhibit cyp2c9 enzyme reduce the metabolism of warfarin and thus, enhance the anticoagulant effect of warfarin and increase the risk of bleeding.
+Drugs causing cyp2c9 inhibition:
+• Amiodarone
+• Azole antifungals
+• cimetidine
+• clopidogrel
+• cotrimoxazole
+• Disulfiram
+• Isoniazid
+• Metronidazole",,B,
+Question 28,which of the following is used in acute mountain sickness?,"a) Dexamathasone
+b) Digoxin
+c) Diltiazem
+d) Acetazolamide",Acetazolamide is used in the treatment of acute mountain sickness for symptomatic relief. It can also be used for prophylaxis.,,D,
+Question 29,which of the following anti-tubercular drugs is associated with ophthalmic toxicity?,"a) Ethambutol
+b) Isoniazid
+c) kanamycin
+d) Rifampin","Ethambutol is associated with ophthalmic toxicity.
+optic neuritis resulting in decreased visual acuity and loss of ability to differentiate red from green is the most serious adverse effect of ethambutol. It is a dose-dependent adverse effect that can be unilateral or bilateral.
+Tests of visual acuity and red-green discrimination before the start of therapy and periodically thereafter are recommended.",,A,
+Question 30,A patient with diabetic macular edema developed glaucoma. which of the following drugs would you consider giving last?,"a) Beta blocker
+b) Alpha agonist
+c) pilocarpine
+d) prostaglandin analogues","prostaglandin analogs are the last drugs to be considered in this patient since macular edema is one of their side effects.
+Adverse effects of pGF 2alpha analogs are:
+• Blurring of vision
+• Macular edema (especially in aphakic patients)
+• Eyelash hypertrichosis
+• Iris pigmentation (Heterochromia iridis)
+• peri-orbital fat depletion",,D,
+Question 31,what is the mechanism by which acetylcholine causes a decrease in the heart rate?,"a) Delayed diastolic depolarization
+b) Increase in plateau
+c) Decrease in preload
+d) Increase in afterload","The mechanism by which acetylcholine causes a decrease in the heart rate is by decreasing the diastolic depolarization.
+The acetylcholine released from the vagal nerve acts on the M2 receptor (βγ subunit of G protein) on the SA node. This opens a special set of potassium channels causing an efflux of potassium (IKAch) which hyperpolarizes the SA node (Ih). The resultant current (Ih) slows the diastolic depolarization thereby causing bradycardia.",,A,
+Question 32,Diamox is given to a patient with glaucoma. It is a non-competitive inhibitor of the carbonic anhydrase enzyme. which of the following would be the effect of this drug?,"a) Decrease in vmax
+b) Decrease in km
+c) Decrease in both km and vmax
+d) No change in vmax","Non-competitive inhibitors cause a decrease in vmax.
+In non-competitive inhibition:
+• The inhibitor binds to the adjacent site and not the catalytic site of the enzyme
+• The catalytic property of the enzyme is reduced and hence vmax is decreased
+• The affinity of the enzyme is not altered and hence Km is unaltered",,A,IMAGE Q;1023-737.PNG
+Question 33,Low apparent volume of distribution of drug indicates,"a) Low t 1/2
+b) Low bioavailability
+c) Low efficacy
+d) Not extensively distributed to tissues","Low apparent volume of distribution of a drug indicates that it is not extensively distributed in the tissues.
+Apparent volume of distribution (vd) = dose administered I.v/ plasma concentration E.g: If a 5oo mg of drug A is given i.v (1oo% bioavailability) and the plasma concentration reached is 1o mg/ liter then the apparent volume of distribution (vd) is 5oo/1o= 5o liters.
+But the normal blood volume is about 5 liters. A high vd is due to accumulation of drug A in extravascular tissues resulting in low plasma concentration. Therefore, the apparent volume of distribution is an imaginary volume throughout which the drug is distributed if the plasma concentration remains the same throughout.
+option A: t1/2 relationship with volume of distribution (vd) and clearance (cl) is given by the formula t 1/2 = o.693 x vd /cl. t1/2 is directly proportional to vd but it is also inversely proportional to clearance. If a drug has a low volume of distribution but clearance is very low, t1/2 can still be high. So low vd doesn't always imply low t1/2. So the best answer among the given options is D.
+option B and c: Low vd does not indicate low bioavailability or low efficacy.",,D,
+Question 34,An infant had a serum bilirubin level of 33 mg/dL. The mother might have taken which of the following drugs during the third trimester for this to occur?,"a) Ampicillin
+b) co-trimoxazole
+c) Azithromycin
+d) chloramphenicol","cotrimoxazole is a combination drug consisting oftrimethoprim and sulfamethoxazole, of which sulfamethoxazole is a sulfonamide. Sulphonamides displace bilirubin from plasma albumin, leading to elevation of serum bilirubin levels.
+These drugs can cross the placenta and are secreted in milk and can therefore cause kernicterus in newborn infants if they are given to pregnant women near term or during lactation.",,B,
+Question 35,Lithium usage in pregnancy can lead to which of the following teratogenic effects?,"a) cardiac defects
+b) Facial defects
+c) CNS defects
+d) urogenital defects","Lithium use in pregnancy can lead to cardiac defects.
+Ebstein's anomaly is the specific cardiac defect with lithium use in pregnancy. In Ebstein’s anomaly, the radiological sign seen is a box-shaped heart.",,A,1024-738.PNG

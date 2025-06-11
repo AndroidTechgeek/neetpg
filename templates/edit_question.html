@@ -5,13 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Edit Question {{ q_id + 1 }}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-    <style>
-        .tc-table { max-width: 100%; border-collapse: collapse; }
-        .tc-table th, .tc-table td { border: 1px solid #ccc; padding: 6px; }
-        .tc-table th { background: #f3f3f3; }
-        .table-edit-bar { margin-bottom: 8px; }
-        .table-edit-bar button { margin-right: 6px; }
-    </style>
 </head>
 <body>
     <div class="container edit-page-container">
@@ -21,56 +14,49 @@
                     <a href="{{ url_for('home') }}" class="btn btn-home">🏠 Main Menu</a>
                     <h3>Editing: {{ filename }}</h3>
                 </div>
+                
                 <div class="edit-navigation">
                     {% if q_id > 0 %}
-                        <a href="{{ url_for('edit_question_page', filename=filename, q_id=q_id - 1) }}" class="btn btn-nav">&larr; Previous</a>
+                        <a href="{{ url_for('edit_question_page', filename=filename, q_id=q_id - 1) }}" class="btn btn-nav">&larr; Previous Question</a>
                     {% else %}
-                        <span></span>
-                    {% endif %}
+                        <span></span> {% endif %}
                     <button type="submit" form="edit-form" class="btn btn-save">Save & Next &rarr;</button>
                 </div>
+
                 <div class="navigator-bar edit-navigator">
                     {% for i in range(total_questions) %}
-                        <a href="{{ url_for('edit_question_page', filename=filename, q_id=i) }}" class="nav-item {% if i == q_id %}current{% endif %}">{{ i + 1 }}</a>
+                        <a href="{{ url_for('edit_question_page', filename=filename, q_id=i) }}" 
+                           class="nav-item {% if i == q_id %}current{% endif %}">
+                            {{ i + 1 }}
+                        </a>
                     {% endfor %}
                 </div>
+
                 <h4>Question {{ q_id + 1 }} of {{ total_questions }}</h4>
+                
                 <form id="edit-form" action="{{ url_for('save_edit', filename=filename, q_id=q_id) }}" method="post">
                     <div class="form-group">
                         <label for="question_text">Question Text</label>
                         <textarea id="question_text" name="question" rows="4">{{ question.question }}</textarea>
                     </div>
+
                     <div class="form-group">
                         <label for="image_q_input">Question Image <span class="thumb-preview" id="image_q_thumb"></span></label>
-                        <input type="text" id="image_q_input" name="image_q" value="{{ question.get('image_q', '') }}" placeholder="Type or click image..." oninput="updateThumb('q'); filterGallery(); validateImageInput('q');" list="gallery-images">
-                        <div id="image_q_error" style="color: red; display: none;">Invalid image detected!</div>
+                        <input type="text" id="image_q_input" name="image_q" value="{{ question.get('image_q', '') if question.get('image_q') != 'nan' else '' }}" placeholder="Type to search or click image..." oninput="updateThumb('q'); filterGallery();">
                     </div>
+                    
                     <div class="form-group">
                         <label for="image_a_input">Answer Images (semicolon-separated) <span class="thumb-preview" id="image_a_thumb"></span></label>
-                        <input type="text" id="image_a_input" name="image_a" value="{{ question.get('image_a', '') }}" placeholder="e.g., img1.png;img2.png" oninput="updateThumb('a'); validateImageInput('a');" list="gallery-images">
-                        <div id="image_a_error" style="color: red; display: none;">Invalid image(s) detected!</div>
+                        <input type="text" id="image_a_input" name="image_a" value="{{ question.get('image_a', '') if question.get('image_a') != 'nan' else '' }}" placeholder="e.g., img1.png;img2.png" oninput="updateThumb('a')">
                     </div>
-                    <datalist id="gallery-images">
-                        {% for image_file in all_images %}
-                            <option value="{{ image_file }}">
-                        {% endfor %}
-                    </datalist>
+
                     <div class="form-group">
-                        <label for="solution_text">Solution (Visual Table Editor or Text)</label>
-                        <!-- TABLE EDITOR START -->
-                        <div id="table-editor-area">
-                            <div class="table-edit-bar">
-                                <button type="button" onclick="insertTable()">Insert Table</button>
-                                <button type="button" onclick="removeTable()">Remove Table</button>
-                                <button type="button" onclick="exportTableToSolution()">Save Table to Solution</button>
-                            </div>
-                            <div id="table-editor-container"></div>
-                        </div>
+                        <label for="solution_text">Solution (Wrap tables with [TABLE]...[/TABLE])</label>
                         <textarea id="solution_text" name="solution" rows="15">{{ question.solution }}</textarea>
-                        <small>If you want to add a table, click "Insert Table" above. You can still write plain text in the Solution field as usual.</small>
                     </div>
                 </form>
             </div>
+
             <div class="gallery-column">
                 <h4>Available Images <span id="gallery-count"></span></h4>
                 <div id="image-gallery" class="image-gallery">
@@ -88,56 +74,56 @@
             </div>
         </div>
     </div>
-    <!-- Table Editor Library (TableConvert.js CDN) -->
-    <script src="https://cdn.jsdelivr.net/npm/tableconvert.js@1.0.0/dist/tableconvert.min.js"></script>
+
     <script>
         const gallery = document.getElementById('image-gallery');
         const editForm = document.getElementById('edit-form');
+        
+        // On page load, restore scroll position and initialize thumbnails
         document.addEventListener('DOMContentLoaded', () => {
             const lastScrollPos = sessionStorage.getItem('galleryScrollPos');
             if (lastScrollPos) { gallery.scrollTop = parseInt(lastScrollPos, 10); }
             updateGalleryCount();
             updateThumb('q');
             updateThumb('a');
-            validateImageInput('q');
-            validateImageInput('a');
-            initTableEditor();
         });
+
+        // Before submitting the form or navigating, save the current scroll position
         if (editForm) {
-            editForm.addEventListener('submit', e => {
-                if (!validateImageInput('q') || !validateImageInput('a')) {
-                    e.preventDefault();
-                    alert('Please fix invalid images before saving!');
-                }
+            editForm.addEventListener('submit', () => {
                 sessionStorage.setItem('galleryScrollPos', gallery.scrollTop);
             });
         }
         document.querySelectorAll('.btn-nav, .nav-item').forEach(button => {
-            button.addEventListener('click', () => { sessionStorage.setItem('galleryScrollPos', gallery.scrollTop); });
+            button.addEventListener('click', () => {
+                sessionStorage.setItem('galleryScrollPos', gallery.scrollTop);
+            });
         });
+
         function selectImage(filename, type) {
             const inputElement = document.getElementById(`image_${type}_input`);
+            // For answer images, append with a semicolon if field is not empty
             if (type === 'a' && inputElement.value.trim() !== '') {
                 inputElement.value += `;${filename}`;
             } else {
                 inputElement.value = filename;
             }
             updateThumb(type);
-            validateImageInput(type);
         }
+
         function updateThumb(type) {
             const inputElement = document.getElementById(`image_${type}_input`);
             const thumbContainer = document.getElementById(`image_${type}_thumb`);
-            const filenames = inputElement.value.split(';').map(f => f.trim()).filter(f => f);
-            thumbContainer.innerHTML = '';
+            const filenames = inputElement.value.split(';').map(f => f.trim()).filter(f => f && f !== 'nan');
+            
+            thumbContainer.innerHTML = ''; // Clear previous thumbnails
             if (filenames.length > 0) {
                 filenames.forEach(filename => {
-                    if (filename && filename !== 'nan') {
-                        thumbContainer.innerHTML += `<img src="/static/images/${filename}" alt="thumb">`;
-                    }
+                    thumbContainer.innerHTML += `<img src="/static/images/${filename}" alt="thumb">`;
                 });
             }
         }
+
         function filterGallery() {
             const qFilter = document.getElementById('image_q_input').value.toLowerCase();
             const items = gallery.getElementsByClassName('gallery-item');
@@ -153,6 +139,7 @@
             }
             updateGalleryCount(visibleCount, items.length);
         }
+
         function updateGalleryCount(visible = null, total = null) {
             const galleryCountSpan = document.getElementById('gallery-count');
             if (visible === null) {
@@ -161,63 +148,6 @@
                 visible = Array.from(items).filter(item => item.style.display !== 'none').length;
             }
             galleryCountSpan.textContent = `(${visible} / ${total} shown)`;
-        }
-
-        // --- IMAGE VALIDATION FIX ---
-        const allImages = [{% for image_file in all_images %}'{{ image_file }}',{% endfor %}];
-        function validateImageInput(type) {
-            const inputElement = document.getElementById(`image_${type}_input`);
-            const errorElement = document.getElementById(`image_${type}_error`);
-            if (!inputElement) return true;
-            const filenames = inputElement.value.split(';').map(f => f.trim()).filter(f => f);
-            let allValid = true;
-            for (let filename of filenames) {
-                if (filename && !allImages.includes(filename)) {
-                    allValid = false;
-                    break;
-                }
-            }
-            if (!allValid) {
-                errorElement.style.display = '';
-                inputElement.style.borderColor = 'red';
-            } else {
-                errorElement.style.display = 'none';
-                inputElement.style.borderColor = '';
-            }
-            return allValid;
-        }
-
-        // --- TABLE EDITOR ---
-        let tcTable = null;
-        function initTableEditor() {
-            const container = document.getElementById('table-editor-container');
-            const solutionTextarea = document.getElementById('solution_text');
-            // If the solution contains an HTML table, load it
-            let initialTable = '';
-            try {
-                const match = solutionTextarea.value.match(/<table[\s\S]*?<\/table>/);
-                if (match) initialTable = match[0];
-            } catch { }
-            tcTable = new window.TableConvert.TableEditor(container, {
-                data: initialTable,
-                showToolbar: true,
-                tableClass: 'tc-table'
-            });
-        }
-        function insertTable() {
-            if (tcTable) tcTable.clearTable();
-            tcTable = new window.TableConvert.TableEditor(document.getElementById('table-editor-container'), { showToolbar: true, tableClass: 'tc-table' });
-        }
-        function removeTable() {
-            if (tcTable) tcTable.clearTable();
-        }
-        function exportTableToSolution() {
-            if (!tcTable) return;
-            const tableHtml = tcTable.getHtml();
-            const solutionTextarea = document.getElementById('solution_text');
-            let current = solutionTextarea.value.replace(/<table[\s\S]*?<\/table>/g, '');
-            if (!current.trim()) current = '';
-            solutionTextarea.value = (current.trim() ? (current.trim() + '\n\n') : '') + tableHtml;
         }
     </script>
 </body>

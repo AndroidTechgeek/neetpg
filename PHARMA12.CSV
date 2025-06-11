@@ -1,0 +1,252 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+1,A male patient with chronic obstructive pulmonary disease (COPD) was prescribed theophylline. He noticed that his urine output had increased the following day. This action of the drug is mediated through which of the following receptors?,"a) Interleukin-1o
+b) Histone deacetylase
+c) Adenosine A1
+d) Beta 2 adrenergic receptors","An increased urine output after administering theophylline is due to the antagonism at adenosine A1 receptors.
+The adenosine A1 receptors are present in the afferent arteriole of the glomeruli. when activated, they cause vasoconstriction that reduces the glomerular filtration rate (GFR) and renal blood flow. This reduces urine output. Antagonistic action on these receptors will cause an increased GFR and renal blood flow and hence increased urine output.
+Methylxanthines like theophylline and aminophylline are the bronchodilators used mainly in chronic obstructive pulmonary disease (COPD) and bronchial asthma. The pharmacological actions of theophylline are:
+• It inhibits phosphodiesterase (PDE) non-selectively, thereby increasing cellular cAMP and cGMP, causing bronchodilation.
+• Adenosine causes bronchoconstriction by releasing histamine and leukotrienes. Theophylline antagonizes adenosine A1 receptors and causes bronchodilation.
+• It increases IL-1o release, which has anti-inflammatory actions.
+• It causes a decrease in gene transcription of pro-inflammatory cytokines.
+• It promotes apoptosis of granulocytes and thereby, reduces the inflammatory load in the airways.
+Adverse effects of theophylline:
+• Headache, nausea, and vomiting (due to inhibition of PDE4)
+• Diuresis (due to inhibition of adenosine A1 receptors)
+• Cardiac arrhythmias (due to inhibition of cardiac PDE3 and antagonism of cardiac A1 receptors).
+• seizures (due to central A1 receptor antagonism).
+Theophylline is mainly metabolized mainly by the enzyme CyP1A2. Therefore, it has various drug interactions, which include:
+• Agents that lower its plasma level are smoking, phenytoin, rifampicin, and phenobarbitone.
+• Drugs that increase its plasma level are erythromycin, ciprofloxacin, oral contraceptives, and allopurinol.",,C,
+2,which of the following drugs is not likely to cause a pleural pathology?,"a) Metformin
+b) Methysergide
+c) Bleomycin
+d) Nitrofurantoin","Metformin is not associated with pleural pathology.
+Metformin belongs to the biguanides class of oral hypoglycemic agents. It acts by activation of AMP-dependent protein kinase (AMPK). This results in reduced hepatic glucose production.
+side effects of metformin are lactic acidosis, gastrointestinal disturbance, and vitamin B12 deficiency.
+Contraindications for metformin include :
+• GFR <3o ml/min
+• Unstable CHF
+• Radiographic contrast studies
+• Hospitalized patients who cannot take anything orally
+• Acidosis
+other options:
+option B: Methysergide is a serotonin(5-HT) receptor antagonist. It was used for the treatment of migraine prophylaxis and carcinoid syndrome. But its use has been discontinued due to side effects like abdominal, pulmonary and endocardial fibrosis.
+option C: Bleomycin is an anticancer antibiotic used for the treatment of squamous cell cancer and Hodgkin lymphoma. It chelates copper or iron and produces superoxide ions that damage DNA. side effects are mucocutaneous toxicity and pulmonary fibrosis.
+option D: Nitrofurantoin is a urinary antiseptic. They are used for the treatment of lower urinary tract infections (UTIs). It acts by damaging DNA and inhibiting protein synthesis in susceptible bacteria. Important side effects are gastrointestinal disturbances, liver damage and pulmonary fibrosis.",,A,
+3,"A patient with deep vein thrombosis was started on a new drug. After 2 days, he presented with the given finding. which of the following drugs is implicated in causing the above condition?","a) warfarin
+b) Heparin
+c) Dabigatran
+d) Rivaroxaban","The clinical scenario of the development of purple toe syndrome, after starting a new drug for the treatment of deep vein thrombosis, is suggestive of the adverse effect of warfarin.
+purple toe syndrome is a rare complication of warfarin therapy. It occurs due to cholesterol microemboli released from atheromatous plaques, which cause arteriolar occlusion. warfarin must be immediately stopped and replaced with an oral factor Xa inhibitor (e.g. apixaban).
+Activation of coagulation factors II, VII, IX, and X and proteins C and S are done by carboxylation of their glutamate residues, with the help of the reduced form of vitamin K as a co-factor. This reduced form of vitamin K needs to be constantly recycled back from its oxidized form for the reaction to continue. This recycling is done by the enzyme vitamin K epoxide reductase, which is competitively inhibited by warfarin. Hence, there will be a reduction in the activation of coagulation factors.
+The image below shows warfarin's mechanism of action.
+The half-life of proteins C and S are 8 and 24 hours, respectively, which is relatively shorter than the half-lives of other clotting factors, particularly factor II. Therefore, the full antithrombotic effect of warfarin is not achieved for 4 to 5 days. For this reason, warfarin must be bridged with a rapidly acting parenteral anticoagulant, such as heparin, low-molecular-weight heparin (LMwH), or fondaparinux, in patients with thrombosis or at high risk for thrombosis.
+Uses of warfarin are acute deep vein thrombosis, pulmonary embolism, and preventing stroke or systemic embolization in patients with a mechanical heart valve.
+Adverse effects of warfarin are bleeding, skin necrosis, purple toe syndrome, and fetal warfarin syndrome (hypoplasia of the nose, eye socket, hand bones, and growth retardation).
+The therapeutic dose of warfarin is monitored by an INR range of 2-3. warfarin toxicity can occur when the INR exceeds 4 and can lead to fatal bleeding. Treatment includes withholding warfarin, with vitamin K, and blood transfusions or fresh frozen plasma to replenish clotting factors.
+warfarin, LMwH, and UFH do not accumulate in breast milk and do not have an anticoagulant effect in the newborn. They are compatible with breastfeeding.
+warfarin is mainly metabolized by the cyp2c9 enzyme. Drugs that affect the cyp2c9 enzyme can alter the anticoagulant function of warfarin and these include the following:
+Reduced efficacy:
+• cyp2c9 activation by drugs: barbiturates, carbamazepine, rifampin
+• oral contraceptives: increase blood levels of clotting factors
+Increased efficacy:
+• Drugs causing cyp2c9 inhibition:
+• Amiodarone
+• Azole antifungals
+• cimetidine
+• clopidogrel
+• cotrimoxazole
+• Disulfiram
+• Isoniazid
+• Metronidazole
+• Fluoxetine
+• sulfinpyrazone
+• zafirlukast
+other options:
+option B: Heparin acts by activating antithrombin III, thereby inactivating the active form of clotting factors II, IX, X, XI, XII, and XIII. Adverse effects are bleeding and heparin-induced thrombocytopenia (HIT) due to the formation of antibodies against the heparin-platelet complex.
+option c: Dabigatran is a direct thrombin inhibitor. It is used for the prevention of embolism and stroke in patients with atrial fibrillation. Bleeding and dyspepsia are the most important adverse effects.
+option D: Rivaroxaban is a direct inhibitor of factor Xa. It is used for prophylaxis and treatment of deep vein thrombosis. side effects reported are bleeding, nausea, hypotension, tachycardia, and edema.",1218-783.PNG,A,
+4,"A patient undergoing chemotherapy was given an antiemetic, after which he developed symptoms like acute dystonia, bradykinesia, and tremors. which of the following drugs would have caused these symptoms?","a) ondansetron
+b) Metoclopramide
+c) Meclizine
+d) scopolamine","In the above scenario, the patient has developed extrapyramidal adverse effects like acute dystonia, bradykinesia, and tremors. This is likely due to the antagonist action on dopamine receptors by metoclopramide.
+Metoclopramide is a prokinetic and antiemetic. It has the following pharmacological actions:
+• Dopamine receptor antagonist
+• serotonin (5HT4) receptor agonist
+• serotonin (5HT3) antagonist
+• sensitization of muscarinic receptors on smooth muscle. This results in increased lower esophageal sphincter tone and stimulates gastric antral contractions.
+Metoclopramide acts on both the gastrointestinal system and central nervous system. It is used as an upper antiemetic for many types of vomiting, especially migraine, drug-induced, and chemotherapy-induced. It is also used as a prokinetic in gastroparesis to increase gastric emptying.
+Adverse effects of metoclopramide are mainly extrapyramidal effects, and these include acute dystonia, parkinson-like symptoms (tremors, bradykinesia, rigidity), tardive dyskinesia, galactorrhea due to hyperprolactinemia, and methemoglobinemia in neonates.
+Extrapyramidal symptoms can be treated by discontinuation of metoclopramide and administration of anticholinergics or antihistaminics.
+other options:
+option A: ondansetron is a 5-HT3 receptor antagonist. It blocks impulses at the peripheral origin in GIT. It is most commonly indicated for the treatment of postoperative and chemotherapy-induced nausea and vomiting. Headache and dizziness are the common adverse effects.
+option C: Meclizine is a long-acting H1 antihistaminic drug. It is used for seasickness. It is less sedative and less anticholinergic.
+option D: scopolamine (hyoscine) is a muscarinic antagonist. It blocks neural pathways from the vestibular apparatus in the inner ear to the emetic center in the brainstem. A transdermal patch of scopolamine is used as an antiemetic in motion sickness. Constipation, drowsiness, dry mouth, and blurred vision are the common adverse effects.",,B,
+5,"A young patient started to take a weight loss medication that acts by inhibiting fat absorption from food. After a few weeks, she developed easy bruising and increased menstrual bleeding. Deficiency of which of the following vitamins is responsible for her condition?","a) vitamin E
+b) vitamin K
+c) vitamin B6
+d) vitamin D","The clinical scenario of easy bruising and increased menstrual bleeding following weight loss medication that inhibits fat absorption from food is suggestive of vitamin K deficiency.
+vitamin K is a fat-soluble vitamin. Hence, drugs that inhibit the absorption of fat (eg; ezetimibe) also inhibit the absorption of fat-soluble vitamin K. The following are the vitamers of vitamin K:
+• phylloquinone (vitamin K1) is the normal dietary source of vitamin K that is found in green vegetables.
+• Menaquinone (vitamin K2) is synthesized by intestinal bacteria.
+• Menadione (vitamin K3) is a synthetic compound that is metabolized to phylloquinone.
+vitamin K is required for γ-carboxylation of glutamate residues of clotting factors like prothrombin (factor II), factors vII, IX, and X. warfarin inhibits γ-carboxylation by preventing the conversion of vitamin K to its active hydroquinone form.
+vitamin K deficiency in adults may be seen in patients with liver disease, obstructive jaundice, malabsorption, and prolonged antimicrobial therapy. vitamin K deficiency is usually diagnosed on the basis of an elevated prothrombin time or reduced clotting factors.
+vitamin K deficiency is treated with a parenteral dose of 1o mg followed by 5mg (duration depends on the severity of vitamin K deficiency).
+other options:
+option A: vitamin E is a fat-soluble vitamin. The levels of vitamin E also will get decreased following taking weight loss medication that inhibits fat absorption from food. But the symptoms of vitamin E deficiency include hemolytic anemia and neuromuscular manifestations.
+option C: vitamin B6 is a water-soluble vitamin. Drugs that cause vitamin B6 deficiency are isoniazid, hydralazine, cycloserine, penicillamine, and oral contraceptives. patients usually present with peripheral neuritis, anemia, seborrheic dermatitis, glossitis, lowered seizure threshold, or convulsions (due to fall in brain GABA levels).
+option D: vitamin D is a fat-soluble vitamin. vitamin D levels will also decrease following weight loss medication that inhibits fat absorption from food. patients with vitamin D deficiency will typically develop rickets in children and osteomalacia in adults.",,B,
+6,A woman presenting with symptoms of urinary tract infection was prescribed a drug that causes tendon rupture and arthropathy. what is the mechanism of action of the drug?,"a) DNA gyrase inhibition
+b) Ribosomal inhibition
+c) Cell wall synthesis inhibition
+d) Inhibition of folic acid synthesis","In the above scenario, the antimicrobial prescribed for urinary tract infection, which has a propensity to cause tendon rupture and arthropathy, is likely to be a fluoroquinolone. The mechanism of action of the drug is DNA gyrase inhibition.
+Normally, during replication, to prevent excessive positive supercoiling of the strands, DNA gyrase nicks double-stranded DNA and introduces negative supercoils. Fluoroquinolones, by inhibiting DNA gyrase (in gram-negative bacteria), result in the production of damaged DNA. This is finally digested by exonucleases, resulting in bactericidal action.
+Fluoroquinolones inhibit topoisomerase Iv in gram-positive bacteria.
+Fluoroquinolones are used in the treatment of urinary tract infections, prostatitis, and gastrointestinal, respiratory infections, and as a second-line drug in anti-tubercular therapy. They are avoided in children and pregnant women.
+Adverse effects of fluoroquinolones are arthralgia, tendon rupture, Clostridium difficile colitis, dysglycemia, prolonged QT interval, rashes, hallucinations, delirium, and seizures.
+other options:
+option B: Ribosomal inhibition is the mechanism of action of various antimicrobials like tetracyclines, aminoglycosides, chloramphenicol, and macrolides.
+option C: Cell wall synthesis inhibition is done by beta-lactam antibiotics.
+option D: Inhibition of folic acid synthesis is the mechanism of action of sulfonamides and co-trimoxazole.",,A,
+7,"A patient was brought to the emergency with a history of consumption of 8 tablets of digoxin. on examination, he was unstable and his heart rate was 56 bpm. ECG showed a 3rd-degree heart block. what is the next step in the management of this patient?","a) Antibody against digoxin
+b) Lidocaine
+c) DC cardioversion
+d) phenytoin","Administration of digibind (antibody against digoxin) is the next step in managing this patient. An unstable patient with bradycardia and 3rd-degree heart block following digoxin toxicity should be treated with digibind.
+Digibind is a nonimmunogenic antibody used to treat cardiotoxicity due to digoxin. It is nonimmunogenic because it lacks the Fc fragment.
+Digoxin is the cardiac glycoside used to treat heart failure and control ventricular rate in atrial fibrillation/flutter.
+It inhibits Na+/k+ ATPase, a membrane-bound transporter to increase intracellular sodium. As a result, there is less expulsion of calcium from the cell by the sodium-calcium exchanger (NCX). Increased calcium inside the myocyte leads to an increase in cardiac contractility.
+The most common cardiac manifestations of digitalis toxicity are ventricular tachycardia, partial to complete A-v block, severe bradycardia, and atrial fibrillation/flutter.
+Factors that increase the risk of digoxin toxicity are:
+• Hypokalemia
+• Drugs that decrease digoxin elimination (inhibitors of P-glycoprotein) like quinidine
+• Renal/hepatic failure
+• Thyrotoxicosis
+option B: Lidocaine is commonly used as a local anesthetic. It has anti-arrhythmic properties and is used to suppress ventricular tachycardia caused by digitalis toxicity.
+option C: DC cardioversion is used for tachyarrythmias when pharmacologic treatment fails. It is not used in bradyarrhythmias.
+option D: Phenytoin is an antiepileptic used for the treatment of generalized tonic-clonic seizures and partial seizures. It can also be used for the treatment of polymorphic ventricular tachycardia due to QT prolongation.",,A,
+8,"An elderly man, who is a known case of diabetic nephropathy, presented to the emergency with palpitations and chest discomfort. ECG showed tall T-waves. Laboratory investigations showed elevated potassium levels. which of the following drugs will cause the shift of potassium back into the cell?","a) Epinephrine
+b) Glucagon
+c) Atropine
+d) Lactic acid","The clinical scenario with ECG showing tall T-waves and elevated serum potassium levels are suggestive of hyperkalemia. Epinephrine will cause the shift of potassium back into the cell.
+Epinephrine is an agonist at alpha 1, beta 1, and beta 2 receptors.
+The β actions are mediated through cAMP. Epinephrine binds to Gs → ATP and is broken down to cAMP by the enzyme adenylyl cyclase. This results in:
+• In the liver and muscle- hyperglycemia and hypokalemia due to potassium uptake in muscle and liver
+• In adipose tissue- increased plasma free fatty acids
+• In the heart- an increased force of contraction reinforces the positive inotropic action
+• In pancreatic islets- increases glucagon secretion
+Epinephrine is used in anaphylaxis, to prolong the action of local anesthetics, cardiac arrest, and as inhalational epinephrine in the treatment of post-intubation and infectious croup.
+Epinephrine is contraindicated in anesthesia with halothane due to the risk of arrhythmias and in patients receiving beta-blockers because a marked rise in BP can occur due to unopposed alpha action.
+Hyperkalemia refers to an increase in the levels of serum potassium >5.5mEq/L.
+The image given below shows sequential ECG changes seen in hyperkalemia.
+Hyperkalemia is a medical emergency and has to be treated when ECG changes are present or severe hyperkalemia (serum K+ >6.5) without ECG changes. Management is as follows:
+• Intravenous infusion of 1o ml of 1o% calcium gluconate for 2-3 minutes with cardiac monitoring. It helps to antagonize the cardiac effects.
+• Intravenous regular insulin 1o units followed by 5omL of 5o % dextrose. This helps in shifting the plasma K+ into the cells.
+• Nebulisation with β2 agonists such as albuterol or salbutamol.
+• Cation exchange resins, diuretics, and/or dialysis are useful to remove the excess potassium.",,A,1229-784.PNG
+9,A patient with a pituitary tumor that overproduced growth hormone underwent surgical removal of the tumor. The resection was found to be incomplete. what is the first-line treatment for this patient?,"a) Leuprolide
+b) Goserelin
+c) Nafarelin
+d) octreotide","The above scenario with a pituitary tumor producing growth hormone is likely to cause acromegaly in the patient. octreotide is the first-line treatment for this condition.
+octreotide is a synthetic analog of somatostatin.
+octreotide can be used in the following conditions:
+• Acromegaly
+• secretory diarrheas associated with carcinoid, AIDs, cancer chemotherapy, or diabetes- by suppression of hormones that enhance intestinal mucosal secretion.
+• Bleeding esophageal varices- reduces hepatic blood flow and helps stop bleeding.
+• Dumping syndrome in post gastric surgery patients Adverse effects of octreotide are:
+• Abdominal pain
+• Nausea
+• steatorrhea
+• Gall stones (due to biliary stasis)
+• Hyperglycemia
+other options:
+option A: Leuprolide is a long-acting GnRH agonist. It is used for palliation of carcinoma prostate, uterine fibroids, endometriosis, and precocious puberty. side effects include hot flashes, decreased bone mineral density, vaginal dryness, and erectile dysfunction.
+option B: Goserelin is also a GnRH agonist used for the treatment of endometriosis, dysfunctional uterine bleeding, and for prostate and breast cancer.
+option C: Nafarelin is a long-acting GnRH agonist. It is used for the treatment of endometriosis, uterine fibroids, and central precocious puberty.",,D,
+10,"A middle-aged male patient presents with protrusion of the chin, excessive sweating, impaired glucose tolerance, and enlargement of hands and feet. which of the following is a growth hormone receptor antagonist used to treat this condition?","a) octreotide
+b) pegvisomant
+c) cabergoline
+d) olcegepant","The clinical features of protrusion of the chin, excessive sweating, impaired glucose tolerance, and enlargement of hands and feet are suggestive of acromegaly. pegvisomant is a growth hormone receptor antagonist used to treat this condition.
+Acromegaly is commonly caused due to growth hormone-secreting somatotroph adenoma. It occurs secondary to mutations of the pituitary-specific gene pIT-1.
+patients present with frontal bossing, increased hand and foot size, mandibular enlargement with prognathism, widened space between the lower incisor teeth, soft tissue swelling resulting in increased heel pad thickness, coarse facial features, and large fleshy nose.
+serum IGF-1 levels (elevated) and GH suppression test with oral glucose are useful in the diagnosis. The levels of GH do not reduce in response to the oral glucose load.
+Transsphenoidal surgical resection of the tumor, octreotide, and pegvisomant will be helpful in the management of this condition.
+other options:
+option A: octreotide is a synthetic analog of somatostatin. It is used for the treatment of acromegaly and secretory diarrhea.
+option C: Cabergoline is a dopamine D2 receptor agonist. It is used as a first-line drug for the treatment of hyperprolactinemia.
+option D: oglcegepant is a calcitonin gene-related peptide (CGRP) antagonist. It is used for the treatment of migraine.",,B,
+11,A diabetic patient presented with rhinitis and facial swelling. An intranasal biopsy revealed the presence of broad-based aseptate hyphae with branching at right angle. Evidence of vascular invasion was present. what will be the drug of choice for this condition?,"a) Fluconazole
+b) Amphotericin B
+c) ketoconazole
+d) Griseofulvin","The above scenario and biopsy findings showing broad-based aseptate hyphae with branching at right angles are suggestive of mucormycosis. The drug of choice for mucormycosis is amphotericin B.
+Mucormycosis is an opportunistic mycosis. It is typically seen in patients with diabetes mellitus and/or diabetic ketoacidosis and invades blood vessels.
+The rhino-orbital-cerebral is the most common form of mucormycosis. Patients present with rhinitis, eye or facial pain, and facial numbness followed by the onset of conjunctival suffusion and swelling along with blurry vision.
+Diagnosis is made by biopsy with histopathologic examination. The biopsy shows characteristic wide, ribbon-like aseptate hyphal elements that branch at right angles.
+The below image shows biopsy findings seen in mucormycosis.
+Treatment of the infection includes 4 steps:
+• Initiation of therapy (amphotericin B) as early as possible.
+• surgical debridement.
+• Reversal of underlying conditions and risk factors.
+• Treatment of underlying malignancy if present.
+Amphotericin B binds to ergosterol in the fungal membrane and forms pores or channels in the fungal cell membrane. This allows the leakage of cytosolic molecules and ions, leading to a loss of membrane integrity.
+It is a broad-spectrum antifungal that can be used against candida albicans, cryptococcus neoformans, Blastomyces dermatitidis, Histoplasma capsulatum, sporothrix schenckii, coccidioides immitis, Aspergillus.
+Amphotericin B also has antiprotozoal action along with antifungal properties and is effective against Leishmania.
+Adverse effects of amphotericin B:
+• Infusion-related fever and chills
+• Azotemia/nephrotoxicity- all lipid formulations of amphotericin B are less nephrotoxic than conventional amphotericin B
+• Renal tubular acidosis
+• Renal wasting of potassium and magnesium
+• Hypochromic normocytic anemia- due to decreased erythropoietin production from the kidney Note: Mucormycosis recently emerged as an important superinfection in coVID-19 patients, especially in India. The surge in cases is most likely due to diabetes mellitus and steroid use. other options:
+option A: Fluconazole is used for the treatment of candidiasis and cryptococcosis.
+option c: ketoconazole is used for both dermatophytosis and deep mycosis, but it has been replaced by itraconazole.
+option D: Griseofulvin is used for dermatophytosis. It is effective against the mycotic disease of the skin, hair, and nails due to Microsporum, Trichophyton, and Epidermophyton.",,B,1210-782.PNG
+12,A tuberculosis patient on anti-tubercular treatment presents with a tingling sensation and paresthesia in the lower limbs. He is not a diabetic and occasionally consumes alcohol. which of the following vitamins must be supplemented to this patient?,"a) vitamin B6
+b) vitamin B12
+c) vitamin B2
+d) vitamin B3","Vitamin B6 must be supplemented for this patient. The clinical features of tingling sensation and paresthesias in a patient on anti-tubercular treatment are suggestive of the adverse effect of isoniazid.
+Isoniazid is the first-line antitubercular drug that inhibits the production of mycolic acid. It is a bactericidal drug against tubercle bacilli.
+Adverse effects of isoniazid:
+• peripheral neuritis (paresthesias, numbness, tingling sensation) due to interference with the production of active coenzyme pyridoxal phosphate from pyridoxine. Therefore, pyridoxine 1o mg/day (vitamin B6) is given prophylactically along with isoniazid to prevent neurotoxicity.
+• Hepatitis - isoniazid must be stopped at the first sign of hepatotoxicity.
+• Rashes
+• Anemia
+• Arthralgia
+Toxicity of isoniazid results in metabolic acidosis and seizures.
+Note: vitamin deficiency in alcoholics includes the following:
+• Folate causes megaloblastic anemia. It is treated by supplementation of oral doses of 5-15 mg of folic acid.
+• vitamin B6 results in peripheral neuritis, anemia, and glossitis, and lowers the seizure threshold.
+It is treated by supplementation of oral doses of 2-5 mg of pyridoxine.
+• Thiamine results in wernicke's encephalopathy. It is treated with 2oo mg of intravenous thiamine three times daily, followed by 1o mg/day until complete recovery.
+• vitamin A results in xerophthalmia and night blindness. It is treated with supplementation of oral vitamin A 3ooo-5ooo IU/day.",,A,
+13,An elderly woman received a botox injection for the treatment of wrinkles. which of the following is the mechanism of action of botulinum toxin?,"a) Inhibits the release of acetylcholine
+b) Release of noradrenaline at synaptic cleft
+c) selectively and irreversibly inhibits nicotinic receptors
+d) stimulates muscarinic and nicotinic receptors","The botulinum toxin acts by inhibiting the release of acetylcholine into the synaptic cleft.
+Botulinum toxin cleaves SNARE protein, which is involved in the exocytosis of acetylcholine.
+Thus, it inhibits the release of acetylcholine.
+The image given below shows the site of action of botulinum toxin:
+This toxin causes a long-lasting loss of cholinergic transmission. Hence, it can be employed for the treatment of several spastic and neurological conditions caused by the overactivity of cholinergic nerves, such as age-related facial wrinkles, blepharospasm, spastic cerebral palsy, spasmodic torticollis, post-stroke spasticity, and axillary hyperhidrosis.
+Adverse effects occur due to incorrect injection and overdose; they include ptosis, diplopia, facial swelling, dry mouth, muscle weakness, and respiratory paralysis.
+Botulinum toxin is an exotoxin produced by the bacteria clostridium botulinum. It is responsible for a type of food poisoning called botulism.",,A,1233-785.PNG
+14,which of the following is a Pcsk9 inhibitor?,"a) Evolocumab
+b) Ezetimibe
+c) Bempedoic acid
+d) clofibrate","Evolocumab is a Pcsk9 inhibitor.
+Pcsk9 refers to proprotein convertase subtilisin/kexin type 9. They are mainly involved in the downregulation of low-density lipoprotein (LDL) receptors in the liver.
+Evolocumab is a monoclonal antibody that inhibits Pcsk-9 (proprotein convertase subtilisin/kexin). Inhibition of Pcsk-9 prevents the degradation of LDL receptors and thus increases LDL-cholesterol clearance by the liver. They are used in patients with atherosclerotic cardiovascular disease (AscVD) to decrease LDL levels.
+side effects of Pcsk9 inhibitors are injection-site reactions, nasopharyngitis, urinary tract infection, and upper respiratory tract infection and it does not increase the risk of myopathy.
+other options:
+option B: Ezetimibe inhibits cholesterol absorption by enterocytes in the small intestine. It lowers the total and LDL-c levels.
+option c: Bempedoic acid inhibits adenosine triphosphate-citrate lyase (AcL) and results in decreased LDL in patients not responding to statin therapy.
+option D: clofibrate binds to PPAR-alpha and causes stimulation of fatty acid oxidation and increased LPL synthesis. This results in reduced triglycerides, LDL and increased high-density lipoprotein (HDL) levels. It causes myopathy when combined with statins and is associated with an increased risk of gallstone formation.",,A,
+15,"An elderly man presents with rigidity and tremors. on examination, he has blank facial expressions. which of the following drugs can be used to manage this condition?","a) clozapine
+b) Donepezil
+c) selegiline
+d) Haloperidol","The clinical features of rigidity, tremors, and blank facial expressions are suggestive of Parkinson's disease. Monoamine oxidase-B (MAo-B) inhibitors like selegiline are used for the treatment of Parkinson disease.
+Normally, MAo-B oxidizes dopamine. selegiline is a selective and irreversible MAo-B inhibitor. Therefore, it increases dopamine levels in the brain. It is used as an adjuvant to levodopa in Parkinson's disease. It prolongs and enhances the action of levodopa.
+Adverse effects of selegiline are postural hypotension, nausea, confusion, involuntary movements, and psychosis. selegiline is contraindicated in patients with convulsive disorders.
+other options:
+option A: clozapine is an atypical antipsychotic that selectively blocks dopamine (D4) receptors in the brain. It is used in the treatment of refractory schizophrenia. Agranulocytosis and metabolic syndrome are the important adverse effects.
+option B: Donepezil is a reversible cholinesterase inhibitor used for the treatment of Alzheimer's disease.
+option D: Haloperidol is a typical antipsychotic used for the treatment of acute schizophrenia, Huntington’s disease, and Gilles de la Tourette syndrome.",,C,

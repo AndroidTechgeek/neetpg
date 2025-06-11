@@ -36,13 +36,10 @@
         </div>
         <form id="question-form" method="post" action="{{ url_for('show_question', q_id=q_id) }}">
             <div class="options-grid">
-                {% set previous_answer = user_answers.get(q_id|string) %}
                 {% for option in question.options.split('\n') %}
                     {% if option.strip() %}
-                        {% set opt_val = option.strip()[0] %}
                         <label class="option-label">
-                            <input type="radio" name="option" value="{{ opt_val }}" 
-                                   {% if opt_val == previous_answer and mode == 'test' %}checked{% endif %} required>
+                            <input type="radio" name="option" value="{{ option.strip()[0] }}" required>
                             <span>{{ option.strip() }}</span>
                         </label>
                     {% endif %}
@@ -50,7 +47,7 @@
             </div>
             <div class="test-nav">
                 {% if mode == 'test' %}
-                    <button type="submit" id="submit-btn" class="btn">Save & Next &rarr;</button>
+                    <button type="submit" class="btn">Save & Next &rarr;</button>
                 {% else %}
                     <button type="button" id="study-check-btn" class="btn">Check Answer</button>
                 {% endif %}
@@ -59,7 +56,7 @@
         <div id="explanation-block" class="explanation-block" style="display: none;">
             <h4 id="feedback-header"></h4>
             <div id="explanation-text" class="solution-text"></div>
-            <img id="explanation-image" src="" alt="Explanation Image" class="question-image" style="display: none;">
+            <div id="explanation-images" class="solution-images"></div>
         </div>
         <div class="study-nav">
             {% if mode == 'test' %}
@@ -94,7 +91,8 @@
         flagButton.addEventListener('click', () => {
             const qId = {{ q_id }};
             fetch(`/toggle_flag/${qId}`, { method: 'POST' })
-                .then(response => response.json()).then(data => {
+                .then(response => response.json())
+                .then(data => {
                     if (data.status === 'success') {
                         flagButton.classList.toggle('flagged');
                         document.querySelector(`.nav-item:nth-child(${qId + 1})`).classList.toggle('flagged');
@@ -102,7 +100,9 @@
                 });
         });
     {% endif %}
+
     {% if mode == 'study' %}
+        // THIS SCRIPT BLOCK IS NOW FULLY CORRECTED
         document.getElementById('study-check-btn').addEventListener('click', function(event) {
             const selectedOption = document.querySelector('input[name="option"]:checked');
             if (!selectedOption) { alert('Please select an answer.'); return; }
@@ -118,17 +118,26 @@
                     feedbackHeader.textContent = '✅ Correct!';
                     feedbackHeader.className = 'feedback-correct';
                 } else {
-                    feedbackHeader.textContent = `❌ Incorrect. The correct answer is ${data.correct_answer}.`;
+                    feedbackHeader.textContent = `❌ Incorrect. The correct answer was ${data.correct_answer}.`;
                     feedbackHeader.className = 'feedback-incorrect';
                 }
+                
                 document.getElementById('explanation-text').innerHTML = data.explanation;
-                const explImg = document.getElementById('explanation-image');
-                // BUGFIX: Check for valid image filename in JS
+                
+                const explImgContainer = document.getElementById('explanation-images');
+                explImgContainer.innerHTML = ''; // Clear previous images
+                
                 if (data.image_a && data.image_a !== 'nan') {
-                    explImg.src = `{{ url_for('static', filename='images/') }}${data.image_a}`;
-                    explImg.style.display = 'block';
-                } else {
-                    explImg.style.display = 'none';
+                    const filenames = data.image_a.split(';');
+                    filenames.forEach(filename => {
+                        const trimmedFilename = filename.trim();
+                        if (trimmedFilename) {
+                            const img = document.createElement('img');
+                            img.src = `/static/images/${trimmedFilename}`;
+                            img.alt = 'Explanation Image';
+                            explImgContainer.appendChild(img);
+                        }
+                    });
                 }
                 document.getElementById('study-check-btn').style.display = 'none';
                 document.querySelectorAll('input[name="option"]').forEach(radio => radio.disabled = true);

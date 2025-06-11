@@ -1,0 +1,159 @@
+﻿NUMBER,QUESTION,OPTIONS,SOLUTION,IMAGE Q,ANSWER KEY,IMAGE A
+Question 1,A colonoscopy of an elderly patient revealed brownish pigmented lesions as shown below. He admitted to chronic laxative abuse. which of the following laxatives is most likely to cause this condition?,"a) Bran
+b) psyllium
+c) senna
+d) Methylcellulose","The above colonoscopy image depicts a brownish moiré pattern that is indicative of melanosis coli. chronic use of anthraquinone laxatives like senna and cascara sagrada can cause melanosis coli.
+Bisacodyl is also implicated in causing melanosis coli.",1066-750.PNG,C,IMAGE Q
+Question 2,"A patient who is on treatment for angina, presents to you with erectile dysfunction. You decide against prescribing sildenafil because the patient is being treated with _____","a) Calcium channel blockers
+b) Beta blockers
+c) Nitrates
+d) ACE inhibitors","The patient would be on nitrates for angina and thus should not be prescribed sildenafil as sildenafil causes dangerous potentiation of nitrate action resulting in severe hypotension.
+The combination of the two drugs has a synergistic action on the intracellular cGMp levels that can result in uninhibited vasodilation and a precipitous fall in blood pressure. Hence, the use of sildenafil is a contraindication when on nitrates.",,C,
+Question 3,An example of a bacteriostatic drug is ______,"a) Aminoglycoside
+b) Vancomycin
+c) Metronidazole
+d) Linezolid","Linezolid is an example of a bacteriostatic drug.
+primarily bacteriostatic drugs: sulfonamides, Erythromycin, Tetracyclines, clindamycin, chloramphenicol, Linezolid, Ethambutol
+primarily bactericidal drugs: penicillins, cephalosporins, Aminoglycosides, vancomycin, polypeptides, ciprofloxacin, Rifampin, Metronidazole, Isoniazid, cotrimoxazole, pyrazinamide",,D,
+Question 4,The antiviral drug having dual antiviral activity against HIV and HBV is:,"a) Enfuviritide
+b) Abacavir
+c) Emtricitabine
+d) Ritonavir","Antiviral drug having dual antiviral activity against HIV and HBV is emtricitabine.
+It is a nucleoside reverse transcriptase inhibitor similar to lamivudine. It has activity against HIV-1, HIV-2, and HBV.",,C,
+Question 5,The replacement dose of hydrocortisone for chronic adrenal insufficiency is (in mg/day):,"a) 1o
+b) 12
+c) 2o
+d) 5","The replacement dose of hydrocortisone for chronic adrenal insufficiency is 2o mg/day.
+The treatment of chronic adrenal insufficiency (not in crisis) requires glucocorticoid replacement at a dose that replaces the physiologic daily cortisol production. This is achieved by administering an oral replacement dose of 15-25mg Hydrocortisone.
+A midpoint dose of 2omg is given in 2-3 divided doses: 1omg + 5mg + 5mg.
+Half the daily dose should be administered to all patients in the morning. This is to follow the normal circadian rhythm.",,C,
+Question 6,which of the following is the drug of choice for scrub typhus?,"a) Doxycycline
+b) Azithromycin
+c) chloramphenicol
+d) ciprofloxacin","Doxycycline is the drug of choice for scrub typhus.
+Azithromycin, chloramphenicol, or rifampin can be administered as alternatives in patients allergic to doxycycline and in pregnancy.",,A,
+Question 7,which of the following drugs is associated with QT prolongation?,"a) Lignocaine
+b) Quinidine
+c) Magnesium sulfate
+d) All of the above","QT prolongation is seen with quinidine.
+It causes torsades de pointes, a life-threatening form of polymorphic ventricular tachycardia.",,B,IMAGE A;1075-751.PNG
+Question 8,sacubitril is a new drug approved for chronic heart failure. The mechanism of action of sacubitril is:,"a) Angiotensin II inhibitor
+b) ACE inhibitor
+c) Renin inhibitor
+d) Neutral endopeptidase inhibitor","sacubitril is a neutral endopeptidase (neprilysin) inhibitor.
+sacubitril is a prodrug that is activated to sacubitrilat. It can inhibit the enzyme neprilysin (neutral endopeptidase), which is responsible for the degradation of atrial and brain natriuretic peptides (reduction of blood volume). Therefore, it increases the levels of atrial and brain natriuretic peptides and lowers blood pressure.
+In 2015, the FDA approved the use of sacubitril in combination with valsartan, at a ratio of 1:1, for the treatment of chronic heart failure.",,D,
+Question 9,Coagulation profile monitoring is needed in therapy with which of the following drugs?,"a) Fondaparinux
+b) Enoxaparin
+c) Dabigatran
+d) Lepirudin","coagulation profile monitoring is needed for lepirudin.
+Lepirudin is a direct irreversible thrombin inhibitor and its most adverse reaction is bleeding. The risk of bleeding can be reduced by implementing an appropriate monitoring and dose adjustment strategy. Thus, coagulation profile monitoring is required for lepirudin.
+However, enoxaparin, fondaparinux, and dabigatran do not bind to endothelium or many plasma proteins and thus, the response to these drugs at the usual doses is consistent from patient to patient. Hence, monitoring is not required.",,D,
+Question 10,which of the following antihypertensives are not used in pregnancy?,"a) Alpha methyldopa
+b) Hydralazine
+c) propranolol
+d) Labetalol","propranolol is a non-selective beta-blocker and is not safe for use during pregnancy.
+Antihypertensives to be avoided in pregnancy:
+• ACE inhibitors, ARBS
+• Diuretics
+• Nonselective beta-blockers
+• Nitroprusside
+Antihypertensives found to be safe in pregnancy:
+• Hydralazine
+• Methyldopa
+• Dihydropyridine CCBs: should be stopped before labor as they weaken the uterine contractions
+• Cardioselective beta-blockers and those with intrinsic sympathomimetic activity: may be used as a last choice",,C,
+Question 11,which of the following atypical antipsychotics has the highest risk of galactorrhea?,"a) Iloperidone
+b) Risperidone
+c) clozapine
+d) Aripiprazole","Among atypical antipsychotics, risperidone and paliperidone have the highest risk of galactorrhea. The adverse effect occurs due to their higher D2 blocking potency.",,B,
+Question 12,"when the pH = pka of a drug, which of the following statements is true?","a) concentration of the drug is 5o% ionic and 5o % non-ionic
+b) concentration of the drug is 9o% ionic and 1o% non-ionic
+c) concentration of the drug is 75% ionic and 25 % non-ionic
+d) concentration of the drug is 25% ionic and 75 % non-ionic","when the pH = pka of a drug, the concentration of the drug is 5o% ionic and 5o% non-ionic.
+pka is defined as the pH at which a drug exists as 5o% ionized (hydrophilic) and 5o% unionized (lipophilic).
+For e.g., phenobarbitone is an acidic drug with a pka of 7.2. At a pH of 7.2, 5o% will be unionized. In a more basic plasma (pH=7.4), a lesser fraction (around 4o%) will be unionized.
+Small changes in pH near pka of a drug may cause large variations in the degree of ionization.",,A,
+Question 13,corticosteroid indicated for the stimulation of fetal lung maturation in preterm labor is?,"a) Hydrocortisone
+b) Triamcinolone
+c) Methylprednisolone
+d) Betamethasone","Betamethasone is indicated for the stimulation of fetal lung maturation in preterm labor.
+As compared to cortisol, betamethasone binds to maternal proteins less and has less placental metabolism. This allows increased transfer to the fetus. Additionally, infants exposed to betamethasone are less likely to require postnatal resuscitation. 2 doses of 12 mg each are administered 18-24 hours apart when the delivery is anticipated before 34 weeks of gestation.
+Dexamethasone, another long-acting glucocorticoid is also indicated. It has benefits such as less risk of intraventricular hemorrhage and a shorter length of stay in the NICU.",,D,
+Question 14,what is the site of action of amphotericin B in fungi?,"a) Nucleic acid
+b) Ribosome
+c) cell membrane
+d) cytoplasm","The site of action of amphotericin B in fungi is the cell membrane.
+Amphotericin B binds to the ergosterol in the cell membrane of fungi and forms pores or channels. They increase the permeability of the membrane to ions and cause leakage of cytosolic molecules. This leads to a loss of integrity of the cell membrane and causes fungicidal effects.
+Recent evidence suggests that the amphotericin B sequesters ergosterol from lipid layers, much like a sponge, resulting in fungal cell death.",,C,
+Question 15,which of the following acts by causing both decreased bone resorption and increased bone formation?,"a) strontium ranelate
+b) Ibandronate
+c) Teriparatide
+d) Calcitonin","strontium ranelate acts by both decreased bone resorption and increased bone formation.
+It is generally reserved for severe osteoporosis. Due to an increased incidence of myocardial infarction and other cardiovascular events, the use is restricted in all the approved regions.
+option B- Ibandronate which is a bisphosphonate, decreases bone resorption only.
+option C- The pharmacologic activity of teriparatide, which is similar to the physiologic activity of PTH, includes stimulating osteoblast function, increasing gastrointestinal calcium absorption, and increasing renal tubular reabsorption of calcium.
+option D- Calcitonin also decreases bone resorption.",,A,
+Question 16,which is the drug used for refractory intractable rheumatic chorea?,"a) probenecid
+b) Diazepam
+c) Haloperidol
+d) sodium valproate","The drug used for refractory intractable rheumatic chorea is sodium valproate, as it doesn't have extrapyramidal side effects.
+sydenham's chorea is characterized by involuntary, purposeless, jerky movements which mainly affect the head and upper limbs. In the tongue, it is visible as the characteristic darting movements.
+Medications used to treat sydenham chorea are:
+• Mild cases - Providing a calm environment.
+• severe cases:
+• Dopamine antagonists - haloperidol, pimozide
+• Antiepileptic medications - sodium valproate, carbamazepine.
+• severe, refractory cases - steroids (thought to be immune-mediated)
+• IV immunoglobulins, plasmapheresis - limited studies, decreased efficacy (not currently recommended)",,D,
+Question 17,what is basiliximab?,"a) IL-1 receptor antagonist b) Anti-CD3 antibody
+c) IL-2 receptor antagonist
+d) TNF inhibitor","Basiliximab exhibits a high affinity towards IL-2 receptor and inhibits it. It is an anti- CD-25 monoclonal antibody.
+It has a short plasma half-life of 1 week. It is used to prevent transplant rejection reactions. Its adverse effects are anaphylactic reactions & opportunistic infections.",,C,
+Question 18,which of the following conditions can be treated with pirenzepine?,"a) Asthma
+b) peptic ulcer disease
+c) Glaucoma
+d) Hypertension",pirenzepine is used for treating gastric ulcers. It is a selective M1 anticholinergic drug. It decreases gastric acid secretions at doses that have little effect on salivation or heart rate.,,B,
+Question 19,which of the following antimicrobials is effective against an organism producing extended-spectrum beta-lactamases?,"a) Amoxicillin - clavulanic acid
+b) penicillin
+c) piperacillin - tazobactam
+d) ceftriaxone","piperacillin-tazobactam is an antimicrobial that is effective against organisms producing extended-spectrum beta-lactamases.
+Extended-spectrum beta-lactamase (ESBL) enzyme produced by bacteria causes resistance to most of the penicillins, cephalosporins (third and fourth generation), and monobactams. ESBL is most prevalent among gram-negative organisms like klebsiella and E. coli.
+ESBL can be inhibited by combining beta-lactamase inhibitors like clavulanic acid or tazobactam. Carbapenems and quinolones have inherent activity against ESBL.
+Note: As piperacillin has greater activity against klebsiella and other gram-negative organisms than amoxicillin, piperacillin-tazobactam can be considered as a better option in this question.",,C,
+Question 20,which of the following inhibits the synthesis of glucocorticoid?,"a) Mifepristone
+b) Flutamide
+c) Finasteride
+d) Metyrapone","Metyrapone inhibits the synthesis of glucocorticoids by inhibiting steroid 11β-hydroxylase reversibly.
+It is used to test the hypothalamic-pituitary feedback pathway in the diagnosis of Cushing syndrome.",,D,
+Question 21,Isosorbide dinitrate is indicated for congestive heart failure in combination with which of the following vasodilators?,"a) Minoxidil
+b) Hydralazine
+c) Nimodipine
+d) Nitrendipine","Isosorbide dinitrate (ISDN) is indicated in combination with hydralazine for CHF.
+Hydralazine is a direct vasodilator and its mechanism of action is not known. It also reduces nitrate tolerance.
+The combination of ISDN and hydralazine showed mortality benefits in a specific group of population (African-Americans).",,B,
+Question 22,what is the mechanism of action of colchicine?,"a) Inhibits synthesis of uric acid
+b) promotes excretion of uric acid
+c) Inhibits xanthine oxidase enzyme
+d) Binds to tubulin and inhibits granulocyte migration","Colchicine acts by binding to tubulin and inhibits granulocyte migration.
+Colchicine produces its anti-inflammatory effects by binding to the intracellular protein tubulin. This prevents the polymerization of tubulin into microtubules which is necessary for leukocyte migration and phagocytosis. Inhibition of microtubule formation prevents granulocyte migration and also arrests cell division at G1 phase.",,D,
+Question 23,which of the following statements is true about prasugrel?,"a) It acts as an P2 Y12 agonist
+b) It is 1o times less potent than clopidogrel
+c) It is a pro drug
+d) omeprazole interferes in its activation to an active metabolite","prasugrel is a prodrug.
+It acts as an irreversible ADp (p2 y12) antagonist and is converted into its active metabolite by Cyp3A4 and Cyp2B6. since omeprazole is an inhibitor of Cyp2C19, it does not interfere with its activation.
+It is 1o-times more potent than clopidogrel and has a more rapid onset of action because of better absorption and more predictable metabolic activation.",,C,
+Question 24,Apixaban belongs to which of the following class of drugs?,"a) Antifibrinolytic
+b) Factor xa inhibitor
+c) oral direct thrombin inhibitor
+d) Parenteral direct thrombin inhibitor","Apixaban, a novel oral anticoagulant (NOAC), is a factor xa inhibitor that is used in the treatment of VTE (venous thrombo embolism)/DVT and in its prophylaxis after major orthopedic surgeries. Direct factor xa inhibitors:
+• Rivaroxaban
+• Apixaban
+• Edoxaban
+• Betrixaban
+parenteral direct thrombin inhibitors:
+• Bivalirudin
+• Argatroban
+• Desirudin
+Oral direct thrombin inhibitor—Dabigatran is the only oral direct thrombin inhibitor available for clinical use.
+The FDA recently approved the drug Apixaban for a new indication. The drug is now used to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation.",,B,
