@@ -1,0 +1,598 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"An 18-year-old girl with the diagnosis of acute promyelocytic leukemia was treated medically. she developed fever and tachypnea and a chest X-ray showed pulmonary infiltrates. what
+drug should she be given next?","a)Cytarabine
+b)Dexamethasone
+c)Doxorubicin
+d)Methotrexate","The clinical scenario describes a patient of APL (acute promyelocytic leukemia) developing fever, tachypnea, and pulmonary infiltrates while on medical treatment. This is suggestive of APL
+differentiation syndrome, an adverse effect of all-trans-retinoic acid (ATRA). The management involves glucocorticoids like dexamethasone.
+Along with glucocorticoids, the other management of APL differentiation syndrome includes chemotherapy for cytoreduction and supportive measures. In severe cases, temporary
+discontinuation ofATRA is necessary.
+ATRA is an oral drug that induces the differentiation of leukemic cells bearing the t(15;17)
+chromosomal translocation. while ATRA reduces the incidence of DIC associated with cytarabine and daunorubicin used earlier in APL, it can cause APL differentiation syndrome due to the
+adhesion of differentiated neoplastic cells to the pulmonary vasculature endothelium.
+In low-risk APL patients with a low leukocyte count at presentation, a combination ofATRA and arsenic trioxide (ATO) has been found to be superior and is the current standard of care.",,B,
+Q2,A 5o-year-old man was brought to the emergency in an unconscious state. He had a fever for the past two days and is a known case of severe COPD. His ECG is given below. what is the   most likely diagnosis?,"a)ventricular tachycardia
+b)Multifocal atrial tachycardia
+c)Atrial fibrillation
+d)Atrial tachycardia","The given clinical scenario of chronic pulmonary disease and the EcG showing different p wave morphologies are suggestive of multifocal atrial tachycardia.
+Multifocal atrial tachycardia (MAT) occurs due to impulses arising from multiple abnormal foci in the atria. This leads to supraventricular tachycardia with p waves and QRS complexes of different morphologies. It is usually encountered in patients with chronic pulmonary disease and acute
+illness.
+Therapy for MAT is directed at treating the underlying disease and correcting any metabolic  abnormalities. calcium-channel blockers and radiofrequency ablation ofthe AV node are the other treatment modalities.
+The given EcG shows narrow QRS complexes with irregular RR intervals, hence it can be atrial fibrillation or multifocal atrial tachycardia. The next step is to look at the p waves. Multifocal     atrial tachycardia (MAT) is characterized by at least 3 distinct P-wave morphologies (shown by  arrows in the image). whereas, in atrial fibrillation, there would be no distinct p waves seen.",4114-2653.PNG,B,4127-2656.PNG
+Q3,Infertility in kartagener’s syndrome is due to which of the following?,"a)oligospermia
+b)Asthenospermia
+c)undescended testes
+d)Epididymis obstruction","kartagener’s syndrome is a type of primary ciliary dyskinesia characterized by the classical triad of
+• Situs inversus
+• chronic sinusitis
+• Bronchiectasis
+Infertility in kartagener’s syndrome is due to asthenospermia (immotile spermatozoa due to impaired sperm flagella function), not azoospermia (complete absence of spermatozoa in
+ejaculate).
+Primary ciliary dyskinesia (also called immotile cilia syndrome) is an autosomal recessive disorder affecting ciliary motility. It occurs due to ultrastructural defects in the dynein arm of cilia. This
+causes the retention of secretions due to a failed mucociliary clearance mechanism. clinically, this manifests as chronic sinusitis and recurrent infections that ultimately lead to bronchiectasis. As
+
+
+
+ciliary function is necessary to ensure proper rotation of the developing organs in the chest and abdomen, its absence will lead to situs inversus or a partial lateralizing abnormality.
+Approximately half of the patients with primary ciliary dyskinesia have kartagener syndrome.",,B,
+Q4,"Calculate the GCS Score in an intubated patient, with findings of eye movements to pain and abnormal flexion?","a)E2VTM4
+b)E2VTM3
+c)E2V1M3
+d)E2VNTM3","The GCS score is E2VNTM3. In this case:
+• Eye-opening to pain: E2
+• In case of endotracheal intubation or tracheostomy, the verbal component of the score is denoted as 'not testable/NT'. Earlier in intubated patients, the V score was denoted as VT.  According to the current update, the V score should be VNT.
+• Abnormal flexion: M3",,D,
+Q5,"Two brothers were arguing over a property dispute when the elder of the two complained of   chest pain and collapsed and was later declared brought dead by the hospital. His family says he was previously healthy and there was no similar disease in the family members. what is
+the likely diagnosis?","a)Infective cardiomyopathy
+b)Takotsubo cardiomyopathy
+c)Dilated cardiomyopathy
+d)Hypertrophic cardiomyopathy","The given clinical scenario of sudden heart failure in a previously healthy person under a stressful situation is suggestive of Takotsubo cardiomyopathy.
+Takotsubo cardiomyopathy is also called broken heart syndrome, apical ballooning syndrome, or   stress-induced cardiomyopathy. It is a transient myocardial stunning from microcirculation spams due to a catecholamine surge during stress. It is usually seen in middle-aged women. The patients can present with pulmonary edema, hypotension, and chest pain.
+ECHO reveals apical dilatation with basal hypercontraction of the heart, resembling a Takotsubo    (pot for catching octopus).  The ECG changes can mimic myocardial infarction but changes extend beyond a particular coronary arterial territory. Coronary angiography, therefore, may be needed     to rule out coronary occlusion. (Option B)
+It is a self-limiting disorder resolving within days to weeks. The prognosis is generally good.
+The image below shows left ventriculography during systole showing apical ballooning resembling a Takotsubo pot.
+
+
+
+
+
+other options:
+option A: Infective cardiomyopathy: The most common causes of infective myocarditis are viral   infections and the protozoan Trypanosoma cruzi, which is associated with Chagas' disease. Acute viral myocarditis often presents with symptoms and signs of heart failure, although it can also
+manifest as chest pain and show electrocardiogram (ECG) changes resembling pericarditis or     acute myocardial infarction. In Chagas' disease, specific features include abnormalities in the     conduction system, particularly dysfunction of the sinus node and AV node, as well as the right bundle branch block.
+option C: Dilated cardiomyopathy: It is the most common cardiomyopathy and is predominantly characterised by systolic dysfunction. Though it may present acutely, it progresses chronically.
+The familial form is due to mutations in TTN gene which encode the sarcomeric protein titin.
+other etiologocal agents include alcohol, infective myocarditis, doxorubicin, hemochromatosis and sarcoidosis.
+option D: Hypertrophic cardiomyopathy: Hypertrophic cardiomyopathy (HCM) is the most
+common genetic cardiovascular disorder and is a prominent cause of sudden death before the age of 35 years. Family history is commonly present, a sarcomere mutation is present in ~50% of
+patients. sudden death can be due to polymorphic ventricular tachycardia/fibrillation. Risk factors for sudden death in this disease include young age, nonsustained ventricular tachycardia, failure    of blood pressure to increase during exercise, recent (within 6 months) syncope, ventricular wall    thickness &gt;3 cm, and possibly the severity of LV outflow obstruction.",,B,4129-2657.PNG
+Q6,which of the following is used in the treatment of late cardiovascular syphilis?,"a)Benzathine penicillin 2.4 million units weekly for three weeks
+b)Benzathine penicillin 2.4 million units as single dose
+c)Benzathine penicillin 12-24 million units for 21 days
+d)Tetracycline 2g daily","Benzathine penicillin 2.4 million units weekly for three weeks is the treatment of late
+cardiovascular syphilis.
+The treatment of syphilis is based on the CDC’s 2015 guidelines:
+Note:
+
+
+
+mu is a million units, not milli-units.
+
+Stage of Syphilis	patients without penicillin Al lergy	patients with Confirmed peni cillin Allergy
+primary, Secondary and early latent	CSF Normal or not examined: penicillin G benzathine      (si  ngle dose 2.4mu IM)CSF Ab   normal: Treat as Neurosyphil  is	CSF normal or not examined: Tetracycline HCl (5oo mg p   o qid)oRDoxycycline(1oo m   g po bid) for 2 weeks CSF ab  normal: Treat as neurosyphili s
+Late latent (or latent of uncer tain duration),Cardiovascular or benign tertiary	CSF Normal or not examined: penicillin G benzathine
+2.4 mu IM weekly for 3 wee  ksCSF Abnormal: Treat as Ne urosyphilis	CSF normal and patient not i  nfected with HIV: Tetracyclin e HCl (5oo mg po qid)oRDo  xycycline (1oo mg po bid) fo   r 4 weeksCSF normal and pat ient infected with HIV: Dese    nsitization and treatment wit  h penicillin if compliance can  not be ensuredCSF abnormal: Treat as neurosyphilis
+Neurosyphilis (asymptomatic or symptomatic)	Aqueous crystalline penicillin G (18-24 mu/d IV),
+given as 3-4mu q4h or conti    nuous infusion for 1o-14 days.
+oRAqueous procaine penicill in G (2.4mu/d IM)
++
+oral probenecid(5oomg qid) , both for 1o-14 days.	Desensitization and treatmen t with penicillin
+Syphilis in pregnancy	According to stage	Desensitization and treatmen t with penicillin",,A,
+Q7,which of the following drugs is commonly used for treating community-acquired pneumonia in OPD?,"a)vancomycin
+b)ceftriaxone
+c)Azithromycin
+d)streptomycin","Azithromycin is the drug of choice for treatment of community-acquired pneumonia (CAp) in an opD setup.
+outpatient management of CAp:
+1. For previously healthy patients who have not taken antibiotics within the past 3 months:
+• A macrolide – Azithromycin, 5oo mg orally as a first dose and then 25o mg orally daily for 4 days, or 5oo mg orally daily for 3 days, or
+• Clarithromycin, 5oo mg orally twice a day; or
+• Doxycycline 1oo mg orally twice a day
+2. For patients with such comorbid medical conditions as chronic heart, lung, liver, or kidney    disease, diabetes mellitus, alcoholism, malignancy, asplenia, immunosuppressant conditions or use of immunosuppressive drugs or use of antibiotics within the previous 3 months:
+
+
+
+• A respiratory fluoroquinolone (moxifloxacin, 4oo mg orally daily; gemifloxacin, 32o mg orally daily; levofloxacin, 75o mg orally daily) or
+• A macrolide (as above) plus a beta-lactam (amoxicillin, 1 g orally three times a day;
+amoxicillin-clavulanate, 2 g orally twice a day; cefuroxime, 5oo mg orally twice a day).
+3. In regions with a high rate (&gt; 25%) of infection with high level (MIC ≥ 16 mcg/mL)
+macrolide-resistant streptococcus pneumoniae, consider the use of alternative agents listed in (2) for patients with comorbidities.
+other options: vancomycin, Ceftriaxone, and streptomycin are administered parenterally, and hence, not appropriate for outpatient management.",,C,
+Q8,which of the following is not a component of syndrome Z?,"a)Obstructive sleep apnea
+b)Blood pressure more than 13o/85 mmHg
+c)Fasting triglyceride more than15omg/dl
+d)LDL more than 1oomg/dl","syndrome Z is defined as a combination of obstructive sleep apnea syndrome with
+metabolic syndrome. LDL more than 1oo mg/dL is not a criterion for the diagnosis of
+metabolic syndrome.
+Metabolic syndrome is diagnosed based on The NCEP: ATP III Criteria. Three or more of the following must be present :
+• Central obesity: waist circumference &gt;1o2 cm (M), &gt;88 cm (F)
+• Hypertriglyceridemia: triglyceride level ≥15o mg/dL or specific medication
+• Low HDL cholesterol: &lt;4o mg/dL and &lt;5o mg/dL for men and women, respectively, or specific medication
+• Hypertension: blood pressure ≥13o mmHg systolic or ≥85 mmHg diastolic or specific medication
+• Fasting plasma glucose level ≥1oo mg/dL or specific medication or previously diagnosed type 2 diabetes",,D,
+Q9,"A patient with a history of a backache for 1o days, has now presented with sudden onset
+difficulty in micturition and defaecation. There was no history of a cough or fever previously. what is the diagnosis?","a)Pott’s spine
+b)Guillain Barre syndrome
+c)cauda Equina syndrome
+d)Multiple sclerosis","This is a case of cauda equina syndrome (CEs).
+CEs signifies an injury of multiple lumbosacral nerve roots within the spinal canal distal to the termination of the spinal cord at L1-L2. It is commonly due to a ruptured lumbosacral
+intervertebral disk, lumbosacral spine fracture, hematoma within the spinal canal, compressive tumor, or other mass lesions.
+Low back pain, weakness, and areflexia in the legs, saddle anesthesia, or loss of bladder function may occur.
+Treatment options include surgical decompression, sometimes urgently in an attempt to restore or preserve motor or sphincter function, or radiotherapy for metastatic tumors.",,C,
+Q10,"A 4o-year-old male chronic smoker presents to the AIIMs OPD with fever, fatigue,
+yellow-colored urine, and clay-colored stools. For the past few days, he has developed an aversion to cigarette smoking. On examination icterus was present. what investigations
+
+
+
+would you advise to rule out acute viral hepatitis? Liver function test results are given below:","a)HBsAg, IgM antiHBC, AntiHCV, AntiHEV
+b)AntiHAV, HBsAg, IgM antiHBc, AntiHCV
+c)HBsAg, IgM antiHBc, AntiHDV, AntiHCV, Anti HEV
+d)AntiHAV, IgM antiHBc, AntiHCV, AntiHEV","The given clinical scenario is suggestive of jaundice. The tests that should be done in this patient to rule out acute viral hepatitis include:
+• Anti-HAV
+• HBsAg
+• IgM anti-HBc
+• Anti-HCV
+we mainly test for hepatitis A, B, and C. Tests for hepatitis D and E are not used routinely.
+Hepatitis D only occurs concurrently with Hepatitis B, either as a co-infection (when it is clinically
+indistinguishable from HBV infection) or superimposed on chronic HBV infection. In the latter scenario, it presents as a sudden worsening of the patient’s condition. IgM anti-HDV, IgG
+anti-HDV, and HDV RNA assays are useful for diagnosis when hepatitis D is suspected.
+Hepatitis E is not tested as the majority of patients who acquire hepatitis E virus (HEV) infection  spontaneously clear the virus. Acute hepatic failure is more likely in those who are pregnant and    in those who are malnourished or have preexisting liver disease. Chronic HEV has been described almost exclusively in immunocompromised hosts (e.g., organ transplantation). The diagnosis of     acute HEV is typically based upon the detection of IgM antibodies to HEV. Both false positives
+and negatives are common with available assays and are thus, not very reliable. Thus, additional serologic testing or HEV RNA testing should be performed to confirm the diagnosis and not be    useful as a screening test. [please note the difference between anti-HBe and anti-HEV]
+
+Condition suspect ed	Targetted Test performed
+Acute Hepatitis A	IgM Anti-HAV
+Acute Hepatitis B	HBsAg andIgM Anti-HBc*1 o  r both can be positive. A posi  tive IgM AntiHBc with negati ve HBsAg is seen when HBsA g is below the detection thres  hold.
+Acute Hepatitis C	Anti HCV",,B,
+Q11,"A 22-year-old man presented with diarrhea and intolerance to dairy products. on
+investigation, he was found to have a lactase deficiency. which of the following agents is least likely to cause symptoms of lactose intolerance?","a)Condensed Milk
+b)skimmed Milk
+c)yogurt
+d)Ice Cream","yogurt is the least likely to cause symptoms of lactose intolerance. It contains lactobacillus that produces lactase and is generally well tolerated.
+Lactase is a brush border enzyme that hydrolyzes lactose into glucose and galactose. In lactase
+deficiency, patients have great variability in clinical symptoms, depending on both the severity of lactase deficiency and the amount of lactose ingested.
+The goal of treatment in patients with isolated lactase deficiency is achieving patient comfort through the elimination of dietary lactose.
+
+
+
+Foods that are high in lactose include milk (12 g/cup), ice cream (9 g/cup), and cottage cheese (8   g/cup). Aged cheese has lower lactose content. Most people can tolerate up to 12g of lactose a day without significant symptoms.",,C,
+Q12,what is the most likely causative organism of ventilator-associated pneumonia among the following?,"a)Clostridium
+b)klebsiella
+c)Acinetobacter
+d)Hemophilus","Among the given options, Acinetobacter species is the most commonly isolated organism in cases of ventilator-associated pneumonia (VAP). VAP develops in a mechanically ventilated patient
+&gt;48 hours after endotracheal intubation.
+The organisms causing ventilator-associated pneumonia (VAP) significantly vary from one
+hospital to another. However, the organisms that frequently cause VAP in hospital settings are
+staphylococcus aureus, Pseudomonas aeruginosa, Acinetobacter sp., stenotrophomonas
+maltophilia, and gram-negative rods (Enterobacter species, K. pneumoniae, and Escherichia coli). Three factors distinguish nosocomial pneumonia from community-acquired pneumonia:
+• Different infectious agent
+• Different antibiotic susceptibility patterns, specifically, a higher incidence of drug resistance
+• Poorer underlying health status of patients putting them at risk for more severe infections
+within 48 hours of admission, 75% of seriously ill hospitalized patients have their upper airway colonized with organisms from the hospital environment. Impaired cellular and mechanical
+defense mechanisms in the lungs of hospitalized patients raise the risk of infection after aspiration has occurred.
+VAP patients may be infected with Acinetobacter species and stenotrophomonas maltophilia.
+Anaerobic organisms (Bacteroides, anaerobic streptococci, Fusobacterium) may also cause pneumonia in the hospitalized patient.",,C,
+Q13,"The arterial blood gas findings of a patient are pH 〓 7.12, pCo2 〓 5o, HCo3 〓 28. what is the diagnosis?","a)Respiratory acidosis with metabolic compensation
+b)Metabolic acidosis with respiratory compensation
+c)Respiratory alkalosis with metabolic compensation
+d)Metabolic alkalosis with respiratory compensation","The above findings give the diagnosis of respiratory acidosis with metabolic compensation.
+Interpretation of the ABG:
+step 1: pH is reduced (7.12), hence acidosis.
+step 2: since pCO2 is raised (5o mmHg), it is respiratory acidosis.
+step 3: HCO3 is raised (28 mEq/L) suggesting there is metabolic compensation.",,A,
+Q14,which of the following drugs is not used in rheumatoid arthritis?,"a)Febuxostat
+b)Leflunomide
+c)Etanercept
+d)Methotrexate",Febuxostat is not used in rheumatoid arthritis. It is used in the treatment of gout.,,A,
+Q15,"A middle-aged woman with a history of constipation, dry skin and menorrhagia presents to the ER with altered sensorium, non-pitting edema, hypothermia, bradycardia, and
+hypotension. what is the most likely diagnosis?","a)septic shock
+b)cardiogenic shock
+c)Myxedema coma
+d)Hypoglycemia","The given clinical history is typical of a case of hypothyroidism and the diagnosis is myxedema coma, which is a serious complication of hypothyroidism.
+Myxedema coma is a part of a larger clinical picture of myxedema crisis. Myxedema crisis refers to severe, life-threatening manifestations of hypothyroidism. It is often precipitated by the
+administration of sedatives, antidepressants, hypnotics, anaesthetics, or opioids.
+clinical features of myxedema crisis :
+• Impaired cognition, ranging from confusion to somnolence to coma (myxedema coma).
+• convulsions and abnormal cNS signs.
+• profound hypothermia (can reach 23°c), hypoventilation, hyponatremia, hypoglycemia, hypoxemia, hypercapnia, and hypotension.
+• Rhabdomyolysis and acute kidney injury
+• A high mortality rate
+other options:
+option A: without a history of or focus of infection, septic shock is unlikely.
+option B: cardiogenic shock would present with symptoms of left heart failure i.e. pitting pedal edema, abdominal distension, prominence of neck veins, and dyspnea.
+option D: Hypoglycemia usually presents with sweating, palpitations, and tachycardia",,C,
+Q16,"An elderly diabetic and hypertensive patient was carried to the emergency room in a
+comatose state. on examination, the blood pressure was 17o/1oo mmHg and pulse rate was &gt;1oo/min. plantar reflex was bilateral extensor. what is the next step to do?","a)check blood sugar level
+b)Give antihypertensive
+c)IV mannitol
+d)cT brain","Ruling out glycemic extremes is the first step in the evaluation of this patient who is in a coma as  most of the causes of coma are metabolic in origin and with appropriate treatment are completely reversible.
+In this elderly patient, with no other relevant history, the most likely cause of coma is diabetic    ketoacidosis, hyperglycemic hyperosmolar state, or even hypoglycemia (which may present with hypertension).
+other options :
+The patient presents with tachycardia which is not a sign of raised intracranial
+pressure(bradycardia, altered respiratory pattern, raised systolic blood pressure) and hence
+starting iv mannitol (option 3) to reduce intracranial pressure or doing a cT (option 4) to rule out intracranial space-occupying lesion is not required.
+The patient is a known case of hypertension which may cause hypertensive encephalopathy due to cerebral edema and would present with a similar history and signs of raised intracranial pressure   giving antihypertensive (option 2)  medications would treat the condition but it is not the first step as metabolic causes are more common and have to be addressed first.
+coma is defined as a deep sleep-like state from which the patient cannot be aroused.coma could be due to:
+
+
+
+• Metabolic and toxic encephalopathies, where brain imaging will be normal
+• Meningitis syndromes
+• Diseases with prominent focal signs like stroke, or hemorrhage
+urgent intervention is needed to prevent further brain damage. It is done by providing
+supplemental oxygen, intravenous thiamine (at least 1oo mg), and intravenous 5o% dextrose in water (25 g) empirically. It is crucial to measure baseline serum glucose levels before
+administering glucose.
+The initial examination includes evaluating the general appearance,vitals, breath sounds,
+response to stimulation, pupil size and responsiveness, and any abnormal posturing or
+movements. In trauma cases, the neck should be stabilized until ruling out cervical spine fracture. Airway protection and intravenous access is necessary.
+Immediate therapeutic intervention should be done for hypotension, significant hypertension,   bradycardia, arrhythmias affecting blood pressure or marked hyperthermia. signs of meningeal irritation or fever indicate the need for urgent lumbar puncture. Fundus examination for
+papilledema and a cT scan of the brain should be performed prior to lumbar puncture in comatose patients.",,A,
+Q17,A 6o-year-old patient came with a history of hyponatremia. He was treated by a large volume of hypertonic fluids over 24 hours following which the patient developed quadriparesis. what is the most likely cause for this patient’s condition?,"a)Brain infarct
+b)Brainstem injury
+c)central pontine myelinolysis
+d)Rare cause of hypernatremia","This is a typical history of sudden correction of hyponatremia leading to central pontine
+myelinolysis, a common complication associated with the treatment of hyponatremia.
+central pontine myelinolysis/ osmotic demyelination syndrome is seen due to rapid correction of chronic hyponatremia (hyponatremia lasting for more than 48 hrs). It results in the efflux of
+organic osmolytes from brain cells, which reduces intracellular osmolality and osmotic gradient, and water entry.
+Rapid correction of hyponatremia (&gt;8–1o mM in 24 h or 18 mM in 48 h) causes hypertonic   stress in astrocytes within the brain causing demyelination without inflammation at the base of the pons, with relative sparing of axons and nerve cells.
+clinically patients present one or more days after overcorrection of hyponatremia with
+paraparesis or quadriparesis, diplopia, a “locked-in syndrome,” dysphagia, dysarthria with/without loss of consciousness.
+MRI is useful in establishing the diagnosis and may also identify partial forms that present as confusion, dysarthria, and/or disturbances of conjugate gaze without paraplegia.
+prevention can be done by restoration of severe hyponatremia gradually i.e. by ≤1o mmol/L (1o mEq/L) within 24 h and ≤2o mmol/L (2o mEq/L) within 48 h.
+
+
+
+
+
+The image shows the MRI finding of central pontine myelinolysis with axial fat saturated T2-weighted MRI showing hyperintense signal in the central pons.
+Note: Brain infarct or brain stem injury usually do not result in a quadriparesis.",,C,4136-2658.PNG
+Q18,"An elderly woman presents with a chronic history of pain in the small joints of hands with stiffness of joints in the early hours of the day. The image of the patient’s hands is given
+below. what is the most likely diagnosis?","a)Rheumatoid Arthritis
+b)osteoarthritis
+c)complex Regional pain syndrome
+d)villonodular synovitis","The above image shows flexion at the pIp joint and extension in the DIp joints which is known as boutonniere deformity which is seen in rheumatoid arthritis(RA).
+If the patient gives a history of pain/stiffness in the joints in the early hours of the day which
+usually decreases as the day progresses suggesting inflammatory arthritis and if it presents with predominant involvement of smaller joints, it is most likely a case of RA(option A).
+It occurs due to the accumulation of inflammatory mediators which on increased joint mobility are flushed out due to increased blood supply.
+pain and stiffness in osteoarthritis (option B) usually increase as the day progresses due to an increase in the activity of the joint. They typically present with nodules around the distal
+interphalangeal joint (Heberden nodes) and proximal interphalangeal joint (Bouchard nodes).",4119-2654.PNG,A,
+Q19,"A triad of skin lesions, asymmetric mononeuritis multiplex and eosinophilia is seen in which of the following conditions?","a)cryoglobulinemic vasculitis
+b)polyarteritis nodosa
+c)churg strauss syndrome
+d)Giant cell arteritis","A triad of skin lesions, asymmetric mononeuritis multiplex, and eosinophilia is seen in churg–strauss syndrome (eosinophilic granulomatosis with polyangiitis).
+It is a necrotizing vasculitis of the small-to-medium-sized vessels and in order to be diagnosed with churg-strauss, a patient should have evidence of asthma, peripheral blood and tissue
+eosinophilia (&gt;1ooo cells/μL), extravascular granuloma formation and clinical features consistent with vasculitis.
+
+
+
+Common presenting symptoms of this condition are lower respiratory tract symptoms such as
+severe attacks of asthma, upper respiratory tract symptoms such as allergic rhinitis, sinusitis, and nasal polyps, mono neuritis multiplex (a type of peripheral neuropathy affecting at least two
+nerves) which presents with a complaint of pain, numbness, or weakness in the affected areas and skin lesions like palpable purpura and subcutaneous nodules.
+Renal involvement is less common and less severe than other small vessel vasculitis.
+P-ANCA antibodies are present in Churg strauss syndrome.
+• severe attacks of asthma
+• Mononeuritis multiplex: a type of peripheral neuropathy affecting at least two nerves. Patients will complain of pain, numbness, or weakness in the affected areas.
+• skin lesions like palpable purpura and subcutaneous nodules.
+Glucocorticoids show effective responses in these patients. other drugs that have been tried are mepolizumab and rituximab.
+For fulminant multisystem disease, daily cyclophosphamide with prednisolone followed by azathioprine or methotrexate is used.
+option A: Cryoglobulinemic vasculitis presents with palpable purpura, arthralgia, neuropathy, and glomerulonephritis.  It is most commonly associated with Hepatitis C.
+option B: Polyarteritis nodosa can also present with mononeuritis multiplex and skin lesions, but they do not have eosinophilia, it has predominant neutrophilia.
+option D: Giant cell arteritis manifests with the cardinal symptom of headache localized to the temporal region. Common symptoms include headache, polymyalgia rheumatica , jaw
+claudication, fever, and decrease in body weight. Laboratory results show increased EsR, CRP levels, normochromic or mildly hypochromic anemia.",,C,
+Q20,'a' wave in JVP corresponds to?,"a)Right atrial contraction
+b)closure of tricuspid valve
+c)onset of ventricular systole
+d)Maximal atrial filling","The ""a"" wave in jugular venous pressure (JVP) is a positive wave, which corresponds to right atrial contraction.
+The waveforms seen in a normal JVP are:
+• a wave corresponds to atrial contraction and occurs just after the P wave (on ECG) and just before the first heart sound.
+• c wave represents the bulging of the tricuspid valve into the right atrium during ventricular systole.
+• x descent corresponds to the atrial relaxation during atrial diastole.
+• v wave represents atrial filling during ventricular systole and peaks at the second heart sound.
+• y descent represents passive emptying of the right atrium into the right ventricle after tricuspid valve opening.",,A,4138-2659.PNG
+Q21,which among the following is wrong about DIc?,"a)Increased schistocytes
+b)Increased PT
+c)Increased fibrinogen
+d)Increased FDPs","In disseminated intravascular coagulopathy (DIC), fibrinogen levels are decreased due to increased bleeding.
+Disseminated intravascular coagulation (DIC) is an acquired syndrome characterized by the
+widespread activation of blood clotting factors within blood vessels, resulting in a loss of clotting control. The primary mechanism of DIC involves the uncontrolled generation of thrombin
+through multiple pathways which leads to sustained coagulation activation, the formation of fibrin, and the consumption of clotting factors and platelets.
+Infections are the most frequent cause of DIC.
+Laboratory investigations in DIC:
+• Decreased platelet count
+• prolonged pT/TT
+• prolonged activated partial thromboplastin time (apTT)
+• Decreased fibrinogen
+• Elevated fibrin degradation products (D-dimers)
+• peripheral smear: microangiopathic hemolytic anemia in DIC with schistocytes (fragmented red blood cells)
+The treatment involves platelet transfusion when platelet counts are below 1o,ooo-2o,ooo/μL.  Replacement of fibrinogen and coagulation factors is with fresh frozen plasma (FFp) along with cryoprecipitate or fibrinogen concentrate.
+In cases oflow-grade DIC associated with solid tumors or acute promyelocytic leukemia low doses of continuous-infusion heparin has been effective.",,C,
+Q22,"A 16-year-old girl, who is taking antiepileptics, has had a seizure-free period of 6 months. she has no family history of epilepsy. Her EEG is now normal and she has a normal neurological   exam and intelligence. what would your advice be?","a)stop the treatment and follow up
+b)Gradually taper the drug and stop treatment
+c)continue treatment for another 18 months
+d)continue lifelong treatment with antiepileptics","In the given clinical scenario of a girl on antiepileptics for 6 months with no further seizures, no family history, normal EEG, neurological examination, and intelligence, antiepileptics should be continued for another 18 months since she’s already taken for 6 months (minimum 2 years) to    prevent seizure recurrence.
+Anti-epileptic drugs withdrawal is considered only when an adult patient has been seizure-free for
+≥2 years along with the following criteria:
+• Normal cNS examination including intelligence
+• Normal EEG and normal MRI
+• Single seizure type
+• No family history of epilepsy.
+It is preferable to reduce the dose of the drug gradually over 2–3 months.
+other options:
+option A: Sudden cessation of drug therapy may cause recurrence of seizure hence not advised.
+option B: The patient has a seizure-free interval of only 6 months and therefore, is not yet eligible for considering medication withdrawal.
+option D: Life-long treatment is not necessary in this case as the patient meets all the
+above-mentioned criteria for drug withdrawal after 2 years.
+Note: Juvenile myoclonic epilepsy (JME), the most common idiopathic generalized epilepsy syndrome is known to have a high risk of seizure recurrence, and hence antiepileptics are     continued lifelong in a majority of patients.",,C,
+Q23,AKIN and RIFLE criteria are used to classify,"a)Acute kidney injury
+b)chronic renal failure
+c)Acute glomerulonephritis
+d)Nephrotic syndrome","AKIN and RIFLE criteria are used to classify acute kidney injury (AKI).
+The various classifications used in AKI are:
+• RIFLE criteria (Risk, Injury, Failure, Loss, End-stage)
+• AKIN (AKI Network) classification
+• KDIGo (Kidney Disease Improving Global outcomes) classification
+RIFLE, AKIN, KDIGo definitions of AKI:
+RIFLE, AKIN, KDIGo staging of AKI:
+
+	RIFLE	AKIN	KDIGo
+S. creatinin e	>5o% increase that develops in <7 days	>o.3 mg/dl increase or >5o% increase that develops in <48 hr	>o.3 mg/dl increase or >5o% increase that develops in <7   days
+
+
+
+
+	RIFLE	AKIN	KDIGo
+urine outp ut	<o.5ml/kg/hr for >6 hr	<o.5ml/kg/hr for >6 hr	<o.5ml/kg/hr for >6 hr
+			
+
+RIFL E	Increase in s.creatinine	AKIN	Increase in s.creati nine	KDIG o	Increase in s.creati nine	urine output
+Risk	≥5o%	stage 1	≥o.3mg/dl or ≥5o%	stage 1	≥o.3mg/dl or ≥5o%	<o.5mL/kg/hr for >6h
+Injur y	≥1oo%	stage 2	≥1oo%	stage 2	≥1oo%	<o.5mL/kg/hr for >12 hr
+Failu re	≥2oo%	stage 3	≥2oo%	stage 3	≥2oo%	<o.3mL/kg/hr for >24hr or anuria >12hr
+Loss	Need for renal replacem ent therapy (RRT)>4 we eks					
+End-s
+tage	Need RRT for >3 month s",,A,
+Q24,The most common bleeding manifestation seen in severe hemophilia is:,"a)Recurrent hematomas
+b)Recurrent hemarthrosis
+c)Hematuria
+d)Intracranial hemorrhage","Recurrent hemarthrosis is the most common bleeding manifestation of severe
+hemophilia. Hemophilia is said to be severe when the residual activity of factor VIII is &lt;1%.   Hemophilia is an X-linked recessive hemorrhagic disorder and is caused by mutations in either
+the F8 gene (hemophilia A or classic hemophilia) or the F9 gene (hemophilia B). clinically, it is impossible to distinguish between hemophilia A and hemophilia B as they present with similar  symptoms. It can be classified based on residual activity of FVIII or FIX as severe (&lt;1%),
+moderate (1–5%), or mild (6–3o% )
+Hemophilia presents early in life- bleeding after circumcision or when beginning to walk or crawl. clinical features:
+• Acute hemarthrosis:
+• Local pain, swelling
+• Erythema
+• Muscle contractures due to fixed positioning.
+• chronic hemarthrosis:
+• synovial thickening
+• synovitis (due to intraarticular blood)
+The most common joint affected is the knee. one joint is affected more than the other. This is called the target joint. Muscle hematomas can lead to compartment syndromes.
+
+
+
+Hematuria is common but self-limited. Life-threatening bleeds such as bleeding into
+oropharyngeal spaces, CNS, and retroperitoneum can occur.
+Treatment: without treatment, severe hemophilia may limit life expectancy. Factor replacement for hemophilia has been the mainstay of therapy.
+FVIII dose (IU) = Target FVIII levels     FVIII baseline levels × body weight (kg) × o.5 unit/kg   .
+FIX dose (IU) = Target FIX levels     FIX baseline levels × body weight (kg) × 1 unit/kg
+The FVIII half-life of 8  12 h requires injections twice a day to maintain therapeutic levels, whereas the FIX half-life is longer, ~24 h so that once-a-day injection is sufficient.",,B,
+Q25,A patient presents with left-sided facial paralysis and left-sided limb weakness for the past 1  hour. Her blood pressure is 16o/1oo mm Hg and her CT appears normal. what would be the next step of management?,"a)Nothing, since CT was normal
+b)start on aspirin + clopidogrel
+c)Intravenous thrombolysis
+d)Advice BP control","Sudden onset hemiparesis with apparently normal CT indicates ischemic stroke in this patient.   Intravenous thrombolysis(alteplase o.9 mg/kg ) should be immediately administered to patients  with ischemic stroke who arrive in the window period i.e., within 3-4.5 hours of symptom onset. Aspirin + clopidogrel(option B) is used in secondary prevention of stroke and also to prevent
+stroke following TIA.
+Transient ischemic attacks (TIAs) refer to episodes of stroke symptoms that have a brief duration, the standard definition of duration is &lt;24 h, but most TIAs last &lt;1 hr. TIAs may arise from
+emboli to the brain or from in situ thrombosis of an intracranial vessel. with a TIA, the occluded   blood vessel reopens and neurologic function is restored. If a relevant brain infarction is identified on brain imaging, the clinical entity is now classified as stroke regardless of the duration of
+symptoms.
+The risk of stroke following a transient ischemic attack (TIA) is approximately 1o-15% in the first   three months, majorly in the first two days. A reliable estimation of this risk can be obtained using the ABCD2 score.
+other options:
+option A: If CT is normal it only rules out hemorrhagic stroke and changes of ischemic stroke usually take time to appear on NCCT.
+option D: BP control is done when BP exceeds 22o/12o mmHg, if there is malignant hypertension or concomitant myocardial ischemia, or if blood pressure is &gt;185/11o mmHg and thrombolytic   therapy is anticipated.",,C,
+Q26,Relative bradycardia occurs in:,"a)Typhoid fever
+b)Q fever
+c)Leptospirosis
+d)All of the above","In the given options typhoid, Q fever, and leptospirosis are infectious causes of relative
+bradycardia.
+Relative bradycardia, also known as Faget's sign, is observed when patients exhibit a lower heart rate than anticipated in relation to an increase in body temperature. Body temperature is
+commonly regarded as a factor that independently influences heart rate. It is estimated that for each 1°C (1.8°F) rise in temperature, the heart rate typically increases by approximately 15-2o
+
+
+
+beats per minute.
+while this pulse-temperature dissociation is not highly sensitive or specific for establishing a
+diagnosis, it can still prove beneficial in resource-limited settings due to its easy accessibility and simplicity.
+Infectious causes of relative bradycardia include:
+• Salmonella typhi
+• Francisella tularensis
+• coxiella burnetii (Q fever)
+• Leptospira interrogans
+• Legionella pneumophila
+• Rickettsia spp.
+• orientia tsutsugamushi (scrub typhus)
+• corynebacterium diphtheriae
+• Plasmodium spp. (malaria)   Noninfectious causes include:
+• Drug fever
+• Beta-blocker use
+• central nervous system lesions
+• Malignant lymphoma
+• Factitious fever",,D,
+Q27,which of the following is the most specific marker for alcoholism?,"a)ALT
+b)GGT
+c)ALP
+d)LDH","GGT (Gamma Glutamyl Transferase) is the most specific marker of alcoholism among the given options.
+The markers with &gt;6o% sensitivity and specificity for heavy alcohol use are gamma-glutamyl     transferase (&gt;35 u) and carbohydrate-deficient transferrin (cDT), the combination of the two is likely to be more accurate than one. An isolated elevation in serum GGT or GGT elevation out of   proportion to that of other enzymes (such as the ALT and ALP) may be an indicator of alcohol
+abuse or alcoholic liver disease.
+ALT (option A) is usually elevated in acute hepatocellular conditions such as hepatitis. Alanine
+aminotransferase is predominantly found in the liver, hence a more specific marker of liver injury. A ratio ofAST/ALT &gt; 2:1 indicates the possibility of alcoholic liver disease and &gt; 3:1 ratio is    highly indicative of this condition. In alcoholic liver disease, ALT levels are often normal.
+ALP (option c) is elevated in cholestasis, ■■is also elevated when there is rapid bone growth like in children and adolescents because of bone alkaline phosphatase and in normal pregnancies due to placental alkaline phosphatase.
+
+
+
+LDH (option D) elevation is nonspecific.",,B,
+Q28,which of the following is a differentiating feature between cardiac tamponade and tension pneumothorax?,"a)Breath sounds
+b)Muffled heart sounds
+c)Increased heart rate
+d)Raised Jvp","The differentiating feature between cardiac tamponade and tension pneumothorax is breath
+sounds. The breath sounds are absent in tension pneumothorax while they are present in cardiac tamponade.
+The presence of hypotension, distended jugular veins, and muffled heart sounds (Beck's triad) suggest a cardiac tamponade. These features can also be seen in tension pneumothorax. other clinical features pointing towards tension pneumothorax are absent breath sounds, hyper
+resonance to percussion, and shift of the mediastinum to the contralateral side.
+Heart sounds can be muffled by structures between the stethoscope and the heart, eg, adipose tissue deposition (obesity), fluid accumulation (pericardial effusion, pleural effusion), gas
+accumulation (pneumothorax, subcutaneous emphysema), soft tissue masses can lead to attenuation of heart sounds.",,A,
+Q29,"A patient presented with chronic diarrhea and steatorrhea. D-xylose test was normal and the schilling test was abnormal. A duodenal biopsy was normal. what is the most likely
+diagnosis?","a)celiac disease
+b)ulcerative colitis
+c)Intestinal lymphangiectasia
+d)pancreatic insufficiency","The clinical scenario describes a case of malabsorption syndrome (chronic diarrhea and
+steatorrhea), a normal xylose test and normal duodenal biopsy with abnormal schilling test points towards pancreatic insufficiency.
+A normal xylose test and normal duodenal biopsy rules out small intestinal pathologies like celiac disease (option A) and intestinal lymphangiectasia (option C), presence of steatorrhea rules out
+ulcerative colitis (option B) as it affects the large bowel which is not the main site of absorption of fat.
+Ileal disease is also characterized by normal xylose test, normal duodenal biopsy and steatorrhea and abnormal schilling test but among the given options the most appropriate answer would be   pancreatic insufficiency due to chronic pancreatitis.
+pancreatic insufficiency is characterised by the deficiency of exocrine pancreatic enzymes that result in maldigestion and malabsorption.
+The features in favor of the diagnosis:
+• steatorrhea - a deficiency of pancreatic lipases can lead to undigested fat in stools.
+• D-xylose test - d-xylose is a monosaccharide that is directly absorbed by the intestinal mucosa without undergoing any enzymatic action. Normal d-xylose test denotes intact mucosa.
+• schilling test - it is abnormal as pancreatic enzymes are required for the absorption of vitamin B12.
+Diagnosis of various malabsorption syndromes:
+
+
+
+pathologies	D xylose test	Duodenal mucosal biopsy	Schilling test
+celiac disease	Decreased	Abnormal; Short or absen t villi; epithelial cell dama ge; crypts hypertrophy	Normal
+Ileal disease	Normal	Normal	Abnormal
+chronic pancreatitis	Normal	Normal	Abnormal; normal after p ancreatic enzymes substit ution
+Intestinal lymphangiectasi a	Normal	Abnormal; dilated lympha tics, clubbed villi	Normal
+Bacterial overgrowth synd rome	Normal or may be abn ormal	usually normal or can hav e diffuse non specific dam  age to villi	usually abnormal; normal after antibiotics administ  ration",,D,
+Q30,which of the following leads would show maximum R wave with the cardiac axis as +9o degrees?,"a)Lead avF
+b)Lead avL
+c)Lead I
+d)Lead II","with the cardiac axis at +9o degrees, lead avF would show the maximum R wave.
+The cardiac axis represents the mean QRS axis (direction of mean depolarization vector).
+The normal adult QRS axis is directed downward and to the left, which is between
+-3o degrees and +1oo degrees.
+The position of lead avF is at +9o degrees. If the cardiac axis is also at +9o degrees, it would be in the same direction as lead avF and hence avF would show maximum R wave amplitude.
+If the mean axis is:
+• More negative than –3o degrees: left axis deviation
+• More positive than +9o to +1oo degrees: right axis deviation
+• Lies between -9o to +18o degrees: extreme axis deviation",,A,4144-2660.PNG
+Q31,"A patient walks with a stomping gait. when asked to close his eyes and walk, he is unable to do so. which of the following tracts is probably affected?","a)spinocerebellar tract
+b)posterior column tract
+c)vestibulospinal tract
+d)Rubrospinal tract","The given clinical scenario is suggestive of the involvement of the posterior column.
+posterior column carries proprioception which is essential for coordination of motor movements. Loss of this leads to the development of a stomping gait. This is seen in cases of vitamin B12
+deficiency leading to subacute combined degeneration, tabes dorsalis or diabetic neuropathy.",,B,
+Q32,"A patient with thalassemia has a history of multiple blood transfusions, iron overload, and cardiac arrhythmia. she has now come for blood transfusion and during the process,
+complains of backache and looks very anxious. what would you do next?","a)stop the blood transfusion
+b)Continue the transfusion but do an ECG
+c)stop the transfusion. wait for patient to become normal and then start it again
+d)Do clerical check and get ECG","The patient is being transfused blood and has complaints of backache, this is suggestive of an acute hemolytic transfusion reaction.
+The first step is to stop transfusion immediately and then collect blood samples for testing.
+Acute hemolytic transfusion reactions typically occur within the first 24 hours following a blood transfusion, primarily due to ABO incompatibility.
+It presents with symptoms such as hypotension, tachypnea, tachycardia, fever (1-2°C increase in  temperature), chills, chest and back pain, hemoglobinuria, and hemoglobinemia. In severe cases, disseminated intravascular coagulation (DIC), acute renal failure, shock, and death can occur.
+Management of immune-mediated acute hemolytic transfusion reactions is to provide supportive care, administer vigorous hydration with isotonic saline and use diuretics to maintain urine
+output.",,A,
+Q33,"A patient with chronic kidney disease came with complaints of vomiting and diarrhea. His   blood gas reports show pH = 7.4o, HCO3- = 23 mEq/L, Na+ = 145 mEq/L, Cl- = 1oo mEq/L. what is your probable diagnosis?","a)No acid base abnormality
+b)Respiratory acidosis
+c)Metabolic alkalosis
+d)High anion gap metabolic acidosis with metabolic alkalosis","The probable diagnosis is a high anion gap metabolic acidosis (HAGMA) with metabolic alkalosis. Interpretation of the ABG:
+step 1: The pH being 7.4 is within normal limits.
+step 2: plasma HCO3- is 23 mEq/L and again is within normal limits.
+At this juncture, we have ruled out options B and C as this particular clinical scenario is not suggestive of a simple acid-base disorder.
+step 3: Calculating the Anion gap:
+Anion gap 〓 [Na+]   ([Cl-] + [HCO3-])
+〓 145-(1oo+23)
+〓 22 mEq/L
+The presence of a high anion gap indicates that there's indeed an acid-base disorder, thus ruling out option A.
+
+
+
+A high anion gap indicates metabolic acidosis. However, HCO3- levels within normal limits suggest that there is also coexisting metabolic alkalosis in this patient.
+This can be confirmed by calculating the delta gap.
+Delta gap = ΔAG - ΔHCO3-
+In this scenario: Delta gap = (22-1o) - (24-23) = 11 mEq/L
+Delta gap is &gt; +6 suggesting the presence of metabolic alkalosis along with HAGMA.
+If the delta gap is significantly positive (&gt;+6), metabolic alkalosis is present because the rise in   the anion gap is more than the fall in bicarbonate. If the delta gap is significantly negative (&lt;6)   then hyperchloremic acidosis is usually present because a rise in the anion gap is less than a fall in bicarbonate.
+Alternatively, this can be confirmed by calculating the delta ratio.
+Delta ratio = the increase in Anion Gap / the decrease in HCO3-
+It is used in the presence of a high anion gap metabolic acidosis (HAGMA), to check it is a ‘pure’ HAGMA or if there is coexistant normal anion gap metabolic acidosis (NAGMA) or metabolic
+alkalosis.
+Delta ratio values:
+• 1-2 indicates HAGMA
+• &lt; 1 indicates NAGMA + HAGMA
+• &gt; 2 indicates HAGMA + Metabolic alkalosis
+In this scenario,
+Delta ratio = 12/1 = 12
+Thus, the acid-base disorder for the above scenario is HAGMA with metabolic alkalosis.",,D,
+Q34,which of the following is not done before drawing blood for arterial blood gas analysis?,"a)Allen's test
+b)Rinse syringe with heparin
+c)Flexion of wrist
+d)placing needle at 45 degree angle","Flexion of the wrist is not done just before drawing blood for ABG analysis.
+During arterial blood gas analysis, the ideal position for drawing arterial blood from the radial  artery is to maintain the wrist in extension. This provides stability to the artery and prevents it from slipping away during the puncture. To draw blood for ABG analysis, the skin is pierced at a 45° angle.
+
+
+
+
+
+Allen's test is done prior to radial cannulation to identify the adequacy of radial and ulnar collateral blood flow to the hand.
+
+
+The syringe used to draw blood for ABG analysis is rinsed with heparin prior to the
+procedure. prior to collecting blood, o.1 ml heparin is drawn into the syringe and then flushed
+out. The residue that lubricates the inner wall of the syringe is sufficient to prevent the blood from clotting.",,C,4147-2661.PNG;4147-2661-1.png
+Q35,Anti-nuclear antibodies are required for the diagnosis of which of the following?,"a)scleroderma
+b)systemic lupus erythematosus
+c)Rheumatoid arthritis
+d)sjogren's syndrome","Antinuclear antibodies (ANAs) are required for the diagnosis of systemic lupus erythematosus. ANAs are autoantibodies that bind to the contents of the cell nucleus. They are present in &gt;
+95% of patients with SLE. A positive antinuclear antibody ( ANA ) test with a titer of at least 1:8o
+
+
+
+is the obligatory entry criterion along with the additive criteria in 7 clinical and 3 immunologic
+domains. If a total of &gt;1o points achieved, it is indicative of sLE according to 2o19 EULAR/ACR Classification Criteria for systemic Lupus Erythematosus (sLE)
+Most sensitive antibody for sLE: ANA
+Most specific antibody for sLE: Anti smith &gt; Anti dsDNA
+ANA may also be positive in the other options but it is not a criterion for diagnosis of these conditions.
+The following antibodies are specific for their respective autoimmune conditions.
+• scleroderma (option A): Anti-topoisomerase I(scl-7o) and anti-centromere antibodies highly specific for systemic sclerosis.
+• Rheumatoid arthritis (option C): RF and anti-CCP antibodies
+• sjogren syndrome (option D): Anti-Ro, Anti-La",,B,
+Q36,An intern is asked to measure the blood pressure of a patient with cardiac tamponade. He/she should ask the patient to:,"a)Hold breath
+b)Take rapid shallow breaths
+c)Take long deep breaths
+d)Breathe normally","The patient with cardiac tamponade is asked to breathe normally to elicit pulsus paradoxus.
+In a patient with cardiac tamponade, both ventricles share an incompressible pericardial covering due to the fluid. As the right ventricle enlarges during inspiration, the interventricular septum
+bulges into the left ventricle, reducing the left ventricular volume.
+This results in reduced stroke volume and hence reduced systolic arterial pressure.
+As a result, there is a greater than normal (more than 1o mmHg) fall in systolic arterial blood pressure during inspiration, producing pulsus paradoxus.
+This cannot be elicited if the patient is holding his/her breath, taking long or shallow breaths.
+Pulsus paradoxus is also seen with effusive constrictive pericarditis, restrictive cardiomyopathy and right ventricular myocardial infarction.",,D,
+Q37,"In the sagittal section of the brain given below if the coloured area is affected, which of the following is not seen?","a)urinary incontinence
+b)Gait abnormality
+c)perianal anesthesia
+d)Fecal incontinence","Paracentral lobule (PCL) is the continuation of the precentral and postcentral gyri of the
+superolateral surface into the medial surface of cerebral hemisphere. It controls the motor and
+sensory innervations of the contralateral lower extremity. It is also responsible for cortical control of micturition and defecation.
+The anterior two-thirds of PCL belong to Brodmann area 4, it reflects the primary motor cortex
+for the muscles of contralateral leg, foot, and perineum,it is functionally important in control of
+bladder and anal sphincters. Therefore, it's called the cortical center of defecation and micturition.
+The posterior third of the PCL contains 3,2 and 1, it reflects the primary somatosensory
+representation of the leg and foot.
+
+
+
+The A2 segment of the anterior cerebral artery supplies the paracentral lobule. Lesions in the paracentral lobule lead to:
+• weakness and loss of sensation in contralateral lower limb
+• urinary incontinence
+• Fecal incontinence.",4124-2655.PNG,C,
+Q38,"A hypertensive patient is on metoprolol. If verapamil is added, there is a risk of:","a)Atrial fibrillation
+b)Bradycardia with Av block
+c)Tachycardia
+d)Torsades de pointes","Metoprolol, when added with verapamil, leads to bradycardia with Av block.
+verapamil and β blockers have additive effect on inhibiting SA node and Av conduction, and the combination should be avoided to prevent severe bradycardia and conduction block.
+These agents can also have additive effect on decreasing left ventricular function which could seriously impair cardiac output in a patient with heart failure.",,B,

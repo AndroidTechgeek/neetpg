@@ -1,0 +1,61 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,Identify the imaging modality given below.,"a)Cerebral blood flow scan
+b)PET CT
+c)sestamibi scan
+d)Full body MDCT","The above imaging modality is a PET CT scan.
+PET (positron-emission tomography) CT scan is a hybrid technique that combines PET and CT
+scan that is used for targeted imaging of tumor physiology and biology. It is based on the principle that tumor cells generally have high metabolic activity compared with normal tissues.
+A small dose of the radiopharmaceutical agent 18F-fluorodeoxyglucose (FDG). This enters cells and is phosphorylated to FDG 6-phosphate which cannot be metabolized further. since it is a
+highly polar molecule, it cannot easily diffuse back out of the cell. After intravenous injection of
+
+
+
+FDG, it continuously accumulates in the metabolically active cell.
+The main advantage of PET-CT is the identification of distant metastatic disease not seen on CT   alone. The disadvantages of PET scans are radiation burden, poorer spatial resolution when used alone, and high cost.
+other options:
+option A: Cerebral blood flow scan refers to the perfusion MRI that uses gadolinium as contrast and provides information about the cerebral blood flow and volume.
+option B: The sestamibi scan is used for parathyroid localization and is now considered the most accurate and reliable method for imaging the parathyroid glands. sestamibi accumulates in
+mitochondria. Parathyroid adenomas often have a high concentration of oxyphilic cells with high mitochondrial content. These retain sestamibi tracer and adenomas are therefore associated with a slow washout when compared with the thyroid gland.
+option D: The full body MDCT scan refers to the multidetector CT scan which is an advanced CT imaging technique that uses multiple detector elements that provide improvement in speed,
+quality, and scope.",4007-2568.PNG,B,
+Q2,"A patient is brought to the casualty following a road traffic accident. on examination, the
+patient is conscious, BP is 9o/6o mm Hg, respiratory rate is 4o breaths per minute, and pulse rate is 12o bpm. The X-ray is shown below. what is the next best step in management?","a)Chest tube insertion
+b)Pericardiocentesis
+c)Thoracotomy
+d)Pleurodesis","The given X-ray features showing a well-demarcated area devoid of lung markings on the left side with tracheal deviation and the mediastinal shift to the right side, along with the clinical
+scenario is suggestive of tension pneumothorax. The next best step in the management is chest tube insertion.
+Tension pneumothorax is a clinical diagnosis, and treatment should never be delayed while
+waiting for radiological confirmation. Imaging modalities used are ultrasound–extended focused assessment with sonar for trauma (eFAsT), chest x-ray, and spiral CT.
+A tension pneumothorax develops when there is a tear either in the parietal or visceral pleura. This tear acts as a one-way valve i.e., air enters from the lung or chest wall through it during     inspiration but has no way to escape during expiration. This ultimately leads to the collapse of the affected lung.
+It usually occurs following penetrating or blunt chest trauma, iatrogenic lung injury, or
+mechanical positive pressure ventilation.
+It is characterized by:
+• Chest pain
+• Tachypnea and acute dyspnea
+• sudden onset hemodynamic compromise (tachycardia, hypotension, low o2 saturation, loss of consciousness)
+• Neck vein distention
+• Tracheal deviation away from the side of the injury
+• Decreased chest movements on the affected side
+
+
+
+• Hyper-resonance on percussion on the affected side
+• Absence or decreased breath sounds on the affected side
+The X-ray below shows a left-sided tension pneumothorax. There is a large, well-demarcated area devoid of lung markings on the left side. The yellow arrows are pointing to the tracheal deviation  and the mediastinal shift to the right side.
+
+
+Management of tension pneumothorax:
+• Immediate management- needle decompression or needle thoracostomy i.e. insertion of a wide-bore needle in the 5th ICS anterior to the midaxillary line
+• Definitive management- tube thoracostomy or chest tube insertion in the 5th ICS in the triangle of safety, identified as a triangle that lies anterior to the midaxillary line above the nipple, below,  and lateral to the pectoralis major muscle.
+The images below show the triangle of safety and technique of chest drain insertion.
+
+
+
+
+
+
+other options:
+• pericardiocentesis is done in cases of cardiac tamponade which is characterized by the presence of hypotension, distended jugular veins, and muffled heart sounds (Beck's triad). The breath
+sounds are absent in tension pneumothorax while they are present in cardiac tamponade.
+• Surgery for pneumothorax can be performed by video-assisted thoracoscopic surgery (VATS) or as an open procedure (thoracotomy) in cases of spontaneous pneumothorax failing to settle
+despite chest drainage. pleural adhesion is achieved by chemical pleurodesis where talc is used and is insufflated into the chest cavity.",4008-2569.PNG,A,4010-2571.PNG;4010-2570.PNG;4011-2572.PNG

@@ -1,0 +1,460 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,Identify the image representing the National Leprosy eradication program:,"a)1
+b)2
+c)3
+d)4","The given image 2 represents the National Leprosy Eradication Programme (NLEP).
+Characteristics ofthe NLEP emblem:
+• The lotus in the NLEP emblem symbolizes beauty and purity.
+• A partially affected thumb, a normal forefinger, and the shape of a house symbolize that leprosy can be cured and that a patient with leprosy can be a useful member of society.
+• The rising sun symbolizes hope and optimism.
+• The emblem captures the spirit of hope and positivity in the eradication of leprosy.
+NLEP is a centrally sponsored health scheme of the Ministry of Health and Family welfare, Government of India.
+other options:
+option A: Poshan Abhiyaan: It aims to enhance key nutritional indicators for both children and women.
+option C: National Health Mission: It is a public health initiative focused on ensuring universal access to affordable, equitable, and high-quality healthcare services.
+option D: Ayushman Bharat: It provides nationwide medical coverage and cashless
+hospitalization benefits for enrolled families in both public and private hospitals.
+The given image shows the correct logos for these programs",2633-1617.PNG,B,2646-1624.PNG
+Q2,what is calculated with the following information?,"a)Maternal Mortality Rate
+b)Maternal Mortality Ratio
+c)Death rate in reproductive women
+d)Total fertility rate","The given expression is used for calculating the maternal mortality rate. The maternal mortality rate is expressed as the ""number of maternal deaths in a given period per 1oo,ooo women in
+reproductive age during the same time period"".
+other options:
+option B: The maternal mortality ratio is the ""number of maternal deaths during a given period per 1oo,ooo live births during the same time"".
+option C: The death rate in reproductive women is expressed as the ""number of deaths among
+women aged 15-49 years during a given period per 1,ooo women of the same age group during the same time period.
+option D: The Total Fertility Rate (TFR) is expressed as the ""average number of children a woman would have over her lifetime if she were to experience the current age-specific fertility rates
+throughout her reproductive years (typically ages 15-49).",2634-1619.PNG,A,
+Q3,"Every pregnant woman receives a free antenatal check-up on the 9th of each month, along with free medicines and delivery services, including cesarean sections, under the JSSK
+program. what does JSSK stand for?","a)Janani Shishu Swasthya Karyakram
+b)Janani shishu suraksha kendra
+c)Janani shishu suraksha karyakram
+d)Janani shishu swasthya kendra","JSSK stands for Janani Shishu Suraksha Karyakram. It is an initiative by the Indian government aimed at reducing maternal and infant mortality.
+The provisions of JSSK include:
+• Free transport
+• Free treatment
+• Free drugs and consumables
+• Free diagnostics and diet
+• Free and cashless delivery
+• Free C-Section
+• Free provision of blood
+Note: previously under JSSK, the free entitlements were provided only for sick newborns till 3o days after birth. Now it is expanded to cover infants also.",2634-1618.PNG,C,
+Q4,what is the communication barrier if interpretation of a words are understood in a different manner?,"a)Linguistic barrier
+b)semantic barrier
+c)psychological barrier
+d)cultural barrier","The communication barrier that occurs when the interpretation of words is understood differently is called a semantic Barrier.
+Semantic barriers arise from misunderstandings due to differences in the meaning of words, phrases, or symbols. These barriers can cause confusion and misinterpretation, leading to
+ineffective communication.
+example: In a public health campaign, ""herd immunity"" may be misunderstood by some as meaning they don’t need vaccination or as related to animals. This confusion can reduce     vaccination rates and is a perfect example of a semantic barrier.
+
+
+
+other options:
+option A: Linguistic Barrier: This barrier occurs when the language or dialect used in
+communication is not understood by one or more parties. It can include differences in language, vocabulary, or grammar, making it difficult to convey the intended message.
+option c: psychological Barrier: psychological barriers involve emotions, attitudes, or mental states that affect communication. These could include stress, fear, anger, or low self-esteem,   which can hinder the ability to send, receive, or interpret messages accurately.
+option D: cultural Barrier: cultural barriers arise when differences in cultural backgrounds,
+beliefs, values, or practices lead to misunderstandings. These barriers can affect how messages are interpreted and can lead to miscommunication if cultural contexts are not considered.",,B,
+Q5,"3o young volunteers with previous lifestyle modifications were contributing to drug trial for cholesterol levels based on statin therapy for 9 months. which of the following tests is
+performed?","a)chi-square test
+b)paired t-test
+c)McNemar's test
+d)unpaired T-test","This study involves a quantitative variable, i.e., blood cholesterol, and compares the before and after results of the same group. Hence, a paired T-test is used.
+Tests of significance are used to check for significant association between two or more variables. Examples are the student t-test, paired t-test, chi-square test, ANoVA, and Fischer-exact test.
+
+
+McNemar's test is a non-parametric test for analysing paired nominal data. This test examines the marginal homogeneity of two dichotomous variables using a 2 x 2 contingency table. one
+independent variable with two dependent groups and one nominal variable with two categories (dichotomous) are needed for the test.",,B,2648-1625.PNG
+Q6,"A case-control study is conducted on the association between intake of vitamin c and the occurrence of respiratory illness. what is the order in which the following steps are
+conducted?","a)3-2-1-4
+b)1-2-3-4
+c)4-3-2-1
+d)3-1-2-4","The correct order of steps in this case-control study is: selecting case and control groups (3) -&gt; Matching (2) -&gt; Measurement of exposure (1) -&gt; Analysis (4)
+
+
+
+case-control studies are also called retrospective studies. This study proceeds from effect to
+cause and is done after the exposure and outcome have occurred. They focus on diseases or health problems that have already developed. They are less time-consuming and have no risk of attrition  because they do not require follow-up.
+There are four basic steps in conducting a case-control study:
+• selection of cases and controls
+• Matching- This is done to ensure comparability between cases and controls. controls are
+selected such that they are similar to cases with respect to certain pertinent selected variables that influence the disease outcome.
+• Measurement of exposure - This is obtained by interviews, questionnaires, or study of the past records of cases.
+• Analysis in the form of exposure rates, risk ratio, and odds ratio.",,A,
+Q7,which among the following diseases will be the best representation of the submerged portion?,"a)Tetanus
+b)Influenza
+c)chicken Pox
+d)Rabies","The best representation of the submerged portion of the iceberg phenomenon would be influenza, as it often has a large number of asymptomatic or mild cases that go undetected, especially in
+milder seasons.
+Tetanus (option A), chickenpox(option c), rabies (option D) and measles are typically acute and severe, with most cases being symptomatic and well-recognized when they occur. They do not    show the iceberg phenomenon.
+Iceberg phenomenon is shown by:
+• polio
+• Influenza
+• Rubella
+• Mumps
+• Japanese Encephalitis
+• Diphtheria
+• Hepatitis A and B
+• Tuberculosis
+• Diabetes
+• Malnutrition
+• Hypertension
+Note: If a disease has more number of subclinical infections, it shows the iceberg phenomenon of disease depicted in the image below.",2636-1621.PNG,B,2650-1626.PNG
+Q8,what does line B represent in the graph given?,"a)Death rate
+b)Birth rate
+c)Total population
+d)population growth rate","The line B here represents the death rate.
+Line A represents the Birth rate
+Line C represents the Total population",,A,2636-1620.PNG
+Q9,"In a sudden onset disaster, the 'recovery' phase consists of which of the following?","a)i, ii, iii and iv
+b)ii, iii and iv only
+c)ii and iii only
+d)i, ii and iv only","In disaster management, the recovery phase consists of response and rehabilitation.
+Disaster preparedness refers to long-term development activities that strengthen the capacity of a country to manage all kinds of emergencies effectively.
+• Response - This includes activities such as:
+• Triage: Classifying the injured based on the severity of the injuries and chances of survival with medical intervention.
+• Tagging: Tags with name, age, triage category, diagnosis and treatment are put for identification purposes.
+• Identification of the dead: The dead bodies should be shifted from the disaster site to the mortuary.
+• Rehabilitation - This includes measures that lead to the restoration of pre-disaster
+conditions. These measures include water supply restoration, food safety, basic
+sanitation, personal hygiene, and vector control.
+• Mitigation - This includes measures to prevent disasters from causing emergencies or to lessen   the likely effects of emergencies. some of them are flood mitigation, land use planning, improved building codes, and the reduction and protection of vulnerable populations or structures.
+
+
+
+• preparedness - This is a program that aims at strengthening the capacity of a country to manage all types of emergencies efficiently. Its objective is to ensure that appropriate measurements are    taken for the relief and rehabilitation of disaster victims.
+some measures that should be followed by all in case of an emergency include:
+• Avoiding telephone use, unless it is to call for help
+• Listen to and carry out the radio or loudspeaker broadcast messages
+• Carry out the official instructions given over the radio or by loudspeaker
+• keep a family emergency kit ready
+Note: vaccination of the general population post-disaster against typhoid, cholera, and tetanus is not recommended.",,C,
+Q10,"A pharmacist randomly selects from three groups of medicines: plant-based, animal-derived, and synthetic. what type of sampling is this?","a)simple random sampling
+b)stratified sampling
+c)systemic sampling
+d)cluster sampling","The type of sampling described is stratified random sampling.
+In stratified random sampling, the population is divided into distinct subgroups or ""strata"" (in this case, plant-based, animal-derived, and synthetic medicines). A random sample is then taken from  each subgroup.
+other options:
+option A: In simple random sampling, every member of the population has an equal chance of being selected,
+option C: In systemic sampling, elements from a larger population are selected at regular intervals, known as sampling intervals.
+option D: In cluster sampling, the population is divided into distinct groups, or ""clusters"", and then a random sample of these clusters is selected",,B,
+Q11,"The children in a school underwent a health check-up whose ages were 2,3,4,4,5,6,7,8. what is their median age?","a)4
+b)4.5
+c)4.8
+d)5","The median age here is 4.5 years.
+In a distribution that has an odd number of elements, the median is the middle value. In a
+distribution that has an even number of elements, the median is the average of the middle values, i.e., the arithmetic mean of the two middle values.
+Here: elements: 2,3,4,4,5,6,7,8, therefore median = (4+5)/2= 4.5",,B,
+Q12,Identify the use of this image,"a)cooling power of air
+b)Air temperature
+c)Air humidity
+d)Radiant heat","The image shows a kata thermometer, it is a specialized device used to measure the cooling power of air.",2519-1588.PNG,A,
+Q13,A student was making a presentation with charts but lost titles while editing. what could be the heading for the following chart?,"a)physical Quality of Life Index
+b)Multidimensional poverty Index
+c)Disability-adjusted life years
+d)Human Development Index","The index that is calculated using the given indicators such as life expectancy at birth, mean and    expected years of schooling, and the per capita income is the Human Developmental Index (HDI). Human Development Index (HDI) is defined as a composite index focusing on three basic
+dimensions of human development. It assesses abilities
+• To lead a healthy long life - measured by life expectancy at birth
+• To acquire knowledge- measured by mean years of schooling
+• To achieve a decent standard of living- measured by gross national income per capita
+Hence the 3 dimension indices used to calculate the human development index are as follows life expectancy index, education index, and gross national index.
+other options:
+option A- Physical Quality of Life Index (PQLI) uses three indicators which include infant mortality, life expectancy at age one, and literacy rate.
+option B- Multidimensional Poverty Index (MPI) - It is an international measure of acute
+multidimensional poverty by capturing the acute deprivations in health, education, and living
+standards that a person faces simultaneously. It is assessed using 3 dimensions and 1o indicators which are as follows:
+• Health - Nutrition and child mortality
+• Education- years of schooling and school attendance
+• standard of living -
+• cooking fuel
+• sanitation
+
+
+
+• Drinking water
+• Electricity
+• Housing
+• Assets
+option C- Disability-adjusted life years (DALY): It is the amount of time lost due to ill health. It is expressed as the number of years lost due to ill-health, disability, or early death. The components of DALY are:
+• Years of life lost due to premature death
+• Years lived with disability (YLD)
+• Years lived in a state less than full health",2640-1622.PNG,D,
+Q14,"A mother delivers a baby in a rural area with the assistance of a skilled birth attendant. The attendant cuts the umbilical cord cleanly, ties the ends with new threads, bathes the baby
+with warm water, wipes the baby’s eyes with a sterile wet cloth from the medial to lateral
+corner, and then hands the baby to the mother for skin-to-skin contact. which of these steps is incorrect?","a)using new threads to tie the ends of the umbilical cord
+b)wiping the baby’s eyes from medial to lateral corner
+c)skin-to-skin contact with the mother
+d)Bathing the child with warm water","The incorrect step is bathing the child with warm water immediately after birth. It is generally
+recommended to delay bathing in the immediate newborn period to help maintain the baby’s body temperature and prevent hypothermia.
+other options:
+option A: using new threads to tie the ends of the umbilical cord is correct and helps prevent infection and ensure proper cord care.
+option B: wiping the baby’s eyes from the medial to lateral corner is appropriate to prevent the spread of any potential infection from the eye’s inner to outer corners.
+option C: skin-to-skin contact with the mother is beneficial as it helps stabilize the baby’s temperature, promotes bonding, and supports early breastfeeding.",,D,
+Q15,"A homeless man comes with diarrhea, dementia, and dermatitis. He consumes alcohol
+occasionally. He admits to having 'X' as his staple diet. which of the following is X most likely to be?","a)Maize
+b)wheat
+c)Milk
+d)peanuts","This patient with symptoms of dementia, diarrhea and dermatitis most likely has niacin/vitamin B3 deficiency. X  is likely to be maize in his diet.
+Niacin deficiency causes pellagra, found mostly among people eating corn/maize-based diets,
+which is low in niacin and tryptophan. Excess leucine in jowar and maize disrupts the conversion of tryptophan to niacin.
+Niacin can be synthesized in the body from tryptophan. Two compounds- nicotinic acid, and
+nicotinamide have the biological activity of niacin. The nicotinamide ring of the coenzymes NAD ( nicotinamide adenine dinucleotide) and NADP (nicotinamide adenine dinucleotide phosphate)
+participate in oxidation/reduction reactions.
+The initial symptoms of pellagra include loss of appetite, generalized weakness, irritability,
+abdominal pain, and vomiting. This is followed by bright red glossitis and a characteristic
+pigmented, scaly skin rash in sun-exposed areas. This rash is known as Casal’s necklace when it forms a ring around the neck.
+
+
+
+The 4Ds of pellagra:
+• Diarrhea
+• Dermatitis
+• Dementia, leading to
+• Death
+It is diagnosed by measuring urinary levels of 2-methyl nicotinamide and 2-pyridone.
+It is treated by oral supplementation of 1oo–2oo mg of nicotinamide or nicotinic acid three times daily for 5 days.
+casal’s necklace finding in niacin deficiency",Picture23.png,A,
+Q16,"In the Motivation model of health education, there are three stages for the adoption of new ideas. what is the third one other than awareness &amp; motivation?","a)contemplation
+b)Reflection
+c)Action
+d)Dedication","The third stage in the Motivation model of health education, following awareness and motivation, is action.
+In the process of adopting new ideas or behaviours, individuals progress through distinct stages. The first stage, awareness, involves gaining general information about health needs and issues,   which serves as the foundation for further exploration. without awareness, individuals may not   recognize the importance of making changes to their health behaviours.
+The second stage, motivation, encompasses interest, evaluation, and decision-making. Here,
+individuals express curiosity about the information presented, seek out additional details, and
+weigh the pros and cons of adopting the new behaviour. This stage often requires interpersonal
+communication and support from peers and family, as individuals contemplate the implications of their choices.
+Finally, in the action stage, individuals actively adopt and implement the new behaviour or idea into their lives. This involves not just the decision to change but also taking concrete steps to
+integrate the new practice into their daily routine. It is during this stage that the new behaviour
+
+
+
+becomes part of an individual's values and lifestyle, leading to sustained change. Effective
+communication strategies are essential to support individuals as they navigate through these stages, ensuring a successful transition to healthier behaviours.
+Note:  The three models of health education:
+• Medical model: Transfer of proven medical information into education
+• Motivational model: Awareness → Motivation → Action or Internalization
+• social intervention model: changing of a social environment",,C,
+Q17,"An unvaccinated 5-year-old child presents with a sore throat and difficulty in swallowing. on examination, she has a greyish membrane over her tonsils. she has a fully vaccinated
+2-year-old brother who was asymptomatic. what is the appropriate management of this contact?","a)No intervention
+b)Booster dose of toxoid
+c)single dose of immunoglobulin
+d)prophylactic dose of penicillin","The given clinical features of sore throat and difficulty in swallowing with a greyish-white
+membrane over the tonsils in an unvaccinated child is suggestive of pharyngeal diphtheria. The
+appropriate management for the asymptomatic 2-year-old brother of the child with diphtheria is   to initiate prophylactic antibiotic treatment with penicillin, regardless of his immunization status.
+Diphtheria is caused by the bacteria corynebacterium diphtheriae which spreads via droplets  through the respiratory tract (most important), cutaneous lesions, and fomites. Management   includes antitoxin therapy as a single empirical dose of 2o,ooo-1oo,ooo units and antibiotics.
+penicillin G/ Benzylpenicillin is the drug of choice for diphtheria. However, in case of an allergy to the same, Erythromycin is used. Other antibiotics used are clindamycin, rifampin, and
+tetracycline.
+All household contacts of diphtheria should be closely monitored for 7 days. culture should be taken from both the throat and nose. After culture, all contacts should receive the following:
+• Antibiotic prophylaxis (benzathine penicillin G or erythromycin), regardless of immunization status.
+• If fewer than three doses of diphtheria toxoid have been given, or vaccination history is  unknown, an immediate dose of diphtheria toxoid should be given and the primary series completed according to the current schedule.
+• If more than 5 years have elapsed since the administration of the diphtheria toxoid-containing vaccine, a booster dose should be given.
+• If the most recent dose was within 5 years, no booster is required.
+At least two successive negative cultures obtained 24 hr apart after completion of therapy are needed to confirm the elimination of the organism.",,D,
+Q18,"A disease has an incubation period of 3-14 days. It has a median incubation of 1o days. A person had to travel abroad and he was not vaccinated. As the disease is of international  significance, how long will he have to be quarantined?","a)2o days
+b)14 days
+c)28 days
+d)1o days","A person who is not vaccinated and has been exposed to a disease of international significance (like cOVID) with an incubation period of 3-14 days should be quarantined for 14 days(longest incubation period).
+
+
+
+Quarantine is defined as the limitation of freedom of movement of well-persons or animals,
+exposed to a communicable disease for a period of time not longer than the longest usual
+incubation period, to prevent contact with those not exposed. This is done to prevent the potential spread of the disease during its incubation period, which is the time between exposure and the
+onset of symptoms.
+The quarantined person:
+• should stay in a well-ventilated single room and stay away from high-risk individuals
+• should not attend any religious or social gatherings
+• Must wash hands often
+• Their surroundings must be disinfected with 1% sodium hypochlorite solution
+In case the person being quarantined becomes symptomatic, all his contacts should be home
+quarantined for 14 days and followed up for another 14 days or till the report turns out negative on lab testing.
+Note: The median incubation period refers to the time between exposure to a pathogen and the    onset of symptoms in 5o% of cases. And isolation is the separation and restriction of movements or activities of persons who are sick, to prevent the transmission of disease.",,B,
+Q19,The image shown corresponds to which health program and disease?,"a)AROHI for HIV
+b)AMITHA for polio
+c)SAPANA for leprosy
+d)GAURI for cataract","The given image is of sAPANA for leprosy. sapana refers to a local school-going girl who will help to spread awareness in the community.
+The other developments under NLEP are:
+• Mycobacterium Indicus Prani (MiP) vaccine for multibacillary leprosy patients and their contacts (it is in a project mode).
+• Nikusth: A web-based system for the data management of leprosy cases.
+Note: Meena is a nine-year-old girl, who is the symbol of UNICEF's Girl Empowerment    programme to impart important messages on gender, child rights, education, health and development in the south Asian region.
+The posters below depict the role play by sapna:",,C,2657-1627.PNG
+Q20,"A study is investigating the relationship between diet and the incidence of a particular
+disease. Among 1oo vegetarians, 3o individuals are found to have the disease, while among 1oo non-vegetarians, 5o individuals are affected. which biostatistical method is most
+appropriate to determine if there is no significant association between diet and disease incidence?","a)Mann-whitney test
+b)correlation coefficient
+c)T-squared test
+d)chi-square test","To determine whether there is an association between diet (vegetarians vs. non-vegetarians) and    the incidence of disease (present or absent), the best biostatistical method to use is the Chi-square test.
+other options:
+option A: Mann-whitney test is used for comparing two independent groups on a continuous or ordinal outcome, but in this case, both variables (diet and disease) are categorical.
+option B: The correlation coefficient measures the strength of a linear relationship between two continuous variables, but it is not appropriate for categorical data.
+option C: T-squared test is typically used for multivariate hypothesis testing and is not suited for testing relationships between categorical variables like diet and disease incidence.",,D,
+Q21,which of the following options best defines the correct sequence of the phases of the demographic cycle?,"a)High expanding→ Early stationary → Late expanding → Low stationary → Declining
+b)High stationary → Early expanding → Late expanding → Low stationary → Declining
+c)Low stationary → Early expanding → Declining
+d)Late expanding → High stationary → Declining","The correct sequence of the phases ofthe demographic cycle is High stationary → Early
+expanding → Late expanding → Low stationary → Declining.
+India is currently in the ""late expanding"" stage which is the third stage in the demographic cycle where declining death rates and declining birth rates are seen.
+Another important concept of the demographic cycle is the demographic gap which is
+the difference between birth rate and death rate. The demographic gap is maximum in the
+early-expanding phase, characterized by a high birth rate and low death rate. As the demography  of the country transitions to the late-expanding phase, both birth rate and death rate falls causing a decreasing demographic gap. Although the birth rate is falling in the late-expanding phase, it is  still higher than the death rate, which causes the population to increase.",,B,
+Q22,"A man presents with sudden onset bilateral leg swelling, diarrhea, and difficulty breathing. He reports consuming mustard oil purchased from a local vendor prior to the onset of
+symptoms. A health inspector is investigating the cause of his condition. which test is the most appropriate to detect the adulterant in the mustard oil?","a)paper chromatography Test
+b)Methylene Blue Test
+c)phosphatase Test
+d)Nitric Acid Test","The clinical scenario is suggestive of epidemic dropsy. paper chromatography test is used to
+identify the presence of toxic alkaloids from Argemone mexicana seeds that adulterate mustard oil.
+Epidemic dropsy is caused by the toxic compound sanguinarine, which is present in argemone oil extracted from argemone seeds. It is commonly used as an adulterant in mustard oil.
+Epidemic dropsy results in sudden onset of swelling of lower limbs, diarrhea, and breathlessness. some patients may develop hypersecretory glaucoma. It can lead to death due to cardiac failure.
+Adulteration with argemone oil can be detected by the following tests:
+• paper chromatography - most sensitive test
+• Nitric acid test",,A,
+Q23,"In a population of 3o,ooo, there were 5oo live births &amp; 14 still births in the year 2o23. There were 18 children that died before the age of 1 year, 12 before 28 days of life &amp;
+among that, 9 died in the first 7 days of life. calculate the early neonatal mortality rate?","a)24
+b)18
+c)32
+d)36","The early neonatal mortality rate here would be 18 per 1,ooo live births.
+It can be calculated as shown:
+
+
+The neonatal mortality rate (NMR) refers to the rate of deaths within the first 28 days of life. It is calculated using the following parameters:
+• Early neonatal deaths- death in the first 7 days of life
+• Late neonatal deaths - after 7th day but before 28th completed day of life",,B,2658-1628.PNG
+Q24,"A 37-year-old woman from Bihar presents with fever and unexplained weight loss over the past 6 months. Examination reveals massive splenomegaly and blood investigations show  anemia, thrombocytopenia, and hypergammaglobulinemia. what is the vector of the
+organism causing this condition?","a)phlebotomus species
+b)Aedes mosquito
+c)Mite
+d)Female anopheles mosquito","From the given clinical features, the most likely disease is visceral leishmaniasis or kala azar
+caused by Leishmania donovani, and the vector is a female phlebotomus sandfly. A patient from Bihar presenting with fever, weight loss, and hepatosplenomegaly with a smear examination
+showing anemia, thrombocytopenia, and hypergammaglobulinemia point towards the diagnosis.
+Leishmaniasis is transmitted by the bite of an infected female phlebotomus sandfly. In India, it is endemic to Bihar, west Bengal, Jharkhand, and uttar pradesh. patients present with high fever,   hepatosplenomegaly, weight loss, and emaciation. The skin becomes dry, rough, and darkly
+pigmented. There is anemia, leukopenia, and thrombocytopenia.
+The parasite exists in 2 forms:
+• Amstigote form (also called LD bodies)- It is seen within macrophages and contains a kinetoplast.
+• promastigote form- It is the infective form in the sandfly. The kinetoplast is seen at the anterior end.
+kinetoplast are non-nuclear DNA present in addition to nucleus. They consist of blepharoplast and parabasal body. Flagellum originates near the kinetoplast.
+Diagnosis of kala-azar is mainly by demonstration of amastigotes within macrophages in tissue aspirates such as blood smears, bone marrow, splenic, or lymph node aspirate. It is the gold
+standard for diagnosis.
+The image below shows amastigotes located intracellularly within macrophages.
+
+
+Treatment is with a pentavalent antimonial compound. In Bihar, there is resistance to antimony so amphotericin-B-deoxycholate or miltefosine is preferred.
+In human beings, different species of Leishmania can cause the following diseases:
+• visceral leishmaniasis, or kala-azar,
+• cutaneous leishmaniasis,
+
+
+
+• Mucocutaneous leishmaniasis, and
+• Diffuse cutaneous leishmaniasis.
+The life cycle of Lesihmania is shown below.
+
+
+other options:
+option B: The Aedes mosquito is the vector for diseases such as dengue, chikungunya, and zika virus, none of which fit the clinical profile of visceral leishmaniasis.
+option C: Mites are vectors for diseases such as scrub typhus, which typically presents with fever and an eschar, but it does not explain the massive splenomegaly or hematologic findings seen in  this case.
+option D: Ixodid ticks are vectors for tick-borne diseases such as Lyme disease and babesiosis. These conditions do not present with the clinical features observed in this patient.",,A,Picture24.png
+Q25,"A hospital collected nasopharyngeal swabs from 1ooo patients every day from the onset of the disease. The organism count was found to be maximum on the 5th day, which also showed
+the maximum infectivity (infecting 825 patients). what is this period of 5 days from the onset of the disease known as?","a)Generation time
+b)Median Incubation period
+c)serial interval
+d)Lead time","The time interval between the receipt of infection by a host and the maximal infectivity of that host is known as the generation time.
+The time of maximum communicability may precede or follow the incubation period.
+other options:
+option B: The median incubation period refers to the time between exposure to a pathogen and the onset of symptoms in 5o% of cases.
+option C: serial interval is the gap in time between the onset of the primary case and the second case. The term serial interval is used in an outbreak of disease.
+option D: Lead time is the period between the first possible time of detection and the usual time of diagnosis.",,A,
+Q26,which of the following are not included in the school Health programme under Ayushman Bharat?,"a)Monthly IFA tablets for all children
+b)Health screening
+c)Deworming for school going children
+d)sanitary napkins for adolescent girls","weekly Iron Folic Acid supplementation is included in school Heath programme not monthly IFA tablets for all children.
+The weekly Iron Folic Acid supplementation (wIFs) program is a school health program that
+provides iron and folic acid (IFA) tablets which aims to reduce the prevalence of anemia in school going children.
+The school health programs are managed by the primary health center (pHC).
+The school Health Committee (1961) in India recommended that the school health services should be a part of the general health services administered through pHCs. Formation of school health
+committees at the village, block, district, state, and national levels was recommended. The National school Health Council was created as an advisory and coordinating body.
+pHCs provide the following school health services:
+• screening and general assessments for
+• Anemia/nutritional status
+• visual acuity and hearing problems
+• Dental check-up
+• physical disabilities
+• Learning disorders and behavior problems
+• Basic medicines for common ailments
+• Immunization
+• Micronutrient management (vitamin A, iron, and folic acid)
+• Deworming
+• Mid-day meal
+• provison of sanitary napkins
+Note: National programme for Mid-Day Meal in schools has recently been renamed pradhan Mantri poshan shakti Nirman (pM pOsHAN).",,A,
+Q27,which of the following is true about longevity dividend?,"a)The intervention can delay the onset of the disease
+b)small amounts of damage is accumulated over time
+c)The older you are the more prone you are to disease
+d)Economic and health benefit for the society","The intervention can delay the onset of the disease (statement 1) is true about longevity dividend.
+The longevity dividend is a horizontal approach to public health which is based on a broader
+strategy which means to foster health for all generations. This can be done by developing a new model for health promotion and disease prevention. The longevity-dividend model aims to
+prevent or delay the root causes of disease and disability by decimating the one major risk factor which is biological aging.",,A,
+Q28,"For standards of ventilation, the widely quoted standard is that of De Chaumont who
+advocated a fresh air supply of 3ooo cubic feet per person per hour. It is calculated based on which parameter?","a)Humidity of air
+b)o2 content of air
+c)Temperature of air
+d)Co2 content of air","For standards of ventilation, Co2 content of air is the paramater used to calculate fresh air supply of 3ooo cubic feet per person per hour which was advocated by De Chaumont.
+ventilation involves the quality control of incoming air but not quality control of outgoing air. It also involves the replacement of vitiated air(air with decreased oxygen content) by a supply of     fresh outdoor air. It aims to provide a comfortable thermal environment and reduce the risk of   infections.
+Fresh air supply off 3ooo cubic feet per person per hour is a good standard for air requirement. It is observed that the amount of Co2 due to respiration is not more than 2 parts in 1ooo parts of
+air, then the air in the room is considered fresh.",,D,
+Q29,which vaccine will be placed at zone 3 in the device shown below?,"a)pentavalent
+b)Hep B
+c)opv
+d)DpT","The image shown in the question is of an ice-lined refrigerator (ILR). The opv vaccines are stored in the zone 3 that corresponds to the lowest
+ILRs are the main method of vaccine storage in primary health centers. They are an important part of the cold chain and they maintain a temperature of 2 to 8 °C for the storage of vaccines.
+They have different temperature zones for different vaccines. The upper zone is for
+freeze-sensitive vaccines like cholera, hep B, rotavirus(liquid), etc while the lower zone is for heat-sensitive vaccines like opv, measles, etc.
+All vaccines are kept in the basket provided with ILR. vaccines like opv, BCG, measles, and JE
+can be kept at the bottom of the basket while, DpT, TT, Hep B, Ipv, and pentavalent vaccines and diluents are kept in the upper part of the basket.",2643-1623.PNG,C,2662-1629.PNG
+Q30,Pick the correct statement regarding the sanchol cholera vaccine,"a)Bivalent vaccine given in 2 liquid doses orally to children &gt;=1 year of age
+b)Bivalent given in single dose orally to children &gt;1 years of age
+c)Monovalent given in 2 liquid doses orally with a bicarbonate buffer
+d)Monovalent given in a single dose orally with a bicarbonate buffer","The sanchol cholera vaccine is a bivalent vaccine given in 2 liquid doses orally to children &gt;=1 year of age.
+The sanchol cholera vaccine is a bivalent oral cholera vaccine (ocv) that targets both vibrio
+cholerae o1 and vibrio cholerae o139 serogroups, which are the primary causes of cholera
+outbreaks. It is designed to provide immunity by stimulating the production of antibodies in the intestines, the site of infection.
+key Features of the sanchol vaccine:
+Bivalent Nature: The vaccine protects against two strains of the cholera bacterium: o1, which is responsible for most global cholera cases, and o139 which is seen in south Asia.
+Dosing schedule: The sanchol vaccine is administered in two oral doses. The doses are given 14     days apart for children aged 1 year and above as well as adults. This two-dose regimen is essential for achieving effective immunity. The vaccine is provided in liquid form, making it easy to
+administer. It does not require any special preparation, such as mixing with a bicarbonate buffer, which is needed for some older cholera vaccines.
+Age Recommendation: The vaccine is recommended for individuals aged 1 year and older. It is  particularly useful in endemic regions or during outbreaks to prevent the spread of the disease.
+Efficacy and Duration: sanchol has been shown to provide significant protection against cholera for up to 3-5 years after vaccination, although booster doses may be required in areas with
+ongoing transmission.
+The vaccine is widely used in mass vaccination campaigns, especially in areas prone to cholera outbreaks, such as refugee camps or regions with poor sanitation. It has been a critical tool in  reducing the incidence of cholera in many endemic areas.",,A,
+Q31,"In a town, there were 1ooo live births in a period of 6 months. During the same period, 12 women died due to the following causes. what is the maternal mortality ratio?","a)8oo per 1ooooo live births
+b)2o per 1ooo live births
+c)125 per 1ooo live births
+d)4oo per 1ooooo live births","This town's maternal mortality ratio (MMR) is 8oo per 1oo,ooo live births.
+Maternal mortality refers to deaths during pregnancy or within 42 days of termination of
+pregnancy, from causes related to pregnancy. Excluding the deaths from traffic accidents and snake bite, the total number of maternal deaths is 8.
+MMR = (Number of maternal deaths in a given year / Number of live births in the same area and year) x 1,oo,ooo (or 1ooo).
+Hence, MMR = 8 x 1ooooo/1ooo = 8oo per 1oo,ooo live births.",,A,
+Q32,which of the following steps of disaster management is in correct order?,"a)Disaster impact – Mitigation – Rehabilitation – Response
+b)Rehabilitation – Response – Disaster Impact – Mitigation
+c)Disaster impact – Response – Rehabilitation – Mitigation
+d)Response – Disaster impact – Rehabilitation – Mitigation","The correct order is: Disaster impact – Response – Rehabilitation – Mitigation
+• Disaster impact and response includes:
+• search, rescue and first aid must be done first.
+
+
+
+• Field care
+• Triage
+• Lagging
+• Identification of dead
+• Rehabilitation or recovery includes:
+• water supply
+• sanitation and personal hygiene
+• Food safety
+• vector control
+• Mitigation:
+• Measures designed to either prevent hazards or reduce the effects of the disaster leading to disaster preparedness.",,C,
+Q33,which of the following are components of the physical quality of life index (PQLI)?,"a)1,3 and 5
+b)2 and 5
+c)1,2 and 4
+d)1,3 and 4","Infant mortality rate, literacy rate, and life expectancy at 1 year of age are the components of the physical quality of life index (PQLI).",,D,

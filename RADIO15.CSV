@@ -1,0 +1,297 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"A patient presented with chest pain and hoarseness for one month, and on a CT angiogram, the following image is seen, what is the possible diagnosis?","a)stenosis of aortic arch
+b)Aortic dissection
+c)saccular aneurysm of distal aorta
+d)Coarcatation of aorta","The given CT shows saccular aneurysm of the distal aorta. The clinical presentation of chest pain and hoarseness supports the diagnosis.
+other options:
+option A: stenosis of the aortic arch would show a narrowing rather than an aneurysmal dilation, and it is more likely to present with symptoms related to decreased blood flow to the upper body.
+option B: Aortic dissection would usually present with a tearing chest pain that radiates to the
+back and would show a double lumen or false lumen on imaging. The below image shows stanford type A aortic dissection:
+
+
+option D: Coarctation of the aorta typically presents with hypertension in the upper limbs and weak or absent pulses in the lower limbs.",4044-2603.PNG,C,4054-2616.PNG
+Q2,This is the radiograph of a child with a foreign body in the oesophagus. what is the sign seen in this?,"a)Thumb sign
+b)steeple sign
+c)Double ring sign
+d)string sign","The presence of a halo sign or double ring sign is indicative of the foreign body being a button battery.
+Button batteries and sharp objects in the oesophagus and foreign bodies associated with respiratory symptoms all mandate urgent endoscopic removal.
+Button batteries, in particular, are very dangerous foreign bodies, which must be expediently removed because they can cause:
+
+
+
+• Mucosal injury in 1-hour contact time
+• Involve all layers of the oesophagus in 4 hours
+Injury is thought to be secondary to electrochemical burns from electrical discharge. chemical
+burns from electrolyte alkali leakage and pressure necrosis also may contribute to mucosal injury.
+Asymptomatic blunt objects and coins lodged in the oesophagus can be observed for up to 24 hr in anticipation of passage into the stomach.
+Another AP and lateral X-ray demonstrating the presence of a button battery in the oesophagus is as shown below.
+
+
+other options
+option A: Thumb sign is seen in acute epiglottitis.
+
+
+option B: A steeple sign is seen in croup or laryngotracheobronchitis.
+
+
+
+
+
+option D: string sign on the barium enema is in ileocecal tuberculosis.
+
+
+The image below shows the string sign of kantor associated with crohn's disease.",4023-2583-1.png,C,4055-2617-1.png;4055-2617.PNG;4056-2619.PNG;4056-2618.PNG;4057-2620.PNG
+Q3,"A patient presents with a one-month history of lethargy, headache, fever, and vomiting.
+shortly after being admitted to the hospital, the patient tragically passes away. Radiological  imaging reveals multiple cystic lesions in the cerebrum with invasion into the ventricles and subarachnoid space. what is the likely cause?","a)Neurocysticercosis
+b)Astrocytoma
+c)AV malformation
+d)Brain metastasis","The given clinical scenario along with CT showing cystic lesions in the brain, particularly within the cerebrum, ventricles, and subarachnoid space is clearly suggestive of neurocysticercosis.
+Neurocysticercosis is a form of cysticercosis caused by Taenia solium.
+It usually presents with seizures and symptoms of increased intracranial pressure, including   headache, nausea, vomiting, vision changes, dizziness, ataxia, or confusion. papilledema may develop secondary to hydrocephalus.
+Diagnosis is done by demonstrating eggs of Taenia in faecal examination.
+A biopsy of the brain or spinal cord lesion or fundoscopic visualization of subretinal cysticercus can also be done.
+Imaging shows a scolex within a cystic lesion, cystic lesions with or without enhancement (e.g.,
+ring enhancement), nodular calcifications, focal enhancing lesions, or multilobulated cystic lesions in the subarachnoid space.
+Treatment of intestinal T. solium infection is by a single dose of praziquantel. Neurocysticercosis is treated with anti-epileptic drugs, anticysticidal drugs like albendazole or praziquantel, and
+steroids given before anticysticidal therapy.
+other options:
+option B: Astrocytoma is a type of glial cell tumour in the brain, ranging from low to high grade. They do not typically present as multiple cystic lesions and are more likely to appear as a single   mass with variable enhancement on imaging.
+option C: Arteriovenous malformation (AVM) is a congenital vascular anomaly characterized by a tangle of abnormal blood vessels connecting arteries and veins. AVMs are more likely to cause
+hemorrhage or seizures and typically appear as highly vascular lesions on imaging, not as cystic lesions.
+
+
+
+option D: while metastases can present as multiple lesions on imaging, they usually appear solid rather than cystic masses and often enhance with contrast.",4045-2604.PNG,A,
+Q4,A patient complains of severe headache. NCCT and CT angiography images are as below. what is the likely etiology?,"a)AV malformation
+b)subarachnoid hemorrhage
+c)Intraparenchymal hemorrhage
+d)subdural hemorrhage","The clinical manifestations of severe headache with CT revealing blood in the basal cistern point to a diagnosis of subarachnoid haemorrhage (SAH).
+Subarachnoid haemorrhage (SAH) is bleeding into the subarachnoid space, which is the area between the arachnoid membrane and the pia mater surrounding the brain. The diagnosis is suspected when a hyperattenuating material is seen filling the subarachnoid space. Most
+commonly this is apparent around the circle of willis, on account of the majority of berry aneurysms occurring in this region (65%), or in the Sylvian fissure (3o%).
+The modified Fisher scale is a method for grading SAH as seen on non-contrast CT (NCCT). The Hunt and Hess scale describes the severity of SAH and is used as a predictor of survival.
+xanthochromia on CSF is indicative of SAH in case of a negative CT scan.
+other options:
+option A: Arteriovenous malformation (AVM) is a congenital vascular anomaly characterized by a tangle of abnormal blood vessels connecting arteries and veins. AVMs are more likely to cause
+haemorrhage or seizures and typically appear as highly vascular lesions on imaging, not as cystic lesions.
+option C: Intraparenchymal hemorrhage results from damage to lenticulostriate arteries.
+Hyperdensity within the brain parenchyma is seen on CT.
+option D: Acute subdural haemorrhage results from the accumulation of blood between the
+arachnoid membrane and the dura. The tearing of a bridging vein from the cerebral cortex to the  dural sinuses is the most common cause of acute SDH. on head CT scan, acute SDH appears as a hyperdense, crescent-shaped (concavo-convex).",4046-2605.PNG,B,
+Q5,"An elderly woman with a known history of Myasthenia Gravis presents with symptoms including fatigue, facial congestion, dilated neck veins, and breathlessness, which are    indicative of superior vena cava (sVC) obstruction. what is the likely diagnosis?","a)Lipoma
+b)Ectopic thyroid
+c)Thymoma
+d)Germ cell tumor","The diagnosis of myasthenia gravis along with the CT scan image showing an anterior mediastinal mass, is suggestive of thymoma.
+Thymoma is the most common mediastinal tumor and is derived from the thymus gland.
+Thymomas vary in behaviour from benign to aggressively invasive. Superior vena cava obstruction is a possible complication of mediastinal mass.
+Masoaka classification system is used to stage thymomas.
+Myasthenia gravis is often related to thymomas. Symptoms of myasthenia gravis can improve after excision of the thymus gland even in the absence of a thymoma.
+Complete thymectomy is the treatment for thymoma. It can be performed by two approaches:
+• A median sternotomy approach
+
+
+
+• A transcervical approach with or without an additional vATS procedure (video-Assisted Thoracoscopic Surgery) for smaller thymomas
+other options:
+option A: Lipomas are benign and slow-growing, less likely to cause significant compression of the Svc and produce the acute symptoms described.
+option B: Ectopic thyroid tissue can be found in the mediastinum, but it is typically asymptomatic and does not usually cause Svc obstruction.
+option D: Germ cell tumours can occur in the mediastinum and cause Svc obstruction, but they are less commonly associated with Myasthenia Gravis compared to thymomas.",4047-2607.PNG,C,
+Q6,A 4-week-old infant presented to the ER with projectile vomiting. USG abdomen findings of the infant are given below. probable diagnosis is ______________,"a)Sigmoid volvulus
+b)Duodenal atresia
+c)congenital hypertrophic pyloric stenosis
+d)Intussusception","The probable diagnosis is congenital Hypertrophic pyloric stenosis since the cervix sign and nipple sign are signs of congenital Hypertrophic pyloric stenosis on USG.
+• Double-layered hypertrophic mucosa protrudes into the stomach, creating the so-called Nipple sign.
+• The sonographic appearance of the hypertrophied pylorus resembles that of the uterine cervix and is sometimes referred to as the cervix sign.
+
+
+Hypertrophic pyloric stenosis most presents with non-bilious projectile vomiting. It is common between 2 and 8 weeks of age. Hypertrophy of the circular muscle of the pylorus results in
+constriction and obstruction of the gastric outlet. Male infants are at a higher risk.
+clinically, an olive-shaped mass is palpable in the right upper quadrant or epigastrium. when the infant is given a test feed, visible peristalsis is usually observed moving from left to right across
+the abdomen.
+Infants with hypertrophic pyloric stenosis develop a characteristic metabolic abnormality- hypochloraemic hypokalaemic metabolic alkalosis. persistent vomiting results in loss of
+
+
+
+hydrochloric acid leading to the development of metabolic alkalosis (due to loss of H+) and hypochloremia (due to loss of cl-).
+ultrasound examination is the investigation of choice for this condition. The diagnostic criteria for pyloric stenosis are a muscle thickness of ≥4 mm and a pyloric length of ≥16 mm. The cervix sign   and nipple sign are signs seen on uSG.
+As for the management, the child should be rehydrated and the metabolic abnormality has to be corrected before proceeding to surgery. The Ramstedt pyloromyotomy remains the standard
+surgical procedure for its treatment.",4047-2606.PNG,C,4059-2621.PNG
+Q7,An infant presents with respiratory distress. He has a previous history of recurrent respiratory infections. what is the diagnosis?,"a)Lung abscess
+b)congenital malformations of the airway
+c)congenital diaphragmatic hernia
+d)pyopneumothorax","The given clinical scenario along with the image is suggestive of congenital malformations of the airway.
+congenital pulmonary airway malformation (cPAM) is a condition where more normal lung tissue is mixed with hamartomatous or dysplastic lung tissue, usually confined to one lobe. The lesion
+most likely originates from a maldevelopment of terminal bronchiolar structures caused by an embryologic injury that occurred prior to the 35th day of gestation.
+Pneumothorax, recurrent respiratory infections, and respiratory distress can all manifest in
+patients during the newborn or early infancy period. one could mistake the lesion for a
+diaphragmatic hernia. until mid-childhood, when episodes of recurrent or persistent pulmonary infection or chest pain occur, patients with smaller lesions typically are asymptomatic.
+Treatment includes aspiration of macrocystic lesions, excision of the affected lobe for microcystic lesions, and infrequently, open foetal surgery for severely affected infants. For patients with
+symptoms in the postnatal period, surgery is recommended.
+other options:
+option A: Lung abscess represents necrosis and cavitation of the lung following microbial infection.
+chest X-ray features of lung abscess include a lung cavity with an air-fluid level and a thick and
+irregular cavity wall with surrounding pulmonary infiltrate. The image showing the lung abscess is given below:
+
+
+
+
+
+option C: Congenital diaphragmatic hernia (CDH) is a birth defect of the diaphragm.
+Malformation of the diaphragm allows the abdominal organs to push into the chest cavity, hindering proper lung formation and resulting in pulmonary hypoplasia.
+The most common type of CDH is a Bochdalek hernia, which in most cases involves the left side.   CDH is a life-threatening pathology in infants and a major cause of morbidity and mortality due to two complications: pulmonary hypoplasia and pulmonary hypertension. The image of Bochdalek    hernia is given below:
+
+
+option D: pyopneumothorax is a pleural collection of pus and gas, also referred to as empyemic hydropneumothorax or infected hydropneumothorax. It could be compared to a thoracic
+empyema variation that contains gas. Chest pain and fever are typically the patient's initial complaints.
+X-ray shows gas-fluid level. It could have loculations. There appears to be a loss of silhouette around the diaphragm dome. The thick pleural lining is strongly indicative of the
+
+
+
+pyopneumothorax.",4048-2608.PNG,B,4061-2623.PNG;4061-2622.PNG
+Q8,A young patient presents with nasal polyps and rhinosinusitis. X-ray and clinical images are as below. what is the diagnosis?,"a)young's syndrome
+b)kartagener's syndrome
+c)churg Strauss syndrome
+d)cystic fibrosis","The given clinical scenario along with an X-ray showing dextrocardia, CT showing maxillary polyp, and endoscopy showing nasal polyp is suggestive of kartagener's syndrome.
+primary ciliary dyskinesia (also called immotile cilia syndrome) is an autosomal recessive disorder affecting ciliary motility. when a patient has bronchiectasis, chronic sinusitis, and situs inversus    triad, he is known to have kartagener syndrome. It occurs due to the absence of protein dynein in the A tubules of the respiratory mucosa.
+
+
+The disease is usually diagnosed based on the clinical picture and should be evaluated in later   stages when a child presents with recurrent lower and upper respiratory tract infections. other features of primary ciliary dyskinesia include congenital heart diseases and neonatal
+hydrocephalus. Male patients with this condition tend to be infertile, due
+to asthenospermia (immotile spermatozoa due to impaired sperm flagella function).
+Transmission electron microscopy is the gold standard investigation to analyze cilia. There is no specific treatment for this condition and is managed according to the symptoms.
+other options:
+option A: Churg strauss syndrome clinically presents with asthma, fever and eosinophilia.
+option C: young's syndrome clinically presents with infertility (azoospermia) and bronchiectasis. option D: Cystic fibrosis is an autosomal recessive condition due to a mutation of the CFTR gene on chromosome 7. Clinical features include recurrent sinopulmonary infection, intestinal
+obstruction, pancreatic insufficiency, and male infertility. Diagnosis is made by elevated sweat chloride levels, abnormal nasal potential difference, and genetic testing for CFTR mutation.",4049-2610.PNG,B,4062-2624.PNG
+Q9,Given below is a USG taken at approximately 8 weeks of gestation. which anomaly can be observed here?,"a)Anencephaly
+b)Hydranencephaly
+c)Meningocele
+d)Encephalocele","The given ultrasound image shows an open defect in the calvaria and skin. This is consistent with the diagnosis of anencephaly.
+Anencephaly results from incomplete closure of the neural tube. It is one of the earliest detectable congenital defects that can be detected as early as 1o to 11 weeks of gestation.  screening can also   be done by serum estimation of maternal serum alpha-fetoprotein (MsAFP). The following are the radiological signs seen in anencephaly.
+• Frog eye sign - Absence of cranial calvaria, prominent orbits thereby resembling the face of a frog.
+• shower cap sign - The absence of the cranium could lead to the protrusion of a disorganized     mass of brain tissue. This resembles a shower cap giving rise to a characteristic triangular facial appearance.
+Neural-tube defects can be prevented with pre-conceptional supplementation of folic acid. A dose of 4 mg daily is recommended in subsequent pregnancies.
+The frog eye and showercap signs are shown below:
+
+
+
+
+
+
+other options:
+option B: Hydranencephaly: This condition involves the absence of cerebral hemispheres, replaced by fluid-filled sacs.
+option C: Meningocele: It involves herniation of the meninges through a defect in the skull or spinal column, forming a sac filled with cerebrospinal fluid.
+The image below shows meningocele:
+
+
+option D: Encephalocele is caused due to defects in the skull through which the meninges and/or neural tissue herniate. The squamous part of the occipital bone is the most frequently
+affected bone.
+The image shows a newborn with encephalocele.",4049-2609.PNG,A,4063-2625.PNG;4064-2627.PNG;4064-2626.PNG;4065-2629.PNG
+Q10,Match the following using the radiological image given below:,"a)3-A, 2-B, 1-C, 4-D
+b)2-A, 3-B, 4-C, 1-D
+c)1-B, 2-C, 3-A, 4-D
+d)2-A, 1-B, 3-C, 4-D","Here are the correctly matched structures:
+
+1	B. Trachea
+2	C. Esophagus
+3	A. Arch of Aorta
+4	D. superior vena cav a",4050-2611.PNG,C,4065-2628.PNG
+Q11,Identify the diagnosis from the given CT scan.,"a)PUJ obstruction
+b)Renal cyst
+c)Renal tumour
+d)Multicystic kidney","The CT scan showing ballooning of the left renal pelvis with moderate hydronephrosis ofthe
+affected kidney indicating a likely diagnosis of ureteropelvic junction obstruction (UPJ)of the left side.
+PUJ obstruction refers to a blockage or narrowing at the junction where the renal pelvis transitions into the ureter, leading to impaired drainage of urine from the kidney.
+Indications for surgery in patients with UPJ obstruction include:
+• On the diuretic renogram, UPJO with less than 4o% in the split function of the afflicted kidney.
+• Renal parenchymal atrophy in the presence of severe bilateral UPJO.
+• Despite preventive medicines, recurring urinary tract infections.
+• Obstructive UPJO that is symptomatic or linked with an abdominal mass
+Hydronephrosis may be detected on antenatal ultrasound; it can, however, be transient or mild and resolves on its own. Re-evaluation should be done after birth and in cases presenting with   symptoms of recurrent UTI, palpable flank mass or pain, urinary obstruction, and in cases of     failure to thrive.
+If the hydronephrosis is persistent, its severity is graded by the extent of the dilatation of the  pelvicalyceal system and parenchymal thickness. It needs to be ascertained whether the other kidney is involved, the lower ureter is dilated, the bladder wall is thickened, and whether
+emptying of the bladder is incomplete. Based on these findings, a diagnosis can be made.
+In cases of hydronephrosis, long-standing urine stasis and pressure may damage the kidneys.
+The causes of UPJ obstruction are
+• Intrinsic (due to an adynamic or stenotic segment of the proximal ureter) or
+• Extrinsic (e.g. compression by accessory renal arteries). This needs to be corrected primarily. The renal anatomy and function can be assessed using radioscintigraphy studies.
+The investigation of choice for UPJ obstruction is 99mTc-MercaptoAcetyl-triGlycine (MAG3)
+scan. Micturating cystourethrogram is the investigation of choice in vesicoureteric reflux.
+99mTc-dimercaptosuccinic acid (DMSA) scan is used for assessing renal scarring.
+Treatment of intrinsic UPJ obstruction is done surgically if renal function is compromised or if
+there is bilateral involvement of the kidneys. In other cases, serial follow-up with ultrasonography is done to assess the spontaneous resolution of hydronephrosis.
+Surgical options include pyeloplasty which entails the surgical division of the obstruction and the creation of a funnel-shaped anastomosis. Additionally, a temporary stent and a drain may be
+inserted. It is necessary to do further serial ultrasounds and MAG-3 imaging in order to ensure proper monitoring and evaluation. This procedure is now commonly being performed via
+laparoscopy and also with robotic assistance. Congenital PUJ obstruction is treated surgically by Anderson Hyen's pyeloplasty.
+Below are CT scans of a left PUJ obstruction before(left) and after(right) surgery.
+
+
+
+
+
+other options:
+option B: A renal cyst would appear as a fluid-filled, well-demarcated structure within the kidney but does not involve the PUJ or cause obstruction.
+option C: A renal tumor would present as a solid, abnormal mass within the kidney, not typically involving the PUJ unless there is direct extension.
+option D: Multicystic kidney refers to the presence of multiple cysts within the kidney, often congenital, but is not specific to the PUJ and would not result in obstruction at the PUJ.",4051-2613.PNG,A,4067-2630.PNG
+Q12,what does this image below indicate?,"a)choledochal cyst
+b)Gall bladder carcinoma
+c)cholangiocarcinoma
+d)choledocholithiasis","The given MRCP image showing saccular dilatation of the common bile duct suggests a diagnosis of type I choledochal cyst.
+Todani classification:
+• Type I- saccular dilatation of the whole (Ia) or a segment (Ib) of the common bile duct (CBD)
+• Type II- diverticulum from the CBD
+• Type III- choledochocele that opens into the duodenum
+• Type IV- multiple cysts (both intrahepatic and extrahepatic)
+• Type V- multiple cysts that are only intrahepatic (Caroli's disease)
+The diagnosis is made initially with a right upper quadrant ultrasound, following which a confirmatory MRCP can be carried out to help in pre-operative planning.
+Treatment is usually surgical with a Roux-en-y hepaticojejunostomy with radical resection of all    the biliary tissue. There is a risk of malignant transformation in long-standing disease, so surgical removal is usually recommended.
+other options:
+
+
+
+option B: Gall bladder carcinoma would show abnormal growths or masses in the gall bladder rather than cystic dilations of the bile ducts.
+option c: cholangiocarcinoma is a malignancy of the bile ducts and would present as irregular masses or bile duct strictures rather than cystic structures.
+option D: choledocholithiasis refers to the presence of stones in the bile duct, which would appear as filling defects within the bile ducts rather than cystic dilations.",4051-2612.PNG,A,
+Q13,Identify the condition shown in the image:,"a)chronic calicific pancreatitis
+b)Mesenteric calcification
+c)Horseshoe kidney
+d)Jejunal fecolith","As the given image shows, there are multiple calcifications within the region of the pancreas, which is characteristic of chronic calcific pancreatitis.
+This condition results from long-standing inflammation of the pancreas, leading to the deposition of calcium. chronic pancreatitis is often associated with alcohol abuse, genetic factors, or
+recurrent acute pancreatitis. The calcifications are a hallmark feature and help differentiate it from other abdominal pathologies.
+It presents with symptoms like chronic abdominal pain with a history of alcoholism and bulky     stools which indicates a lack of pancreatic lipases seen in chronic disease leading to impaired fat digestion and absorption.
+chronic pancreatitis is a progressive inflammatory disease in which there is an irreversible
+destruction of pancreatic tissue. It is more common in males, with a male: female ratio of 4:1.
+The etiology of chronic pancreatitis and pancreatic exocrine insufficiency can be classified based on the TIGAR-o classification system:
+• Toxic-metabolic -alcohol, smoking, hypercalcemia, hyperlipidemia
+• Idiopathic
+• Genetic- PRSS1, cFTR, and SPINK1 genes
+• Autoimmune- autoimmune chronic pancreatitis, IgG4-related disease
+• Recurrent and severe acute pancreatitis
+• obstructive- pancreas divisum, duct obstruction, malignancy
+The diagnosis can be made using Rosemont criteria. It is based on endoscopic ultrasonographic (EUS) findings. It is explained in the pearl attached below.
+ERcP is the most sensitive radiologic test for the diagnosis of chronic pancreatitis.
+The below image shows the X-ray findings:
+
+
+
+
+
+other options:
+option B: Mesenteric calcification would present in a different anatomical region and is associated with conditions like ischemia.
+option C: Horseshoe kidney involves the kidneys and does not cause pancreatic calcifications.
+option D: Jejunal fecolith refers to hardened stool within the small intestine.",4052-2614.PNG,A,4069-2631.PNG
+Q14,A 6-year-old child presented with seizures which subsided with injection Midazolam. Blood     investigations and lumbar puncture studies were normal. MRI is done and the image is given below. what is the next best investigation of choice for further assessment?,"a)MR SpectroScopy
+b)ocular B Scan
+c)CBNAAT ofCSF
+d)PET Scan","The given clinical history of a child along with an MRI showing a ring-enhancing intraaxial lesion of the brain could likely be a tuberculoma or neurocysticercosis and MR spectroscopy would be     the next best investigation for further assessment.
+Magnetic Resonance (MR) spectroscopy is a non-invasive test based on the principle of magnetic  resonance used to analyse the metabolite distribution within the brain tissue. It contains N-acetyl aspartate (NAA), a neuronal viability signal; choline (a component of cell membranes and a
+marker of cellular turnover); creatine (present in metabolically active tissues); lipids (released with cell membrane disruption); and lactate (a hallmark of anaerobic metabolism).
+The image below shows a normal MR spectroscopy.
+
+
+
+
+
+In tuberculoma, MR spectroscopy has reduced NAA owing to the destruction of the normal brain parenchyma and increased levels of lactate or lipids. In neurocysticercosis, there is reduced NAA  and creatine and elevated lactate, alanine, succinate, and choline levels.
+other options:
+option B- ocular B- scan is done to rule out diseases in the posterior segment in the presence of media opacities which is not significant for this case.
+option C- CBNAAT of CSF will not be the next investigation as the lumbar puncture analysis was normal.
+option D- PET-CT is done to assess the stage of cancer and is hence not required in this case.",4053-2615.PNG,A,4070-2632.PNG

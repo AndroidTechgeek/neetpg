@@ -1,0 +1,211 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,A patient undergoing surgery in the prone position is maintained on mechanical ventilation with PEEP. what is the significance of using PEEP in this scenario?,"a)Prevents alveoli collapse and atelectasis of lung
+b)Decreases inspiratory pressure
+c)Increases venous return and maintains cardiac output
+d)Reduces Co2 in alveoli","The significance of using positive end-expiratory pressure (PEEP) in the given clinical scenario is   to help keep the alveoli open, preventing collapse (atelectasis), which is especially important in the prone position where certain lung regions might be more susceptible to collapse.
+This is crucial in conditions where the lungs are prone to collapse, such as Acute Respiratory Distress Syndrome (ARDS) or when the patient is in a prone position during surgery. By
+maintaining open alveoli, PEEP improves gas exchange, which increases oxygen levels in the blood.
+other options:
+option B: Decreases inspiratory pressure: PEEP can increase the overall inspiratory pressure by maintaining pressure in the lungs at the end of expiration.
+option C: Increases venous return and maintains cardiac output: PEEP can decrease venous return due to increased intrathoracic pressure, which may reduce cardiac output.
+option D: Reduces Co2 in alveoli: PEEP does not directly reduce Co2 in the alveoli. The effect on Co2 depends on ventilation and perfusion matching, not just PEEP alone.",,A,
+Q2,which of the following statements are true about eutectic mixture of local anesthetic (EMLA)?,"a)1gm of o.5% of cream contains 5omg lignocaine
+b)Methohemoglobinemia is a side effect
+c)It is an equal mixture
+d)It is made of Lignocaine and ropivacaine","Methemoglobinemia can develop when high doses of prilocaine are administered, typically over 6oo mg.
+EMLA (Eutectic Mixture of Local Anaesthetic) is a topical mixture containing prilocaine. The risk of methemoglobinemia is increased in neonates with metabolic disorders or in those receiving
+drugs that can impair the reduction of methemoglobin.
+It is an eutectic(in fixed proportions) mixture, not necessarily equal (option c). It consists of a 1:1 mixture of 2.5% lidocaine (option A) and 2.5% prilocaine, not ropivacaine (option D)
+EMLA can provide adequate dermal analgesia for procedures like:
+• split skin-graft harvesting
+• venipuncture
+• Intravenous cannulation in children
+• Laser skin treatments
+• Lithotripsy
+• circumcision
+EMLA cream should not be used on mucous membranes, broken skin, infants younger than 1
+month of age, or patients with a predisposition to methemoglobinemia. EMLA is applied 45-6o    minutes before the procedure with an occlusive dressing. It provides analgesia up to a depth of 5 mm, which lasts for 1-2 hours.
+other side effects include- blanching of the skin, erythema, and oedema.",3505-2184.PNG,B,
+Q3,An anesthetist used the airway device shown in the image given below on a patient. which among the following statements is true regarding the adjunct?,"a)It can cause damage to the teeth
+b)It can be used in conscious patients
+c)It does not cause laryngospasm
+d)It can be safely used in facial trauma cases","The image shows a nasopharyngeal airway and its insertion. The true statement is that it can be used in conscious patients.
+A nasopharyngeal airway is used to provide artificial airway passage to the hypopharynx. To place  a nasopharyngeal airway, the device should be lubricated and inserted into the nose with the bevel facing the nasal septum, at a 9o-degree angle to the longitudinal axis of the body. It bypasses the   gag reflex as they do not go through the mouth. Thus, it can be used in conscious patients or those who have been lightly anesthetized.
+care should be taken to avoid excessive force as damage to the nasal mucosa can result in
+epistaxis. The nasal approach should be avoided in conditions that put patients at higher risk for epistaxis. These conditions include but are not limited to coagulopathy, pregnancy, hereditary
+hemorrhagic telangiectasia, and uncontrolled hypertension. Absolute contraindications include basilar skull fractures, facial trauma, midface disruption, and injury to the roof of the mouth.
+An oropharyngeal airway is used to maintain the airway in anesthetized patients. This adjunct   prevents the tongue and epiglottis from falling back against the posterior pharynx and blocking
+
+
+
+the airway. They can cause coughing, retching, or laryngospasm in conscious patients.
+To place an oropharyngeal airway, the device is inserted with the curved portion facing    downwards. It is then rotated 18o degrees to be put in place. The below image shows the oropharyngeal airway:",3506-2186.PNG,B,3515-2195.PNG
+Q4,"In the following condition as shown in the radiograph, which of the following procedures would be difficult to perform? ""","a)Nasogastric tube insertion
+b)Laryngeal mask airway
+c)Tracheostomy
+d)Indirect laryngoscopy","Tracheostomy would be difficult to perform in this case of pneumothorax with tracheal deviation.
+The trachea is displaced from its usual midline position, making it challenging to accurately locate and access the trachea for the incision. The tracheostomy procedure requires precise placement to ensure proper airway management and avoid complications.
+steps of Tracheostomy:
+• Incision: Make a vertical incision in the midline from the cricoid cartilage to above the sternal  notch. For elective procedures, a 5 cm transverse incision two fingers' breadth above the sternal notch can be used for a better cosmetic outcome.
+• Dissection: Dissect tissues in the midline. Displace or ligate any dilated veins encountered to control bleeding.
+• Muscle separation: separate and retract the strap muscles of the neck laterally to expose underlying structures.
+• Thyroid Isthmus Management: Displace the thyroid isthmus upwards or divide and ligate it with sutures.
+• Local Anesthesia: Inject a few drops of 4% lignocaine into the trachea to suppress coughing.
+• Tracheal Incision: Fix the trachea with a hook and make a vertical incision between the third and fourth tracheal rings, converting it into a circular opening. Avoid dividing the first tracheal ring to prevent perichondritis and stenosis.
+
+
+
+• Inserting the Tube: Insert a tracheostomy tube of appropriate size into the tracheal opening and secure it with tapes.
+• Avoiding Tight suturing: Avoid tightly suturing or packing the skin incision to prevent subcutaneous emphysema.
+• Dressing: place a gauze dressing between the skin and the flange of the tracheostomy tube
+around the stoma to absorb secretions, provide a barrier against infection, and allow air to escape, promoting proper healing
+other options:
+option A: Nasogastric tube insertion: Targets the esophagus, so tracheal deviation has minimal impact.
+option B: Laryngeal mask airway (LMA): positioned over the larynx, not directly affected by tracheal deviation.
+option D: Indirect laryngoscopy: Focuses on the larynx and vocal cords, and is less influenced by the trachea’s position.",3507-2187.PNG,C,
+Q5,which of the following agents is appropriate for reversing vecuronium when renal function tests are normal?,"a)physostigmine
+b)Rivastigmine
+c)sugammadex
+d)succinyl choline","sugammadex is used for immediate reversal of vecuronium-induced neuromuscular
+blockade/relaxant in the given scenario.
+sugammadex is a modified γ-cyclodextrin and the first selective relaxant–binding agent based on an encapsulating principle for the inactivation of nondepolarising neuromuscular blocking drugs mainly rocuronium and vecuronium. This principle of complex formation of sugammadex and
+rocuronium or vecuronium in a 1:1 ratio occurs at all levels of neuromuscular blockade resulting in a more fast-acting pharmacologic reversal when compared with anticholinesterase drugs like  neostigmine.
+other options:
+options A and B: physostigmine and Rivastigmine are acetylcholinesterase inhibitors, which are not effective for reversing vecuronium.
+option D: succinylcholine is a neuromuscular blocker itself and would not reverse vecuronium; it is used to induce paralysis rather than reverse it.",,C,
+Q6,"A COVID-19 patient admitted to the ICU on mechanical ventilation suddenly develops
+hypoxia. The patient has decreased breath sounds on the left side and increased intrathoracic pressure. what is the most likely diagnosis?","a)pneumothorax
+b)Left-sided pleural Effusion
+c)Acute Respiratory Distress syndrome
+d)Left-sided Pneumonia","This patient in the above clinical scenario has developed a sudden onset of hypoxia, decreased
+breath sounds on one side, and increased intrathoracic pressure, along with an X-ray showing
+hyper lucency in the left side with tracheal and mediastinal shift to the right side is suggestive of a diagnosis of pneumothorax.
+A pneumothorax occurs when air enters the pleural space, causing lung collapse and preventing     normal lung expansion, which leads to absent or diminished breath sounds over the affected area. pneumothorax can cause a rapid increase in intrathoracic pressure, which impairs lung expansion
+
+
+
+and leads to significant hypoxia. In patients on mechanical ventilation, it delivers positive
+pressure to the lungs, which can exacerbate or reveal underlying pleural issues. Increased positive pressure can contribute to the development or worsening of a tension pneumothorax.
+other options:
+option B: Left-sided pleural Effusion: while this condition can also cause decreased breath sounds and hypoxia, it typically does not cause acute increases in intrathoracic pressure.
+option C: Acute Respiratory Distress syndrome (ARDs): ARDs is characterized by diffuse lung  inflammation and can lead to hypoxia. However, it generally does not cause localized decreased breath sounds.
+option D: Left-sided pneumonia: pneumonia can cause hypoxia and decreased breath sounds but is less likely to be associated with a sudden increase in intrathoracic pressure.",3507-2187.PNG,A,
+Q7,"A 3-year-old child presents with drowsiness and refusal to feed. on examination, the child is  in a stuporous state. The ECG is shown below. what is the next best step in the management of this patient?","a)Immediate synchronized cardioversion @ 1 joule/kg
+b)Defibrillate, check rhythm and then start CPR
+c)Defibrillate followed by CPR for 2min, and check rhythm
+d)stop CPR and do cardioversion at 2 joules/ kg","The given ECG showing polymorphic ventricular tachycardia, which is a shockable rhythm, in a stuporous paediatric patient warrants immediate defibrillation followed by CpR for 2 minutes.
+polymorphic ventricular tachycardia, especially in a paediatric patient, is often associated with severe underlying conditions and is a life-threatening rhythm disturbance. Immediate
+defibrillation is critical for restoring a normal rhythm.
+After defibrillation, it is advisable to do CpR for 2 minutes before reassessing the rhythm for the next round of shock to ensure adequate blood circulation and oxygenation. .
+
+
+Note: Cardioversion is not suitable for polymorphic VT; defibrillation is the preferred approach in such cases.",3508-2188.PNG,C,3517-2196.PNG
+Q8,At what pressure does the marked structure open?,"a)3o-4o cm H2o
+b)3o-4o mm Hg
+c)1o-2o cm H2o
+d)1o-2o mm Hg","In the image, the marked structure is the adjustable pressure-limiting (APL) valve of Mapelson-C anaesthetic breathing system and it will open at the pressure of 3o-4o cm H2o. This valve is
+designed to release gas when a certain pressure is exceeded to prevent excessive pressure from building up in the patient's airway.
+The APL valve typically opens at pressures of 3o-4o cm H■o to allow for safe ventilation without causing barotrauma to the lungs. This range is appropriate for manual ventilation to prevent high airway pressures that could lead to lung injury.",3509-2190.PNG,A,3518-2197.PNG
+Q9,This recovery position is appropriate for:,"a)unresponsive patient, pulse and breathing absent
+b)Responsive patient, pulse and breathing present
+c)unresponsive patient, pulse and breating present
+d)unresponsive with pulse, without breathing","The position illustrated in the picture is known as the recovery position, and it is used in the  management of patients who are unresponsive but with pulse present and breathing present.
+The recovery position can help prevent complications such as aspiration and airway obstruction in unconscious individuals. Additionally, it is crucial to continuously monitor the patient's airway,
+breathing, and circulation while in recovery and seek immediate medical assistance. An
+unresponsive patient who is breathing spontaneously in the supine position is at risk of airway obstruction from their tongue, mucus, vomit, etc. A modified lateral position is used and the
+following 6 principles are considered while choosing which variation of recovery position to use,
+•
+The victim should be in as near a true lateral position as possible, with the head dependent to allow free drainage of fluid.
+•
+The position should be stable.
+•
+Avoid any pressure on the chest that impairs breathing.
+•
+
+
+
+It should be possible to turn the victim on his or her side and to return to the back easily and safely, with concern for a possible cervical spine injury.
+•
+Good observation of and access to the airway should be possible.
+•
+The position itself should not cause injury to the victim.
+other options:
+option A: unresponsive with pulse and breathing absent - In this situation, the patient is in    cardiac arrest and requires immediate cardiopulmonary resuscitation (CpR), not the recovery position. CpR involves chest compressions and rescue breaths to support circulation and
+respiration.
+option B: Responsive patient with pulse and breathing present- The patient should be monitored until the emergency response team arrives.
+option D: unresponsive with pulse present and breathing absent - In this case, the patient is
+experiencing respiratory arrest. Rescue breathing or bag-valve-mask ventilation should be
+initiated to support the patient's breathing. The recovery position is not indicated in this scenario.",3509-2189.PNG,C,
+Q10,Following is the image of a normal capnograph. what is true about the segment 3-4?,"a)Inhalation of fresh gas
+b)Exhalation of dead space air
+c)Exhalation of mixed gases
+d)Alveolar gas and plateau pressure","In a capnographic waveform, the plateau phase corresponds to alveolar air and plateau pressure. The normal waveform has four different phases:
+phase I: Inspiratory baseline, represents the Co2-free gas from the airways (anatomical and apparatus dead space).
+phase II: Expiratory upstroke, mixing of dead space gas with alveolar gas.
+phase III: Alveolar plateau, represents Co2-rich gas from the alveoli. The last of the alveolar gas is sampled to measure ETCo2.
+phase o: Inspiratory downstroke and the beginning of inspiration.
+Alpha angle: The transition from phase II to III.
+The alpha angle can be used to assess the ventilation/perfusion of the lung. V/Q mismatches will have an alpha angle greater than 9o degrees.
+Beta angle: The transition from phase III to o.
+The beta angle can be used to assess rebreathing. If rebreathing occurs, the angle is greater than 9o degrees.",3510-2191.PNG,D,3520-2198.PNG
+Q11,what is the procedure being done in the image?,"a)Bier Block
+b)Axillary nerve block
+c)Median nerve block
+d)wrist block","The position in the image of a hand with a tourniquet occluded limb shows a Bier Block.
+IVRA or Bier’s block involves the intravenous administration of a local anesthetic into a
+tourniquet-occluded limb. It is used to provide anesthesia for short surgical procedures (&lt;9o minutes) on the limbs.
+other options:
+option B: The axillary nerve block provides anesthesia for short surgical procedures on the hand, wrist, or forearm.  It is performed by using a ultrasound-guided needle in the proximal axilla
+between the tendon of the lattisimus dorsi and the teres major.
+option C: Median nerve blocks are used for procedures involving the palmar aspect of the arm or the carpal tunnel. For a median nerve block at the elbow, the probe is placed in the elbow crease   over the proximal radius and the anesthetic is injected aiming for the fascial plane between flexor digitorum superficialis and flexor digitorum profundus.
+option D: For a wrist block, the arm is abducted with the hand in supination, following which the anesthetic is infiltrated in the dorsal aspect of the wrist. This is used for short procedures of the     wrist and the fingers.
+Note: Bupivacaine is not used for Biers block. It is the most cardiotoxic local anesthetic.
+Accidental early deflation of the tourniquet can lead to massive systemic doses of bupivacaine resulting in cardiac arrhythmias and cardiovascular collapse.",3511-2193.PNG,A,
+Q12,what is true about the following position?,"a)High rate of error
+b)Ideal position for bougie insertion in emergencies
+c)Ideal postion for neurosurgery
+d)sniffing position for intubation","The above image shows the sniffing position used for intubation, which is the true statement.
+
+
+
+The sniffing position is a common head and neck alignment technique used during intubation to optimize the view of the glottis for easier insertion of the endotracheal tube. It is achieved by
+flexing the neck and extending the head, resembling the posture one assumes when sniffing. The position aligns the oral, pharyngeal, and laryngeal axes to provide a straight line of sight, making the glottis more visible during direct laryngoscopy and intubation.
+steps of intubation using the sniffing position:
+• Direct laryngoscopy is performed in the sniffing position, with the head elevated 5-1o cm above the surgical table, the cervical spine flexed, and the atlantooccipital joint extended.
+• The epiglottis is lifted up by the tip during laryngoscopy with Miller's blade.
+• while performing laryngoscopy, the scope is lifted upwards and never levered over the upper incisors.
+other options:
+option A: The sniffing position is the most commonly used position in anesthesia as it ensures   patient safety by ensuring a straight line of sight, allowing for better outcomes of the procedure.
+option B: The sniffing position is not the ideal position for bougie insertion during emergencies as there is concerns for cervical spine trauma in patients in the emergency department.
+option C: The sniffing position is not the typical position for neurosurgery. Depending on the location of the surgery, different head and neck positions are used.",3511-2192.PNG,D,
+Q13,A patient presents with stridor after prolonged intubation. The endoscopic view is shown in the image below. what is the staging system for this condition?,"a)Cotton Meyer's
+b)AJCC
+c)Radkowski
+d)TNM","This patient presenting with stridor after prolonged intubation most likely has subglottic stenosis post intubation. This condition is staged by the Cotton Meyer's grading.
+subglottic stenosis following prolonged intubation is a narrowing of the airway just below the  vocal cords (subglottic region), which can lead to difficulty breathing. This condition is often a complication of endotracheal intubation due to the pressure exerted by the tube or cuff on the airway mucosa, leading to injury and scarring.
+These patients present with stridor, dyspnea, hoarseness or changes in voice, and difficulty in breathing.
+Diagnosis is by laryngoscopy or bronchoscopy which allows direct visualization of the subglottic area to assess the degree of stenosis.
+CT or MRI may be used to evaluate the extent of narrowing and identify any underlying structural damage.
+Treatment can be via endoscopic balloon or mechanical dilation, laser therapy or surgical
+resection may be needed to remove the stenosis in severe cases. In severe cases, a tracheostomy may be required to bypass the obstructed segment and allow for breathing.",3512-2194.PNG,A,3522-2199.PNG
+Q14,"A patient is undergoing implant surgery for his upper limb. on giving general anaesthesia he  develops tachycardia, sudden raise in body temperature and rigidity of muscles. what drug is most likely to have caused this?","a)propofol
+b)Etomidate
+c)Nitrous oxide
+d)Halothane","In the clinical scenario given above, the development of tachycardia and muscle rigidity soon after administration of anesthetic agents can be due to malignant hyperthermia. Halothane is the
+anesthetic agent associated with this condition.
+Malignant hyperthermia is a rare genetic hypermetabolic disease of the muscle. It occurs due to a mutation of the gene for the ryanodine receptor (Ryr 1), located on chromosome 19. It is an ion     channel responsible for calcium release from the sarcoplasmic reticulum.
+The symptoms develop when the patient is exposed to suxamethonium/succinylcholine or other inhaled anesthetics like halothane, isoflurane, sevoflurane, desflurane, etc. The mutated
+ryanodine receptor leads to a sudden release of calcium from the sarcoplasmic reticulum of the skeletal muscle. This uncontrolled increase in intracellular calcium removes the inhibition of     troponin, resulting in sustained muscle contraction, and increasing adenosine triphosphatase    (ATpase) activity. This results in an uncontrolled hypermetabolic state with increased oxygen     consumption and Co2 production, producing severe lactic acidosis and hyperthermia.
+The key clinical features are:
+• succinylcholine-induced masseter muscle rigidity (causing trismus) or generalized muscle rigidity
+• Tachycardia
+• Hypercarbia (increased Co2 production) and reduced oxygen saturation
+• Hyperthermia (rise of 1° Celsius can occur every 5 minutes)
+• Arrhythmia
+• Hypertension
+• Myoglobinuria and myoglobinemia indicating muscle damage
+• Metabolic derangements like hyperkalemia and mixed metabolic and respiratory acidosis
+
+
+
+Treatment is to discontinue the triggering agents i.e. succinylcholine followed by administration   of 1oo% oxygen. Metabolic acidosis and hyperkalemia need to be corrected. Hyperthermia must   be controlled by cooling the patient. Dantrolene sodium is the drug of choice. It is given at a dose of 2.5 mg/ kg intravenously and can be repeated every 5-1o minutes till the attack subsides.",,D,

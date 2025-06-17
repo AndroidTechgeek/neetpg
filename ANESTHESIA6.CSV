@@ -1,0 +1,54 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,what is the mechanism of action of the curare group of muscle relaxants?,"a)persistently depolarizing at neuromuscular junction
+b)competitively blocking the binding of Ach to its receptors
+c)Repetitive stimulation of Ach receptors on muscle endplate
+d)Inhibiting the calcium channels on presynaptic membrane","The curare group of drugs includes non-depolarizing neuromuscular blocking agents that act by competitively blocking the binding of acetylcholine to its receptors.
+This leads to a decrease in the effect of acetylcholine and thus, neuronal transmission to the muscle does not occur.",,B,
+Q2,which among the following IV anaesthetics does not cause myocardial depression?,"a)Etomidate
+b)propofol
+c)Thiopentone
+d)ketamine","Etomidate, a short-acting I.V. anesthetic agent doesn’t cause myocardial depression.
+Etomidate is the most cardiac stable intravenous agent due to its lack of effect on the sympathetic nervous system and on the function of the baroreceptor. Hence, etomidate is the I.V. agent of
+choice in patients with coronary artery disease, cardiomyopathy, and cerebral vascular disease.
+side effects of Etomidate:
+• The highest incidence of nausea and vomiting among inducing agents
+• superficial thrombophlebitis and pain on injection
+• Adrenocortical suppression
+Note: Although ketamine has an indirect sympathetic stimulatory effect, it possesses a direct negative inotropic effect on the myocardium. Hence, ketamine has to be used cautiously in     critically ill patients with shock, as they are prone to have a depletion of endogenous
+catecholamines. ketamine infusion in such patients can unmask its direct negative inotropic effects and further decrease the blood pressure and cardiac output.
+Hence, for this MCQ, Etomidate is the best answer.",,A,
+Q3,which of the following is not used for induction of anaesthesia in pediatric patients?,"a)Halothane
+b)sevoflurane
+c)Desflurane
+d)Nitrous oxide","Desflurane is a highly pungent gas and can produce laryngospasm if used for inhalational induction. Hence it is not used as an induction agent.
+The incidence of laryngospasm following desflurane induction is almost 5o%. It is usually used for maintenance of anaesthesia only and is of particular value in obese patients, neurosurgical and
+spinal fusion procedures where rapid awakening is required for neurological function assessment.
+option A: Halothane is hepatotoxic but can be used (sevoflurane is preferred)
+option B: sevoflurane is the preferred inhalational agent for induction in the pediatric age group. cardiovascular depression, bradycardia, and arrhythmias are less frequent with sevoflurane than  with halothane and hence the former is preferred.
+option D: Nitrous oxide has the highest minimum alveolar concentration and so it is the least   potent. It is used in combination with other potent inhaled anaesthetics to reduce their dose. It can be used to hasten the induction of anaesthesia along with other induction agents.",,C,
+Q4,which of the following agents does not elicit pain on injection?,"a)ketamine
+b)propofol
+c)Etomidate
+d)Thiopentone","ketamine does not elicit pain on injection, instead produces profound analgesia.
+propofol is formulated as a lipid emulsion, which causes pain on injection. A new aqueous prodrug, fospropofol is associated with less pain on injection.
+Etomidate, although it causes pain on injection, the lipid formulation of etomidate is associated with a much less frequent incidence of pain.
+Thiopentone at a concentration greater than 2.5% can produce pain on injection and venous thrombosis.",,A,
+Q5,which among the following is most commonly used to monitor the depth of anaesthesia?,"a)EEG
+b)provoked lower oesophageal contractility
+c)Entropy
+d)Bispectral index","The bispectral index is the most commonly used method to monitor the depth of anesthesia.
+Note: Middle latency auditory evoked potential is the most sensitive indicator to evaluate the depth of anesthesia.",,D,
+Q6,which of the following is measured by the device shown in the given image?,"a)oxygen saturation
+b)oxygen content of the blood
+c)partial pressure of oxygen
+d)Amount of inspired oxygen","The given image depicts a pulse oximeter. pulse oximetry is used for monitoring pulse rate and oxygen saturation of a patient.
+A small sensor is placed on the finger, toe, earlobe, or another convenient place. The relative
+absorption of light by oxyhemoglobin (Hbo2) and deoxyhemoglobin is assessed by measuring the amount of red and infrared light emerging from tissues traversed by light rays and processed by    the device, producing an oxygen saturation level.
+
+
+
+pulse oximetry does not measure the absolute content or the partial pressures of oxygen or carbon dioxide.
+A pulse oximeter is not always reliable as it reads:
+• Falsely high - carboxyhemoglobinemia
+• Falsely low - severe anemia, low cardiac output states, hypovolemia, increased systemic vascular resistance
+• 8o% to 85%, irrespective of the arterial oxygen saturation - methemoglobinemia",3437-2150.PNG,A,

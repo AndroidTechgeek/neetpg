@@ -1,0 +1,282 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,choose the correct statement regarding the telomerase theory of aging.,"a)Telomere stability is associated with aging
+b)Abnormal telomerase activation is associated with aging
+c)Decreased telomere length is associated with aging
+d)Increased telomere length is associated with aging","A decreased telomere length is associated with aging.
+Telomeres are short TG-rich repeated sequences of DNA present at the ends of linear eukaryotic chromosomes. Telomeres do not code for any proteins. They are important for ensuring the
+complete replication of chromosome ends and for protecting the ends from fusion and
+degradation.
+Normally, with every cell division, there is some shortening of telomeres at the ends of
+chromosomes. once the telomeres are shortened beyond a certain point, it may cause cell-cycle arrest or apoptosis. This is called replicative senescence.
+Telomerase is the enzyme that prevents the shortening of telomeres. It is a specialized
+RNA-protein complex that uses its own RNA as a template for adding nucleotides to the ends of chromosomes.
+This enzyme is usually present in germ cells but is absent in most somatic cells. Therefore most of the somatic cells age, their telomeres become shorter and they exit the cell cycle, resulting in an
+inability to generate new cells to replace damaged cells. Abnormal telomerase reactivation in     somatic cells leads to evasion of senescence and apoptosis. It enables the cells to divide several times than usual.
+In stem cells and cancer cells, telomerase is usually reactivated and telomere length is stabilized, allowing the cells to proliferate indefinitely.",,C,
+Q2,"A child presents with recurrent chest infections and abdominal pain. There is a history of 1 blood transfusion in the past. on examination, he had icterus and mild splenomegaly.
+Electrophoresis shows increased HbA2, HbF, and S spike. what is the likely diagnosis?","a)Beta thalassemia
+b)Hbc disease
+c)Sickle cell disease
+d)Acute coronary disease","The given scenario with electrophoresis showing increased HbA2, HbF, and s spike is suggestive of sickle cell disease.
+sickle cell anemia is an autosomal recessive disorder that occurs due to the point mutation in the   β-globin gene which results in the replacement of glutamate residue with valine. This causes the     production of sickle-shaped red blood cells due to the polymerization of deoxygenated hemoglobin (Hbs).
+Factors that predispose to sickling are infection, dehydration, and acidosis.
+The clinical features of sickle cell disease are due to the tendency of Hbs molecules to stack into polymers when deoxygenated. The features are:
+• Moderately severe hemolytic anemia with jaundice.
+• painful bone crisis- hand-foot syndrome or dactylitis of the bones of hands and feet.
+• Acute chest syndrome typically presents with fever, cough, chest pain, and pulmonary infiltrates.
+• Hyposthenuria- inability to concentrate urine.
+
+
+
+• Aplastic crisis stems from the infection of red cell progenitors by parvovirus B19, which causes a transient cessation of erythropoiesis and a sudden worsening of the anemia.
+• Spleen
+• In children- splenic sequestration crises occur which results in splenomegaly due to red pulp congestion.
+• Adolescence or early adulthood- autosplenectomy occurs due to splenic infarction, fibrosis, and progressive shrinkage.
+• Increased susceptibility to infection with encapsulated organisms like pneumococcal,
+meningococcal, and Haemophilus influenza septicemia, but can be reduced by vaccination and prophylactic antibiotics.
+• other clinical features- priapism, leg ulcers, stroke, retinopathy, pigment gallstones, and growth retardation.
+The diagnosis is suggested by the clinical findings, the presence of irreversibly sickled red cells on peripheral smear, and hemoglobin electrophoresis showing increased levels of HbA2, HbF, and S  spike. The changes in the skull resemble a crewcut in radiographic studies as a result of
+compensatory erythroid hyperplasia.
+The image given below shows the sickling of RBCs in sickle cell disease.
+
+
+The image given below shows Howell-Jolly bodies seen in asplenia.
+
+
+
+
+
+Note: The sickle cell trait protects against falciparum malaria in certain African populations. other options:
+option A: Beta-thalassemia is an autosomal codominant disorder, caused by mutations in alpha or beta globin that reduce hemoglobin synthesis. Peripheral smear shows microcytic, hypochromic
+cells with anisocytosis, poikilocytosis, target cells, and basophilic stippling. Hemoglobin electrophoresis shows increased HbF and HbA2.
+option B: Hbc disease is caused by mutation in the beta-globin chain in which glutamate is
+replaced by lysine in the sixth position of the beta-globin chain. Patients usually present with very mild anemia and microcytosis. Peripheral smear shows hexagonal Hbc crystals. Hemoglobin
+electrophoresis shows increased Hbc levels.
+option D: Acute coronary syndrome is very rare in children and may be associated with kawasaki disease. children with kawasaki disease present with fever, conjunctival ingestion, strawberry
+tongue, polymorphous rash, cervical lymphadenopathy, and hand and foot changes. They are treated with intravenous immunoglobulin and aspirin.",,C,2182-1430.PNG;2183-1431.PNG
+Q3,why do neoplastic cells utilize warburg metabolism?,"a)It decreases glucose utilisation by neoplastic cells
+b)It forms metabolic intermediates which are needed for cell growth and multiplication
+c)It provides more energy in the form of increased ATP production
+d)It prevents apoptosis and makes the cancer cells immortal","Neoplastic cells utilize warburg metabolism for the generation of metabolic intermediates, which are needed for cell growth and multiplication.
+The warburg Effect is a phenomenon in which there is an increase in the rate of glucose uptake and conversion into lactate(fermentation), even in the presence of oxygen. cancer cells derive     energy mainly from glycolysis.
+cancer cells utilize glycolysis (2 ATP) over mitochondrial oxidative phosphorylation (36 ATP) for glucose metabolism, even though the latter produces more ATP. It is because pure oxidative
+phosphorylation produces abundant ATP, but also burns glucose to co2 and H2o, leaving no carbon moieties suitable for use as building blocks for lipids or proteins.
+
+
+
+For this reason, rapidly growing cells, by undergoing glycolysis, produce carbon moieties that are needed for growth and cellular maintenance.
+The image given below shows the comparison of glucose metabolism in normal cells versus cancer cells.
+
+
+As a result of decreased ATP production, the main metabolic function of mitochondria in growing cells is not to generate ATP, but to carry
+out reactions that generate cellular building blocks. For example, lipid biosynthesis.
+warburg effect is produced by growth factor receptors downstream signalling pathways. These include receptor tyrosine kinase/PI3K/AKT and MYC.
+Clinically, cancer cells exhibiting the warburg effect show a property of glucose hunger. This is used to visualize them via positron emission tomography (PET) scanning.",,B,2184-1432.PNG
+Q4,"An elderly patient presents with anemia and hemoglobinuria. Investigations reveal increased lactate dehydrogenase (LDH). The peripheral smear image is given below. which of the
+following physical examination findings can support the likely diagnosis?","a)splenomegaly
+b)Frontal bossing
+c)Mechanical second heart sound
+d)Goitre","The above scenario with anemia, increased LDH, and hemoglobinuria along with peripheral
+smear showing schistocytes are suggestive of macroangiopathic hemolytic anemia (MAHA). The presence of a mechanical second heart sound can support the diagnosis.
+Macroangiopathic hemolytic anemia is a type of hemolytic anemia that results from trauma to red cells by artificial mechanical cardiac valves that produce turbulent blood flow and pressure
+gradients that cause hemolysis from shear forces. This traumatic damage leads to intravascular hemolysis and the appearance of red cell fragments (schistocytes), burr cells, helmet cells, and   triangle cells in blood smears.
+The given below peripheral smear shows schistocytes and helmet cells.
+
+
+
+
+
+Laboratory findings in hemolytic anemia resulting from trauma to red cells:
+• Hemoglobin- decreased
+• Reticulocytes- increased
+• platelets- normal
+• unconjugated bilirubin- increased
+• Lactate dehydrogenase- increased
+• Haptoglobin- decreased
+• Hemoglobinuria due to intravascular hemolysis
+Treatment is conservative. But, if more than mild anemia develops, reintervention to correct regurgitation may be required.
+option A: splenomegaly is seen in various disorders of white and red cells. But splenomegaly in intravascular hemolysis is less likely.
+option B: Frontal bossing is seen in thalassemia due to expansion of hematopoietically active marrow. An X-ray of the skull shows a 'crewcut' appearance. peripheral smear in thalassemia shows microcytic hypochromic cells with anisocytosis, poikilocytosis, and target cells.
+option D: Goiter is usually associated with iron deficiency anemia. A peripheral smear shows microcytic hypochromic cells.",2178-1428.PNG,C,2185-1433.PNG
+Q5,All of the following statements are true regarding neutrophil extracellular trapping (NET) except that,"a)It is detected in blood during sepsis.
+b)It is produced in response to bacterial infection.
+c)Mitochondrial DNA is seen.
+d)It is chromatin with antibacterial enzymes.","Mitochondrial DNA is not seen in neutrophil extracellular traps (NET).
+Neutrophilic extracellular traps are networks of extracellular fibers that provide a high
+concentration of antimicrobial substances at the site of infection and prevent the spread of the microbes by trapping them in the fibrils.
+
+
+
+Neutrophilic extracellular traps (NET) are the meshwork of nuclear chromatin of neutrophils. The loss of nuclei leads to the death of the neutrophils. They concentrate antimicrobial peptides and     enzymes to fight against bacteria and fungus (not viruses). They are detected in the blood during   sepsis. They are produced by neutrophils in response to:
+• Infectious pathogens: mainly bacteria and fungi
+• Inflammatory mediators: chemokines, cytokines (mainly interferons), complement proteins, and reactive oxygen species (ROS)
+Note: The nuclear chromatin in the NETs, which includes histones and associated DNA, has been postulated to be a source of nuclear antigens in systemic autoimmune diseases, particularly
+systemic lupus erythematosus (SLE).",,C,
+Q6,"A patient underwent cystoscopy, which showed multiple yellow-white plaques in the trigone of the bladder. The histopathology image is given below. what is the diagnosis?","a)Interstitial cystitis
+b)Malakoplakia
+c)polypoid cystitis
+d)Acute cystitis","The cystoscopy findings of multiple yellow-white plaques in the trigone of the bladder and
+histopathology image showing Michaelis–Gutmann bodies are consistent with the diagnosis of malakoplakia.
+Malakoplakia is a rare inflammatory reaction seen in chronic cystitis. It is caused due to
+acquired defects in phagocyte function, chronic bacterial infection by Escherichia coli or proteus species, and immunosuppression (renal transplant patients).
+The term malakoplakia means soft plaques. Grossly, malakoplakia appears as soft, yellow, slightly raised mucosal plaques.
+Microscopically, they are composed of large, foamy macrophages mixed with occasional
+multinucleate giant cells and lymphocytes. The macrophages in malakoplakia have abundant
+granular cytoplasm due to phagosomes stuffed with undigested bacterial products and
+intracellular deposition of calcium and iron within enlarged lysosomes form laminated basophilic concretions. These are known as Michaelis–Gutmann bodies, pathognomonic of malakoplakia
+(shown below).
+
+
+
+
+The image given below shows the von kossa stain demonstrating calcium and iron-containing Michaelis-Gutman bodies (MG bodies) in malakoplakia.
+
+
+Note: xanthogranulomatous cystitis is morphologically and probably pathogenetically similar to malakoplakia, but it lacks Michaelis–Gutmann bodies.
+other options:
+option A: Interstitial cystitis, also known as chronic pelvic pain syndrome, is a disorder of the
+urinary bladder that presents with urinary tract symptoms of more than six weeks duration of
+unknown etiology. Grossly, it is associated with chronic mucosal ulcers called Hunner's ulcers.
+Microscopically, there is a non-specific increase in mast cells in the submucosa. Biopsy should be done in all cases to rule out carcinoma in situ.
+The cystoscopy image shows Hunner's ulcer, seen in interstitial cystitis.
+
+
+option C: polypoid cystitis is an inflammatory lesion resulting from irritation of the bladder mucosa, most commonly due to indwelling catheters. The urothelium is thrown into broad
+
+
+
+bulbous polypoid projections due to marked submucosal edema. They must be differentiated from papillary urothelial carcinoma.
+The given image below shows polypoid cystitis showing broad polypoid growth, prominent blood vessels, and metaplastic urothelium in H&amp;E stain.
+
+
+option D: Acute cystitis is characterized by an inflammation of the urinary bladder following     infection, most commonly by Escherichia coli, proteus, klebsiella, and Enterobacter. It is more commonly seen in women due to the short urethra. Microscopically, there is hyperemia and
+neutrophilic infiltration of the mucosa.",2179-1429.PNG,B,2186-1434.PNG;2187-1436.PNG;2187-1435.PNG;2188-1437.PNG
+Q7,which of the following measures are associated with an increased life span?,"a)Moderate or regular exercise for 3o min
+b)Decrease stress
+c)Decreasing calorie intake by 3o percent
+d)pharmacological intervention with proton pump inhibitors","Decreasing calorie intake by 3o percent will increase lifespan.
+caloric restriction reduces both the degree of oxidative damage and the associated decline in
+function. It decreases the steady-state concentrations of products of oxidative damage to proteins, DNA, and lipids. This is due to decreased production of mitochondrial superoxide anion and
+hydrogen peroxide and increased antioxidant production. overall, caloric restriction depresses the rate of energy metabolism.
+caloric restriction increases longevity both by reducing the signaling intensity of the insulin-like  growth factor (IGF-1) pathway and by increasing sirtuins (NAD-dependent protein deacetylases).
+The attenuation of IGF-1 signaling leads to lower rates of cell growth and metabolism that reduces cellular damage. A similar effect is produced by rapamycin. An increase in sirtuins (particularly
+sirtuin-6) promotes the expression of several genes whose products increase longevity by activating DNA repair enzymes through deacylation.
+caloric restriction delays the onset of age-associated diseases such as cancer (including
+lymphomas and breast and prostate cancers), nephropathy, and cataracts. The onset of diabetes,  hypertension, hyperlipidemia, and the development of autoimmune diseases is also decreased by caloric restriction.",,C,
+Q8,A 56-year-old man was diagnosed with COVID-19 and was put on mechanical ventilation. He passed away after a week. what is the likely post-mortem change seen in the lungs?,"a)Thick layer of fibrin lining the alveoli
+b)Acute and chronic alveolar hemorrhage
+c)perivascular cuffing
+d)pulmonary artery hypertrophy with increased resistance","The clinical scenario of a patient with COVID-19 pneumonia on mechanical ventilation is
+suggestive of acute respiratory distress syndrome (ARDS). A thick layer of fibrin or waxy hyaline membranes lining the alveolar walls are characteristic of ARDS.
+COVID-19 is a respiratory disease caused by SARS-CoV-2. These are enveloped positive-sense
+RNA viruses. The spread of SARS-CoV-2 is believed to be primarily via respiratory droplets, direct contact, airborne, and fomites.
+The major complication in patients with severe COVID-19 is ARDS requiring oxygen therapy and   mechanical ventilation. ARDS is a clinical syndrome characterized by acute onset, severe dyspnea, tachypnea, hypoxemia, and pulmonary infiltrates leading to respiratory failure.
+Etiological factors can be divided into direct and indirect causes of lung injury as follows:
+Damage to the endothelial and alveolar epithelial cells, with inflammation, is the key initiating event and the basis of lung damage. Neutrophils play a significant role in tissue injury in this    condition.
+There are three stages in the development of ARDS:
+• Exudative phase- occurs for the first 7 days of the illness. This is associated with damage to
+alveolar-capillary endothelial cells and type I pneumocytes. This results in a breach in the tight
+alveolar barrier. The release of proinflammatory cytokines leads to the recruitment of neutrophils and the development of a hyaline membrane in the alveoli.
+• proliferative phase- occurs from day 7-21. Recovery from mechanical ventilation is seen in most patients.
+• Fibrotic phase- is associated with increased mortality. Extensive alveolar duct and interstitial fibrosis are seen.
+The image given below shows hyaline membrane formation in the alveolar walls seen in ARDS.
+
+Direct lung injury	Indirect lung injury
+pneumonia	Sepsis
+Aspiration of gastric contents	Transfusions
+Near drowning	Drug overdose
+Toxic inhalational injury	Multiple transfusions
+pulmonary contusion	pancreatitis
+COVID-19	Severe trauma likeburns, flail chest, head trauma, multiple bone fractures
+
+
+
+
+
+
+The chest X-ray features in ARDS usually develop 12-24 hours after initial lung insult as a result of proteinaceous interstitial edema. within one week, a hyaline membrane occurs due to type 1
+pneumocyte damage. There are diffuse bilateral coalescent opacities consistent with pulmonary edema.
+The image given below shows chest x-ray findings seen in ARDS.
+
+
+Berlin's definition of ARDS predicts increased mortality. It considers the following parameters:
+• Chest X-ray showing bilateral opacities
+• Respiratory failure within 1 week of alveolar insult
+• Decreased pao2/Fio2 ratio to less than 3oo
+• Symptoms of respiratory failure are not due to heart failure/fluid overload
+Diagnosis of CoVID-19 is done by nucleic acid amplification testing of respiratory tract secretions by nasopharyngeal swab. It is associated with elevated inflammatory markers, such as interleukin
+
+
+
+6 (IL-6), tumor necrosis factor, ferritin, C-reactive protein, lactate dehydrogenase, and D-dimer.  Chest CT may be more sensitive than radiographs, but CT should be used principally for medical management of respiratory disease, not as a primary diagnostic tool for COVID-19.
+The image given below shows the management of COVID-19 infection.",,A,2190-1439.PNG;2190-1438.PNG;2191-1440.PNG;
+Q9,"A female patient presented with fatigue. Routine complete blood count analysis showed
+hemoglobin of 9 g/dL, MCV 6ofL, and RBC count of 5.2 million. A peripheral smear showed   microcytic hypochromic anemia. which of the following is the next best investigation for this patient?","a)serum ferritin levels
+b)HbA2 levels
+c)serum folate levels
+d)serum homocysteine levels","The next best investigation for this patient would be determining the HbA2 levels, as the history of reduced hemoglobin, reduced MCV (microcytic anemia) and normal to high RBC count is
+suggestive of thalassemia.
+The MCV count divided by the RBC count is called the Mentzer index, which is lower than 13 in   thalassemia due to the normal to high RBC count in the denominator. In iron deficiency anemia, it is higher than 13 as the MCV and the RBC count both are reduced.
+Alpha- and beta-thalassemia are inherited disorders in which there is reduced production of alpha-globin or beta-globin chains, respectively. This leads to precipitation of the excess
+(unpaired) chains, interfering with red blood cell (RBC) production and survival.
+Clinical features in thalassemia include anemia, jaundice, skeletal deformities including facial deformities, changes in body habitus, growth impairment, and hepatosplenomegaly. Due to     frequent blood transfusions, iron overload is also seen.
+peripheral smear is likely to show microcytic hypochromic anemia with target cells, teardrop cells, and some coarse basophilic stippling in certain cases.
+The image given below shows peripheral smear findings in thalassemia.
+
+
+
+
+
+An X-ray of the skull shows a crewcut appearance due to expansion of hematopoetically active marrow.
+Thalassemia is usually managed by blood transfusions every 2-4 weeks and chelation therapy with deferoxamine, deferasirox, and deferiprone for iron chelation. splenectomy is indicated when the  transfusion requirement to maintain ideal hemoglobin increases. Hematopoietic stem cell
+transplantation (HsCT) is the only known curative treatment for thalassemia.
+other options:
+option A: serum ferritin level is used to diagnose iron-deficiency anemia (IDA). They are usually low in IDA.
+option C: serum folate level is used to diagnose macrocytic anemia due to a deficiency of folic acid.
+option D: serum homocysteine levels are increased in vitamin B12–deficient macrocytic anemia.",,B,2192-1441.PNG
+Q10,"A 56-year-old man presents with dragging pain in the abdomen. on examination, there is
+massive splenomegaly. peripheral smear shows leukocytosis with increased myelocytes,
+metamyelocytes and basophils. which of the following translocation is seen in this condition?","a)t(9;22)
+b)t(8;22)
+c)t(15;17)
+d)t(8;14)","The clinical scenario of massive splenomegaly and peripheral smear shows leukocytosis with
+increased myelocytes, metamyelocytes and basophils are suggestive of chronic myeloid leukemia (CML). A translocation between t(9;22) is seen in this condition.
+CML is a myeloproliferative neoplasm. It is caused due to BCR (on chromosome 22) - ABL (on
+chromosome 9) fusion gene translocation mutation. It results in the formation of the philadelphia chromosome which is of CML.
+The image given below shows philadelphia chromosome showing reciprocal (9;22)(q34;q11) translocation seen in CML.
+
+
+
+
+
+
+
+The resulting BCR-ABL translocation results in the activation of tyrosine kinase that signals pro-growth and pro-survival pathways like RAS and JAK/STAT pathways resulting in the
+proliferation of hematopoietic stem cells.
+patients typically present with a dragging sensation abdomen due to splenomegaly or splenic infarct, fatigue, malaise, and weight loss.
+on peripheral smear there is leukocytosis with leukocyte count, often exceeding 1oo,ooo
+cells/mm3 (neutrophils, band forms, metamyelocytes, myelocytes, eosinophils, and basophils), blasts are usually less than 1o% of the circulating cells, the platelet count is usually increased.  The image below shows peripheral smear findings of chronic myeloid leukemia (CML) with
+neutrophils, myelocytes, metamyelocytes, and band cells.
+
+
+Bone marrow is hypercellular due to increased numbers of maturing granulocytic precursors with sea-blue histiocytes (macrophages with wrinkled, green-blue cytoplasm).
+
+
+
+Fluorescence in situ hybridization (FIsH) or polymerase chain reaction(PCR) to detect the BCR-ABL gene. Leucocyte alkaline phosphatase (LAP) score is decreased in cases of CML.
+sokal scoring is used in assessing the prognosis of this patient. The prognosis of CML can be assessed based on:
+• Age
+• spleen size
+• Platelet count
+• Percentage of blast cells in the blood
+FDA-approved tyrosine kinase inhibitors for the treatment of CML are imatinib, nilotinib, dasatinib, bosutinib, and ponatinib.
+Complications, if left untreated:
+• Accelerated phase- increased anemia, thrombocytopenia, and basophilia
+• A blast crisis- may transform into acute leukemia (AML/ALL) other options:
+options B and D: t(8;14) and t(8;22) are seen in Burkitt lymphoma. It is associated with increased MYC levels. All endemic cases of Burkitt lymphoma are caused by the Ebstein-Barr virus.
+Microscopy shows a characteristic starry sky pattern.
+The image given below shows a starry sky pattern seen in Burkitt lymphoma.
+
+
+option C: t(15;17) is seen in acute promyelocytic leukemia. It is characterized by promyelocytes with Auer rods on bone marrow aspirate. All-trans-retinoic acid is used for the treatment.
+The image given below shows bone marrow findings in acute promyelocytic leukemia.",,A,2193-1443.PNG;2193-1442.PNG;2194-1444.PNG;2195-1445.PNG

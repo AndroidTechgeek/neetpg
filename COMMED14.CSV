@@ -1,0 +1,265 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,which of the following statements is incorrect about rotavirus vaccine?,"a)Available as monovalent and pentavalent vaccines
+b)It is a subunit vaccine
+c)Not recommended after 6 months of age
+d)oral route of administration","Rotavirus vaccine is not a subunit vaccine.
+Rotavirus vaccines are oral, live attenuated vaccines and are of 3 types:
+• Rotarix (human monovalent) vaccine is administered in 2 oral doses:
+• First dose: At 6 weeks, no later than 12 weeks (due to the risk of intussusception).
+• second dose: With a gap of 4 weeks from the first dose, to be given by 16 weeks and no later than 24 weeks.
+• RotaTeq (pentavalent bovine-human reassortant) vaccine is administered in 3 oral doses at 2, 4, and 6 months. The first dose is given between 6-12 weeks and subsequent doses within a 4-1o
+weeks gap. All the 3 doses should be given before 32 weeks.
+• Rotavac (monovalent liquid frozen) vaccine is administered in 3 oral doses, 4 weeks apart at 6,1o and 14 weeks. It should not be administered to children more than 8 months of age.
+option C: According to the MoHFW, the rotavirus virus vaccine can be given till the age of 1 year   and the potential benefit from vaccination outweighs the risk of intussusception. However, per the CDC guidelines, the maximum age for all rotavirus vaccines is 8 months, o days. since this is a
+recall question, the options appeared as such in the exam. Additionally, rotavirus is a live vaccine,
+
+
+
+making option 2 (which states that it is a subunit vaccine) the distinctly wrong statement and the better answer.",,B,
+Q2,which of the following is not a polysaccharide vaccine?,"a)pneumococcal
+b)Meningococcal
+c)Hepatitis B
+d)Haemophilus influenza type B","Hepatitis B vaccine is a recombinant protein vaccine.
+polysaccharide vaccines are a type of subunit vaccine containing the capsular polysaccharide antigen. They generate a T-cell independent response.
+Examples include:
+• pneumococcus
+• Meningococcus
+• Haemophilus influenzae type b (Hib)
+Recombinant protein vaccines: with the help of recombinant DNA technology, the purified
+recombinant proteins from the cultured microorganisms result in cleaner vaccine preparations with a better safety profile.
+Examples include:
+• HBV
+• HpV
+• Lyme disease
+• Cholera toxin-B
+• COVID-19",,C,
+Q3,which of the following vaccines is not recommended after 65 years?,"a)Influenza
+b)Herpes zoster
+c)pneumococcal
+d)Human papilloma virus","Human papillomavirus vaccine is not recommended after 65 years.
+In otherwise healthy elderly patients, the recommended vaccines are:
+• Inactivated or recombinant influenza vaccine, 1 dose annually
+• Td or Tdap booster, every 1o years
+• zoster recombinant vaccine
+• pneumococcal vaccine
+• COVID-19 vaccine
+The zoster recombinant vaccine is not indicated for the prevention of varicella. This vaccine is
+given to prevent episodes of herpes zoster and post-herpetic neuralgia. It is indicated regardless of a previous episode of zoster.
+All adults ≥65 years of age should also receive pneumococcal vaccination. This is in the form of pneumococcal conjugate vaccine (pCV) first, followed by pneumococcal polysaccharide vaccine
+
+
+
+(ppsv23) after an interval.",,D,
+Q4,Arrange the steps of the  experimental study :,"a)C - B - A - D
+b)C - A - B - D
+c)A - B - C - D
+d)D - c - B - A","c - B - A - D is the correct order of steps in an experimental study.
+Defining inclusion and exclusion criteria → Randomization → Blinding → statistical analysis phases of experimental study:
+1. planning phase
+• Literature review
+• Trial design
+• protocol
+• Budget, funding
+• Approvals - ethics, collaborating institutes, funding agencies, sponsors
+2. preparatory phase
+• organization, staffing
+• Delegation, responsibility, and accountability
+• standardization of protocols, training, data management, privacy
+• pilot testing, quality control
+3. operational phase
+• selection of target population
+• choosing a sample study population
+• Eligibility screen: Exclusion and inclusion criteria
+• Informed consent
+• subject registration, baseline evaluations
+• Randomization
+• Blinding
+• conduct a study on the groups allocated
+• Follow-ups, evaluation protocol
+• Exit plan, termination point
+• Trial monitoring
+4. Analysis phase
+• preliminary clarifications
+• Initial Data Analysis, definitive analysis
+• statistical inference
+
+
+
+5. conclusion
+• Validity, interpretation
+• writing reports, manuscripts, dissemination
+Randomization is the random allocation of the participants into the study and control groups in the experimental studies.
+Blinding is done after randomization to reduce the possibility of bias, such as subject variation bias (due to participants), observer bias, and evaluation bias (by the investigator).",,A,
+Q5,which of the following groups is not included in the high-risk core population for HIV transmission?,"a)IV drug users
+b)Female sex workers
+c)Men who have sex with men
+d)Long-distance truck drivers","Long-distance truck drivers are not included in the high-risk core population for HIV
+transmission. They are part of the bridge population.
+Target interventions for the control of AIDS transmission are done for high-risk core populations like:
+• sex workers
+• Men who have sex with men
+• Transgender
+• Injecting drug users
+Bridge populations like migrants and long-distance truckers also receive targeted interventions for the control of AIDS transmission.
+The services offered through targeted interventions include detection and treatment for sexually transmitted diseases and condom distribution.",,D,
+Q6,"A student went on a trip to Jaisalmer, where the temp is 4o degrees, and the relative humidity is 2o%. what will the mechanism of heat loss be?","a)Evaporation
+b)Radiation
+c)conduction with air
+d)conduction with objects","Evaporation is the mechanism of heat loss in this student.
+Evaporation happens when perspiration evaporates from the skin. This is a significant source of heat loss during activity but not at rest in normal temperature settings.
+when the temperature of the surroundings is more than that of the skin, the body gains heat by
+both radiation and conduction. under these conditions, the heat can be lost from the body only by evaporation or sweating.
+Different methods of heat loss:
+• Radiation is heat loss in the form of infrared rays. (option B)
+• conduction is heat loss that occurs by direct contact with an object. (option c and D)
+• convection is heat loss resulting from air movement",,A,
+Q7,Malaria detection on the field is done by which of the following?,"a)Thick smear
+b)Thin smear
+c)HRP2 antigen
+d)Quantitative buffy coat","In field settings, rapid diagnostic tests, such as those detecting Histidine-Rich Protein 2 (HRP2) antigen, are commonly used for malaria detection.
+Rapid diagnostic tests are simple, quick, and require minimal resources, making them ideal for field use where laboratory facilities may be unavailable. HRP-2 antigen detection used in rapid  diagnostic tests for malaria is specific for P. falciparum.
+Rapid diagnostic tests are based on the detection of antigens using immunochromatographic
+methods. They are less sensitive than microscopy and cannot differentiate between species except
+P. falciparum. The 2 antigens detected are:
+• pLDH (parasite lactate dehydrogenase)- pan malarial antigen
+• HRP-2 (histidine-rich protein 2)- specific for P.falciparum.
+other options
+option A: Thick smears are more sensitive for detecting malaria parasites, they require laboratory facilities and skilled personnel, making them less practical for field settings.
+option B: Thin smears are used primarily for species identification and quantification of parasites, but like thick smears, they are unsuitable for field settings due to resource requirements.
+option D: Quantitative buffy coat (QBc): This method is highly sensitive but requires special equipment (a fluorescent microscope and centrifuge), making it unsuitable for field use.",,C,
+Q8,which of the following is the best study design as per the hierarchy of evidence?,"a)Meta analysis
+b)case control study
+c)cohort study
+d)Large RcT","Meta-analysis is the best study design as per the hierarchy of evidence.
+The correct order of ranking of the hierarchy of evidence is:
+Meta-analysis and systemic review &gt; Randomised control trial &gt; cohort study &gt;
+case-control study &gt; case reports.",,A,
+Q9,"Dr. sarah made a presentation on Infectious diseases. she spoke about the prevention and treatment of zika virus. which of the following is true with respect to the prevention and
+treatment of zika virus?","a)sexual abstinence, using condoms, and delaying pregnancy helps control the disease
+b)purified, inactivated FDA-approved vaccine is found to be helpful in prevention
+c)symptomatic treatment with NsAIDs
+d)Immunoglobulin and plasmapheresis are used in the treatment of zika","sexual abstinence, using condoms, and delaying pregnancy help control zika virus infections.
+zika virus can be transmitted by the bite of infected Aedes aegypti and Aedes albopictus. zika
+virus belongs to the Flaviviridae family. It is an arbovirus that is transmitted by Aedes
+mosquitoes, primarily Aedes aegypti. The reservoir of infection is unknown and has not yet been reported in India. zika virus can also be transmitted via sexual contact, blood transfusion, and     also from mother to fetus during pregnancy.
+Infection with zika virus is usually asymptomatic. The symptoms are usually mild and include   fever, skin rashes, conjunctivitis, and muscle and joint pain. These symptoms usually resolve in 2-7 days. complications include Guillain-Barre■ syndrome, neuropathy, and myelitis, and are    particularly seen in adults and older children.
+
+
+
+zika virus infection during pregnancy is associated with complications such as fetal loss, preterm birth, and stillbirth. The transmission of the infection to the baby can lead to congenital zika
+syndrome which is characterized by microcephaly. Other malformations include limb
+contractures, high muscle tone, eye abnormalities, and hearing loss. Congenital malformations can follow both symptomatic and asymptomatic infections.
+RT-pCR is the standard test for the diagnosis of zika virus infection. In India, NCDC Delhi and
+the National Institute of virology pune, are the only institutes that can provide the diagnosis in an acute febrile stage.
+There is no treatment available for zika virus infection(options C &amp; D). plenty of rest and fluids along with antipyretics and/or analgesics are indicated for symptom relief. Medical
+attention should be sought if symptoms worsen. There is no vaccine available for the prevention of zika virus infection(option B). The key measure for prevention is protection against mosquito bites. WHO also recommends contraceptive counselling for sexually active men and women,
+especially in regions with active zika virus transmission.
+The image below depicts the transplacental transmission of zika virus infection.",,A,2628-1616.PNG
+Q10,IcER is a unit for which of the following economic analysis?,"a)cost effectiveness
+b)cost benefit
+c)cost utility
+d)cost margin","ICER is a unit for Cost-effectiveness.
+Incremental cost-effectiveness analysis (ICER) is a difference in cost/difference in effectiveness.  Effectiveness is usually measured in Quality Adjusted Life Years (QALYs), which reflect both the quality and quantity of life.
+The Cost-effectiveness analysis measures the costs and outcomes of different interventions and
+calculates the cost-effectiveness ratio. The benefits of the health care system are expressed in
+terms of results achieved (Eg, the number of lives saved or the number of days free from disease). This is a more promising tool in the health field than cost-benefit analysis. However, in many
+cases, it is not possible to use cost-effective analysis.
+
+
+
+other options:
+option B: Cost-benefit analysis: Here, the economic benefits of any program are compared with the cost of the program. The benefits are expressed in monetary terms (whereas in
+cost-effectiveness analysis, it is expressed in terms of results achieved)to identify whether it is economically sound and to select the best one from several alternate programs. The main
+drawback of this technique is that the benefits of a particular program in the health field cannot always be expressed in monetary terms. usually, the benefits are expressed in terms of births or deaths prevented or illnesses avoided or overcome.
+option C: Cost-utility: compares the cost of a program to the health improvement it provides.
+option D: Cost margin: the difference between a product's revenues and how much it costs to make.",,A,
+Q11,"You have gone from your clinic to a village for screening where people have diabetes and
+hypertension. what type of screening is done for family members of these patients who show up in large numbers at your clinic?","a)Multiphasic screening
+b)Mass screening
+c)High-risk screening
+d)Anonymous screening","The given scenario of screening the family members of diabetic and hypertensive patients is an example of high-risk screening.
+High-risk or selective screening is done on high-risk groups like in this case. Another example:
+MRI screening of the breast is done annually in 25-year-old women with BRCA 1, and BRCA 2 mutations in the first-degree relative.
+other options
+option A: Multiphasic screening is the application of two or more screening tests in combination at one time to a large number of people instead of screening separately for individual diseases.    This procedure includes a health questionnaire, clinical examination, and investigations that can be performed rapidly with the appropriate staffing organization and equipment.
+option B: Mass screening is a screening of a whole or large population like using chest X-rays for TB screening in large populations. It is done for diseases with high prevalence.
+option D: Anonymous screening is a screening that allows people to take tests without using their name, commonly used for HIV testing. They will receive a number to access the test results
+instead of providing their name.",,C,
+Q12,All are live vaccines except,"a)Rota virus
+b)Hepatitis B
+c)Measles
+d)varicella","Hepatitis B is a recombinant vaccine, not a live vaccine.
+Live attenuated vaccines are prepared from organisms that have lost their capacity to induce
+full-blown disease but retain their immunogenicity and are contraindicated in pregnancy unless the risk of infection exceeds the risk of harm to the fetus. Varicella, Mumps, BCG, Measles, and Rubella vaccines are examples of live attenuated vaccines.
+Recombinant protein vaccines are prepared by recombinant DNA technology by expressing
+protective protein antigens in yeast cells like the hepatitis B vaccine. They are generally better purified from cultured microorganisms resulting in cleaner vaccine preparations with a better
+
+
+
+safety profile.
+Inactivated or killed vaccines are prepared by growing the organism in culture media and
+inactivating them with heat and chemicals (usually formalin). They are usually safe in pregnancy. Examples include cholera, rabies, and polio (IpV) vaccines.
+Toxoid vaccines are a type of subunit vaccine prepared by detoxifying the toxins produced by
+organisms like tetanus bacilli. In general, they are highly efficacious and safe immunising agents.",,B,
+Q13,"A pus swab has been sent for microbiological examination to your lab. After testing the sample, how will you discard it?","a)Red bin
+b)yellow bin
+c)Blue bin
+d)Black bin","The used pus swab should be discarded in the yellow colour bin as it is clinical laboratory waste.
+Microbiology, biotechnology, and clinical laboratory waste are collected in autoclave-safe bags. They must be pre-treated before disposal by incineration, plasma pyrolysis, or deep burial.",,B,
+Q14,"Universal health coverage (UHC) means that all people and communities receive the quality health services they need, without financial hardship. which of the following are the
+challenges to implementing UHC?","a)Inequalities in the distribution, adequate support, and access to quality-assured products only in low-income settings
+b)The purpose of UHC is to find a balance between countries' income, health provision, and financial burden
+c)To provide healthcare to everyone regardless of the country's income
+d)UHC only deals with the financial aspect of health and cannot cover health provisions for all","providing healthcare to everyone, regardless of the country's income, is one of the challenges to implementing Universal Health coverage. A challenge related to this is mobilising sufficient
+resources in low-income countries to provide equitable care.
+UHc aims at ensuring that all people have access to quality health services without suffering financial hardship.
+components:
+• Equity in access: Everyone receives the healthcare they need.
+• Quality of services: Delivered in a manner that improves health outcomes.
+• Financial protection: Avoiding financial hardship for those accessing services.
+challenges:
+• Health inequities.
+• Resource constraints in low- and middle-income countries.
+• Balancing financial protection and service delivery.
+strategies to Achieve UHc:
+• strengthening health systems.
+• Universal health insurance.
+• public-private partnerships.
+other options
+option A: Inequalities in the distribution, adequate support, and access to quality-assured
+products are a challenge, but they occur across income settings, not only in low-income ones.
+
+
+
+option B: The purpose of UHC to find a balance between countries’ income, health provision, and financial burden describes a goal of UHC and not a challenge.
+option D: UHC encompasses both financial protection and access to quality health services.",,C,
+Q15,which is not a part of the Anemia Mukt Bharat programme?,"a)6 beneficiaries
+b)6 interventions
+c)6 institutional mechanisms
+d)6 health functionaries","Among the listed options, 6 health functionaries are not a part of the 6x6x6 strategy employed by the Anemia Mukt Bharat program.
+The Anemia Mukt Bharat scheme is an initiative that aims to strengthen the existing mechanisms and foster newer strategies for tackling anaemia. The 6 x 6 x 6 strategy represents:
+• 6 beneficiaries (option A)
+• 6 interventions (option B)
+• 6 institutional mechanisms (option C) The 6 beneficiaries include:
+• preschool children (6-59 months of age)
+• Children (5-9 years of age)
+• Adolescents (1o-19 years of age)
+• pregnant women
+• Lactating mothers
+• young women in the reproductive age group (2o-24 years of age) The 6 interventions include:
+• prophylactic iron and folic acid supplementation
+• Deworming
+• Intensified year-round “behaviour change communication campaign”
+• Testing of anaemia using digital methods and point-of-care treatment
+• Mandatory provision of iron and folic acid-fortified foods in government-funded health programs
+• Addressing non-nutritional causes of anaemia in endemic pockets, with a special focus on malaria, hemoglobinopathies, and fluorosis
+The 6 institutional mechanisms include:
+• Intra-ministerial coordination
+• National Anemia Mukt Bharat unit
+• National Center of Excellence and Advanced Research on Anemia Control
+• Convergence with other ministries
+• strengthening supply chain and logistics
+
+
+
+• Digital Anemia Mukt Bharat dashboard and online portal",,D,

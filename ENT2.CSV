@@ -1,0 +1,135 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"while performing a caloric test, what type of nystagmus would you expect on cold water irrigation?","a)Horizontal nystagmus towards the same side
+b)vertical nystagmus towards the same side
+c)Horizontal nystagmus towards the opposite side
+d)vertical nystagmus towards the opposite side","In caloric testing, cold water irrigation produces horizontal nystagmus towards the opposite side of irrigation. The direction of nystagmus can be remembered by the mnemonic, cows  (cold  opposite, warm  same).
+The mechanism for the nystagmus is the creation of a temperature gradient by the cold water,
+which pulls the cupula away from the utricle, causing nystagmus towards the oppsite side. As the horizontal semicircular canal is closer to the outer ear canal, most of the response comes from it  and the nystagmus is horizontal.
+The Fitzgerald  Hallpike test (bithermal caloric test) is done to assess this phenomenon. The
+patient lies in a supine position with head tilted forward at a 3o° angle, ensuring the horizontal canal becomes vertical. Alternatingly, water at temperatures of 3o°c and 44°c (7° below and
+above normal body temperature, respectively) is irrigated into the ears for a duration of 4o
+seconds each. The examiner closely observes the patient's eyes for the emergence of nystagmus until its endpoint is reached. The time taken from the start of irrigation to the endpoint of
+nystagmus is recorded and plotted on a calorigram.
+If no nystagmus is evoked from either ear, the test is repeated with water at a temperature of 2o°c for a duration of 4 minutes before labeling the labyrinth dead. A 5-minute interval should be
+allowed between testing each ear to ensure accurate results.",,C,
+Q2,In which of the following conditions is Gelle's test negative?,"a)CsoM with cholesteatoma
+b)senile deafness
+c)Meniere's disease
+d)otosclerosis","Gelle s test is negative when the ossicular chain is fixed as in cases of otosclerosis.
+Gelle s test is a test of bone conduction and examines the effect of increased air pressure in the ear canal on hearing. In normal individuals, due to the increased intralabrynthine pressure applied by the seigel's speculum, there is immobility of the basilar membrane, as the tympanic membrane
+and the ossicles are pushed inwards (medially). This results in decreased hearing. But, in diseased individuals, where the ossicular chain and the tympanic membrane are fixed or disconnected, no   change in hearing is observed.
+Gelle s test is positive in normal persons and in those with sensorineural hearing loss.
+Note: This test was commonly used for the diagnosis of otosclerosis, but has since been replaced by tympanometry.",,D,
+Q3,what is the definitive treatment of intractable vertigo due to Meniere’s disease?,"a)Acetazolamide
+b)Labyrinthectomy
+c)vestibular neurectomy
+d)Intratympanic gentamicin","The definitive treatment of intractable vertigo due to Ménière s disease is labyrinthectomy.
+Labyrinthectomy involves uniform destruction of hearing and vestibular function. Ideal
+candidates have no functional hearing and have failed more conservative treatments, such as gentamicin injection. Despite this morbidity, labyrinthectomy has the highest rate of vertigo  control (&gt;95%), more than vestibular neurectomy (78-9o%), and is considered the single    definitive treatment.
+
+The step-by-step management approach for Ménière's disease consists of dietary modifications and vestibular suppressants as the initial measures, followed by intratympanic gentamicin
+ablation, and finally, surgical intervention.
+Primarily, the management of Menier's disease involves a sodium restricted diet and diuretics like acetazolamide (option A). They are more useful for short-term control.
+Gentamicin (option D) is a selective vestibulotoxic aminoglycoside antibiotic that is preferentially taken up by type I hair cells. It is opted for only if dietary modifications and vestibular
+suppressants have failed to control the symptoms. If used judiciously, hearing is preserved.
+The options for surgical management include - Endolymphatic sac surgery, vestibular
+neurectomy, and labyrinthectomy. Endolymphatic sac surgery is currently declining in popularity due to lack of evidence of vertigo control.
+Vestibular neurectomy (option C) refers to selective ablation of the vestibular nerve. Even though it is considered a hearing sparing surgery and carries comparable rates of vertigo control as
+labyrinthectomy, it is an intradural procedure and carries a greater risk of complications. Hearing loss will still progress as it would have in the natural course of illness.",,B,
+Q4,"A patient comes with an ulcer on the tongue with a duration of 3 months. on examination,  there is a 3.5 cm x 2.5 cm lesion with induration of 8 mm. There was no lymphadenopathy. what is the stage of this lesion according to 8th AJCC guidelines?","a)stage I
+b)stage II
+c)stage III
+d)stage IV","The maximum diameter of the ulcer is less than 2-4 cm and the depth of invasion is less than   1omm which implies T2; There is no lymph node involvement (No) and no metastasis (Mo). A T2NoMo tumor is classified as stage II according to the 8th AJCC guidelines.
+8th AJCC guidelines for the staging of oral tumors:
+The changes in the 8th AJCC update include:
+• Depth of invasion (DoI) and extranodal extension have been included as independent prognostic factors.
+• A new category of tumor added - HPV positive, p16 positive
+• In the past, the lip was considered a primary site for oral cancers; now - it is divided into mucosal and cutaneous lip, mucosal lip is included in the oral cavity.
+The gold standard investigation for oral cancer includes an incisional biopsy. An MRI is the imaging modality of choice for assessing primary extent. surgical management with
+chemotherapy and adjuvant radiotherapy is the mainstay of management.
+
+stagi ng	Tumor size	Lymph Node	Metasta sis
+I	T1 (<2 cm, depth <5 mm)	No (No regional Lymph Nod es)	Mo
+II	T2 (2 - 4 cm, depth <1o mm)	No	Mo
+III	T3 (>4 cm, depth>1o mm)	No	Mo
+III	T1, 2, 3	N1	Mo
+
+
+stagi ng	Tumor size	Lymph Node	Metasta sis
+IVA	T4a (cortical bone of mandibl e or maxillary sinus or skin o  f face)	No,1	Mo
+IVA	T1, 2, 3, 4a	N2	Mo
+IVB	Any T	N3	Mo
+IVB	T4b (masticator space, pteryg oid plates, skull base or enca  ses carotid vessels)	Any N	Mo
+IVC	Any T	Any N	M1",,B,
+Q5,which of the following features will not be manifested in an infection of the post-styloid compartment of the parapharyngeal space?,"a)Trismus
+b)Vocal cord palsy
+c)parotid swelling
+d)Horner’s syndrome","Trismus is not a feature of infection of the post-styloid compartment of the parapharyngeal space. Trismus is seen in pre-styloid abscess due to the involvement of medial pterygoid muscle.
+parapharyngeal space is divided into two compartments by the styloid process and its
+attachments. Clinical features depend on the compartment involved.
+In a post-styloid abscess, there is a bulge of the pharynx behind the posterior pillar, accompanied  by paralysis of cranial nerves IX, X (resulting in vocal cord paralysis), XI, XII, and the sympathetic chain, which can manifest as Horner's syndrome. swelling in the parotid region may also be
+present. Notably, trismus, the inability to fully open the mouth, is usually absent in this type of abscess.
+A pre-styloid abscess exhibits distinct features including the prolapse of the tonsil and tonsillar fossa, along with trismus caused by the spasm of the medial pterygoid muscle. Marked
+odynophagia is common. Additionally, an external swelling can be observed behind the angle of the jaw.
+Fever, sore throat, torticollis (caused by spasm of the prevertebral muscles), and signs of systemic toxicity are common features.
+Diagnosis can be established using a contrast-enhanced CT scan (CECT). If there is suspicion of thrombosis of the internal jugular vein or an aneurysm of the internal carotid artery, magnetic   resonance arteriography (MRA) can be useful.
+patients require intravenous antibiotic therapy with amoxicillin-clavulanic acid, carbapenem
+antibiotics plus drugs that target anaerobic organisms, such as clindamycin or metronidazole. A parapharyngeal abscess is drained by an external horizontal incision made on the skin a few
+centimeters below the angle of the mandible.
+The image attached below shows the components of both spaces:",,A,3208-1969.PNG
+Q6,A patient presents with oral cavity findings are seen in the image below. He is a smoker. what would you choose as your next step in the management of this patient?,"a)Give corticosteroids
+b)cessation of smoking and do biopsy
+c)Lifestyle modifications
+d)Injection vitamin B12","The patient, who is a chronic smoker, presenting with a wrinkled white patch on the ventral
+surface of his tongue is likely to have leukoplakia.  Confirmation of this diagnosis will require a
+biopsy of the lesion. Leukoplakia is a premalignant lesion, with a malignant potential of 1 - 17.5%, hence it is imperative that the patient is advised on cessation of smoking.
+Leukoplakia is a premalignant condition of the oral cavity characterized by whitish patches or plaques that cannot be rubbed off.  They appear as small, well-circumscribed lesions and can  extensively involve a large area of the oral mucosa.
+variants of leukoplakia are:
+• Homogenous variant: smooth white patch. Less asociation with malignancy.
+•  Non-homogenous variants:
+• speckled leukoplakia is whitish lesions on an erythematous base. They have the highest risk of malignant transformation.
+• proliferative verrucous leukoplakia is rare and has a high risk for malignant transformation.
+• Erosive (erythroleukoplakia) is when it is interspersed with erythroplakia and has erosions and fissures. This also has malignant potential.
+Management includes smoking cessation and reduction in alcohol consumption. A biopsy should be done. A Co2 laser is often used for ablation.
+A photographic record of the lesion is useful for long-term follow-up in cases of conservative treatment.
+Given below is a list of premalignant lesions of the oral cavity with their risk of malignancy:
+
+High-risk lesions	Medium risk lesions	Low-risk lesions
+Erythroplakia(homogenous/s  peckled)seen asred velvetyles ionsspeckledtype is the most  aggressiveThe treatment of c  hoice issurgicalablation	oral submucous fibrosisHype rsensitivereactionto betel nut  product.other risk factors ar  e - tobacco, chili, vitamin defi ciencyclinical features - tris    mus, ankyloglossia, soreness, and burning sensation in the mouth.Management include  s antioxidants, intralesional t  riamcinolone, and surgical ex cision.	oral lichen planusReticulate   fine lace-like pattern.Manage  ment istopicalcorticosteroids.
+proliferative verrucous leuco  plakiaAwhite patchylesion th  atcannot be rubbed off.speck led leucoplakia has an erythe  matous baseThe treatment of choice is excision	syphilitic glossitisAssociated with tertiary syphilis	Discoid lupus erythematosus
+chronic hyperplastic candidi  asiswhite patchesthatcan be   rubbed offwith ahyperaemicb order.Management includes    prolonged treatment withtopi calantifungalsorsystemicantif ungaltherapy. If no improve    ment or if there are any signs of dysplasia,surgical excision is done.		Dyskeratosis congenita",3203-1968.PNG,B,
+Q7,A teenager has a mass in his nasopharynx that has minimally spread into the sphenoid sinus with no lateral extension. which stage of nasopharyngeal angiofibroma could this be?,"a)stage IA
+b)stage IB
+c)stage IIA
+d)stage IIB","The mass has spread into the sphenoid sinus with no lateral extension, so it's stage 1B according to the Radkowski classification.
+Multiple classification systems exist for the staging of juvenile nasal angiofibroma, of which the most commonly used ones are the Fisch and Radkowski classification systems:
+staging of juvenile nasopharyngeal angiofibroma (Radkowski, et al):
+Fisch staging system of juvenile nasopharyngeal angiofibroma:
+Juvenile nasopharyngeal angiofibroma (JNA) is a highly vascular and locally aggressive tumor
+seen almost exclusively in adolescent males, associated with significant morbidity and occasional mortality.
+Note: The Fisch system is considered to be the more robust and practical of the two.
+
+stag e	spread
+IA	Limited to the nose and/or na sopharyngeal vault
+IB	Extension into ≥ 1 sinus
+IIA	Minimal extension into the p terygopalatine fossa
+IIB	Full occupation of pterygopal atine fossa with or without er osion of orbital bones
+IIC	Infratemporal fossa with or    without cheek or posterior to pterygoid plates
+IIIA	Erosion of skull base-minima l intracranial
+IIIB	Erosion of skull base-extensi ve intracranial with or witho ut cavernous sinus
+
+Type	Details
+1	Tumourlimited to the nasoph aryngeal cavity; bonedestruct ion negligibleor limited to th  e sphenopalatine foramen
+2	Tumourinvading the pterygo    palatine fossaor the maxillary, ethmoid, or sphenoidsinus w  ith bone destruction
+3	A:Tumour invading theinfrat  emporal fossaororbital region withoutintracranial involvem  ent
+B:Tumour invading theinfrat  emporal fossaororbital region withintracranialextradural(pa rasellar) involvement	
+4	A:Intracranialintraduraltumo  rwithoutinfiltration of the ca   vernous sinus, pituitary fossa, or optic chiasm
+B:Intracranialintraduraltumo rwithinfiltration of the caver   nous sinus, pituitary fossa, or optic chiasm",,B,
+Q8,A patient complains that he feels like the room is spinning when he gets up from lying down or turning his head. He has no history of loss of consciousness. which of the following could be the probable diagnosis?,"a)Benign paroxysmal positional vertigo
+b)Meniere's disease
+c)Labyrinthitis
+d)syncope","The given clinical scenario, with complaints of dizziness associated with postural change and no history of loss of consciousness is suggestive of benign paroxysmal positional vertigo (BPPV).
+BPPV is one of the common causes of recurrent vertigo, and the episodes are brief (&lt;1min) and are always provoked by changes in head position. The attacks are caused by free-floating calcium carbonate crystals usually dislodged from the posterior canal.
+A positive Dix-Hallpike maneuver confirms the diagnosis of BPPV. In this maneuver, the patient    begins sitting up with their head turned 45 degrees toward the ear to be tested. Then the patient is made to lie down quickly with their head past the end of the bed. Then, the patient's neck is
+extended 2o degrees below the horizontal. The clinician then watches the patient's eyes for     torsional and up-beating nystagmus, which should persist for no more than one minute. This would indicate a positive test.
+Epley's maneuver is performed to reposition the crystals into the macula from the semicircular canals. This is only a temporary cure and there is a high rate of recurrence.",,A,3211-1970.PNG

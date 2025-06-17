@@ -1,0 +1,272 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,CT scan of a patient with laryngeal carcinoma is shown below. what is the staging?,"a)T1NoMo
+b)T4N1Mo
+c)T2N1Mo
+d)T3NoMo","The given CT image depicts a mass invading the thyroid cartilage as pointed by the red arrows.    This indicates a tumor (T) stage ofT4. Among the given options, T4N1Mo is the only option with a T4 staging and hence the best answer.
+
+
+Laryngeal cancer is more commonly seen in men. Alcohol, tobacco, and previous radiation to the neck region are some of the risk factors for the development of laryngeal cancer. The most
+common type is squamous cell carcinoma.
+Larynx is divided into three regions - supraglottis, glottis, and subglottis. In the TNM system: T indicates the extent of the tumor, N indicates lymph node involvement, and M indicates distant metastasis.
+
+
+
+TNM classification of laryngeal carcinoma:
+Tumor (T)
+• T1: only one site/subsite is involved (one named structure) with both vocal cords mobile.
+• T1a: only one vocal cord involved
+• T1b: Involvement of both vocal cords
+• T2: spread to adjacent sites/subsites
+• T2a: Both vocal cords are mobile
+• T2b: slight impairment in the mobility of vocal cord
+• T3
+• Fixed vocal cord
+• Involvement of pre-epiglottic space, para-glottic space, post-cricoid space, or inner cortex of thyroid
+• T4a: Local invasion.
+• Anteriorly: Thyroid cartilage, thyroid gland, strap muscles
+• superiorly: Tongue muscles
+• Inferiorly: Trachea
+• posteriorly: Esophagus
+• T4b: unresectable
+• Involvement of prevertebral space, carotid sheath, or mediastinum
+Regional lymph nodes (N)
+• Nx: cannot be assessed
+• No: No regional lymph node metastasis
+• N1: Metastasis in a single ipsilateral lymph node, ≤3cm
+• N2: Metastasis in a single ipsilateral lymph node, &gt;3cm but &lt;6cm or multiple ipsilateral lymph nodes or bilateral lymph nodes none more than 6cm
+• N3: Metastasis in a lymph node more than 6cm
+Distant metastasis (M)
+• Mx: Metastasis cannot be assessed
+• Mo: No distant metastasis
+• M1: Distant metastasis",3297-2052.PNG,B,3303-2057.PNG
+Q2,Arrange the following in the sequence of auditory pathway:,"a)1-2-3-4-5
+b)5-4-3-2-1
+c)2-1-3-4-5
+d)3-4-5-1-2","The correct sequence of the auditory pathway is spiral ganglion (2) - cochlear nucleus (1) - superior olivary nucleus (3) - inferior colliculus (4) - medial geniculate body (5).
+
+
+
+The spiral ganglion contains bipolar cells whose dendrites form the afferent supply for inner and outer hair cells of the organ of Corti and whose axons form the cochlear division of CN VIII that  end in the cochlear nuclei.
+The auditory pathway can be remembered with the mnemonic E.C.o.L.I.M.A
+Eighth nerve
+Cochlear nuclei
+olivary complex
+Lateral lemniscus
+Inferior colliculus
+Medial geniculate body Auditory cortex",,C,3305-2058.PNG
+Q3,what is the grade of tympanic membrane retraction shown in the image?,"a)Grade 1
+b)Grade 2
+c)Grade 3
+d)Grade 4","The given image shows retraction in both pars tensa and pars flaccida. It is grade 2 retraction as the pars flaccida retraction is in contact with the neck of malleus while that in parts tensa is in    contact with the incus.
+
+
+
+
+
+Tympanic membrane can be divided into two parts. pars tensa makes up most of the tympanic
+membrane. It is peripherally thickened to form annulus tympanicus (a fibrocartilaginous ring). It contains the cone of light. pars flaccida (shrapnell's membrane), is slightly pinkish and is located above the lateral process of malleus.
+Tympanic membrane retraction can be either in the pars tensa or pars flaccida.
+Tos classification is used to grade the retraction in pars flaccida or attic retraction
+• stage 1: The par flaccida is dimpled but not in touch with the malleus.
+• stage 2: The tympanic membrane is in contact with the neck of malleus and the entire extent of retraction can be visualized.
+• stage 3: The retraction is not visible fully, and there may be partial erosion of bony attic wall.
+• stage 4: The retraction is definite erosion of the bony attic wall and the full extent of retraction is not visible.
+Due to difficulty in distinguishing the latter two, they are grouped as stage 3/4.
+sade classification is used to grade the retraction in pars tensa
+• stage 1: The tympanic membrane is retracted but not in touch with the incus
+• stage 2: The tympanic membrane is in contact with the long process of the incus
+• stage 3: Middle ear atelectasis - the tympanic membrane is in contact with the promontory, but not adherent. It can be raised from the promontory with suction
+• stage 4: Adhesive otitis media - the tympanic membrane is adherent to the promontory",3298-2053.PNG,B,3306-2059.PNG
+Q4,A patient presents with vertigo associated with horizontal nystagmus. The slow component is towards the left. what is the most likely diagnosis?,"a)Posterior canal BPPV
+b)superior canal BPPV
+c)Right hypoactive labyrinth
+d)Left hypoactive labyrinth","The most likely diagnosis for a patient presenting with horizontal nystagmus and fast component towards the right (slow component towards the left) is left hypoactive labyrinth.
+
+
+
+Nystagmus is an involuntary oscillatory movement of the eyes, which can occur in horizontal,
+vertical, or torsional directions. The direction of nystagmus is determined by the fast component. In horizontal nystagmus, the direction of nystagmus (fast phase) is always away from the
+hypoactive lesions and towards the active or hyperactive lesions of the labyrinth. Benign
+paroxysmal positional vertigo (BPPV) is a hyperactive disease while vestibular neuronitis and vestibular schwanomma are hypoactive diseases.
+The involvement of the vertical semicircular canals (superior and posterior) leads to vertical or mixed vertical-torsional nystagmus, ruling out posterior canal BPPV (option A) and superior    canal BPPV (option B).
+Alternatively, if the right hypoactive labyrinth was one of the options, it could be considered as a differential for horizontal nystagmus with the slow component towards the right.
+BPPV is a condition characterized by recurrent episodes of transient vertigo (&lt;1 min) triggered by changes in head position relative to gravity. It is caused by dislodged calcium carbonate
+crystals (otoconia) from the utricular macula into one of the semicircular canals, usually the    posterior semicircular canal. A diagnosis of BPPV can be made by Dix-Hallpike test and the     condition is treated by repositioning maneuvers for the otoconia such as the Epley maneuver.",,D,
+Q5,what is the site of drainage of the marked structure?,"a)superior meatus
+b)Middle meatus
+c)Inferior meatus
+d)sphenoethmoidal recess","The marked structure in the given image is the sphenoid sinus and it drains into the
+sphenoethmoidal recess.
+Paranasal sinuses are air-containing cavities that are present in the skull bones. These paranasal sinuses have been divided into two groups:
+Anterior group: Their ostia drain into the middle meatus (option B) through a common drainage pathway known as osteomeatal unit. This group includes:
+• Maxillary sinus (antrum of Highmore)
+• Frontal sinus
+• Anterior ethmoidal sinus
+Posterior group:
+• Posterior ethmoidal sinuses: opens in the superior meatus (option A)
+• sphenoid sinus: opens in sphenoethmoidal recess
+The inferior meatus (option C) has the Nasolacrimal duct draining into it with its terminal end being guarded by the Hasner's valve.
+
+
+
+
+
+The images below show the location of paranasal sinuses:",3299-2055.PNG,D,3308-2061.PNG;3308-2060.PNG;3309-2062.PNG
+Q6,"A 6-year-old boy presented with recurrent URTI, poor growth, high-arched palate, and
+impaired hearing. Tympanogram is given as follows. what would be the most appropriate management?","a)Grommet insertion
+b)Adenoidectomy with grommet insertion
+c)Myringotomy with grommet insertion
+d)Myringotomy","The given clinical scenario along with type B tympanometry curve is suggestive of serous otitis   media secondary to adenoid hypertrophy. Adenoidectomy with grommet insertion would be the most appropriate management.
+Enlarged adenoids in children can present as nasal obstruction, rhinolalia clausa, recurrent acute otitis media, and serous otitis media. Adenoid facies, characterized by an elongated face, open
+mouth, teeth crowding, high arched hard palate, and pinched-in nose, may also be present.
+serous otitis media also known as secretory otitis media, mucoid otitis media, or glue ear is characterized by the accumulation of nonpurulent, serous effusion in the middle ear cleft.
+Glue ear can occur either due to eustachian tube dysfunction (adenoid hyperplasia, chronic sinusitis or tonsillitis or rhinitis, cleft palate, tumors of nasopharynx) or due to increased
+secretory activity of the middle ear mucosa (allergy, unresolved otitis media, viral infections).
+Glue ear is commonly seen in children aged 5-8 years and is associated with insidious onset of hearing loss (not exceeding 4o dB), mild ear aches, and a history of upper respiratory tract
+infections. Delayed or defective speech may also result from hearing loss.
+otoscopy shows:
+• Dull and opaque tympanic membrane with loss of light reflex
+• Thin leash of vessels along the handle of the malleus
+• Fluid levels and air bubbles can be seen when the tympanic membrane is transparent. The otoscopy image of serous otitis media is shown below:
+
+
+
+
+
+The tuning fork test reveals a conductive type of hearing loss and audiometry reveals hearing loss in the range of 2o–4o dB. The fluid accumulation in glue ear causes decreased mobility
+(compliance) of the tympanic membrane leading to a flat or dome-shaped curve or type B curve on a tympanogram.
+Treatment is mainly aimed at the removal of fluid and preventing recurrence.
+• Medical management includes decongestants, antihistamines, and antibiotics.
+• surgical management is done if the condition cannot be controlled with medications.
+It includes myringotomy and aspiration of fluid with grommet insertion. Adenoidectomy and tonsillectomy may be required and are usually done at the time of myringotomy.",3299-2054.PNG,B,3310-2063.PNG
+Q7,"A gentleman presents to the OPD with a saddle nose deformity. He gives a past history of
+cough, on/off fever, and hemoptysis. On examination, septal perforation is present with pale granuloma. His chest x-ray showed multiple cavitary lesions, and the biopsy showed
+granuloma, multinucleate giant cells, and caseous necrosis. what would be the probable cause?","a)wegener's granulomatosis
+b)Tuberculosis
+c)syphilis
+d)sarcoidosis","In a patient with saddle nose deformity, septal perforation with pale granuloma and caseous
+necrosis on biopsy is consistent with tuberculosis (TB). The history of fever, cough, and hemoptysis along with cavitary lesions on chest x-ray support the diagnosis of TB.
+while other conditions like wegener's granulomatosis (option A), syphilis (option C), and
+sarcoidosis (option D) can also cause saddle nose deformity, caseous necrosis on biopsy makes TB a more likely diagnosis.
+saddle-nose deformity refers to a depressed nasal dorsum that can involve either the bony, cartilaginous, or both components.
+The most common cause is nasal trauma resulting in depressed fractures. other causes include   excessive submucosal resection, destruction of septal cartilage due to hematoma or abscess, and infections such as leprosy, tuberculosis, or syphilis, as well as inflammatory conditions like
+granulomatosis with polyangiitis (wegener granulomatosis) and sarcoidosis.
+Chronic granulomatous conditions such as lupus, tuberculosis, and leprosy can affect the
+cartilaginous part, syphilis primarily affects the bony part, and wegener's granulomatosis and    T-cell lymphoma can lead to total (bony and cartilaginous) septal destruction involving both the
+
+
+
+bony and cartilaginous portions.
+TB is an infectious disease caused by Mycobacterium tuberculosis and primarily affects the lungs but can also involve the nose and sinuses.
+common symptoms ofTB include fever, productive cough, weight loss, night sweats, and
+hemoptysis. chest x-ray often shows multiple cavitation lesions affecting the upper lobe and hilar lymphadenopathy. Biopsy findings in tuberculosis typically reveal granulomas, caseous necrosis,  and multinucleate giant cells (Langhan's giant cells).
+The following images show the histopathological image of tuberculosis:
+
+
+other options:
+option A: wegener's granulomatosis is characterized by vasculitis affecting small to medium-sized vessels. It affects the upper respiratory tract (ear, nose, sinuses, and throat), lower respiratory
+tract (lung), and kidney and is characterized by necrotizing granuloma which is non-caseating.
+option c: Although nose deformity is seen in syphilis, gummatous lesions (caseating granulomas) are present in tertiary syphilis which is not seen in this patient. Fever, cough, and hemoptysis are not features of syphilis.
+option D: sarcoidosis most commonly affects the lungs forming non-caseating granuloma with no central necrosis. Laminated calcium and protein-containing bodies called schaumann bodies and   star-shaped inclusions called asteroid bodies are also found in the giant cells of most of these
+granulomas. chest x-ray would show interstitial fibrosis and hilar lymphadenopathy.
+The image below shows the characteristic non-caseating sarcoid granuloma:",,B,Picture35.png;3312-2064.PNG
+Q8,Foreign body entry into the laryngeal inlet is prevented by the cough reflex. This reflex is sluggish in alcohol ingestion and some other conditions. which nerve is likely injured?,"a)Internal laryngeal nerve
+b)Glossopharyngeal nerve
+c)External laryngeal nerve
+d)Recurrent laryngeal nerve","The internal laryngeal nerve is the nerve implicated in the inhibition of the cough reflex in an
+alcoholic. Alcohol can cause chemical irritation of the nerve and it is also a potent inhibitor of the central nervous system.
+The cough reflex is a protective mechanism of the larynx to expel irritants and keep the airway
+clear. Chemical or mechanical irritation of the respiratory mucosa stimulates the afferent internal laryngeal nerve, which is the branch of the superior laryngeal nerve of the vagus nerve.
+Internal laryngeal nerve supplies the mucosa of the larynx above the level of the vocal cords (supraglottis). Hence, any injury to the internal laryngeal nerve results in aspiration and
+depressed cough reflex with no change in voice.
+Recurrent laryngeal nerve (option D) gives sensory supply to the mucosa of the larynx at the level of vocal cords (glottis) and below the level of vocal cords (subglottis) and also motor supply to all   the intrinsic muscles of the larynx except cricothyroid.
+unilateral injury to the recurrent laryngeal nerve (RLN) may cause minimal or no change in voice, but it does not lead to aspiration or airway obstruction.
+Bilateral injury to RLN can result in dyspnea and stridor due to the median or paramedian
+position of the vocal cords, which narrows and obstructs the airway. However, the voice remains unaffected.
+The glossopharyngeal nerve (option B) provides sensory supply to the oropharynx, posterior third of the tongue, and middle ear cavity. Damage to the glossopharyngeal nerve leads to the absence    of the gag reflex.
+The external laryngeal nerve (option C) innervates the cricothyroid muscle, which is responsible   for adjusting the pitch of sound during speech. paralysis of the external laryngeal nerve results in the inability to increase the pitch of sound.",,A,3313-2065.PNG
+Q9,A woman presents with impaired hearing. Her tympanogram findings are given below. Pick the right combination of tuning fork test results that would be seen in this patient.,"a)Left Rinne's test negative, weber's test lateralized to right ear
+b)Left Rinne's test negative, weber's test lateralized to left ear
+c)Left Rinne's test positive, weber's test lateralized to right ear
+d)Left Rinne's test positive, weber's test lateralized to left ear","The given tympanogram findings indicate sensorineural hearing loss in the left ear. Tuning fork tests in this patient would show left Rinnie's positive and weber lateralized to the right ear.
+In left sensorineural hearing loss, Rinne's test will be positive on both left and right ears, and weber's test will be lateralized to the better ear, which is the right.
+Tuning fork tests are performed commonly with tuning forks of frequencies such as 128, 256, 512, 1024, etc. The tuning fork of 512 Hz is considered ideal as forks oflower frequencies produce a
+sense of bone vibration, while those of higher frequencies have a shorter decay time.
+Rinne’s test is done by placing a vibrating tuning fork on the patient’s mastoid and when he/she stops hearing, it is brought beside the external auditory meatus (EAC). If he/she still hears the    sound, air conduction (AC) is better than bone conduction (BC).
+weber test is done by placing a vibrating tuning in the middle of the forehead or the vertex and the patient is asked in which ear the sound is better heard.",3301-2056.PNG,C,3314-2066.PNG
+Q10,"A 35-year-old female patient presents with complaints of nasal obstruction and post-nasal
+drip. There is a past history of FESS for failed conservative management 5 years ago.
+uncinectomy and maxillary ostium dilation was done during the previous FESS. A DNE done now shows patent ostia and mucosal edema of the maxillary sinus lining. what is the next
+best step in management?","a)Repeat surgery
+b)Macrolides for 4 months
+c)Steroid irrigation and antihistamines
+d)Biological therapy","The history of nasal obstruction and post-nasal drip and endoscopy showing mucosal edema is  suggestive of acute rhinosinusitis. The next best step in management is symptomatic treatment with nasal steroid irrigation, decongestants, and antihistamines, regardless of the patient's past history of FESS operation.
+Acute viral rhinosinusitis causes mucosal edema which causes obstruction of the sinus ostia.
+There is also reduced mucociliary transport in the sinuses resulting in stasis of secretions within the sinuses causing headache, facial pain, congestion, nasal obstruction or discharge, post-nasal  drip, and hyposmia or anosmia.
+If the sinuses remain obstructed or the mucociliary transport system does not return to normal, a bacterial infection can ensue, causing fever, purulent discharge, and persistent or worsening
+symptoms beyond 1o days.
+In the case of bacterial sinusitis, antibiotics like amoxicillin and macrolides (erythromycin) are used for a short course (option B).
+procedures like antral lavage and surgery (option A) are done in cases not responding to medical therapy.
+Biological therapy (option D) is not used in the treatment of sinusitis.",,C,
+Q11,which of the following tests cannot be used to assess nasal mucociliary clearance?,"a)Saccharine test
+b)Electron microscopy
+c)charcoal powder method
+d)Scintigraphy","Among the given options, electron microscopy will be the least useful in assessing nasal
+mucociliary clearance. other tests mentioned can be used in humans to detect mucociliary transit time and total nasal clearance in humans.
+
+
+
+Electron microscopy can be used to best assess the normalcy of cilia structure and its function, but it might not be able to detect any other abnormality that might interfere with nasal mucociliary
+clearance like any obstruction in the nasal cavity.
+Test for mucociliary clearance include:
+• saccharine with or without color test in vivo (option A)
+• Radioisotope transport testing in vivo
+• Measuring ciliary activity in vitro
+• Nasal nitric oxide
+• scintigraphy (option D) is the nuclear medicine equivalent of the dye disappearance test to assess functional and anatomic obstruction
+The charcoal method (option C) is a less commonly used method to detect nasal mucociliary clearance. In this method, a very small amount of charcoal is placed behind the head of the    inferior turbinate. The pharynx is then observed to detect the presence of charcoal.
+Mucociliary clearance tests are used to diagnose inborn disorders of mucociliary transport such as primary ciliary dysfunction and cystic fibrosis.",,B,
+Q12,Match the following.,"a)a-1, b-2, c-3, d-4
+b)a-2, b-3, c-4, d-1
+c)a-2, b-4, c-3, d-1
+d)a-1, b-3, c-4, d-2","The correct match for wullstein's classification is a-2, b-4, c-3, d-1 (option C).",,C,
+Q13,what test is not used for testing olfaction?,"a)Smell diskettes
+b)Arnold stick test
+c)UPSIT
+d)CC-SIT","Arnold stick test is not a test used for olfaction.
+Tests used for olfaction are as follows:
+• smell diskettes are used as a screening test for olfaction. Reusable diskettes are used with the
+application of 8 different odorants. A questionnaire with illustrations is used to score the patient.
+• The University of Pennsylvania smell identification test (UPsIT) is a commercially available,
+self-administered test used to assess the function of an individual's olfactory system via smell
+identification. It uses microencapsulated odorants, which are released on scratching standardized odor-impregnated test booklets.
+• The 12-item version of UPsIT, also known as the cross-cultural smell identification
+test (CC-sIT), is useful for quantifying smell loss when less time is available. This test serves as a means to reliably assess olfactory function in less than 5 minutes.
+• The sniffin' sticks test is a new test of nasal chemosensory performance based on pen-like odor-dispensing devices.",,B,
+Q14,which of the following tests can be used if otoacoustic emissions is absent for screening?,"a)2 and 4
+b)1, 3, 4
+c)2, 3, 4
+d)2 and 3","Among the given options, tympanometry (Test 2) and speech audiometry (Test 4) are used in cases where otoacoustic emission (OAE) is absent for screening.
+Otoacoustic emissions are sounds produced by the outer hair cells of cochlea. These sounds then travel in the reverse direction from the outer hair — basilar membrane and perilymph of
+cochlea— oval window — ossicles and tympanic membrane (middle ear) — ear canal (external ear).
+Hence in the absence of OAE, pathologies ofthe middle and external ear should be ruled out before making a definitive diagnosis of cochlear pathology.
+Tympanometry is an objective test that can be performed in patients with absent OAE to rule out  any middle ear pathologies. Speech audiometry is a subjective test that can be performed in these patients to confirm if the hearing loss is due to cochlear or retro cochlear pathology (neural
+hearing loss).
+Impedance Audiometry also known as Tympanometry is an objective test that is based on the
+principle that when the sound strikes the tympanic membrane, certain amount of sound is
+absorbed, while the rest is reflected So a stiffer tympano-ossicular system would reflect greater sound than a compliant one. By marking the compliance of tympano-ossicular system against
+various pressure changes, different types of tympanograms are obtained which are diagnostic of various middle ear pathologies.
+In speech audiometry, the patient’s ability to hear and understand speech is measured. The
+speech reception threshold (SRT) is the lowest intensity of sound at which 5o% of the words are repeated correctly by the patient. Speech discrimination scores test the capacity of the patient to understand speech. Hence, speech audiometry is a subjective test.
+The rollover phenomenon is diagnostic of retrochochlear pathologies. Here, the phonetically
+balanced word score falls with an increase in speech intensity above a particular level due to nerve fatigue. The graph in cochlear disorders will rather show a plateau after a certain level unlike the   fall seen in the rollover phenomenon.
+
+
+A better objective test that could be used to diagnose retro-cochlear pathologies is brainstem auditory evoked response audiometry (BERA). It is a noninvasive test that can find any
+
+
+
+pathologies of central auditory pathways through the VIIIth nerve to pons and midbrain.
+Other options:
+1. pure tone audiometry (Test 1) is a test that measures the threshold of hearing by air and bone     conduction and thus the degree and type of hearing loss. pure tone audiometry is a subjective test for hearing and is not employed in cases where OAE is absent when better objective tests such as  tympanometry are available.
+3. Free field audiometry (Test 3), a part of behavior observational audiometry is used in the age     group where children start localizing sounds when an auditory signal is presented. This test is not useful in this case as the possibility of hearing loss is already established with absent OAE.",,A,3316-2067.PNG

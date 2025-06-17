@@ -1,0 +1,79 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,A patient who is under general anaesthesia shows the following finding on the ET Co2 monitor. which condition can lead to this characteristic waveform on capnography?,"a)Malignant hyperthermia
+b)Bronchospasm
+c)Rebreathing
+d)Accidental extubation","The above capnographic waveform depicts bronchospasm.
+Shark fin appearance - prolonged phase II, increased α angle, and steeper phase III suggest bronchospasm or airway obstruction.",3487-2177.PNG,B,
+Q2,"In a patient with thrombocytopenia, platelet transfusion is done when the platelet level drops below a threshold. To proceed with surgery, platelet transfusion is done to achieve a platelet   level of?","a)3o,ooo
+b)4o,ooo
+c)5o,ooo
+d)6o,ooo","In an otherwise healthy patient, surgery can safely be performed in patients with platelet counts    higher than 5o,ooo/mm3. The risk of bleeding increases significantly if the platelet count is below this level. when platelet transfusions are used to treat thrombocytopenia, the platelet count rises   by 1o,ooo/mm3 for every unit transfused.
+Thrombocytopenia is defined as a platelet count less than 1,5o,ooo/mm3. It may be the result of immune thrombocytopenic purpura (ITp), drug-induced thrombocytopenia, rheumatological
+diseases (SLE, rheumatoid arthritis), pregnancy and chronic liver disease. The initial step if the patient has low platelet count is to repeat the test and examine the peripheral smear.
+Anemia is also a common preoperative hematological disorder. The optimal preoperative hemoglobin concentration varies between 7.5 to 1o g/dL across the individuals, with
+inter-individual differences due to co-morbid conditions in the patients. patients with anemia or suspected anemia must undergo a battery of investigations to determine the type of anemia and  how best to correct it. preexisting anemia is a risk factor for postoperative death and
+
+
+
+complications such as AKI, stroke and infections.",,C,
+Q3,The presence of which of the following indicates that CPR is of high quality?,"a)2, 3 only
+b)1, 3, 4 only
+c)1, 2, 3, 4
+d)1 only","Chest compressions at a rate of 1oo-12o/minute, depth of compression 5-6 cm, and allowing
+complete chest recoil indicate high-quality CPR. The compression-to-ventilation ratio in the
+absence of an advanced airway should be 3o:2 (3o compressions to be followed by 2 breaths). If an advanced airway (endotracheal tube or supraglottic airway device) is present, 1o
+breaths/minute should be given.",,B,
+Q4,"A 7o kg patient who presented to the emergency with acute pancreatitis was shifted to the
+ICU and intubated. His ventilatory settings are: Fio2 9o%, PEEP 12 mmHg, respiratory rate 16/min, and tidal volume 42o ml. The results of the ABG analysis are given below. which of  the following would be the next step in the management of this patient?","a)Increase PEEP to 16
+b)Increase tidal volume
+c)Reduce respiratory rate
+d)Reduce Fio2","In a patient with a history of acute pancreatitis who needed to be intubated, the diagnosis of acute respiratory distress syndrome (ARDS) is the most likely. In this patient, the Pao2 is 11o
+mmHg and the Spo2 is 1oo%, which are significantly higher than the target recommended in
+patients with ARDS. The next step in the management of this patient would be to reduce the
+Fio2 to prevent any further lung injury and worsening of ARDS due to oxygen toxicity. In the
+initial phase of the management, the Fio2 of the patient should be kept ≤ 6o% and Spo2 should be maintained between 88-95%.
+The main treatment strategy which has been shown to reduce mortality in patients is low tidal
+volume ventilation (6 mL/kg of predicted body weight). Increasing the tidal volume (option B) in  this patient will lead to barotrauma to the alveoli because air is pushed through the alveoli which are already collapsed.
+Although a high PEEP keeps the alveoli opened up, there is no rationale for increasing the PEEP further (option A) in this patient because the oxygenation is adequate. Furthermore, PEEP must  be adjusted to minimize Fio2 and provide adequate Pao2 at the same time.
+Hypercapnia is expected in a patient on low tidal volume ventilation. It can be managed by
+increasing the respiratory rate. However, respiratory acidosis is tolerated by the patient up to a
+blood pH of 7.2. This is known as permissive hypercapnia. Reducing the respiratory rate (option C) in this patient will increase the PaCo2 further and cause a worsening of respiratory acidosis.  Apart from these, prone position, early neuromuscular blockade (to prevent the patient from
+fighting the ventilator), and use of extracorporeal membrane oxygenation (ECMo) have also been shown to improve mortality in patients with ARDS. Management strategies that have not been
+shown to improve the outcome in ARDS patients include glucocorticoids, surfactant replacement, anti-inflammatory therapies like NSAIDs, and inhaled vasodilators.",,D,
+Q5,which of the following best represents the American society of Anesthesiologists (AsA) physical status III?,"a)Mild systemic disease
+b)Moderate systemic disease
+c)severe systemic disease
+d)severe systemic disease with threat to life","Severe systemic disease best fits into grade 3 of the ASA classification.
+American Society of Anesthesiologists classification is used to define relative risk prior to conscious sedation and surgical anesthesia.
+
+
+
+It is simple, reproducible and strongly correlates to perioperative risk.
+American society of Anesthesiologists physical status classification of patients-
+class 1: Normal healthy patient
+class 2: patient with mild systemic disease (no functional limitations)
+class 3: patient with severe systemic disease (some functional limitations)
+class 4: patient with severe systemic disease that is a constant threat to life (functionality incapacitated)
+class 5: A moribund patient who is not expected to survive without the operation
+class 6: A brain-dead patient whose organs are being removed for donor purposes",,C,
+Q6,A 5-year-old is on 3L/min o2 via a nasal cannula. what is the appropriate Fio2 level for this child?,"a)25
+b)3o
+c)45
+d)6o","The appropriate Fio2 for this child would be 3o.
+The formula for calculating Fio2 for a child on oxygen supplementation through nasal cannula is Fio2= 21%+ (nasal cannula flow in L/min) × 4
+A nasal cannula is a low flow device, and Fio2 should be adjusted according to flow rates.
+Examples of low-flow devices are:
+• Nasal cannula
+• Face mask
+• Face tent
+• Non-rebreather mask.
+High-flow devices include:
+• venturi mask
+• High flow nasal cannula
+• Mechanical ventilation
+
+oxygen delivery device s	Flow rate (liter/min)	Approximate F io2
+Nasal cannula	1-6	o.24-o.44
+simple face mask	6-1o	o.4o-o.6o
+Non-rebreathing mask	1o-15	o.9o-1.oo
+venturi mask	2-15	o.24-o.6o",,B,

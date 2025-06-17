@@ -1,0 +1,48 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,Arrange the following anesthetic agents on the basis of their potency.,"a)Methoxyflurane&gt; Halothane&gt; Isoflurane&gt; Nitrous oxide
+b)Methoxyflurane&gt; Isoflurane&gt; Halothane&gt; Nitrous oxide
+c)Methoxyflurane&gt; Nitrous oxide&gt; Halothane&gt; Isoflurane
+d)Halothane&gt; Isoflurane&gt; Nitrous oxide&gt; Methoxyflurane","The potency of the inhaled anesthetics given above can be arranged as methoxyflurane&gt;
+halothane&gt; isoflurane&gt; nitrous oxide. It is due to the change in the agents' minimum alveolar concentration (MAC).
+The minimum alveolar concentration (MAC) of an inhaled anesthetic is the lowest
+concentration required to prevent movement in response to a defined noxious stimulus in 5o% of subjects. It is a measure of the potency of inhalational anesthetics. So, the lower the MAC value,    the lower the concentration of anesthetic drug required, implying the drug is more potent.
+MAC values (expressed as a '%' of 1 atmosphere) of some anesthetic agents:
+• Nitrous oxide with a MAC value of 1o4 is the least potent inhaled anesthetic
+• Methoxyflurane – MAC- o.2 (most potent)
+• Desflurane: 6.o
+• Sevoflurane– 2.o5
+• Isoflurane – 1.28
+• Halothane – o.75",3477-2169.PNG,A,
+Q2,which of the following local anaesthetic causes hypertension?,"a)cocaine
+b)Lignocaine
+c)Bupivacaine
+d)prilocaine","The local anesthetic that causes hypertension is cocaine. This is due to the inhibition of
+norepinephrine at the adrenergic terminals leading to increased sympathetic stimulation. This  effect occurs at all concentrations of cocaine and causes hypertension and ventricular ectopies.
+Treatment is with the help of benzodiazepines, α-adrenergic antagonists and amiodarone.
+
+
+
+All local anesthetics are mainly cardiodepressants causing reduced contractility and vasodilation. However, at low concentrations, all local anesthetics cause vasoconstriction due to the inhibition  of nitric oxide. only cocaine produces vasoconstriction and hypertension at all concentrations.
+Accidental intravascular injection of local anesthetic like bupivacaine results
+in bupivacaine-induced cardiotoxicity. Management is by resuscitation followed by intralipid therapy. A rapid bolus of intralipid 2o% IV is administered without delay.
+other adverse effects of local anesthetics include neurologic toxicity, respiratory depression, and hypersensitivity reactions. Nervous system manifestations are circumoral numbness, tongue
+paresthesia, dizziness, tinnitus, and disorientation. Finally, respiratory depression can lead to respiratory arrest.",3478-2170.PNG,A,3480-2171.PNG;3480-2172.PNG;3481-2173.PNG
+Q3,which of the following is required for the cannulation of a newborn?,"a)1,3,4,5
+b)2,3,4,5
+c)2,4
+d)1,4","For cannulation in newborns, we would require a 24G needle, 5 mL syringe, adhesive tape, and normal saline.
+Also, for a peripherally inserted central catheter (PICC), we use a 24G needle for &gt;1 kg neonate, and for &lt;1 kg neonate, we use a 28G needle. we need to avoid using 1 mL syringes for flushing   as it may lead to catheter rupture; preferably, use 5 or 1o mL syringes. Flushing of the cannulation is done using o.9% sodium chloride or so-called normal saline (NS).
+Dressing change: we change PICC line dressing only when visibly soiled, damp, or loosened. For making it easier and sterile, two persons should perform a dressing change.",,B,
+Q4,Identify the incorrect statement in rapid sequence intubation?,"a)preoxygenation with 1oo% oxygen for 3 min is done.
+b)High-volume low-pressure cuff is used.
+c)It is the method of choice in cardiac arrest patient.
+d)Induction agent and muscle relaxant are given simultaneously.","The incorrect statement regarding rapid sequence intubation (RSI) is that it is the method of choice in cardiac arrest patients.
+RSI is a technique of anesthesia induction in patients who are at an increased risk of gastric
+regurgitation and pulmonary aspiration of gastric contents. Common cases include pregnancy, full stomach, intestinal obstruction, poorly controlled gastroesophageal reflux disease, morbid
+obesity, and diabetic gastroparesis. The goal is to intubate rapidly to minimize the time between the loss of consciousness and securing of the airway with a cuffed endotracheal tube.
+It is achieved by pre-oxygenating the patient with 1oo% oxygen for 2-3 minutes. An inducing agent is administered, which is immediately followed by a muscle relaxant succinylcholine or rocuronium. The trachea is intubated without any prior bag and mask ventilation using a
+high-volume and low-pressure cuff which adequately cuffs the airway and prevents aspiration.
+Cardiac arrest is an emergency condition with importance given to start chest compressions,
+defibrillation, or drugs to restore perfusion. The airway is commonly blocked by posterior
+displacement of the tongue which can be managed by head tilt and chin lift or giving jaw thrust. In case of airway blockade or to prevent aspiration, the airway is maintained by emergency
+tracheal tube intubation and does not involve the procedure that is followed in RSI. Endotracheal tube placement is commonly done during post-cardiac arrest care.",,C,3476-2168.PNG

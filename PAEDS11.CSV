@@ -1,0 +1,440 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,A 1-day-old neonate has not passed urine since birth. what is the next step in management?,"a)Continue breast feeding and observe
+b)Admit to NICU
+c)start artificial feeding
+d)start intravenous fluids","In this clinical scenario, a 1 day-old neonate has not passed urine since birth. Most healthy
+neonates void within 24 hours of life. Delay beyond the first 24 hours of life is generally benign
+but may result in parental anxiety. continuing breastfeeding and observing is the next best step in management.
+
+
+
+The first urination should occur by 12-24 hours of age and the first passage of meconium should occur by 48 hours of age.
+Delay in the passage of urine is seen in conditions causing blockage to urine outflow or birth defects that affect the spinal cord. Some commonly seen conditions are vesicoureteric reflux, ureteropelvic junction obstruction, posterior urethral valve, ureterocele, and spina bifida.
+Delay in the passage of the first stool in term neonates may be associated with conditions causing a lower intestinal obstruction, which include meconium plug syndrome, Hirschsprung disease,
+and imperforate anus. More generalized problems, such as sepsis or hypothyroidism, should be considered.",,A,
+Q2,"A 7-year-old boy presented with abdominal pain, vomiting, oliguria, and periorbital puffiness following chemotherapy. Investigations reveal hyperuricemia, raised creatinine levels, and
+hyperkalemia. what is the next best step in the management of this condition?","a)Hydration
+b)probenecid
+c)Allopurinol
+d)Rasburicase","The clinical scenario and the laboratory investigations are suggestive of tumor lysis syndrome.
+Aggressive hydration is the next best step in the management of this condition.
+Tumor lysis syndrome (TLS) is a condition that can occur spontaneously after the initiation of chemotherapy.
+During chemotherapy, the treatment kills the malignant cells, which leads to increased serum uric acid levels from the turnover of nucleic acids causing hyperuricemia. Tumor lysis results in the
+release of intracellular potassium, and phosphate pools, which causes hyperkalemia, and hyperphosphatemia. Increased phosphate levels lead to reciprocal depression of serum
+calcium/hypocalcemia. Deposition of uric acid crystals, calcium phosphate, and
+hyperphosphatemia leads to renal failure.
+Signs and symptoms associated with TLS can develop within 12-48 hours after the initiation of chemotherapy and include:
+• Abdominal pain and distension
+• Dysuria, oliguria, flank pain and hematuria
+• Anorexia, vomiting, cramps, seizures, spasms, altered mental status, and tetany due to hypocalcemia
+• weakness and paralysis due to hyperkalemia
+• Hemodialysis in patients refractory to medical treatment
+The cairo-Bishop criteria are used to assess the severity of TLS.
+Management of TLS includes:
+• Before starting therapy, the electrolytes should be measured and aggressive hydration should be done.
+• Allopurinol is a xanthine oxidase inhibitor that decreases the synthesis of uric acid. It should be started in TLS to prevent further accumulation of uric acid.
+• Febuxostat is a selective non-purine xanthine oxidase inhibitor that can be used to treat
+hyperuricemia. It does not require dose calculations and can be used in patients with mildly decreased renal function.
+
+
+
+• Rasburicase is an enzyme that degrades uric acid. It is preferred in TLS over allopurinol to decrease the accumulation of uric acid.
+option B: probenecid inhibits the organic anion transporter in the nephron. It thereby inhibits the reabsorption of uric acid. It is contraindicated in TLS as it increases the risk of uric acid stones
+due to increased uric acid levels.",,A,
+Q3,"A baby presented with abdominal pain. on examination, a mass is palpated in the right   lumbar region. A barium enema is done, and the image is given below. what is the likely diagnosis?","a)Intussusception
+b)volvulus
+c)Duodenal atresia
+d)Intestinal obstruction","The clinical scenario of pain abdomen with a palpable mass in the right lumbar region along with the barium enema showing claw sign is suggestive of intussusception.
+Intussusception occurs when a portion of the bowel is telescoped into an adjacent segment.
+Intussuscipiens is the one that receives and intussusceptum are the tubes that advance. The apex of the intussusceptum is more prone to ischemia which leads to gangrene.
+The most common location of intussusception is ileocolic.
+It can be seen in infants during the weaning period following the introduction of new food,
+vaccination, or upper respiratory tract infection, and the currently approved rotavirus vaccines are associated with very minimal risk of intussusception. An area of enlarged submucosal payer's
+patch acts as a lead point for intussusception.
+Some lead points in children are Meckel's diverticulum, intestinal polyp, inflamed appendix,  submucosal hemorrhage seen in Henoch-Schonlein purpura, and intestinal duplication cysts.
+patients usually present with cramping abdominal pain, palpable sausage-shaped abdominal mass, vomiting, and passage of red currant jelly stools.
+Diagnosis is confirmed by abdominal ultrasound which shows target sign/bull's eye sign (shown below) and pseudokidney sign (seen longitudinally).
+
+
+Barium enema shows a typical claw sign (shown below). This appearance is due to the convex filling defect caused by the apex of the intussusceptum.
+
+
+
+
+
+The image below shows the coiled spring appearance seen in intussusception. This is due to the barium in the lumen of the intussusceptum and in the intraluminal space.
+
+
+Treatment of intussusception includes hydrostatic reduction by enema using contrast material or air. surgical reduction is only done in the presence of refractory shock, suspected bowel necrosis  or perforation, peritonitis, and multiple recurrences after hydrostatic reduction. An
+appendicectomy is an essential component of surgical management.
+option B: sigmoid volvulus presents with abdominal pain and distension with constipation. A    plain x-ray of the abdomen shows an omega sign, coffee-bean sign (shown below), or bent inner tube sign.
+
+
+
+
+
+option C: Duodenal atresia is commonly seen in newborns. Babies usually present with
+bilious/non-bilious vomiting immediately after birth. A plain X-ray abdomen reveals two foci of gas, one in the stomach and the other in the duodenum called the double bubble sign (shown     below).
+
+
+option D: Intestinal obstruction presents with abdominal pain and distension with constipation. A plain x-ray of the abdomen shows multiple air-fluid levels (shown below). Normally, 3 air-fluid levels can be seen in the plain x-ray at the fundus of the stomach, at the duodenum, and at the     cecum. A barium meal is usually contraindicated in acute intestinal obstruction.",5673-3604.PNG,A,5679-3606.PNG;5680-3608.PNG;5680-3607.PNG;5681-3610.PNG;5681-3609.PNG;5682-3611.PNG
+Q4,An 8-day-old newborn was found to have thyroid-stimulating hormone level of more than 1oo mIU/L. which of the following will be the next best investigation?,"a)Urine iodine excretion
+b)serum thyroid receptor antibody
+c)Radiotracer uptake with technetium
+d)perchlorate secretion test","The given laboratory finding of increased thyroid-stimulating hormone level in an 8-day-old baby is suggestive of congenital hypothyroidism. Radiotracer uptake with technetium will be the next    investigation in this condition to confirm the presence of the thyroid gland.
+congenital hypothyroidism is the most common preventable cause of mental retardation. causes of congenital hypothyroidism can be classified based on the presence of goiter as:
+clinical features of congenital hypothyroidism:
+• Prolongation of physiologic hyperbilirubinemia- early sign (it is due to delayed maturation of glucuronide conjugation)
+• constipation- usually does not respond to treatment
+• wide open anterior and posterior fontanelles (&gt;o.5 cm) and cranial sutures
+• Developmental delay, delayed bone growth, delayed dentition
+• cardiovascular- slow pulse rate, cardiomegaly, asymptomatic pericardial effusion, edema
+• Respiratory- macroglossia, feeding difficulties, choking spells, respiratory difficulties
+• Hematological- macrocytic anemia refractory to treatment with hematinics
+• Nervous system- hypothermia, hypotonia, slow relaxation of deep tendon reflexes, sluggishness, and somnolence.
+The classical presentation is described as the 6 P's of congenital hypothyroidism: pot-bellied, pale, puffy-faced child with protruding umbilicus, protuberant tongue, and poor brain development.
+The image given below shows a pot belly with an umbilical hernia seen in congenital
+hypothyroidism.
+
+
+
+Goitrous(palpable goiter)	Non-goitrous(No palpable goi ter)
+Thyroid dyshormonogenesis   (3o%)Iodine deficiencyplace   ntal passage of antithyroid dr ugs	Thyroid dysgenesis(65%)Thy  roid receptor blocking antibo  dies (5%)central hypothyroid ism
+
+
+Laboratory investigations in congenital hypothyroidism would demonstrate low T4 levels and
+increased TSH levels. Screening is usually done on days 1 and 5 days of life, dried blood samples obtained from a heel prick are used for this. Initial investigations in a child with high TSH levels include evaluation of radiotracer uptake study with radioactive iodine or technetium and
+ultrasound of the thyroid to confirm the presence of a thyroid gland.
+An X-ray shows a delay in bone development. The distal femoral and proximal tibial epiphyses normally present at birth are often absent.
+In the image below, the left side shows a normal neonate with both knee epiphyses present and
+the right side shows a neonate with congenital hypothyroidism in whom both epiphyses are small.
+
+
+
+
+
+Treatment with levothyroxine should be started immediately after diagnosis. Thyroxine (T4) of dose 1o-15 μg/kg/day should be started and adjusted to achieve the normal free T4 range. In
+central hypothyroidism, cortisol replacement should be started before thyroid replacement.
+Neonatal hypothyroidism is a sensitive indicator of environmental iodine deficiency and can also be an effective indicator for monitoring the impact of a program.
+other options:
+option A: urinary iodine excretion is used for surveillance and epidemiological studies for
+classifying countries according to the level of iodine deficiency by the wHo, and is an effective indicator of the program against iodine deficiency.
+option B: Serum thyroid receptor antibody is used to diagnose transient congenital
+hypothyroidism caused due to transplacental passage of TSH receptor blocking antibodies. It is usually seen in babies born to mothers suffering from autoimmune hypothyroidism taking
+thyroxine.
+option D: A perchlorate secretion test can be used to diagnose thyroid peroxidase deficiency.",,C,5683-3612.PNG;5684-3613.PNG
+Q5,"A 1o-month-old infant was brought with complaints of jerking movement of limbs towards the body. on examination, there is a regression of developmental milestones.
+Electroencephalogram shows hypsarrythmia. which of the following is the drug of choice in this condition?","a)phenytoin
+b)Adrenocorticotropic hormone (ACTH)
+c)Levetiracetam
+d)phenobarbitone","The clinical scenario along with the electroencephalogram showing hypsarrythmia is suggestive of the west syndrome. Adreno-corticotropic hormone (ACTH) is the drug of choice for this
+condition.
+west syndrome is severe generalized epilepsy that begins between the ages of 2 and 12 months. It is characterized by a triad of:
+• Infantile epileptic spasms
+• Developmental regression
+• Hypsarrhythmia on electroencephalogram (EEG)
+
+
+
+Hypsarrhythmia refers to a high voltage, slow, chaotic background with multifocal spikes as shown below.
+
+
+west syndrome has been known by many names like infantile spasms, salaam attacks, salaam convulsions infantile spastic epilepsy, and jackknife convulsion syndrome. During an attack
+babies typically attain complete heaving of the head forward towards their knees, and then immediately relax into the upright position.
+The image given below illustrates infantile spasms in a child.
+
+
+Diagnosis is confirmed by EEG which typically shows hypsarrythmia.
+The treatment of choice in west syndrome is either adreno-corticotropic hormone (ACTH) or     corticosteroids. An antiseizure medication, mainly vigabatrin can be used when associated with tuberous sclerosis.
+Note: The table given below shows the EEG features seen in various seizure disorders.
+
+
+
+options A and C: Phenytoin and levetiracetam are used in focal seizures and status epilepticus.
+option D: Phenobarbitone is used as an antiepileptic in neonatal seizures and as an enzyme inducer in Crigler-Najjar syndrome type II.
+
+Disease	Typical EEG feature
+Lennox-Gastaut syndrome	1.5-2.5 Hz spike and polyspik e bursts in sleep
+Absence seizures	3 Hz spike and slow-wave (sp ike and dome pattern)
+Juvenile myoclonic epileps y	4-5 Hz spike
+west syndrome	Hypsarrhythmia (high-voltag e waves with chaotic backgro und)",,B,5685-3615.PNG;5685-3614.PNG
+Q6,A 2-month-old infant born to an HIV-positive mother presents with recurrent diarrhea. what is the next best step?,"a)Test stool for giardia and give antibiotics
+b)Dried spot sample for HIV DNA pCR
+c)Antibody tests for HIV
+d)Aerobic culture","In the above scenario, the diagnosis of HIV infection should be established/ruled out before
+evaluating for secondary infections. Hence, a dried spot sample for HIV DNA PCR is the next best step.
+AIDS enteropathy, a syndrome of malabsorption with partial villous atrophy not associated with a specific pathogen, has been postulated to be a
+result of direct HIV infection of the gut.
+The diagnosis of HIV infection in babies born to HIV-infected mothers is done by HIV proviral DNA or RNA PCR, HIV culture, or HIV p24 antigen. The national program (Early Infant
+Diagnosis) now uses HIV total nucleic acid (RNA + proviral DNA) PCR test on dried blood spot samples. All positive tests need to be confirmed with an HIV PCR test on another sample.
+An infant born to an HIV-positive mother should be breastfed exclusively or by replacement feeds exclusively for 6 months of age. Infants should receive ARV prophylaxis with syrup nevirapine or  zidovudine.
+Involvement of the gastrointestinal tract is common in HIV-infected babies. Common pathogens identified are bacteria (Salmonella, Campylobacter, Shigella, Mycobacterium avium complex),
+protozoa (Giardia, Cryptosporidium, Isospora, microsporidia), viruses (CMV, HSV, rotavirus), and fungi (Candida). MAC and protozoal infections are most severe and protracted in children.
+other options:
+option A: Test stool for giardiasis and give antibiotics is not preferred as the immediate next step. First, the diagnosis of HIV infection should be established before treating secondary infections.
+option C: Antibody tests for HIV are not useful in establishing the diagnosis of HIV infection.
+This is because all infants born to HIV-infected mothers test antibody positive at birth because of  the passive transfer of maternal HIV antibodies across the placenta. It can be used as a diagnostic tool after 18 months of age.
+
+
+
+option D: Aerobic culture is not used for the diagnosis of HIV infection.",,B,
+Q7,"An 8-year-old child has difficulty walking and getting up from a squatting position. A muscle biopsy was done and is as shown in the image. which of the following is true about this
+condition?","a)Death occurs in 3rd decade
+b)previous history of viral prodrome
+c)It is a mitochondrial storage disorder
+d)Early treatment has excellent prognosis","The clinical scenario and the muscle biopsy showing fatty replacement of muscle fibers are
+suggestive of Duchenne muscular dystrophy (DMD). Death in DMD occurs in the late teens and 2os (3rd decade).
+DMD is the most common hereditary neuromuscular disease. It is inherited in an X-linked recessive pattern. It is caused by a mutation in the dystrophin gene on chromosome Xp21.
+Normally, the dystrophin gene codes for the large protein dystrophin. Dystrophin protein forms a rod that connects the actin filaments to the transmembrane protein dystroglycan in the muscle
+cell membrane. This dystrophin-glycoprotein complex thereby provides strength to the muscle and connects them to the extracellular environment.
+The image given below shows the dystrophin-glycoprotein complex.
+
+
+clinical features of DMD:
+• progressive weakness, developmental delay, and intellectual impairment
+• In toddlers- delayed walking, falling, toe walking, and trouble running or walking upstairs
+• calf muscular pseudohypertrophy
+The image given below shows pseudohypertrophy of the calf muscles.
+
+
+
+
+
+• Gower's sign: patient has to use their hands and arms to walk up their own body from squatting position due to the lack of hip and thigh muscle strength due to the weakness of proximal
+muscles, especially of the lower limbs.
+
+
+• Trendelenburg gait/hip waddle
+• The patient is unable to walk by the age of 12 years and death occurs by late 2o years of age, mostly due to respiratory failure during sleep.
+The complications of DMD include contractures, scoliosis, dilated cardiomyopathy, and malignant hyperthermia after anesthesia.
+Diagnosis of DMD:
+• Elevated serum creatine kinase levels
+• polymerase chain reaction (pCR) analysis for the dystrophin gene
+
+
+
+• If pCR is normal, but clinical suspicion is high, muscle biopsy (fatty replacement of muscle     fibers) with dystrophin immunocytochemistry (absence of the normal sarcolemmal staining) is done.
+Treatment of DMD includes glucocorticoids (prednisone or deflazacort), and multidisciplinary     management. Eteplirsen and casimersen are the two new FDA-approved drugs for the treatment of DMD.
+Note- The FDA has approved vamorolone, a novel corticosteroid for the treatment of DMD. The   drug offers enhanced anti-inflammatory properties and mineralocorticoid receptor antagonism as well. It is potentially a safer and more effective alternative to glucocorticoids.",5674-3605.PNG,A,5687-3616.PNG;5688-3618.PNG;5688-3617.PNG
+Q8,"A child presented with a history of loose stools with an increase in frequency for 4 days. on examination, he is drowsy, unable to feed, and skin on pinching goes back very slowly.
+According to the integrated management of neonatal and childhood illness (IMNCI), this child will be classified as having:","a)Mild dehydration
+b)some dehydration
+c)severe dehydration
+d)Moderate dehydration","A clinical scenario of a dehydrated child who is drowsy and not able to feed with skin going back very slowly on pinching is suggestive of severe dehydration (as per IMNCI).
+Diarrhea is defined as a change in consistency and frequency of stools that occurs more than 3 times a day. Diarrhea, if associated with blood in stools, is called dysentery. If the episodes
+subside within 7 days, it is called acute diarrhea. If it persists for more than 2 weeks, it is called persistent diarrhea.
+Intestinal infections are the most common cause of acute diarrhea. Rotavirus and enterotoxigenic
+E. coli are the major infectious causes of acute diarrhea. other causes are certain drugs, food allergies, and systemic infections (e.g. urinary tract infection and otitis media).
+The most important assessment in the evaluation of diarrhea is to look for the degree of dehydration. It is assessed as follows:
+Based on the degree of dehydration after history and examination, the
+estimated fluid loss is calculated as follows:
+The treatment plans A,B, and C are explained in the pearl below.
+
+parameters	No dehydration	some dehydration	severe dehydration
+Condition	well alert	Restless, irritable	Lethargic orunconscious,flop py
+Eyes	Normal	sunken	very sunken and dry
+Tears	present	Absent	Absent
+Mouth and ton gue	Moist	Dry	very dry
+Thirst	Drinks normallynot thirst y	Thirsty, drinks eagerly	Drinks poorly or isnot able to drink
+skin pinch	Goes back quickly	Goes back slowly	Goes back very slowly
+Treatment	plan A	weigh the patient, if possible, and use treatment plan B	weigh the patient and use tre atmentplan C urgently
+
+
+
+
+Degree of dehydrati on	Assessment of fluid loss
+No dehydration	less than 5o mL/kg
+some dehydration	5o-1oo mL/kg
+severe dehydration	more than 1oo mL/kg",,C,
+Q9,which of the following children are considered at-risk babies?,"a)2,3
+b)1,2,3,4
+c)4,5
+d)1,4","Among the given options, babies on artificial feeds and babies of working/single parents as considered at-risk babies.
+The following are considered at-risk infants:
+• Birth weight &lt;2.5 kg
+• Twins
+• Birth order of 5 or more
+• Artificial feeding
+• weight &lt;7o% of the expected weight (i.e. II and III degrees of malnutrition)
+• Failure to gain weight during 3 successive months
+• children with protein-energy malnutrition (PEM) and diarrhea
+• working mother or single parent
+It is important to identify children at risk and give special intensive care. This is done because these children contribute largely to perinatal, neonatal, and infant mortality.",,A,
+Q10,Identify the condition.,"a)Bladder exstrophy
+b)omphalocele
+c)persistent vitellointestinal duct
+d)Gastroschisis","The above image is suggestive of ectopia vesicae or bladder exstrophy.
+Ectopia vesicae/bladder exstrophy is a congenital abnormality that occurs when the lower abdominal wall does not form properly and the bladder is open and exposed.
+The clinical features of bladder exstrophy include:
+• separation of the pubic bones with non-united symphysis pubis
+• Epispadias
+• In males- broad and short penis and bilateral inguinal hernia
+• In females- bifid clitoris
+Management involves a staged surgical reconstruction of the bladder and genitalia. closure of the abdominal and bladder wall is done in the first year of life. This often requires an iliac
+osteotomy to relax the tension on the bladder and repair the abdominal wall during
+wound-healing.
+
+
+
+Later, reconstruction of the bladder neck, sphincters, epispadias, and other genital defects is done.
+Less satisfactorily, urinary diversion can be carried out by means of ureterosigmoid anastomosis, an ileal or colonic conduit, or continent urinary diversion.
+Long-term complications include:
+• stricture at the site of the anastomosis with bilateral hydronephrosis and infection
+• Hyperchloremic acidosis
+• An increased (2o-fold) risk of tumor formation (adenoma and adenocarcinoma) at the site of a ureteroscopic anastomosis.
+other options:
+option B: omphalocele is a midline anterior abdominal wall defect. It occurs due to the failure of the physiological umbilical hernia to return to the abdominal cavity. The extruded abdominal
+contents are covered in a sac. It is associated with elevated alpha-fetoprotein levels and
+chromosomal abnormalities.
+The image given below shows omphalocele.
+
+
+option C: In a persistent vitellointestinal duct, the vitelline duct remains patent over its entire length. This results in the formation of direct communication between the umbilicus and the    intestinal tract. A fecal discharge may then be found at the umbilicus.
+option D: Gastroschisis is a condition where intestinal loops herniate through the defect in the
+abdominal wall. The defect usually lies to one side of the umbilicus (right side commonly). The
+loops ofthe bowel are not covered by amnion as they herniate through the abdominal wall directly into the amniotic cavity. It is associated with elevated alpha-fetoprotein levels.",5516-3523.PNG,A,5611-3571.PNG;5611-3572.PNG
+Q11,A previously healthy child presented with acute-onset dyspnea. A chest X-ray shows unilateral hyperinflation of the lungs. what is true for this patient?,"a)Focal area of decreased air entry will be suggestive of foreign body
+b)Flexible bronchoscopy used for removal
+c)In complete obstruction, ball and valve mechanism causes hyperinflation
+d)The child has developed acute laryngotracheobronchitis","The above scenario is suggestive of a foreign body in the airway, most likely in the bronchi. In this condition, auscultation is likely to reveal a focal area of decreased air entry due to incomplete
+airway obstruction
+It is more commonly seen in children below 4 years. The most foreign bodies in the airway are food items. The foreign bodies can be non-irritating types (plastic, glass, or metallic foreign
+bodies) and irritating types (vegetables, peanuts, beans, and seeds).
+The clinical presentation depends upon the site of the obstruction.
+Foreign bodies in bronchi are more likely to enter the right bronchus because it is wider and more in line with the tracheal lumen.
+The initial evaluation is done with a plain X-ray chest in posteroanterior and lateral views (expiratory films are useful). It may reveal:
+• The radio-opaque foreign body- size, shape, and location
+• In complete airway obstruction- lobar or segmental atelectasis
+• In incomplete airway obstruction- the ball valve mechanism is produced when a foreign body incompletely obstructs a bronchus allowing air to enter inside but not leave. This leads to the
+appearance of hyperinflation or obstructive emphysema of the affected area when an expiratory X-ray film is taken as the air is not allowed to escape.
+Management of foreign body airway is as follows:
+• Laryngeal foreign body- Heimlich maneuver should be attempted. If it fails, cricothyrotomy or emergency tracheostomy should be done
+• Foreign bodies in the trachea and bronchi are removed through a rigid bronchoscope after adequate hydration and emptying of the stomach.
+• Appropriate antibiotics are given to prevent secondary infection.
+
+
+
+option D: Laryngotracheobronchitis or croup is caused by the parainfluenza virus. It commonly affects children of age 6 months-3 years. The clinical features include barking cough, biphasic
+stridor, and low-grade fever. The chest X-ray shows a narrowing of the subglottic region known as the steeple sign.
+The image given below shows the steeple sign seen in croup.
+
+Site of foreign bodies	Signs and symptoms
+Larynx	complete obstruction causes   asphyxiaIncomplete obstructi on causes croup, hoarseness,  cough, stridor, and dyspnea.
+Trachea	Dysphonia, dysphagia, dry co ugh, and biphasic stridor.
+Bronchi	May be asymptomatic.Asym    metric breath sound/air entry, coughing, and breathing.",,A,5693-3620.PNG
+Q12,"A male child presented with arthralgia and abdominal pain. on examination, there was
+palpable purpura over the lower limbs. There is past history of upper respiratory tract
+infection prior to the onset of presenting symptoms. which of the following is the treatment for this condition?","a)Azathioprine
+b)Methotrexate
+c)cyclosporine
+d)Glucocorticoids","The clinical scenario is suggestive of Henoch Schonlein's purpura (HSP). Glucocorticoids are used to treat HSP.
+Henoch-Schönlein purpura (HSP), also known as IgA vasculitis, is a common small vessel
+vasculitis in childhood. It is a type III hypersensitivity reaction characterized by the deposition of IgA in the small vessels of the skin, joints, gastrointestinal tract, and kidney, resulting in
+vasculitis.
+The exact etiology of HSP remains unknown. But, it usually occurs following an upper respiratory tract infection caused by group A Streptococcus, Staphylococcus aureus, Mycoplasma, and
+Adenovirus.
+
+
+
+Children usually present with the following features:
+• Palpable purpura is symmetric and occurs in the lower extremities, extensor aspect of the upper limbs, and buttocks.
+• Arthralgia and arthritis- commonly affecting hip, knee, or ankle joints.
+• Gastrointestinal manifestations like abdominal pain, vomiting, diarrhea, and intussusception.
+• About 3o% of the patients with HSP develop renal manifestations, presenting as microscopic hematuria, hypertension, and progressive glomerulonephritis.
+Glucocorticoids such as prednisolone are used for the treatment of gastrointestinal manifestations in HSP. Nephritis due to IgA vasculitis should be treated with immunosuppressants like
+prednisolone and azathioprine.
+The image given below shows palpable purpura in the lower limbs seen in HSP.
+
+
+The criteria for diagnosis of childhood HSP are:
+Palpable purpura with at least one of the following-
+• Diffuse abdominal pain
+• Any biopsy showing predominant IgA deposition
+• Arthritis or arthralgia
+• Renal involvement (proteinuria &gt;3 g/24 hr), hematuria, or red cell casts
+Lab findings seen in HSP are nonspecific and include leukocytosis, mild anemia, and elevated
+erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP). The platelet count is normal in HSP. A skin biopsy specimen can be useful in confirming leukocytoclastic vasculitis with IgA  and C3 deposition by immunofluorescence.
+The image given below shows IgA and C3 deposition in vessels seen on immunofluorescence of skin biopsy in HSP.
+
+
+
+
+
+other options:
+Immunosuppressants like azathioprine, methotrexate and cyclosporine are used in a variety of
+rheumatologic disorders like vasculitis, arthritis, inflammatory bowel diseases like crohn's disease and ulcerative colitis, autoimmune hepatitis, and lupus nephritis.",,D,5584-3562.PNG;5695-3621.PNG
+Q13,A 1o-year-old presents with edema and anasarca. A diagnosis of minimal change disease is made. which of the following is true about this condition?,"a)Light microscopy shows effacement of podocytes
+b)Good response to steroids
+c)Most common in adults
+d)Non-selective proteinuria","The true statement about minimal change disease is that it shows a good response to steroids.
+Minimal change disease is the most common cause of nephrotic syndrome in children. It is more common in males and appears between 2 to 6 years of age.
+The causes of McD are mostly idiopathic. It is usually associated with Hodgkin's lymphoma (due to the increased production of cytokines), respiratory infections, prophylactic immunizations,
+eczema, and rhinitis.
+clinically, they mostly present with proteinuria. The child presents with a history of edema that is initially noted around the eyes and gradually progresses into generalized edema. Hypertension
+and hematuria are uncommon.
+Levels of the following proteins are increased in nephrotic syndrome:
+• Fibrinogen - leads to hypercoagulability.
+• Lipoproteins - due to increased synthesis.
+Levels of the following proteins are decreased in nephrotic syndrome as a consequence of selective proteinuria:
+• Albumin—the protein with the largest proportion of loss in nephrotic syndrome
+• Transferrin
+• cholecalciferol-binding protein
+
+
+
+• Thyroxine-binding globulin (TBG)
+• Ferritin
+• Coagulation factors
+• Antithrombin III
+
+
+Diagnosis can be made by urinalysis showing proteinuria, ranging from 3+ to 4+ protein on urine  dipstick and a spot urine protein/creatinine ratio (PCR) &gt;2. The proteinuria principally contains albumin, hence known as selective proteinuria. serum albumin levels are &lt;2.5 g/dL and there is an increase in serum cholesterol and triglyceride levels.
+Biopsy findings include the following:
+• Light microscopy- glomeruli appear normal (hence called ""minimal change"")
+• Immunofluorescence studies- no Ig or complement deposits
+• Electron microscopy- diffuse effacement of foot processes of visceral epithelial cells/podocytes The image given below shows biopsy findings seen in minimal change disease on light
+microscopy.
+
+
+
+
+
+The illustration given below shows the effacement of foot processes of podocytes as seen in MCD.
+
+
+The majority of children will respond to corticosteroid (prednisone/prednisolone) treatment and will achieve complete remission (urine PCR&lt;o.2 or &lt;1+ protein on urine dipstick).",,B,5696-3622.PNG;5697-3624.PNG;5697-3623.PNG
+Q14,"A 1o-year-old child presents with diarrhea and weight loss. on examination, the height and weight are lesser than expected. Laboratory investigations were positive for class II
+HLA-DQ2. which of the following will you advise the child?","a)Fat-free diet
+b)Lactose-free diet
+c)Low carbohydrate diet
+d)Gluten-free diet","The clinical scenario of diarrhea, steatorrhea, weight loss, and growth retardation, along with  positive class II HLA-DQ2, is consistent with a diagnosis of celiac disease. Patients with celiac disease are advised to avoid gluten.
+The dietary recommendation for celiac disease is as follows:
+Celiac disease/celiac sprue/gluten-sensitive enteropathy is an immune-mediated disorder triggered by gluten-containing foods. The presence of one of the two locus antigens HLA-DQ2 or
+
+
+
+HLA-DQ8 is necessary, but not sufficient for the development of this condition. Detection of these is not useful for the diagnosis, however, their absence helps to exclude celiac disease.
+The pathogenesis involves an inflammatory response to gluten and gliadin (gluten-derived
+peptide). In the small intestine, gliadin is deamidated by the tissue transglutaminase (tTG), an intestinal enzyme. The deamidated gliadin is more immunogenic and is presented to helper T  cells, which mediate mucosal inflammation and cause tissue damage.
+Children usually present with diarrhea, weight loss, and growth failure. other features
+include malabsorption, bloating, irregular bowel habits, iron deficiency anemia, osteoporosis, ataxia, and abnormal liver enzymes.
+screening for celiac disease is done by testing for serum antibodies, including tissue
+transglutaminase IgA, anti-endomysial, and deaminated anti-gliadin antibodies. The diagnosis in patients with positive antibodies is confirmed by biopsy of the second part of the duodenum or
+proximal jejunum. Microscopic findings of biopsy show intraepithelial CD8+ lymphocytes, villous atrophy, and crypt hyperplasia.
+The image given below shows microscopic findings seen in celiac disease.
+
+Diet avoided (gluten)“BRo W”	Diet Allowed“so MR P ”
+Barley	soya bean
+Rye	Maize
+oats	Rice
+Wheat	Potato
+
+
+other options:
+option A: Fat-free diet is advised for various disorders causing steatorrhea. These include pancreatic insufficiency, cystic fibrosis, and familial hypercholesterolemia.
+
+
+
+option B: Lactose-free diet is advised for lactose intolerance. It occurs due to lactase deficiency. patients usually present with diarrhea, abdominal pain, gassiness, and bloating. A lactose
+tolerance test or breath hydrogen test may be used for the diagnosis.
+option C: Low-carbohydrate diet is advised for diabetes mellitus.",,D,5698-3625.PNG

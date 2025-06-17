@@ -9,6 +9,16 @@ import re
 app = Flask(__name__)
 app.secret_key = 'v16_length_mismatch_fix'
 
+# This subject map helps create the group headings
+SUBJECT_MAP = {
+    "ANAT": "Anatomy",
+    "PHYSIO": "Physiology",
+    "BIOCHEM": "Biochemistry",
+    "PHARMA": "Pharmacology",
+    "MICRO": "Microbiology",
+    "PATHO": "Pathology"
+}
+
 @app.template_filter('format_solution')
 def format_solution_filter(text):
     text = str(text)

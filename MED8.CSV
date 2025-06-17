@@ -1,0 +1,538 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,Identify the correct 'organism- drug to which it is intrinsically resistant' pair:,"a)Aspergillus niger - voriconazole
+b)Aspergillus fumigatus - Micafungin
+c)candida albicans - Amphotericin B
+d)candida krusei - Fluconazole","Among the given options, Candida krusei shows an intrinsic resistance to fluconazole. The
+primary or intrinsic resistance of C. krusei to azoles (fluconazole and itraconazole) is mediated      through reduced susceptibility of the target enzyme (lanosterol 14α-demethylase) to inhibition by these drugs. However, improved susceptibility is seen with newer generation azoles such as
+voriconazole.
+Life-threatening systemic infections caused by Candida and Aspergillus species are usually seen in severely ill and immunocompromised patients such as HIV, chemotherapy-induced neutropenia,   and transplant recipients on immunosuppressants. C. albicans and C. dubliniensis are most
+susceptible to currently available azoles, C. glabrata is less susceptible, whereas C. krusei is
+intrinsically resistant to fluconazole. Resistance occurs due to overexpression or point mutation in the gene encoding the target enzyme lanosterol 14α-demethylase. Voriconazole is the preferred
+therapy for multi-drug resistant infection with C. krusei.
+C. albicans showing resistance to Amphotericin B has been increasingly reported over the past    several years. But this is a secondary resistance due to alteration or a decrease in the amount of
+
+
+
+ergosterol in the cell membrane.
+Aspergillus fumigatus, the most common species to cause Aspergillus infection worldwide, also shows an intrinsic resistance to fluconazole. It is susceptible to echinocandins like micafungin,  which acts by inhibiting beta-(1,3)-D-glucan synthase, an enzyme necessary for the synthesis of the cell wall.
+A. niger is a common cause of otomycosis and is susceptible to azoles like voriconazole,
+amphotericin B, and echinocandins.",,D,
+Q2,"A 45-year-old male patient presented with a history of bilateral lower limb weakness which
+progressed to his upper limbs in a year. on examination, he had weakness in both lower
+limbs and wasting in the left upper limb. Babinski sign was positive and the deep tendon
+reflexes were absent. He has no sensory loss or any autonomic dysfunction. what is the likely diagnosis?","a)MS
+b)ALS
+c)GBS
+d)Tropical spastic paraparesis","The given clinical scenario with both UMN (Babinski positive) and LMN (absent deep tendon reflexes, wasting) findings in the absence of sensory loss and autonomic dysfunction points     towards a diagnosis of amyotrophic lateral sclerosis (ALS).
+ALS is a progressive motor neuron disease with mutations in the genes encoding:
+• protein c9orf72 (open reading frame 72 on chromosome 9)
+• cytosolic enzyme SOD1 (superoxide dismutase),
+• RNA binding proteins TDP43 (encoded by the TAR DNA binding protein gene), and fused in sarcoma/translocated in liposarcoma (FUS/TLS).
+The pathologic hallmark of ALS is the death of lower motor neurons (anterior horn cells in the spinal cord and cranial nerves innervating bulbar muscles) and upper motor
+neurons (corticospinal neurons originating in layer five of the motor cortex). At onset, ALS may involve only upper or lower motor neurons, but ultimately causes progressive loss of both
+categories of motor neurons. clinical features of ALS include:
+• LMN findings: fasciculations, muscle cramps, asymmetric distal weakness, atrophy, and bulbar palsy.
+• UMN findings: spasticity, increased reflexes, flexor spasms, and pseudobulbar palsy.
+• Pseudobulbar affect: degeneration of corticobulbar projections manifested as inappropriate
+laughing, crying, or yawning which is often mood incongruent or may be triggered by stimuli that would not have elicited such a response.
+• Even in the late stages, sensory, bowel and bladder, ocular motility, and cognitive functions are preserved.
+Treatment:
+• Riluzole (1oomg/day) reduces excitotoxicity by diminishing glutamate release and improves survival.
+• Edaravone (IV infusion) works in the central nervous system as a potent scavenger of oxygen radicals that has the capability of slowing down ALS progression and improving survival.
+• Tofersen is a newer drug proven to be effective for ALS associated with SOD1 mutation. It is an antisense oligonucleotide that targets SOD1 mRNA to reduce the synthesis of SOD1 protein.
+
+
+
+Multiple sclerosis (MS) is an autoimmune demyelinating and inflammatory disease of the CNS characterized by gliosis and neuronal loss. It is caused by an autoimmune response directed
+against components of the myelin sheath. Genetic predisposition with HLA-DRB1, cigarette smoking, vitamin D deficiency, and exposure to Epstein Barr virus (EBV) are known risk
+factors. Clinical features of MS include:
+• Visual impairment due to the involvement of the optic nerve (optic neuritis).
+• Involvement of the brainstem causes cranial nerve signs such as ataxia,
+nystagmus, and internuclear ophthalmoplegia (INO).
+• weakness of limb (usually UMN type), facial weakness, spasticity, hyperreflexia, Babinski signs, sensory impairment of the trunk and limbs, and loss of bladder control.
+Guillain-Barre syndrome (GBS) is an acute inflammatory demyelinating neuropathy
+causing rapidly evolving ascending paralysis.  It is associated with diminished reflexes
+(areflexia) and autonomic involvement with or without sensory impairment.
+Tropical spastic paraparesis also known as HTLV-1 associated myelopathy is a slowly progressive spastic syndrome with variable sensory and bladder disturbance but no LMN involvement.
+Diagnosis is by demonstration of HTLV-1 specific antibody in serum by ELISA and confirmation is done using radioimmunoprecipitation or western blot analysis.",,B,
+Q3,"In a PHc, which of the following initial screening tests are used to diagnose diabetes?","a)1 and 2
+b)2 and 3
+c)2 and 4
+d)1, 2 and 3","Fasting blood sugar &gt;126 mg/dL and 2-hour postprandial blood sugar &gt;2oo mg/dl can be used as screening tests for diabetes in a primary health center (PHC).
+HbA1c estimation is usually unavailable for screening at many PHCs due to low resources. In India, facilities for HbA1c estimation are usually available only at tertiary centers.
+Random blood sugar &gt;2oo mg/dL can be used for diagnosis only if the patient presents with symptoms of diabetes, hence it is not a useful screening test.",,C,
+Q4,"A newly diagnosed HIv patient presented with fever, cough, and hemoptysis. His sputum sample showed acid-fast bacilli. what is the appropriate management for this patient?","a)start ART if CD4&lt;2oo
+b)start ART and then ATT after 2 weeks
+c)start ATT and then ART after 2 weeks
+d)start ATT and ART simultaneously","In an HIV patient with TB, start antitubercular therapy (ATT) first and then start antiretroviral     therapy (ART) as soon as ATT is tolerated (between 2 weeks and 2 months) by the patient. This is done to avoid immune reconstitution inflammatory syndrome (IRIS).
+Among persons living with HIV with TB meningitis, ART should be delayed for at least 4 weeks (and initiated within 8 weeks) after treatment for TB meningitis is initiated.
+Patients with HIV-related TB may experience a temporary paradoxical exacerbation of symptoms and radiographic manifestations of TB after starting ART (IRIS). This occurs as a result of
+immune reconstitution due to the simultaneous administration of ART and ATT.
+It is characterized by high fever, lymphadenopathy, expanding intra-thoracic lesions, and
+worsening of chest X-ray findings. Diagnosis should be made only after ruling out treatment
+failure and other infections. For severe cases, prednisone 1-2 mg/kg is used for 1-2 weeks and then
+
+
+
+gradually tapered.
+Note: CBNAAT is the preferred diagnostic technique for testing TB in PLHIV (people living with   HIV). smear microscopy has poor sensitivity in detecting TB in PLHIV due to fewer organisms in sputum, and hence is not preferred.",,C,
+Q5,Identify the pathology from the given flow-volume loop:,"a)Fixed distal airway obstruction
+b)Fixed central airway obstruction
+c)variable intrathoracic obstruction
+d)variable extrathoracic obstruction","The given flow-volume curve shows flattening of both the inspiratory and expiratory limbs, which is seen in fixed obstruction of the central or upper airway.
+The curve denotes airflow limitation during both inspiration and expiration.
+Examples of fixed central airway obstruction include tracheal stenosis (caused by intubation) and circular tracheal tumors.
+other options:
+option A: The image given below shows a concave upward, pattern in the expiratory limb    (scooped-out or coved) pattern seen in lower airway obstruction. Examples include asthma, chronic obstructive pulmonary disease, bronchiectasis, and bronchiolitis.
+
+
+option C: The image below shows airflow limitation and flattening in the expiratory limb of the loop. It is seen in variable, nonfixed intrathoracic obstruction.
+Examples: intrathoracic airway, bronchogenic cysts, or tracheal lesions.
+
+
+
+
+
+option D: The image below shows airflow limitation and flattening in the inspiratory limb of the loop. It is seen in nonfixed variable extrathoracic obstruction.
+Examples: vocal cord paralysis, extrathoracic tracheomalacia, polychondritis, etc.",,B,4298-2727.PNG;4299-2729.PNG;4299-2728.PNG;4300-2730.PNG
+Q6,"An elderly woman presented with symptoms of confusion, thirst, and abdominal pain. on examination, she had pallor and thoracic spine tenderness. X-ray spine showed osteolytic  lesions. Her lab investigations showed the following findings. what is the most likely
+diagnosis?","a)Metastatic breast cancer
+b)Multiple myeloma
+c)primary hyperparathyroidism
+d)Milk alkali syndrome","The given clinical scenario describes an elderly woman with confusion, thirst and abdominal pain along with elevated serum calcium levels (hypercalcemia), elevated creatinine suggestive of renal   failure, anemia and osteolytic bone lesions (CRAB features); and hypoalbuminemia with elevated  total proteins. The most likely diagnosis is multiple myeloma (MM).
+MM is a malignant plasma cell dyscrasia with the proliferation of plasma cells derived from a single clone. It is associated with increased osteoclast activity with suppression of osteoblast   activity, causing punched-out lytic lesions in the bone and hypercalcemia.
+signs and symptoms include bone pain (most common), pathological fractures, recurrent bacterial infections, normocytic normochromic anemia, elevated EsR, and normal ALP.
+Electrophoresis shows monoclonal elevation of one immunoglobulin (M spike)
+urine analysis shows free kappa &amp; lambda light chains (Bence Jones proteins)
+Peripheral smear shows rouleaux formation.
+The diagnosis of MM is made by using the Revised International Myeloma working Group criteria.
+Clonal bone marrow plasma cells ≥1o% (or) Biopsy-proven bony or extramedullary plasmacytoma and any one or more of the following myeloma-defining events is required to meet the criteria:
+Evidence of end-organ damage attributable to the underlying plasma cell proliferative disorder, specifically: (CRAB features)
+• Hypercalcemia: serum calcium level &gt;1 mg/dL higher than the upper limit of normal or &gt;11 mg/dL
+• Renal insufficiency: Creatinine clearance &lt;4o mL/min or serum creatinine &gt;2 mg/dL
+• Anemia: Hemoglobin level of &gt;2o g/L (2gm/dl) below the lowest limit of normal, or Hb &lt;1o g/dL
+
+
+
+• Bone lesions: one or more osteolytic lesions on skeletal radiography, computed tomography (CT), or positron emission tomography (PET-CT).
+Any one or more of the following biomarkers of malignancy:
+• Clonal bone marrow plasma cells ≥6o%
+• serum involved/uninvolved free light-chain ratio of 1oo or greater
+• &gt;1 focal lesion on magnetic resonance imaging (MRI) that is at least 5 mm or greater in size. Treatment includes a combination of lenalidomide/thalidomide (immunomodulatory agents),
+bortezomib (proteasome inhibitor), and dexamethasone.
+International staging system (Iss) is used for assessing prognosis in multiple myeloma patients. serum β2-microglobulin is the most important prognostic marker.
+other options:
+option A: The bony metastasis in breast carcinoma is usually osteolytic. However, CRAB features, hypoalbuminemia, and elevated total protein suggest multiple myeloma.
+option C: Primary hyperparathyroidism is characterized by hypercalcemia and low phosphorus but is not associated with anemia and hypoalbuminemia.
+option D: Milk-alkali syndrome occurs after ingestion of large amounts of calcium and vitamin D supplementation. It results in hypercalcemia, alkalosis, nephrocalcinosis, and nephrolithiasis.",,B,
+Q7,"A patient presented with sinusitis, ulcerative lesions on the nasopharynx, nodular lesions with cavitations of the lung, and renal failure. which of the following is the most useful    investigation in this patient?","a)Test for ANcA
+b)Biopsy to show granuloma
+c)AFB staining of sputum
+d)BAL","The given patient has the involvement of upper respiratory tract (chronic sinusitis, ulcerations on nasopharynx), lower respiratory tract (nodular lesions with lung cavitations), and kidneys (renal    failure) which are suggestive of granulomatosis with polyangiitis (wegener's granulomatosis) and  testing for cytoplasmic ANCA (c-ANCA) would be the most helpful investigation in this condition. Granulomatosis with polyangiitis is a granulomatous and necrotizing vasculitis of the small
+arteries and veins that mainly affects:
+• upper respiratory tract: chronic sinusitis, serous otitis media due to eustachian tube blockage, nasal septal perforation, and mucosal ulceration of the nasopharynx.
+• Lower respiratory tract: presenting with cough, hemoptysis, dyspnea, and persistent     pneumonitis. Lung involvement typically appears as multiple, bilateral nodular cavitary infiltrates.
+• kidneys: focal or segmental glomerulonephritis presenting with proteinuria, hematuria, and hypertension. If left untreated it can lead to rapidly progressive glomerulonephritis.
+Apart from these organs, it can also affect the eyes and skin. skin lesions present as palpable purpura or subcutaneous nodules.
+Lab investigations will show anemia, leucocytosis, elevated EsR, and high titers of cytoplasmic
+ANCA (c-ANCA) targetted against anti-proteinase-3 (anti-PR-3). The specificity of a positive PR-3 ANCA for wegener's is very high, especially in the presence of active glomerulonephritis.
+Following treatment, PR-3 ANCA titers fall and subsequent rise in titers is predictive of
+
+
+
+relapse. Chest radiograph will show multiple, bilateral cavitating nodules and pulmonary infiltrates.
+The diagnosis is confirmed by the presence of necrotizing granulomatous vasculitis on biopsy.  This finding is commonly seen in the tissues obtained from the lungs, upper airways, skin, and rarely in the kidneys.
+The radiograph below shows cavitating nodules in a patient with granulomatosis with polyangiitis (wegener's).",,A,4302-2731.PNG
+Q8,Identify the urinary crystal shown below:,"a)calcium oxalate
+b)calcium phosphate
+c)uric acid
+d)cysteine","The given urinary crystal is the bipyramidal or envelope-shaped crystals of calcium oxalate
+dihydrate. Risk factors for calcium oxalate stones include higher urine calcium, urine oxalate, and lower urine citrate.
+Oxalate-rich foods like spinach, rhubarb, almonds, and potatoes should be avoided. Avoiding high-dose vitamin C supplements reduces endogenous oxalate production.
+Chlorthalidone can lower urine calcium excretion and can reduce the recurrence of calcium
+oxalate stones. Consumption of fruits and vegetables or supplemental alkali is advised to increase urine citrate, which is a natural inhibitor of calcium oxalate and calcium phosphate stones.",4288-2725.PNG,A,
+Q9,"During the discharge of a COVID patient who was treated with steroids and remdesivir, which of the following will you inform him about?","a)1, 3 and 4
+b)2, 3 and 4
+c)3, 4 and 5
+d)1, 2, 3, 4 and 5","The given clinical scenario describes a patient treated with steroids and remedesivir for COVID-19 infection being discharged. This patient should be advised to monitor blood glucose levels as
+steroids can worsen glycemic status. He should be advised to watch for headache, nasal discharge, and sinusitis-like symptoms as there is a higher incidence of mucormycosis among COVID
+patients.
+
+
+
+Other options:
+Option 1: Repeat RT-PCR after 7 days of discharge is not needed as per the updated discharge criteria.
+Option 2: Anosmia may persist for weeks to months in those who recovered from COVID-19. Its persistence is not a dangerous sign.
+Mucormycosis is most commonly caused by the fungus Rhizopus oryzae that is acquired through the inhalation of fungal spores from the air. It may occur during COVID infection or after a few   weeks (usually around the 3rd week) of recovery from it.
+Risk factors in COVID-19 patients include uncontrolled hyperglycemia, misuse and irrational use of steroids, leukopenia, and unhygienic humidifiers.
+symptoms of rhino-orbital-cerebral mucormycosis include facial pain, facial numbness, brownish or blood-tinged nasal discharge, conjunctival suffusion and swelling, black eschar over the face,    and hard palate.
+The presence of bilateral proptosis, chemosis, vision loss, and ophthalmoplegia suggests cavernous sinus thrombosis which is seen in advanced disease.
+Diagnosis is done by biopsy with the histopathological examination which shows the presence of ribbon-like aseptate hyphae (5-15 µ thick) branching at right angles.
+CT chest in pulmonary mucormycosis may show lobar consolidation, isolated masses, cavities, nodules, pleural effusion, or wedge-shaped infarct. MRI can be utilized to assess the degree of orbital and brain involvement.
+Management includes strict glycemic control. Antifungal therapy started early on high clinical suspicion even prior to microbiological confirmation can reduce mortality.
+Liposomal Amphotericin B (5-1o mg/kg) is the drug of choice and has to be continued for 3-6
+weeks. It should be diluted in 5% dextrose and is incompatible with normal saline and Ringer
+lactate. step-down therapy is to be done with oral posaconazole or isavuconazole. Renal function must be monitored during the entire treatment period.
+Blood vessel thrombosis and tissue necrosis in mucormycosis can lead to limited penetration of     antifungal drugs at the infection site. To address this, debridement of necrotic tissues is crucial in eradicating the disease.
+Revised discharge policy for COVID-19:
+Mild cases discharged after at least 7 days have passed from testing positive and with no fever for
+3 consecutive days. No testing is needed prior to discharge.
+For moderate cases, in patients whose signs and symptoms resolve and maintain saturation above 93% for 3 consecutive days, patient will be discharged as per the advice of the treating medical
+officer. No testing is needed prior to discharge.
+In severe cases including immunocompromised, discharge criteria will be based on clinical recovery at the discretion of the treating medical officer.",,C,
+Q10,A 5o-year-old man suddenly developed right-sided weakness and aphasia within 2 hours. His BP recorded was 16o/11ommHg and NCCT was clear. what is the next step in management?,"a)CT angiography to look for large vessel occlusion
+b)MRI to look for infarct
+c)Tab labetalol 1o mg stat
+d)Thrombolysis","The next step in management would be CT angiography. NCCT and CT angiography must be done concurrently during stroke evaluation. The given features of hemiparesis with aphasia and a clear  NCCT are suggestive of an acute ischemic stroke with a proximal large vessel occlusion.
+Though thrombolysis is the treatment of choice, occlusions in large vessels often fail to open up   with thrombolysis alone. Hence, mechanical thrombectomy is also indicated and should be done ideally within 6 hours and not beyond 24 hours of symptom onset.
+CT angiography determines if there is an emergent large vessel occlusion (ELVo), and can be used to triage patients for management by intra-arterial mechanical thrombectomy using a retriever
+device.
+other options:
+option D: Thrombolysis with alteplase is the first-line therapy for acute ischemic stroke and
+should be initiated within 4.5 hours of symptom onset. However, mechanical thrombectomy is
+indicated as well for acute ischemic stroke due to a large artery occlusion in the anterior
+circulation. Thus, CT angiography to look for large vessel occlusion would be the next best step in the management.
+option B: MRI with diffusion-weighted imaging (DWI) is superior to NCCT for detecting an acute infarct. However, MRI is not preferred to NCCT because of longer scan completion time, limited   availability in emergency settings, and higher cost.
+option C: Labetalol, nicardipine, and clevidipine are the first-line anti-hypertensive agents used in the acute phase of stroke. The blood pressure goals in ischemic stroke are:
+• If the patient is to receive thrombolytic therapy, maintain BP ≤185/11o mmHg.
+• After thrombolytic therapy, maintain BP ≤18o/1o5 mmHg for at least the next 24 hours.
+• If not treated with thrombolytic therapy, BP should not be treated acutely unless it is more than 22o/12o mmHg. BP should be lowered cautiously by only 15 percent in the first 24 hours in order to preserve perfusion to the ischemic penumbra.",,A,
+Q11,"In atrial fibrillation, choose the correct statements:","a)1, 2, 3 and 4 correct
+b)1, 2, and 3 correct
+c)2 and 3 correct
+d)1 and 4 correct","statements 2 and 3 are correct.
+Novel oral Anticoagulants (NoACs) also known as direct oral anticoagulants are a new class of
+anticoagulants that include oral thrombin inhibitor (dabigatran) and oral factor xa inhibitors like  rivaroxaban, apixaban, and edoxaban. They are easier to use, achieve reliable anticoagulation, and do not require dosage adjustment based on blood tests. They have a lower risk of intracranial
+hemorrhage compared to warfarin and are used as alternatives to warfarin for patients who have atrial fibrillation.
+Anticoagulation with warfarin or NoACs should be given in patients with ischemic stroke due to atrial fibrillation. In patients with small or moderate-sized infarcts and no intracranial bleeding, warfarin can be started soon (after 24 hours) after admission. The risks of transformation to
+hemorrhagic stroke are minimal. NoACs should be started after 48 hours as they have a more rapid anticoagulant effect.
+
+
+
+Statement 3: NOACs are contraindicated in patients with prosthetic mechanical heart valves due to a lack of sufficient evidence.
+Statement 1: NOACs are not used in the treatment of moderate to severe mitral stenosis (MS) due to limited clinical evidence supporting their efficacy and safety in MS. warfarin is the
+recommended anticoagulant for patients with MS and mechanical prosthetic valves.
+Statement 4: Beta-blockers and calcium channel blockers are the first line drugs used to acheive rate control in atrial fibrillation.",,C,
+Q12,which of the following is not a major diagnostic criterion of neuromyelitis optica?,"a)Area postrema syndrome
+b)Acute Myelitis
+c)Focal epilepsy
+d)Optic neuritis","Focal epilepsy is not considered a major diagnostic criterion of neuromyelitis optica (NMO).
+Neuromyelitis optica (Devic’s disease) is an aggressive inflammatory demyelinating disorder characterized by recurrent attacks of optic neuritis and myelitis.
+It is associated with a highly specific autoantibody directed against aquaporin-4(AQp-4). AQp-4 is localized to the foot processes of astrocytes in close proximity to endothelial surfaces.
+The core clinical characteristics include optic neuritis, acute myelitis, area postrema syndrome
+(unexplained hiccups/ nausea/ vomiting), acute brainstem syndrome, symptomatic narcolepsy or acute diencephalic clinical syndrome with Neuromyelitis Optica Spectrum Disorder
+(NMOSD)-typical diencephalic MRI lesions, and symptomatic cerebral syndrome with NMSOD-typical brain lesions.
+Attacks of optic neuritis are bilateral and severe in NMO, whereas in multiple sclerosis (MS) optic neuritis is usually unilateral. progressive symptoms are not typical of NMO, unlike in MS. CSF
+findings in NMO show higher pleocytosis, with neutrophils and eosinophils in acute cases, and rare occurrence of oligoclonal bands, distinguishing it from MS.
+Acute attacks of NMO are treated with high-dose glucocorticoids. plasma exchange can be used in acute attacks that do not respond to glucocorticoids.
+Drugs used for prophylaxis against relapses include mycophenolate mofetil, rituximab,
+glucocorticoids, and azathioprine. Three monoclonal antibodies approved for attack prevention include eculizumab (terminal complement inhibitor), inebilizumab (B-cell depleter), and
+satralizumab (IL-6 receptor blocker).
+NMO typically presents as a recurrent disease, with a monophasic course observed in less than 1o% of patients. untreated NMO can lead to disability, including respiratory failure, blindness, and limb paralysis.",,C,
+Q13,Acid-base imbalance is suspected in a patient. which of the following would you use to determine it?,"a)1, 2
+b)1, 2, 3
+c)1, 2, 4
+d)1, 2, 3, 4","Arterial and venous pH can be used to determine acid-base imbalance.
+Arterial blood gas (ABG) analysis is the gold standard method for the assessment of oxygen and acid-base status.
+
+
+
+Venous blood gas (VBG) analysis is increasingly being used as a substitute for ABG as the
+difference between the pH obtained from VBG and ABG is clinically insignificant (arterial pH typically o.o3 higher than venous pH), thus making venous pH values acceptable.
+other options:
+option 3: The po2 values also show a significant difference, with arterial po2 (normal 95mmHg) values typically 55mmHg greater than the venous po2 (normal 4ommHg), making venous po2     values unacceptable.
+option 4: Venous pco2 (normal range 41 to 51mmHg) values differ significantly from arterial pco2 (normal range 35 to 45mmHg) by a range of 5 to 15mmHg which makes venous pco2    values unacceptable.",,A,
+Q14,which of the following does not show both hyperkinetic and hypokinetic movements?,"a)parkinson's disease
+b)wilson's disease
+c)Neurodegeneration with Brain Iron Accumulation
+d)Huntington's chorea","Huntington's disease (formerly known as Huntington’s chorea) is a movement disorder that shows predominantly only hyperkinetic movements like chorea.
+Hyperkinetic movement disorders include tremor, dystonia, athetosis, chorea, myoclonus, and tics. Hypokinetic movements include rigidity, stiffness, and bradykinesia.
+Huntington's disease is a degenerative disease of the caudate nucleus and putamen (striate
+neurons) caused by a trinucleotide repeat (cAG) in the Huntingtin gene on chromosome 4. It is inherited in an autosomal dominant pattern and is characterized by chorea, dysarthria, gait
+disturbance, behavioral disturbance and cognitive impairment with dementia. The clinical
+manifestations increase in severity with each successive generation (anticipation). Treatment includes haloperidol, and tetrabenazine.
+with advancing disease, a reduction in chorea may be seen along with the emergence of dystonia, rigidity, myoclonus, and bradykinesia. It can also have an akinetic, rigid, or parkinsonian
+presentation in younger patients (~1o% of cases) known as the westphal variant. However, the typical presentation of Huntington's disease is characterized by hyperkinetic movements like
+chorea.
+other options:
+option A: parkinson's disease is characterized by both hyperkinetic (resting tremor) and hypokinetic (rigidity, stiffness, bradykinesia) movements.
+option B: The neurological manifestations in wilson's disease occur due to damage of basal ganglia resulting in dystonia and tremor (hyperkinetic), parkinsonism with bradykinesia
+(hypokinetic), incoordination, dysarthria, and dysphagia. In advanced disease, the tremor progresses to a characteristic wing-beating flapping tremor.
+option c: pantothenate kinase-associated neurodegeneration (pKAN) formerly known as
+Hallervorden-spatz disease caused by pANK2 gene mutation is the most common form of
+Neurodegeneration with Brain Iron Accumulation (NBIA) and is manifested as a combination of dystonia (hyperkinetic), parkinsonism (hypokinetic), and spasticity. T2w-MRI shows the
+characteristic eye of the tiger sign due to iron accumulation in globus pallidus.",,D,
+Q15,"For the diagnosis of resistant hypertension, the patient should have uncontrolled
+hypertension despite taking three antihypertensive drugs. This should include at least one:","a)calcium channel blocker
+b)Beta blocker
+c)Alpha blocker
+d)Diuretic","For the diagnosis of resistant hypertension, the patient should have uncontrolled hypertension despite taking three antihypertensive drugs, including at least one diuretic.
+while a calcium channel blocker, beta blocker, or alpha-blocker can be part of the
+antihypertensive regimen, the inclusion of a diuretic is necessary for the diagnosis of resistant hypertension. The diuretic helps in addressing fluid retention which is often a significant
+contributor to hypertension.
+Resistant hypertension is more common in patients aged &gt;6o years than in younger patients. It may be related to nonadherence to therapy, obesity, and excessive alcohol intake.
+In the absence of a specific identifiable cause, mineralocorticoid receptor antagonists like
+spironolactone have been found to be most effective add-on drugs for the treatment of resistant hypertension.",,D,
+Q16,which of the following conditions is associated with hypokalemic metabolic alkalosis with hypertension?,"a)Bartter syndrome
+b)Liddle syndrome
+c)Gitelman syndrome
+d)Gordon syndrome","Liddle's syndrome is associated with hypokalemic metabolic alkalosis with hypertension.
+It is an autosomal dominant condition due to a gain of function mutation in the ENac gene, which codes for the epithelial sodium channels present in the kidney.
+Hypertension is the result of increased sodium retention through ENac channel and volume
+expansion. volume expansion suppresses renin and aldosterone secretion, leading to hypokalemic metabolic alkalosis.
+Treatment is with diuretics that directly block the ENac channels, like amiloride and triamterene. spironolactone is not effective as it is an aldosterone-receptor antagonist.
+other options:
+option A: Bartter syndrome is an autosomal recessive disorder occurring due to defects in various genes involved in the regulated Na+, K+, and cl– transport by the thick ascending loop of Henle.   There is extracellular fluid volume depletion with low or normal blood pressure. It is
+characterized by metabolic alkalosis, hypokalemia, hypochloremia, and hypercalciuria.
+option c: Gitelman syndrome is an autosomal recessive disorder due to a loss of function
+mutation in the thiazide-sensitive Na+-cl– cotransporter of the distal convoluted tubule. It is
+characterized by hypokalemic metabolic alkalosis with hypomagnesemia and hypocalciuria with low blood pressure.
+option D- Gordon syndrome is a state of pseudohypoaldosteronism. It is characterized by  hypertension, hyperkalemia, metabolic acidosis, and low-normal plasma renin activity and aldosterone concentrations.",,B,
+Q17,which of the following is not true about syndrome of inappropriate antidiuretic hormone secretion (sIADH)?,"a)urinary sodium &lt;2o mEq/L
+b)serum sodium &lt;135 mEq/L
+c)urine osmolality &gt;1oo mosm/kg
+d)patient can be clinically euvolemic to hypervolemic","In SIADH, the kidneys retain water, leading to volume expansion and natriuresis. Therefore, urinary sodium levels are typically higher than 2o mEq/L.
+other options:
+option B: SIADH is a condition where there is an inappropriate release of antidiuretic hormone (ADH), leading to impaired water excretion and dilutional hyponatremia.
+option C: ADH promotes the reabsorption of water and not the solutes resulting in concentrated urine. This is depicted as high urine osmolality.
+option D: patients can be hypervolemic due to water retention. However, persistently elevated   ADH levels can induce vasopressin escape mechanism, resulting in the typical euvolemic status.
+patients usually present with hyponatremia with a euvolemic status.
+Acute hyponatremia may present with mild headache, confusion, anorexia, nausea, vomiting, coma, and convulsions.
+Chronic hyponatremia allows cerebral adaptation, and the patients are asymptomatic despite the hyponatremia.
+Laboratory findings in SIADH include:
+• Hyponatremia: serum Na+&lt;135 mEq/L
+• urinary Na+ &gt;25 mEq/L
+• urine osmolality &gt;1oo mosm/kg
+• Blood urea nitrogen (BuN) levels are low, usually &lt;1o mg/dL
+• Serum urate is low
+• Serum K+ and serum bicarbonate are normal
+Mild and symptomatic hyponatremia can be managed by restricting fluid intake.
+Severe, symptomatic hyponatremia can be corrected using hypertonic saline or vasopressin receptor-2 antagonists (tolvaptan and conivaptan).
+other drugs which are useful in the management are demeclocycline and fludrocortisone.",,A,
+Q18,A patient came with hypoxemia and a normal alveolar-arterial oxygen gradient. what can be the cause?,"a)Right to left shunt
+b)ventilation/perfusion mismatch
+c)Hypoventilation
+d)Alveolar membrane damage","All of the given options can cause hypoxemia out of which the alveolar-arterial oxygen gradient (A-a gradient) remains normal in hypoventilation.
+The A-a gradient or the alveolar-arterial oxygen gradient refers to the difference between the oxygen concentration in the alveoli (pAo2) and oxygen concentration in the arterial system   (pao2).
+A-a gradient= pAo2 - pao2
+In hypoventilation, patients lack oxygen tension in the respiratory system as well as their arterial system. This results in a decrease in both pAo2 and pao2 and A-a gradient remains normal.
+Hypoventilation can be seen in CNS depression, neuromuscular diseases such as myasthenia gravis, kyphoscoliosis, vertebral fractures, etc.
+
+
+
+other options:
+option A- In a right-to-left shunt, a portion of the pulmonary blood flow gets shunted away from the alveoli. This results in ventilation without perfusion which causes a higher V/Q ratio. Here,    diffusion between capillaries and alveoli is unaffected,  but the arterial pao2 is decreased due to  the lack of oxygenation of the shunted blood. This results in hypoxemia and an increased A-a
+gradient. In the cases of the shunt, oxygenation does not improve hypoxemia.
+option B- Ventilation/perfusion (V/Q) mismatch is the most common cause of hypoxemia.
+Low V/Q mismatch occurs in chronic obstructive pulmonary disorder (CopD), asthma, interstitial lung disease, etc. In these cases, the A-a oxygen gradient is increased due to a defect in diffusion   resulting in hypoxemia.
+A high V/Q ratio is seen in pulmonary embolism (pE) where there is wasted ventilation. The     alveolar oxygen is normal but there is decreased perfusion resulting in increased A-a gradient.
+Inspiratory hypoxia, seen at high altitudes, can cause a V/Q mismatch. The decreased atmospheric pressure causes a decreased pAo2. There is normal diffusion which suggests a normal A-a
+gradient while the arterial pao2 decreases, leading to hypoxemia.
+Hypoventilation is the better answer as the cause of the V/Q mismatch is not specified.
+option D: Alveolar membrane damage affects diffusion between the alveoli and capillaries. The     oxygen levels in the arterial blood decrease even though alveoli are being ventilated. This leads to an increased A-a gradient.",,C,
+Q19,Treatment of choice for an acute attack of cluster headache is :,"a)oral sumatriptan
+b)subcutaneous sumatriptan
+c)1oo% oxygen at 6 L/minute
+d)1oo% oxygen at 8 L/minute","Among the given options, subcutaneous injection of sumatriptan (6 mg) is used in the treatment of an acute attack of cluster headache.
+The treatment of choice for an acute attack of cluster headache is 1oo % oxygen at 1o-12 L /min. High flow and high oxygen content are important. 1oo % oxygen at 6 or 8 L/min (options C and D) is insufficient.
+oral sumatriptan (option A) is not effective for the treatment of acute attack of cluster headaches. Sumatriptan (2o mg) and zolmitriptan (5 mg) nasal spray and noninvasive vagus nerve
+stimulation (nVNS) can also be used for the treatment of acute episodes of cluster headaches.
+Cluster headache is a rare primary headache characterized by daily attacks of short-duration unilateral headaches lasting 8-1o weeks a year. It presents as severe, brief (15-18o minutes)
+unilateral retro-orbital pain with autonomic features, such as unilateral lacrimation, nasal
+congestion, and conjunctival injection. patients are usually perfectly well in between episodes.
+Verapamil is the drug of choice for prophylaxis. other drugs used are prednisone, topiramate, lithium, gabapentin, melatonin, and greater occipital nerve injection with lidocaine and
+glucocorticoids.",,B,
+Q20,All are true regarding heart failure except:,"a)Regardless of ejection fraction and the type of heart failure, the 5 year mortality rate is around 5o%
+b)Non-cardiovascular death is more in HFrEF -3o-4o% as compared to HFpEF -15%
+c)Angiotensin converting enzyme (ACE) inhibitors cause cough in 15% and angioedema in 1%
+d)Atrial fibrillation is common in elderly and is the cause of stroke in quarter of the stroke cases","Non-cardiovascular deaths are more in heart failure with preserved ejection fraction (HFpEF) as compared to heart failure with reduced ejection fraction (HFrEF).
+Non-cardiac causes accounted for 62% of deaths in HFpEF, 54% in HFmrEF (heart failure with  mildly reduced ejection fraction), and 35% in HFrEF. Cancer was twice as frequent as a cause of death in HFpEF and HFmrEF versus HFrEF.
+Heart failure is divided according to the ejection fraction:
+• Heart failure with preserved ejection fraction (HFpEF): Left ventricular ejection fraction is &gt;4o-5o%
+• Heart failure with reduced ejection fraction (HFrpF): Left ventricular ejection fraction is &lt;4o% patients with a left ventricular ejection fraction between 4o% and 5o% are considered to have
+borderline or mid-range EF.
+other options:
+option A: 'Regardless of the EF and the type of heart failure, the 5-year mortality rate is around 5o%' is a true statement. The development of symptomatic heart failure has a poor prognosis.    3o-4o% of patients die within 1 year of diagnosis. More than 5o% (6o-7o%) die within 5 years.
+option C: Angiotensin-converting enzyme (ACE) inhibitors cause cough in 15% and rashes and angioedema in 1%. ACE inhibitors inhibit the angiotensin-converting enzyme and inhibit the     conversion of angiotensin I to angiotensin II. ACE also splits bradykinin, substance p,
+enkephalins, etc. The bradykinin and substance p which are not broken down lead to cough, urticaria, and rarely angioedema.
+option D: The prevalence of atrial fibrillation increases with age, and &gt;95% of AF patients are &gt;6o years of age. Atrial fibrillation increases the risk of stroke by five-fold and is estimated to  be the cause of 25% of strokes.",,B,
+Q21,A 35-year-old female patient with class II pulmonary hypertension presents with a negative vasoreactivity test. which of the following is used in the next step of management?,"a)Iloprost
+b)Ambrisentan
+c)Nifedipine
+d)Epoprostenol","In a patient with class II pulmonary hypertension (low risk) with a negative vasoreactivity test, the next best step of management is to start on ambrisentan (endothelin receptor antagonist)
+pulmonary artery hypertension (pAH) is defined as mean pulmonary arterial pressure greater than 2o mmHg with a pulmonary vascular resistance of ≥3 wood units.
+Exertional dyspnea, chest pain, fatigue, and lightheadedness are common early symptoms. with the progression of the disease, right ventricular dysfunction occurs which causes syncope,
+abdominal distention, ascites, and peripheral edema.
+Vasoreactivity testing involves the administration of inhaled nitric oxide, IV epoprostenol, IV
+adenosine, or inhaled iloprost. The test is considered positive if the mean pulmonary arterial
+pressure (mpAH) decreases by ≥ 1o mmHg leading to mpAH ≤ 4o mmHg, without a decrease in cardiac output (Co).
+In case of a positive vasoreactivity test, calcium channel blockers are indicated. Long-acting nifedipine, diltiazem or amlodipine can be used.
+If the vasoreactivity test is negative,
+
+
+
+• For patients with lower risk (class II, III) based on clinical assessment, oral therapy with
+endothelin receptor antagonists like ambrisentan, sitaxsentan, bosentan, or phosphodiesterase 5 inhibitors (pDE-5 I's) like sildenafil, tadalafil is the first line of therapy.
+• For patients with higher risk (those with advanced heart failure or syncope, class IV) based on clinical assessment, continuous treatment with iv prostacyclins (epoprostenol or treprostinil)     would be the first line of therapy.
+Lung transplantation and/or atrial septostomy are reserved for patients who progress despite optimal medical treatment.
+The treatment algorithm for pulmonary hypertension is given below:
+
+
+Revised WHO classification of pulmonary hypertension:
+• Group I: pulmonary arterial hypertension (pAH)
+• Group II: pulmonary hypertension with left heart disease
+• Group III: pulmonary hypertension associated with lung diseases and/or hypoxemia
+• Group IV: pulmonary hypertension due to chronic thrombotic and/or embolic disease (CTEpH)
+• Group V: pulmonary hypertension due to miscellaneous causes The table below provides guidance on the prognosis of pAH.
+
+Determinants	Low risk	High risk
+Clinical evidence of RV failur e	No	yes
+progression of symptoms	Gradual	Rapid
+Echocardiography	Minimal RV dysfuncti on	pericardial effusion, significa nt RV enlargement/dysfuncti on, right atrial enlargement
+WHO functional class	II, III	IV
+6min walk distance	Longer (>4oo m)	shorter (<3oo m)
+
+
+
+
+Determinants	Low risk	High risk
+BNP	Minimally elevated	Significantly elevated",,B,4311-2732.PNG
+Q22,"A 3o-year-old female patient came to the outpatient department with complaints of neck swelling. she gives a history of weight loss and palpitations. on examination, she has
+exophthalmos and a diffusely enlarged thyroid gland. what are the essential investigations that should be done for the patient?","a)1, 2, 3, 4, and 5
+b)1, 3, 5 only
+c)3, 4, 5 only
+d)1, 3, 4 and 5 only","The given clinical scenario of a female patient presenting with weight loss, palpitations,
+exophthalmos, and diffusely enlarged thyroid gland is suggestive of Graves' disease.
+The essential investigations in this patient would be thyroid function tests, ultrasound of the neck, thyroid scan, and anti-thyroid antibody. FNAC is not an essential investigation in this condition.    FNAC should be done on nodules that are not classified as fully benign on ultrasound.
+The hyperthyroidism of Graves’ disease is caused by thyroid-stimulating immunoglobulin (TSI)     synthesized by lymphocytes in the thyroid gland as well as in bone marrow and lymph nodes. TSI antibodies cause stimulation of the thyroid gland causing features of hyperthyroidism.
+Symptoms include hyperactivity, heat intolerance, sweating, palpitations, weakness, weight loss, increased appetite, and diarrhea.
+Signs include tachycardia, goiter, tremor, muscle weakness, and atrial fibrillation in the elderly. Thyroid ophthalmopathy seen in one-third of patients with Grave’s disease.
+NO SPECS scoring system as describe below can be used to evaluate ophthalmopathy.
+• No signs or symptoms
+• Only signs (lid retraction, or lag)
+• Soft tissue involvement (periorbital edema)
+• Proptosis
+• Extraocular muscle involvement
+• Corneal involvement
+• Sight loss
+Thyroid dermopathy usually occurs in the presence of moderate or severe ophthalmopathy. It    primarily manifests as noninflamed, indurated plaques with a deep pink or purple color and an ""orange skin"" appearance, commonly found on the anterior and lateral aspects of the lower leg   (known as pretibial myxedema).
+Investigations done in a patient with Graves' disease include:
+• Thyroid function tests- TSH levels are decreased with or without elevated T3 and T4 levels.
+• Anti-thyroid antibodies- Elevated levels of TSH receptor antibodies are diagnostic of Graves' disease. Other antibodies like anti-Tg and anti-TPO are elevated in most of the patients.
+• Ultrasound of the neck is performed to evaluate vascularity, echogenicity, nodules, and clinical landmarks for surgical planning.
+• A radioactive iodine uptake (RAIU) scan (thyroid scan) should be performed and a diffuse uptake confirms the diagnosis of Graves' disease. It is also useful to differentiate TSI-negative Graves
+
+
+
+disease from toxic nodular disease based on diffuse or nodular uptake patterns.
+• CT or MRI scans of the orbits are useful to evaluate Graves’ ophthalmopathy.
+Hyperthyroidism can be treated by antithyroid drugs, radioiodine treatment (I131), or thyroidectomy.",,D,
+Q23,which of the following drugs is preferred in the management of primary progressive multiple sclerosis ?,"a)Natalizumab
+b)ocrelizumab
+c)Fingolimod
+d)Alemtuzumab","ocrelizumab is preferred in the management of primary progressive multiple sclerosis (PPMS). Natalizumab, fingolimod, and alemtuzumab are used in the management of relapsing multiple  sclerosis and not PPMS.
+ocrelizumab is a monoclonal antibody against CD2o molecules present on B cells. It reduces the progression of the disease and improves other clinical parameters.
+Multiple sclerosis (MS) is an autoimmune disease characterized by chronic inflammation, demyelination, gliosis (scarring), and neuronal loss.
+Based on clinical course, MS is classified as:
+• Relapsing or bout onset MS (RMS)
+• Secondary progressive MS (SPMS)
+• Primary progressive MS (PPMS)
+The drugs used in the management of RMS are listed in the table below:
+Siponimod, a selective S1P1 S1P5 modulator, reduces the risk of progression of SPMS.
+ocrelizumab, cladribine and high dose interferon beta can also be used.
+ocrelizumab is the first drug to alter the progression of disability in PPMS.
+
+Highly effective	Moderately effective	Modestly effective
+Anti CD2o antibodies: ocreli  zumab, ofatumumab, Rituxi   mabAnti integrin antibody: N atalizumabAnti CD 52 antibo  dy: AlemtuzumabMitoxantro  ne	Sphingosine-1-phosphate inhi bitor: FingolimodDimethyl fu marateCladribine	Glatiramer acetateInterferon betaTeriflunomide",,B,
+Q24,The blood investigation of a patient is given below. what is the probabale diagnosis?,"a)Acute hepatitis B
+b)chronic hepatitis B
+c)Remote infection with hepatitis B
+d)core window period","The most probable diagnosis is remote infection with hepatitis B virus (HBV).
+A non-reactive HbsAg rules out active HBV infection (options A and B).
+Non-reactive IgM anti-HbcAg suggests that the patient is not in the window period (option C). Reactive IgG HBcAg is seen in the late convalescence stage and remains lifelong.
+
+
+
+option A: In acute hepatitis B, HBsAg is reactive, HBeAg can be reactive in highly infectious individuals, and IgM Anti HBcAg is reactive. Anti-Hbs is reactive in recovery.
+option B: In chronic hepatitis B, HBsAg is reactive, and IgG Anti HBcAg is reactive. Anti-HBs is non-reactive.
+option D: core window period is a phase where even though hepatitis infection is present, HBsAg is non-reactive. Diagnosis is based on the presence of IgM Anti HBcAg.",,C,
+Q25,A 6o-year-old male patient with critical mitral stenosis presented with atrial fibrillation. He has a history of multiple episodes of transient ischemic attacks. which of the following are   true regarding the prevention of stroke in this patient?,"a)1 only
+b)2 and 3
+c)2, 3 and 4
+d)1, 2, 3 and 4","statements 2 and 3 are true regarding the prevention of stroke in this patient.
+statement 1: clopidogrel combined with aspirin is better than aspirin alone for stroke prevention. warfarin is superior to antiplatelets in stroke prevention.
+statement 2: warfarin is the recommended anticoagulant for patients with mitral stenosis (Ms) and mechanical prosthetic valves.
+statement 3: Direct oral anticoagulants (DoAcs) like dabigatran, rivaroxaban, apixaban, and
+edoxaban are not used in the treatment of moderate to severe Ms and in patients with prosthetic heart valves due to limited clinical evidence.
+DoAcs have a lower risk of intracranial hemorrhage compared to warfarin and are as effective as  warfarin for stroke prevention in valvular heart disease (except moderate to severe mitral stenosis or a mechanical heart valve), ischemic stroke or TIA, and AF.
+statement 4: Mitral valvotomy is not recommended for the prevention of stroke in this patient. It is indicated in symptomatic (New york Heart Association Functional class II-IV) patients with
+isolated severe mitral stenosis, whose effective orifice (valve area) is &lt; 1.5 cm2 in normal-sized adults. It is contraindicated in cases of left atrial thrombus.",,B,
+Q26,True about electroencephalogram (EEG) is all except:,"a)1-5% of the population can have epileptiform discharges
+b)scalp EEG may be helpful in localizing frontal lobe epilepsy
+c)Doing EEG is mandatory for diagnosis of seizures
+d)progressive multifocal leukoencephalopathy shows triphasic and slow waves on EEG","Doing EEG is not mandatory for the diagnosis of seizures. The diagnosis of a seizure in most cases is based only on clinical grounds when examination and laboratory studies are often normal.
+All patients who are suspected to have a seizure disorder should be evaluated with an EEG. EEG    may provide support to the clinical diagnosis, prognosis, and classification of the seizure disorder.
+other options:
+option A: Approximately 1–5% of the population will have epileptiform discharges on EEG. The presence of epileptiform activity on EEG is not specific to epilepsy. Even in known cases of
+epilepsy, the routine inter-ictal EEG can be normal in 6o% of cases. Thus, the EEG cannot establish the diagnosis of epilepsy in many cases.
+option B: scalp EEG recording is sometimes helpful in the localization of frontal lobe epilepsy but is usually normal or misleading. when focal seizures arise from regions distant from the scalp
+such as the inferior frontal lobe or medial temporal lobe, the EEG recorded during the seizure may be non-localizing.
+
+
+
+Option D: Progressive multifocal leukoencephalopathy is a demyelinating disease of the central nervous system due to infection by the John Cunningham virus (JC) virus.
+Electroencephalography (EEG) is characterized by a slow background activity with triphasic waves and slow waves predominantly in the frontal regions.
+Characteristic EEG findings in different conditions:
+• Typical absence seizures: 3-Hz spike-and-slow-wave discharges
+• Lennox-Gastaut syndrome: Slow (&lt;3 Hz) spike-and-wave discharges
+• Generalized tonic clonic seizure (GTCS) - in tonic phase, increasing generalized low-voltage fast activity, followed by high-amplitude, polyspike discharges &amp; in clonic phase a
+spike-and-slow-wave pattern is seen
+• Creutzfeldt-Jakob disease: generalized periodic sharp waves
+• Hepatic encephalopathy: triphasic waves",,C,
+Q27,"A 62-year-old male patient with heart failure is scheduled for a heart transplant. His renal    function test is deranged and hemoglobin is 6 gm%. The physician ordered 2 units of whole blood. Four hours after transfusion, he developed severe respiratory distress. on
+examination, he is hypoxemic, has tachycardia and his mean arterial pressure is elevated. which of the following are the best investigations for the above scenario?","a)4 and 5
+b)3 and 5
+c)1 and 2
+d)2 only","The clinical scenario describes an elderly patient with heart failure who develops severe
+respiratory distress associated with hypoxia, tachycardia, and elevated mean arterial pressure
+following a blood transfusion. The most likely diagnosis is transfusion-associated circulatory
+overload (TACO). The recommended investigations for suspected TACO include chest X-ray and BNP levels.
+Chest X-ray in TACO may show bilateral and predominant alveolar infiltrates. BNP levels are usually elevated in TACO secondary to volume overload.
+Anti-leukocyte antibodies are present in transfusion-related acute lung injury (TRALI), not in TACO patients.
+TACO is usually a clinical diagnosis suspected in any patient who has acute respiratory distress and/or hypertension during transfusion or within 6 hours of completion.
+Risk factors include older age, pre-existing fluid overload, cardiac dysfunction, renal dysfunction, and transfusion of large volumes of blood components.
+Management of TACO involves discontinuing the transfusion and providing oxygen and diuretics.
+Identification of at-risk patients, a slow transfusion rate (1 PRBC over 3-4 hours), close
+monitoring, and the use of diuretics in hemodynamically stable patients with a history of TACO can prevent TACO.
+
+Features	TRALI	TACO
+Body temperature	Fever +	Fever +/-
+Blood pressure	Hypotension	Hypertension
+Respiratory sympto ms	Acute dyspnea	Acute dyspnea
+Neck veins	unchanged	Distended
+
+
+
+
+Features	TRALI	TACO
+Chest radiograph	Diffuse bilateral infiltrates	Diffuse bilateral infiltrates
+Ejection fraction	Normal	Decreased
+Pulmonary edema fl uid	Exudate	Transudate
+Fluid balance	Neutral or negative	Positive
+Response to diuretic s	Inconsistent	significant improvement
+white cell count	Transient leukopenia may be present	unchanged
+BNP	Maybe elevated in critically il l patients with TRALI	Elevated",,C,
+Q28,"A chronic smoker presented with shortness of breath, bilateral pitting pedal edema, and
+abdominal distension. on examination, jugular venous pulse was found to be elevated and liver was palpable 8 cm below the costal margin. An abnormality in which of the following structures is responsible for the patient's symptoms?","a)1
+b)2
+c)3
+d)4","The given clinical scenario of a patient with dyspnea, bilateral pitting pedal edema, abdominal
+distension, elevated jugular venous pulse (JVP) and a palpable liver are suggestive of right
+ventricular (RV) failure. The history of chronic smoking points towards chronic obstructive
+pulmonary disease (COPD) as the etiology for RV failure (cor pulmonale). The label 2 points to the right ventricle (RV), which is affected in this patient.
+Cor pulmonale is defined as altered RV structure/function secondary to pulmonary hypertension in the context of chronic lung diseases.
+The main pathophysiology behind cor pulmonale is pulmonary hypertension and increased right ventricular (RV) afterload which is sufficient to cause RV dilation with or without hypertrophy.    sustained pressure overload leads to RV dysfunction and failure.
+Dyspnea is the most common symptom. signs include elevated JVP with prominent v waves, hepatomegaly, pulsatile liver, ascites, pedal edema, s3 gallop and murmur of tricuspid
+regurgitation.
+The ECG in severe pulmonary hypertension shows p-pulmonale, right axis deviation, and RV  hypertrophy. Echo can be used to measure RV wall thickness and chamber dimensions, while doppler can be used to assess pulmonary artery pressures.
+A specimen of the heart with the various parts labeled is given below:",,B,4317-2733.PNG

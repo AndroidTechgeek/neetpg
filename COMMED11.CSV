@@ -1,0 +1,215 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"The average life expectancy for a woman in Japan is 87 years. Due to recent advances in
+testing for cervical cancer, there is an increase in life expectancy by 15 years. The healthcare utility value is o.8. which of the following can be calculated from the parameters given?","a)HALE
+b)DALY
+c)DFLE
+d)QALY","QALY (quality-adjusted life year) can be calculated by the utility value.
+
+
+
+QALY is a disability rate indicator. It is based on the number of years that would be added to life   due to medical intervention. A utility value of 1.o is given for each year of perfect health and o for death. It is the measure of the disease burden which includes both quality and quantity of life.
+Disability rates that are related to illness and injury are used as supplementation to mortality and morbidity indicators. It is based on the concept that a full range of daily activities implies good
+health. It is divided into:
+• Event-type indicators: It counts the number of days of restricted activity, bed disability days, and work loss days.
+• Person-type indicators: It counts limitation of mobility and limitation of activity.
+other options:
+option A: HALE (health adjusted life expectancy) is an indicator that estimates the number of years a newborn is expected to live in full health based on the current rates of ill
+health and mortality. HALE is calculated using the life expectancy at birth with an adjustment for time spent in poor health. It was known as DALE (disability-adjusted life expectancy) previously.  option B: DALY (disability adjusted life years) is an indicator that estimates the number of years   lost due to ill-health, disability, or early death. It is calculated by:
+DALY= Years of life lost (YLL) + Years lived with disability (YLD)
+option C: DFLE (disability-free life expectancy) is an indicator that estimates the average number of years an individual is expected to live free of disability if the current pattern of mortality and     disability continues to apply. It is also known as active life expectancy and is calculated by:
+DFLE = Life expectancy - Duration of disability",,D,
+Q2,You are working in a primary health center (PHC) situated in a high seismic zone. which of the following will you do as part of preparedness for an emergency?,"a)1, 2, 3, 4
+b)2, 3, 4
+c)1, 2, 3
+d)1, 2, 4","steps 1, 2, and 3 are done as part of preparedness for an emergency by someone working in a PHC situated in a high seismic zone.
+Emergency preparedness refers to long-term development activities that strengthen the capacity of a country to effectively manage all kinds of emergencies. It involves the following steps:
+• Disaster preparedness by making sure all financial and other resources are available
+• Increase public awareness through campaigns and loudspeakers
+• Conduct a simulation for the disaster and assess the response
+• Evaluate the risk of disaster
+• Information sessions coordination with news media
+• Adopt standards and regulations
+Disaster risk management is a systematic process using administrative decisions, policies, and strategies to lessen the impacts of natural hazards and disasters. The steps are:
+• Response - This includes activities such as:
+
+
+
+• search, rescue, and first aid: This step is important since the organized relief services will be able to address only a small fraction of demand after a major disaster.
+• Field care: This includes making health care available regardless of facilities and operating status.
+• Triage: classifying the injured based on the severity of the injuries and chances of survival with medical intervention.
+• Tagging: Tags with name, age, triage category, diagnosis and treatment are put for identification purposes.
+• Identification of the dead: The dead bodies should be shifted from the disaster site to the mortuary.
+• Rehabilitation - This includes measures that lead to the restoration of pre-disaster conditions. These measures include water supply restoration, food safety, basic
+sanitation, personal hygiene, and vector control.
+• Mitigation - This includes measures to prevent disasters from causing emergencies or to lessen   the likely effects of emergencies. some of them are flood mitigation, land use planning, improved building codes, and the reduction and protection of vulnerable populations or structures.
+• preparedness - This is a program that aims at strengthening the capacity of a country to manage all types of emergencies efficiently. Its objective is to ensure that appropriate measurements are    taken for the relief and rehabilitation of disaster victims.
+some measures that should be followed by all in case of an emergency include:
+• Avoiding telephone use, unless it is to call for help
+• Listen to and carry out the radio or loudspeaker broadcast messages
+• carry out the official instructions given over the radio or by loudspeaker
+• keep a family emergency kit ready
+Note: vaccination of the general population post-disaster against typhoid, cholera, and tetanus is not recommended.",,C,2570-1602.PNG
+Q3,"Although many animals are implicated in the spread of rabies, dogs are the most common
+ones. Also, it usually affects children in developing countries. knowing this, what is the most cost-effective and logical way to reduce the incidence of rabies?","a)Testing all the dogs for rabies
+b)Reduce stray dog population and vaccinate all dogs
+c)Increase the laboratory facilities
+d)Increase capacity of healthcare workers for surveillance","Reducing the stray dog population and vaccinating all dogs is the most cost-effective and logical
+way to reduce the incidence of rabies. The Animal Birth Control initiative from the Government of India is directed towards this goal.
+Rabies is a highly fatal viral disease caused by Lyssavirus type 1, affecting the central nervous
+system. Dogs are considered the major source of rabies infection. Thus immunization of dogs at the age of 3-4 months and booster doses at regular intervals is recommended to control rabies.  The type of vaccines used are:
+• BPL inactivated nervous tissue vaccine - it is a single-dose vaccine. Booster is advised after 6 months and subsequently every year.
+• Modified live virus vaccine - it is also a single-dose vaccine and a booster is given every 3 years.
+Other methods to control rabies include:
+• Registration and licensing of all domestic dogs
+• The immediate killing of dogs and cats bitten by rabid animals
+• 6 months quarantine for imported dogs
+• Educating people regarding dog care and prevention of rabies.
+Note: Strengthening laboratory facilities and surveillance are also the methods used to reduce the incidence according to the National Rabies Control Program (NRCP)
+Humans get infected after a deep bite or scratch by an infected animal. The transmission also
+occurs when the saliva of the infected dog comes into direct contact with human mucosa or fresh skin wounds.
+Rabies in man is also known as hydrophobia. The clinical features usually begin as prodromal
+symptoms like headache, and fever followed by neurological symptoms. The patients usually
+present with confusion, hallucination, irritability, hydrophobia, aerophobia, and muscle spasms.  They also present with symptoms of autonomic dysfunction such as hypersalivation, lacrimation, cardiac arrhythmias, etc.
+Laboratory tests for rabies include:
+• Fluorescent antibody test is a highly reliable and best test for rapid detection of rabies antigen in the infected specimens
+• Microscopic examination of the brain tissue to demonstrate Negri bodies.",,B,
+Q4,which of the following steps is not included in sTEp approach of wHO?,"a)Therapeutic assessment
+b)physical assessment
+c)psychological assessment
+d)Behavioral assessment","Therapeutic assessment is not included in the STEP approach of wHO.
+STEP approach of wHO is a survey methodology developed to assess risk factors of
+non-communicable diseases(NCD). It helps the countries to establish an NCD surveillance system. The steps include the following:
+
+
+
+• Questionnaires contain questions about behavioral risk factors like tobacco use, alcohol use, diet, and physical activity.
+• Physical measurements contain blood pressure, height, weight, and waist size
+• Biochemical measurements contain blood glucose, blood lipids, urinary sodium, and creatinine. Note: Mental health and suicide are included in optional behavioral risk factors (step 1).
+Hence, psychological assessment is also included in the STEP approach.
+Surveillance is defined as systematic and continuous data analysis and taking appropriate
+preventive actions according to the results obtained. Identification of cases that are missed and
+not notified is known as sentinel surveillance. It is used in communicable diseases such as HIV,    malaria, etc. The study population for HIV sentinel surveillance are sex workers, IV drug abusers, transgender people, migrant workers, truck drivers, etc.",,A,
+Q5,A male patient diagnosed with tuberculosis took complete treatment. sputum examination   was done after the completion of the intensive and the continuation phases. It was found to be negative. what is the status of the patient?,"a)cured
+b)Treatment completed
+c)Lost to follow up
+d)Treatment failed","The negative sputum examination at the end of the treatment implies the status of the patient is cured.
+Tuberculosis (TB) is a communicable disease caused by Mycobacterium tuberculosis. The disease mainly affects the lungs and causes pulmonary tuberculosis.
+A bacteriologically confirmed TB case is one in which the biological specimen tests positive on
+smear microscopy and culture. A clinically diagnosed TB case is one that is diagnosed as an active TB case by a clinician, who has decided to give the patient a full course of TB treatment.
+There are two phases in the treatment of TB. The intensive phase lasts for 2 months and four
+drugs are used. They are isoniazid, rifampicin, pyrazinamide, and ethambutol. The continuation phase lasts for 4 months, where isoniazid is given along with rifampicin and Ethambutol.
+After the completion of anti-tubercular treatment, the sputum/culture is tested and one of the outcomes given below is assigned to the patient:
+• cured - A TB patient whose smear or culture turned negative in the last month of treatment and on at least one previous occasion
+• Treatment completed - A TB patient who completed treatment without any failure, but has no
+record to show that sputum smear or culture results in the last month of treatment and on at least one previous occasion were negative; it may be either because tests were not done or because
+results are unavailable
+• Treatment failed - A TB patient whose sputum smear or culture is still positive after treatment for 5 months or more
+• Lost to follow-up - A TB patient who did not start treatment or whose treatment was interrupted for 2 consecutive months or more
+• Died - A TB patient who dies before starting or during the course of treatment for any reason
+• Not evaluated - A TB patient for whom no treatment outcome is assigned; this includes cases ""transferred out"" to another treatment unit and cases for whom the treatment outcome is
+unknown to the reporting unit whose treatment I interrupted",,A,
+Q6,A cohort study was conducted with drinkers and non-drinkers of green tea to study its effect on diabetes mellitus. The risk ratio was found to be o.84. which of the following statements is correct?,"a)Green tea reduces the risk of diabetes
+b)Green tea increases the risk of diabetes
+c)Data insufficient to establish causal association
+d)The value (o.85) tends to be close to 1, hence there is no effect","Green tea reduces the risk of diabetes mellitus is the correct statement since the risk ratio is o.84. Relative risk (RR) or risk ratio is the ratio of the incidence of the disease (or death) among
+exposed and the incidence among non-exposed. It can be determined from a cohort study.
+It is a direct measure of the strength of the association between suspected cause and effect. The larger the RR, the greater the strength of the association between the suspected factor and
+disease.
+• RR &lt; 1 indicates inverse association(protective effect).
+• RR = 1 indicates no association
+• RR &gt; 1 indicates a positive association.
+• RR of 2 indicates a 1oo% increase in risk.
+In the question, the risk ratio is less than 1. Hence it implies the incidence of diabetes mellitus is reduced when exposed to green tea.",,A,
+Q7,which statement refers best to the criteria for starting an urban community health center?,"a)caters to a population of 1-1.5 lakh
+b)Referral centre for 2- 3 primary health centers
+c)No sub-district and district hospitals present in the area
+d)should have a 1oo-bed facility in metro cities","An urban community health center (u-CHC) has a 1oo-bed facility in metro cities.
+u-CHC acts as a referral center for 4–5 urban primary health centers (u-PHC). It is usually a 3o–5o bedded facility that caters to a population of 2,5o,ooo.
+when it comes to metro cities, it caters to a population of 5,oo,ooo with a 1oo-bed facility. These hospitals will have surgeons, gynecologists, physicians, and pediatricians, along with x-ray and
+laboratory facilities.
+The specialists at the community health center can refer a patient to the state-level hospital or the nearest medical college hospital directly. The subdistrict and district hospitals operate in addition to CHC to cater to the population.
+services of CHC:
+• Care of routine and emergency cases in medicine and surgery
+• Maternal, newborn, and child health
+• Family planning
+• All the national health program functions
+• Physical medicine and rehabilitation services",,D,
+Q8,"How is a broken vaccine vial disposed, according to biomedical waste management?","a)puncture proof blue bin
+b)white container
+c)yellow container
+d)Red container","A broken vaccine vial is disposed of in a puncture-proof blue bin, according to biomedical waste management (BMW).
+According to BMW, broken or discarded contaminated glass materials such as vials, ampules, etc are disposed of in boxes marked with blue color. It is then disinfected either by washing with
+detergent, autoclaving, or microwaving and sent for recycling.
+
+
+
+The methods used for treatment and disposal of healthcare waste are:
+• Incineration: This is a dry oxidation process done using high temperatures.
+• chemical disinfection: chemicals are added to waste to kill or inactivate the microorganisms.
+• Wet and dry thermal treatment: shredded infectious waste is exposed to high temperature, high-pressure steam and it resembles an autoclave sterilization process.
+• Microwave irradiation: Microorganisms are killed using high-frequency microwave.
+• Land disposal.
+
+
+
+• Inertization: waste is mixed with cement and other substances before disposal to reduce toxicity.",,A,2574-1603.PNG
+Q9,"In an urban area in the state of Madhya pradesh, a primigravida goes for institutional
+delivery after being motivated by an ASHA worker. what are the benefits they will receive (in terms of money in rupees) under the Janani Suraksha yojana?","a)1ooo for mother and 4oo for ASHA
+b)14oo for mother and 6oo for ASHA
+c)6oo for mother and 4oo for ASHA
+d)4oo for mother and 6oo for ASHA","According to Janani Suraksha Yojana (JSY) scheme, the mother will receive 1ooo rupees and the ASHA worker will receive 4oo rupees.
+Janani Suraksha Yojana (JSY) is a program under the National Rural Health Mission
+(NRHM), whose aim is to reduce maternal mortality by encouraging delivery in government  health facilities. under the scheme, a financial incentive is also provided for giving birth in a government health facility.
+The Accredited Social Health Activist (ASHA) is the link between pregnant women and health  institutions. She is responsible for making institutional antenatal and postnatal care available.
+States are divided into low-performing and high-performing on the basis of institutional delivery rate. The 1o low-performing states (LPS) with a low institutional delivery rate are uttar Pradesh, uttarakhand, Madhya Pradesh, Jharkhand, Bihar, Rajasthan, Chattisgarh, odisha, Assam, and    Jammu &amp; kashmir. All the other states are high-performing states (HPS).
+The incentives under JSY are as follows:
+under this scheme, the cost of cesarean section and management of obstetric complications is also subsidized, up to Rs 15oo per delivery to the government institutions, where government specialists are not present.
+
+Categ ory	Rural area	urban area
+LPS	Mother package: 14oo/-ASH  A's package:6oo/-Total:2ooo /-	Mother package: 1ooo/-ASH A's package:4oo/-Total:14oo /-
+HPS	Mother package: 7oo/-ASHA'
+s package:6oo/-Total:13oo/-	Mother package: 6oo/-ASHA'
+s package:4oo/-Total:1ooo/-",,A,
+Q10,which of the following agency provides seed and manure in applied nutrition programs in schools?,"a)CARE
+b)UNDp
+c)UNICEF
+d)wHO","uNICEF provides seed and manure in applied nutrition programs in schools.
+Applied Nutrition Program is implemented with the aim of producing various types of productive food by the community for the community itself.
+uNICEF assists the program by providing implements, seeds, manure, and water supply
+equipment. If free land is available in schools, the facilities provided by uNICEF should be used in developing school gardens.
+The produce obtained from the gardens can be utilized for school feeding programs and for nutrition education.
+
+
+
+Another strategy called GoBI was also implemented by UNIcEF with the aim of a child health revolution.
+other options:
+option A- cARE- cooperative for Assistance and Relief Everywhere aims at providing food for    children in the age group of 6-11 years. It is also helping in projects like integrated nutrition and health project, better health and nutrition projects, anemia control projects, etc.
+option B- UNDP- The United Nations Development Program provides funds for technical
+assistance. Its main objective is to help poorer nations in developing their human and natural resources.
+option D- WHo- World Health organization aims at the attainment of the highest level of health by all people, which helps them to lead a socially and economically productive life.",,C,
+Q11,"Many children from a particular community coming to a hospital were detected to have acute lymphoblastic leukemia (ALL). It was assumed that it is due to the presence of cytotoxic waste in the water of that community. If a case-control study has to be done to find whether the
+chemical and ALL are associated, what will be taken as the control?","a)Children from the area exposed, but unaffected with the disease
+b)Children from the area not exposed and affected with the disease
+c)children coming to your OPD, who do not have the disease
+d)All children with ALL irrespective of exposure status","children coming to the oPD, who do not have the disease, will be taken as the control for the case-control study.
+The prerequisite for selecting a control group is that they must be free from the disease under
+study. They must be as similar as possible to the cases, except for the fact that they should not
+have the disease. Usually, the control group consists of persons who have not been exposed to the disease or factor whose influence is under study. Therefore, among the options, the best answer     would be the children coming to the oPD, who do not have the disease as controls for the study.
+case-control studies are also called retrospective studies. This study proceeds from effect to cause and is done after the exposure and outcome have occurred.
+They focus on diseases or health problems that have already developed. They are less
+time-consuming and have no risk of attrition because they do not require follow-up.
+There are four basic steps in conducting a case-control study:
+• selection of cases and controls.
+• Matching- This is done to ensure comparability between cases and controls. controls are
+selected such that they are similar to cases with respect to certain factors, like age, that influence the disease outcome.
+• Measurement of exposure - This is obtained by interviews, questionnaires, or study of the past records of cases.
+• Analysis in the form of exposure rates, risk ratio, and odds ratio.
+The odds Ratio (oR) calculated from a case-control study, is a measure of the strength of the association between risk factor and outcome.",,C,
+Q12,"An auxiliary nurse midwife has to conduct a vaccination camp in a village. she received 2    open vials, one of which is a pentavalent vaccine and the other is an MR vaccine. what can she do regarding the utilization of these vials?","a)use MR vaccine and discard pentavalent vaccine
+b)use pentavalent vaccine and discard MR vaccine
+c)use both
+d)Discard both","she can use the pentavalent vaccine and discard the MR vaccine.  According to the open vial policy, the pentavalent vaccine can be reused, whereas MR can not be reused.
+open vial policy was implemented to allow the reuse of partially used multidose vials under the  Universal Immunization Program (UIP) for up to 28 days if certain conditions are met. This was implemented to reduce vaccine wastage.
+It applies only to DPT, TT, hepatitis B, oral polio vaccine (oPV), liquid pentavalent, PCV,
+injectable IPV, inactivated Japanese encephalitis (JE) vaccine, and rotavirus vaccine. It does not apply to Measles/MR and BCG vaccines.
+Note: open vial policy does not apply to rotavirus vaccine with VVM on cap, it applies only to new rotavirus vaccine with VVM on label.",,B,

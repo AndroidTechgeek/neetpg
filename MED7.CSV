@@ -1,0 +1,388 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"A patient came to the hospital with complaints of lethargy, increased sleep, and weight gain. Investigations revealed low plasma TSH concentration. However, on the ■administration of TRH, the TSH levels increased. which of the following conditions is likely in this patient?","a)Hyperthyroidism due to disease in the pituitary
+b)Hypothyroidism due to disease in the pituitary
+c)Hypothyroidism due to disease in the hypothalamus
+d)Hyperthyroidism due to disease in the hypothalamus","The presenting symptoms of lethargy, increased sleep, and weight gain are suggestive of
+hypothyroidism. An increase in TSH on administration ofTRH confirms the lack of stimulus for TSH secretion from the hypothalamus.
+Although decreased TSH levels can be seen in hyperthyroidism, clinical features such as lethargy, increased sleep and weight gain are not. This pushes the diagnosis in favor of hypothyroidism.
+If the disease was in the pituitary, there would be no increase in TSH secretion on administration ofTRH (option B).
+Normally, the thyrotropin releasing hormone (TRH) is released by the hypothalamus. It
+stimulates the pituitary gland to release the thyroid-stimulating hormone (TSH), which in turn stimulates the thyroid gland to produce T3 and T4 hormones.
+Low TSH levels may be seen in the following cases:
+
+Disease	pathogenesis	presentation
+Hyperthyroidism	Feedback inhibition of TSH r elease	Symptoms of hyperthyroidis m
+primary disease of the pituita ry	Decreased release ofTSH, th  ereby causing a decreased rel ease of thyroid hormones	Symptoms of hypothyroidism. Administration ofTRH does    not elevate the TSH levels in    this case since the pituitary g   land is abnormal
+primary disease of the hypot halamus	Decreased release ofTRH lea ding to decreased TSH and h  ypothyroidism	Administration ofTRH cause s elevation of TSH levels sinc e the pituitary gland is norm  al.",,C,4269-2713.PNG
+Q2,"what is the child-Turcotte-pugh class for the patient who has a serum bilirubin 2.5 mg/dl, serum albumin 3 g/dl, prothrombin time increased by 5 seconds (INR = 2), no
+encephalopathy, and mild ascites?","a)class A
+b)class B
+c)class c
+d)class D","The given patient belongs to child-Turcotte-pugh class B.
+The score can be calculated as follows:
+serum bilirubin-2.5mg/dl: 2
+serum albumin-3g/dl: 2
+prothrombin time-5 seconds or INR-2: 2
+No encephalopathy: 1
+Mild ascites: 2
+Therefore, the child-Turcotte-pugh score is (2+2+2+1+2)= 9 which is included in class B.",,B,
+Q3,"An elderly woman is brought to the OpD with complaints of behavioral change, a history of multiple falls, urinary incontinence, and dementia. what is your diagnosis?","a)Normal pressure hydrocephalus
+b)Frontotemporal dementia
+c)parkinson disease
+d)creutzfeldt-Jakob disease","The given case scenario describes an elderly woman with urinary incontinence, dementia
+(cognitive decline), and a history of multiple falls (suggestive of a gait abnormality or ataxia). These form the classical triad of normal pressure hydrocephalus (NpH).
+Both frontotemporal dementia (option B) and parkinson’s disease (option c)  are common causes of dementia associated with falls, but urinary incontinence is not commonly appreciated. NpH is,  therefore, the most likely diagnosis.
+Normal pressure hydrocephalus refers to a disproportionate enlargement of the ventricles
+compared to the degree of cortical atrophy. It is a communicating hydrocephalus caused by
+delayed resorption of cerebrospinal fluid. out of the classical triad of symptoms, most patients
+present with one or two. Hence, neuroimaging showing dilated ventricles is essential, as well as an L- dopa challenge test to rule out parkinson’s disease is recommended.
+
+
+
+A characteristic MRI of NPH is given below, showing dilated lateral ventricles which are out of proportion to sulcal deepening:",,A,4270-2714.PNG
+Q4,A 6o-year-old male patient who is a known case of COpD presented with acute exacerbation and is admitted to the ICU. which of the following statements is correct with regards to the  initial management of this patient?,"a)Non-Invasive ppv should be given
+b)Invasive ppv should be given
+c)Iv corticosteroids should be administered
+d)permissive hypercapnia is allowed","Non-invasive positive pressure ventilation (NIPPV) should be the first mode of ventilation used in COPD patients with acute respiratory failure provided there are no absolute contraindications.
+This approach improves gas exchange, reduces work of breathing and the need for intubation, decreases hospitalization duration and enhances overall survival outcomes.
+Invasive positive pressure ventilation is only considered after failure of NIPPV, resulting in severe respiratory distress, life threatening hypoxemia, severe hypercarbia and/or acidosis, markedly
+impaired mental status, respiratory arrest or hemodynamic instability (Option B).
+Apart from NIPPV, short-acting inhaled beta 2 agonists (albuterol, salbutamol) with or without short-acting anticholinergics (ipratropium) and Long-acting anticholinergics (tiotropium) are     recommended as the initial bronchodilators. Maintenance therapy with long-acting beta 2
+agonists (formoterol) must be started as soon as possible.
+systemic corticosteroids are useful in the treatment of acute exacerbations of COPD as they
+reduce airway inflammation and improve lung function over time. However, the effects are not immediate. NIPPV on the other hand provides immediate relief to the patient and reduces the  work of breathing. Therefore, it would not be the best choice in this case. (Option C)
+Antibiotics can also be considered, as they reduce duration of hospitalisation. Treatment is given for 5 days.
+Permissive hypercapnia refers to a ventilation strategy where tidal volume is reduced in order to avoid hyperinflation-associated lung trauma. It is not preferred at the initial presentation. It is
+only permitted once invasive PPV is started following NIPPV failure (Option D)
+An exacerbation of COPD is defined as an event characterized by dyspnea and/or cough and
+sputum that worsen over &lt; 14 days. Exacerbations of COPD are often associated with increased
+
+
+
+local and systemic inflammation caused by airway infection, pollution, or other insults to the lungs.",,A,
+Q5,"Thrombocytopenia, eczema and recurrent infections are seen in:","a)wiskott-Aldrich syndrome
+b)Chediak-Higashi syndrome
+c)Thrombocytopenia-absent radius syndrome
+d)Hermansky-pudlak syndrome","Thrombocytopenia, eczema and recurrent infections are characteristically seen in wiskott-Aldrich syndrome.
+wiskott Aldrich syndrome is an X-linked recessive disorder due to mutations in the wAsp gene. The characteristic triad of features is:
+• Eczema
+• Thrombocytopenia - along with decreased platelet size, impaired platelet aggregation response
+• Immunodeficiency - The immunoglobulin pattern seen is low level of IgM, elevated IgA and IgE, and a normal or slightly low IgG. Defect in regulatory T cells results in recurrent bacterial
+infections.
+other options:
+option B: Chediak-Higashi syndrome (CHs) is an autosomal recessive disease due to mutations in CHs1/LYsT gene (defective lysosomal transport). It leads to recurrent pyogenic infections, partial  oculocutaneous albinism, neurologic abnormalities, and thrombocytopenia. peripheral smear
+shows large azurophilic granules in neutrophils and eosinophils. It can lead to hemophagocytic lymphohistiocytosis.
+option C: Thrombocytopenia-absent radius syndrome is an autosomal recessive disorder with severe thrombocytopenia (diagnosed at birth) and bilateral absent radii (thumbs are always      present).
+option D: Hermansky-pudlak syndrome is an autosomal recessive disorder with oculocutaneous albinism, bleeding diathesis (deficient dense granules in platelets), pulmonary fibrosis, and
+granulomatous colitis.",,A,
+Q6,which among the following is more common in limited cutaneous systemic sclerosis when compared to diffuse cutaneous systemic sclerosis?,"a)Esophageal dysmotility
+b)Myopathy
+c)Interstitial lung disease
+d)scleroderma renal crisis","Esophageal dysmotility is more commonly seen in limited cutaneous systemic sclerosis (lcssc) compared to diffuse cutaneous systemic sclerosis.
+systemic sclerosis is divided into two based on the patterns of involvement - diffuse and limited.
+Limited cutaneous systemic sclerosis is characteristically associated with CREsT syndrome, which includes calcinosis cutis, Raynaud’s phenomenon, esophageal dysmotility, sclerodactyly and
+telangiectasia.
+skin involvement, interstitial lung disease (option C), myopathy (option B), and scleroderma renal crisis (option D) are more common in diffuse cutaneous systemic sclerosis (dcssc) than limited cutaneous systemic sclerosis.
+
+
+
+The incidence of ischemic digital ulcers, CREST features, and primary biliary cirrhosis is more in limited cutaneous systemic sclerosis. The frequency of pulmonary arterial hypertension (PAH) is  equal in both types.",,A,
+Q7,water hammer pulse is seen in which of the following conditions?,"a)Aortic stenosis
+b)Aortic regurgitation
+c)Aortic stenosis and aortic regurgitation
+d)Mitral regurgitation","water hammer pulse, also known as Corrigan’s pulse, is characterized by a sharp rise and a rapid  fall-off and is seen in aortic regurgitation (AR) due to the fact that arterial pressure falls rapidly in late systole and early diastole.
+In AR, the pulse pressure is widened due to systolic hypertension and decreased diastolic
+pressure. The diastolic pressure is measured at korotkoff phase IV. In certain patients with AR or a combination of aortic stenosis (AS) and AR, the carotid arterial pulse may exhibit a bisferiens      pattern, characterized by two systolic waves separated by a trough.
+The apical impulse is heaving and displaced inferiorly. A diastolic thrill may be palpable along the left sternal border.
+A2 is usually absent in AR. An early diastolic murmur can be auscultated in chronic AR. It is best heard in the third intercostal space along the left sternal edge.
+
+
+Severe AS (option A) would show pulsus parvus et tardus, characterized by the carotid pulse rising slowly to a delayed peak.
+Chronic mitral regurgitation (option D) shows a sharp, low volume upstroke due to reduced cardiac output and acute mitral regurgitation demonstrates narrow pulse pressure.",,B,4272-2715.PNG
+Q8,"The arterial blood gas analysis findings of a patient are as follows: pH= 7.3o, HCo3= 1o
+mEq/L, paCo2= 3o mmHg, which is suggestive of a partially compensated metabolic acidosis. what is the mechanism for the secondary disorder?","a)Hypoventilation causing decreased Co2 washout
+b)Hyperventilation causing increased Co2 washout
+c)Increased tubular reabsorption of HCo3-
+d)Increased excretion of H+","The mechanism for the secondary disorder is hypoventilation causing decreased Co2 washout.
+
+
+
+The given arterial blood gas findings are suggestive of a partially compensated metabolic acidosis. The compensation is partial because the fall in paco2 much lower than what is expected for the     given Hco3 levels. The fall in paco2 is inadequate due to hypoventilation causing decreased co2 washout. In this case, the secondary disorder is respiratory acidosis.
+Hyperventilation causing increased co2 washout (option B) would allow for better compensation, with lower paco2 levels than observed.
+The expected paco2 can be calculated using winter's formula:
+For metabolic acidosis, the expected paco2 = [1 .5 X Hco3-] + 8 ± 2.
+substituting the values, expected paco2 = (1.5 x 1o) +8 ± 2
+= 15+8 ±2
+= 21 to 25 mmHg
+However, the actual paco2 is 3o mmHg, which is higher than the expected paco2 indicating a secondary respiratory acidosis. A possible explanation for this could only be hypoventilation
+causing decreased co2 washout.
+Thus, the given ABG findings are suggestive of a mixed acid-base disorder characterized by metabolic acidosis with additional respiratory acidosis.
+For example, in a patient with diabetic ketoacidosis and pneumonia, the lungs would fail to  compensate, and the patient could develop hypoventilation leading to secondary respiratory acidosis.",,A,
+Q9,which of the following is seen in pituitary apoplexy?,"a)Hypertension
+b)shock
+c)Unconsciousness
+d)Fatigue","shock is seen in pituitary apoplexy.
+Loss of consciousness (option c) can also be seen but it occurs secondary to adrenal insufficiency and shock. Hence, shock is the most appropriate answer.
+pituitary apoplexy refers to acute hemorrhagic infarction of the pituitary gland. This results in the compression of surrounding structures and hypopituitarism leading to acute adrenal insufficiency. It may be seen spontaneously in a pre-existing pituitary adenoma, post-partum (sheehan’s
+syndrome), or be associated with hypertension, diabetes mellitus or sickle cell anemia or shock.
+pituitary apoplexy is an endocrine emergency that can lead to severe hypoglycemia, hypotension, shock, central nervous system (cNs) hemorrhage, and death. Acute clinical manifestations
+commonly encompass intense headaches with signs of meningeal irritation, bilateral visual changes, ophthalmoplegia, and even cardiovascular collapse.
+The investigation of choice is MRI.
+patients who do not exhibit overt visual impairment or altered mental status can be managed conservatively with high-dose glucocorticoids. progressive visual loss, cranial nerve palsy, or   altered mental status necessitate expeditious surgical decompression.",,B,
+Q10,"A 2o-year-old man presents to the emergency department with respiratory distress and
+hypotension following a trauma. He has subcutaneous emphysema and there is an absence of air entry into the right side of the lungs. what is the next best step?","a)start IV fluids with large bore cannula
+b)Needle decompression into the 5th intercostal space anterior to the midaxillary line
+c)Take the patient to the ICU and intubate him
+d)start positive pressure ventilation","The given clinical scenario of a young male developing respiratory distress with hypotension,
+subcutaneous emphysema, and unilaterally absent air entry is suggestive of tension
+pneumothorax. The immediate next step, in this case, would be needle decompression at the fifth intercostal space anterior to the mid-axillary line (as the patient is an adult).
+In children, the second intercostal space in the midclavicular line is chosen as the site for needle decompression.
+Needle decompression turns a tension pneumothorax into an open pneumothorax. It has to be
+followed by tube thoracostomy. An intercostal chest drain (ICD) tube is inserted in the triangle of safety, just anterior to the midaxillary line on the side of the lung injury. The site of insertion is     the same in both children and adults.
+The triangle of safety is bounded by the lateral border of the pectoralis major anteriorly, the
+anterior border of the latissimus dorsi posteriorly, and the fifth intercostal space inferiorly, with   the apex below the axilla. This provides a safe landmark for the insertion of an ICD with minimal risk of tissue injury.
+
+
+Tension pneumothorax is a condition where air accumulates in the pleural space due to a one-way valve air leak, leading to the collapse of the affected lung. This can cause a mediastinal shift,
+compression of the opposite lung, and decreased venous return, resulting in obstructive shock. It   commonly occurs during positive-pressure mechanical ventilation, but can also happen after chest trauma, subclavian/internal jugular venous catheter insertion, or chest wall defects. The diagnosis  is clinical, and immediate treatment is necessary without waiting for radiological confirmation.
+Tension pneumothorax is characterized by chest pain, tachypnoea, tachycardia, hypotension, tracheal deviation away from the side of injury, absent breath sounds on the affected side,
+cyanosis, and neck vein distention. patients can also develop subcutaneous emphysema as a complication secondary to the pneumothorax.",,B,4274-2716.PNG
+Q11,which of the following is true about polyarteritis nodosa?,"a)Necrotising inflammation of large vessels
+b)patient has hypogammaglobulinemia
+c)9o% is associated with ANCA positivity
+d)3o% is associated with Hepatitis B","one-third of polyarteritis nodosa (PAN) cases are associated with Hepatitis B.
+other options:
+option A: Polyarteritis nodosa is a systemic vasculitis which is associated with necrotizing inflammation of small and medium-sized muscular arteries.
+option B: Patients show hypergammaglobulinemia.
+option C: PAN is rarely associated with ANCA positivity. There is no serological test for PAN.
+Most patients exhibit an elevated leukocyte count with a predominance of neutrophils.
+PAN is usually seen in young adults, characterized by rapidly accelerating hypertension, abdominal pain, bloody stools, myalgias, and peripheral neuropathy.
+Arterial inflammation is segmental, necrotizing, and transmural, leading to aneurysms and thrombosis.
+The involved vessels are typically found at arterial bifurcations, spreading to veins but sparing
+venules. The most commonly affected organs are the kidney, heart, liver, and gastrointestinal
+tract, in that order. Pulmonary arteries are not involved. Inadequate blood flow leads to ischemia, ulcers, infarcts, atrophy, or hemorrhage.
+Diagnosis relies on histopathological findings from organ biopsies or the demonstration of  aneurysms in small to medium-sized arteries of the renal, hepatic, and visceral vasculature.
+untreated PAN has an extremely poor prognosis, with a 5-year survival rate of only 1o to 2o%. Common causes of death include gastrointestinal complications, such as bowel infarcts and
+perforation, as well as cardiovascular issues. Timely treatment is vital for improved outcomes.
+Combining prednisone and cyclophosphamide has shown significant benefits in survival rates.
+Glucocorticoids alone may be sufficient for milder cases. In PAN cases associated with hepatitis B or C, antiviral therapy is combined with glucocorticoids and plasma exchange. Managing
+hypertension effectively can help reduce vascular complications. Despite successful treatment, relapses occur in approximately 1o-2o% of patients.
+A histopathological image of PAN showing necrotizing transmural inflammation is given below:
+
+
+
+
+
+
+The image below shows aneurysms in renal vasculature:",,D,4275-2717.PNG;4276-2718.PNG
+Q12,which type of aphasia is seen in the lesions of the posterior part of the superior temporal gyrus?,"a)Fluent
+b)Non fluent
+c)Anomic
+d)conduction","Lesions of the posterior part of the superior temporal gyrus cause wernicke’s or Fluent aphasia due to the involvement of the wernicke's area. The speech is full of jargon and neologisms that  make little sense (area no 22).
+Broca's (option B) or motor/non-fluent aphasia is seen in lesions of the inferior frontal gyrus   which contains the motor speech area. speech is non-fluent and interrupted, with a paucity of functional words.
+comprehension of written language and the ability to name objects are compromised in anomic aphasia (option c). This aphasia is caused by damage to the angular gyrus that disrupts visual    information processing and transmission to the wernicke area.
+conduction aphasia (option D) is seen in lesions of the arcuate fasciculus, the bundle of nerve fibers connecting the wernicke and Broca's areas. Repetition of words is impaired and
+paraphasias are observed, though not as much as in wernicke aphasia.",,A,
+Q13,"A 7o-year-old man with a known history of DM and HTN on regular medications presents
+with a history of progressively worsening dyspnoea on exertion. on examination, there is
+elevated JVP, positive hepatojugular reflux, crackles at the lung bases, hepatomegaly, ascites, and pedal oedema■ . what is your provisional diagnosis?","a)Heart failure
+b)Hypertrophic cardiomyopathy
+c)Mitral regurgitation
+d)Portal hypertension","The given symptoms and signs are suggestive of heart failure (option A).
+portal hypertension (option D) can be a result of right-sided heart failure, however, the presence of worsening dyspnea along with the other symptoms implies a primary cardiac condition.
+Heart failure is a common endpoint for most chronic cardiac conditions such as hypertension, valvular heart disease, and coronary heart disease.
+
+
+
+The symptoms of heart failure are commonly due to volume overload with pulmonary and/or systemic venous pressures.
+
+RIGHT HEART FAILURE	LEFT HEART FAILURE
+symptoms occur due tosyste mic congestion	symptoms occur due topulm onary congestion
+Raised pulsatile JVpHepatic   congestionTender hepatomeg alypitting pedal edemaAscite  sEarly satiety	shortness of breathorthopne a (dyspnea that occurs within 1-2 mins oflying down)paro  xysmal nocturnal dyspnea(sh ortness of breath that develo  ps after lying down for 3o mi ns or longer)pulmonary rales",,A,
+Q14,The slowing of conduction in multiple sclerosis is due to which of the following?,"a)Gliosis
+b)Loss of myelin sheath
+c)Defect at node of Ranvier
+d)Leaky Na+ channel","In multiple sclerosis, the slowing of conduction is due to the loss of the myelin sheath.
+Under normal circumstances, nerve conduction in myelinated axons occurs in a saltatory manner i.e from one node of Ranvier to another. But, when demyelination sets in, the nerve impulse are    unable to travel as fast due to not being saltatory. This produces either a conduction block or
+delay.
+Lesions due to multiple sclerosis begin with perivenular cuffing by inflammatory mononuclear cells. Myelin-specific autoantibodies cause degeneration of myelin sheaths. As lesions evolve,   prominent astrocytic proliferation (gliosis) is observed.
+Demyelination is the hallmark in the pathology of multiple sclerosis. But, it is not solely a disease affecting the myelin sheath. partial or total axonal destruction (neuronal loss) can also occur.",,B,
+Q15,"A 15-year-old girl presented with fatigue, chronic diarrhoea, weight loss, bone pain, and abdominal distension. Investigations revealed iron deficiency anemia and osteoporosis.
+
+
+
+which of the following is the single best test to be done for her evaluation?","a)TSH levels
+b)C-peptide levels
+c)urine sugar and ketone
+d)IgA tissue transglutaminase antibody","The presence of fatigue, chronic diarrhea, weight loss and abdominal distention along with
+investigations showing features of malabsorption (iron deficiency) lead to the diagnosis of celiac disease or gluten sensitive enteropathy. The single best test for which is checking serum for the  presence of IgA tissue transglutaminase (anti-TTG) antibodies (option D).
+celiac disease is a disorder characterized by an immunological response to gluten causing damage to the proximal intestinal mucosa (villous atrophy) and malabsorption of nutrients.
+symptoms usually begin 6 to 24 months from the introduction of gluten into diet, although most patients go undiagnosed.
+The common manifestations are -  irritability, abdominal distention, chronic diarrhea, weight loss or muscle wasting and extra-intestinally, the symptoms observed are aphthous ulcers, delayed
+puberty, iron deficiency anemia and short stature.
+
+
+
+screening for celiac disease is by testing for tissue transglutaminase IgA, endomysial, and
+deamidated antigliadin antibodies. IgA levels in serum are measured to detect false-negative results because of IgA deficiency.
+small intestinal biopsy shows characteristic villus blunting, crypt hyperplasia, and increased intraepithelial lymphocytes.
+The treatment involves the exclusion of gluten-containing food from diet.
+Long term complications observed are osteoporosis, anemia, infertility and malignancy (enteropathy related-T cell lymphoma is the most common association)
+The Marsh classification is used to categorize celiac disease into different types and to quantify severity of disease involvement.",,D,
+Q16,"A 55-year-old male presented with tachypnea and mental confusion. His blood sugar is 35omg/dl, pH- 7.2, HCO3-1o, pCO2-3o. what is the primarymetabolic abnormality?","a)Metabolic alkalosis
+b)Metabolic acidosis
+c)Respiratory alkalosis
+d)Respiratory acidosis","The patient has a primary metabolic acidosis with partial respiratory compensation (option B) step 1: observe pH - patient is in acidosis.
+step 2: observe the Hco3 value. The normal value of bicarbonate is 22 - 28 mEq/L, which means that this patient has low levels (1omEq/L) . This is indicative of a primary metabolic acidosis.
+In case of a primary respiratory acidosis, the pco2 values would have been greater than normal (35 - 45 mmHg). Hence, the answer cannot be option D.
+step 3: calculate the expected compensatory fall in pco2 using winter’s formula :
+Expected paco2 = [1 .5 X Hco3-] + 8 ± 2
+= (1.5 x 1o) + 8 ± 2
+= 23 ± 2 mEq/L
+This implies that the levels in the patient are higher than expected - suggestive of a partially compensated metabolic acidosis.
+Note: The likely cause of the condition is diabetic ketoacidosis, as the patient has high blood sugar levels.",,B,
+Q17,"A ten-year-old boy was brought to the OPD with fever and swelling of hands after playing
+football. He gives a history of previous episodes of swelling of hands. On imaging, his spleen was found to be shrunken. which of the following is a likely diagnosis?","a)Sickle cell anaemia
+b)Malaria
+c)Pancreatitis
+d)Measles","The findings of episodes of swelling of hands (dactylitis) along with the shrunken spleen (auto    splenectomy or splenic infarction) are suggestive of sickle cell disease. Moreover, the symptoms were seen after playing football, which acts as a predisposing factor to sickling to which
+dehydration, infection and acidosis are the triggers.
+sickle cell anemia is an autosomal recessive disorder that occurs due to the point mutation in the   β-globin gene, which results in the replacement of glutamate residue with valine. This causes the    production of sickle-shaped red blood cells due to the polymerization of deoxygenated hemoglobin (Hbs).
+
+
+
+The cardinal clinical feature of sickle cell anemia is acute vaso-occlusive pain, due to ischemia of the tissues. Vaso-occlusive crisis can cause dactylitis, splenic infarction (shrunken spleen over
+time) and avascular necrosis (AVN).
+Most commonly, the femoral head is affected in AVN. other sites affected include the humeral head and mandible.
+Dactylitis, referred to as a hand-foot syndrome, is often the first manifestation of pain in infants     and young children with sickle cell anemia. Dactylitis often manifests with symmetric or unilateral swelling of the hands and/or feet.
+other manifestations include:
+• Acute splenic sequestration due to venous obstruction, needing emergency transfusion/splenectomy
+• Painful ischemic crises due to vaso-occlusion in connective and musculoskeletal tissue
+• Renal papillary necrosis leading to isosthenuria
+• cerebrovascular strokes
+• chronic lower leg ulcers
+• Priapism in males",,A,
+Q18,"A 53-year-old woman underwent hip replacement surgery. A week after the surgery, the
+patient developed swelling of the legs associated with pain on palpation. Her heart rate is 7o beats per min. There is no history of hemoptysis or significant weight loss. There is no
+previous history of pulmonary embolism. what is the risk of developing pulmonary embolism in the patient based on well's score?","a)Low
+b)High
+c)Moderate
+d)Cannot comment without d-dimer values","The risk of developing pulmonary embolism in this patient is high (option B) according to the three-tiered well’s clinical risk assessment score.
+calculation of well's score:
+• clinical signs of DVT = 3;  - swelling of legs, pain on palpation (Moses sign)
+• No alternative diagnosis = 3
+• Heart rate is &lt;1oo BPM = o; - 7o BPM
+• surgery in previous 4 weeks = 1.5; - hip replacement surgery 1 week ago
+• No previous pulmonary embolism = o
+• No Hemoptysis = o
+• No malignancy = o; - no significant weight loss Total score = 7.5
+Risk stratification:
+• High risk =  &gt; 6.o
+• Moderate risk =  2.o to 6.o
+• Low risk = &lt;2.o (in patients with low risk, to further confirm the risk - pulmonary embolism rule-out criteria (PERc) may be referred)
+
+
+
+Note: There is no other alternative diagnosis which is more likely in this condition, where there is a clear clinical presentation of a deep vein thrombosis, with the associated risk factors of a recent  surgery and immobilization. Hence, 3 points can be added to the score.",,B,
+Q19,The recommended temperature of water bath for a patient with frost bite is,"a)37 degree C
+b)42 degree C
+c)32 Degree C
+d)3o degree C","The temperature of the water bath for a patient with frostbite should be maintained between 37- 4o°c (option A). circulating water is preferred for treatment.
+In frostbite, tissue damage results from severe environmental cold exposure or from direct contact with a very cold object. Tissue injury results from both freezing and vasoconstriction. It usually
+affects the distal aspects of the extremities or exposed parts of the face, such as the ears, nose, chin, and cheeks.
+The treatment includes - extraction from cold environment, rapid rewarming, analgesics for pain during thawing, antithrombotics or thrombolytics, cleaning of the injured area with soap or
+antiseptics, tetanus prophylaxis, monitoring for compartment syndrome and finally, elective late amputation after imaging in severe cases.",,A,4280-2719.PNG
+Q20,A mutation in the gene for aquaporin channel leads to which of the following conditions?,"a)Liddle's syndrome
+b)Nephrogenic diabetes insipidus
+c)Cystic fibrosis
+d)Bartter syndrome","A mutation in the gene for aquaporin 2 channel leads to nephrogenic diabetes insipidus.
+The antidiuretic hormone (ADH) binds to V2 receptors in the late distal tubules, collecting     tubules, and collecting ducts, and stimulates the movement of an intracellular protein, called aquaporin-2 (AQp-2), to the luminal side of the cell membranes.
+Diabetes insipidus (DI) is a condition in which there is the absence of or poor response to
+anti-diuretic hormone (ADH). This results in reduced permeability of the distal tubules and
+collecting ducts to water. This furthermore leads the kidneys to excrete large amounts of dilute urine that clinically manifests as polyuria and polydipsia.
+
+
+
+DI can be of four types :
+Note: Lithium - used to treat bipolar disorder, can cause acquired diabetes insipidus by decreasing the expression of the AQp2 gene.
+option A : Liddle’s syndrome is due to an inherited gain of function mutation of genes regulating the Na channel in collecting duct ENac, characterized by hypertension, hypokalemia, and
+metabolic alkalosis.
+option c : cystic fibrosis is an autosomal recessive disorder due to mutation in cFTR gene that
+serves as a channel in the luminal plasma membranes of epithelial cells and regulates volume and composition of secretions in exocrine glands.
+option D : Bartter syndrome is due to loss-of-function mutations of transporters and ion channels in thick ascending loop of henle, most commonly, Na-K-2cl transporter.
+
+Types	primary pathology	caused by
+pituitary/ central DI	primary deficiency of ADH se cretion	Mc defect: AVp -Neurophysin
+II gene
+primary polydipsia	suppression of ADH secretio n by excessive fluid intake	1. Dipsogenic DI : Following   head trauma, TB meningitis,  Multiple sclerosis.2. psychog  enic DI : Due to psychosis or  ocD3. Iatrogenic polydipsia : Due to motivated health ben  efits
+Gestational DI	Deficiency due to Increased d egradation of ADH	N terminal aminopeptidase p roduced by placenta
+Nephrogenic DI	Renal insensitivity to ADH or drugs or genetic mutation	Drugs like lithium - gene enc  oding V2 receptor on chxq28",,B,
+Q21,which of the following is not a radiological finding in a patient with left heart failure?,"a)kerley b lines
+b)Focal oligemia
+c)Increased venous blood in lung
+d)Change in upper lobe circulation","Focal oligemia is not a radiological feature of left heart failure. It is seen in pulmonary embolism and is also called westermark’s sign.
+
+
+
+
+
+It is defined by a hyperlucent area with decreased vascularity due to oligemia of the involved part  of the lung. It is caused by a cutoff of circulation due to an embolus, leading to the loss of visibility of a patch of pulmonary vasculature on an X- ray.
+Radiological signs of left heart failure include :
+
+
+• cardiomegaly - enlargement of the cardiac silhouette (increased cardiothoracic ratio)
+• upper lobe pulmonary venous congestion (cephalisation of vessels)
+• Interstitial edema.
+• kerley B lines - horizontal lines in the periphery of the lower posterior lung fields as shown below.
+
+
+
+
+
+other radiological signs of pulmonary embolism :
+• Hampton’s hump - a peripheral wedged-shaped density usually located at the pleural base
+• palla’s sign - an enlarged right descending pulmonary artery",,B,4282-2721.PNG;4282-2720.PNG;4283-2722.PNG
+Q22,"A 6o-year-old man presented with an episode of acute onset dizziness and loss of
+consciousness which lasted for a few seconds followed by a regain of full consciousness. There were no similar episodes in the past. which of the following is a true statement regarding this scenario?","a)ECG to rule out atrial fibrillation
+b)If ECG is normal, CT scan should be done
+c)Tilt-table testing
+d)Vestibular neuritis is a possible condition that can cause these symptoms","The clinical scenario of transient loss of consciousness in this patient is suggestive of syncope. Hence, an ECG must be done to rule out cardiac causes for syncope like - arrhythmias (atrial   fibrillation, sinus node dysfunction, supra ventricular tachycardias) or a structural cardiac
+abnormality.
+A CT would only be required if a seizure or transient ischemic attack (TIA) is suspected. However, in this case - the episode only lasted for a few seconds, the patient has no history of similar
+episodes in the past and there are no lasting neurological deficits after the episode. Therefore, option B is incorrect.
+syncope is a transient loss of consciousness caused by global cerebral hypoperfusion. It can be due to multiple causes, but is broadly divided into - neurally mediated syncope, orthostatic
+hypotension and cardiac syncope.
+The initial workup for a case of syncope includes:
+• Detailed history of the episode and past history of similar episodes
+• physical examination mainly to check Bp in standing and supine positions to
+• rule out orthostatic hypotension.
+• A resting ECG to look for cardiac arrhythmia
+• option B: If the ECG is normal, no further tests are needed. If the ECG is suggestive of cardiac arrhythmia, then further tests including continuous ECG monitoring and electrophysiological
+studies may be done.
+
+
+
+option C: Tilt-table testing is done in patients with recurrent syncopal attacks who are suspected to have vasovagal syncope. psychiatric evaluation is done in patients with recurrent unexplained  syncopal attacks.
+option D: vestibular neuritis is associated with vertigo, where the patients typically complain of dizziness and a sense of spinning of the head.",,A,
+Q23,"A 12-year-old child who is known to have type 1 diabetes mellitus presents with confusion and drowsiness. Her mother says that she seems to be breathing very fast. on examination,
+mucous membranes are dry and blood pressure is 7o/5o mm Hg. Random blood glucose is 415 mg/dl and urine ketones are 4+. what is the next best step in management?","a)2-3 L of normal saline over 1-3 hours
+b)Insulin infusion at o.1 units/kg/hour
+c)Arterial blood gas
+d)Insulin bolus of o.1 units/kg given IV","The given clinical scenario is suggestive of diabetic ketoacidosis (DKA) and the first step is to
+assess the arterial blood gas (ABG) levels. This precedes correction of fluid balance, as assessment of the current status of the patient is necessary before beginning treatment. A baseline pH and
+electrolyte level must be obtained.
+Diabetic ketoacidosis is the most serious complication of type 1 diabetes mellitus. The symptoms include dehydration, nausea, vomiting, confusion, drowsiness, and coma in severe cases.
+In DKA, the insulin-to-glucagon ratio is decreased which promotes gluconeogenesis,
+glycogenolysis, and ketone body formation in the liver. Ketone bodies exist as ketoacids at   physiological pH which are neutralized by bicarbonate. As bicarbonate stores are depleted, metabolic acidosis ensues. Increased lactic acid production also contributes to the acidosis.
+The diagnostic biochemical criteria for DKA includes:
+• Hyperglycemia (&gt;25o mg/dL)
+• venous pH &lt;7.3
+• plasma/serum bicarbonate &lt;15-18 mmol/L
+• Increased anion gap
+• Ketonemia (beta-hydroxybutyrate [BoHB] &gt;3 mmol/L) and ketonuria
+signs of ketoacidosis:
+• Kussmaul breathing (deep, heavy, non-labored rapid breathing)
+• Fruity breath odor (acetone)
+• prolonged Q-T interval
+• Diminished neurocognitive function
+• Coma",,C,4285-2723.PNG

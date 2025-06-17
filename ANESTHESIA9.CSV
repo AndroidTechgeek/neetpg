@@ -1,0 +1,133 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"A patient undergoing surgery is maintained on anesthesia with halothane. During the
+procedure, the patient suddenly developed hyperthermia and muscle rigidity. which of the following drugs is most likely implicated in this condition?","a)D-curare
+b)suxamethonium
+c)cis-atracurium
+d)Rocuronium","The given clinical scenario of a patient being operated under halothane, developing hyperthermia and muscle rigidity is suggestive of an episode of malignant hyperthermia. The drug most likely    implicating/causing this condition is suxamethonium (succinylcholine).
+suxamethonium is a peripherally acting depolarizing muscle relaxant, commonly administered during the induction of anesthesia to relax muscles of the jaw, neck, and airway and thereby
+facilitate laryngoscopy and endotracheal intubation.
+Malignant hyperthermia is a rare genetic hypermetabolic muscle disease. It occurs due to
+mutation of the gene for the ryanodine receptor (Ryr 1), located on chromosome 19. Ryr 1 is an ion channel responsible for calcium release from the sarcoplasmic reticulum.
+The symptoms develop when the patient is exposed to inhaled anesthetics (halothane in this case) or suxamethonium/succinylcholine.
+The mutated Ryr 1 leads to a sudden release of calcium from the sarcoplasmic reticulum of the skeletal muscle. This uncontrolled increase in intracellular calcium removes the inhibition of
+troponin, resulting in sustained muscle contraction, which in turn, leads to an increase in
+adenosine triphosphatase (ATPase) activity. This results in an uncontrolled hypermetabolic state with increased oxygen consumption and Co2 production, producing severe lactic acidosis and
+hyperthermia.
+The key clinical features are:
+• succinylcholine-induced masseter muscle rigidity (causing trismus) or generalized muscle rigidity
+• Tachycardia
+
+
+
+• Hypercarbia ( increased Co2 production) and reduced oxygen saturation
+• Hyperthermia ( rise of 1° Celsius can occur every 5 minutes)
+• Arrhythmia
+• Hypertension
+• Myoglobinuria and myoglobinemia indicating muscle damage
+• Metabolic derangements like hyperkalemia and mixed metabolic and respiratory acidosis
+Treatment is to discontinue the triggering agents i.e; inhaled anesthetics and succinylcholine followed by administration of 1oo% oxygen. Metabolic acidosis and hyperkalemia need to be corrected. Hyperthermia must be controlled by cooling the patient.
+Dantrolene sodium is the drug of choice. It is given at a dose of 2.5 mg/ kg intravenously and can be repeated every 5-1o minutes till the attack subsides.
+other options:
+D-curare or D-tubocurarine (option A), cis-atracurium (option C), and rocuronium (option D) are non-depolarizing muscle relaxants and are not implicated in malignant hyperthermia.",,B,
+Q2,A 3o-year-old male patient was intubated for surgery by a final-year resident. which of the following is the best method to confirm the position of the endotracheal tube?,"a)X-ray chest
+b)Auscultation
+c)End-tidal co2 concentration
+d)chest rise","The best method to confirm the position of the endotracheal tube is the end-tidal Co2
+concentration assessed by capnography.
+Capnography is a non-invasive method of measurement and graphical display of partial pressure    of carbon dioxide (Co2) in exhaled breath or the end-tidal Co2. Capnograph is the device used for measurement and capnogram is the Co2 waveform that is displayed. It is the most reliable
+indicator of endotracheal tube placement.
+The proper placement of the endotracheal tube is indicated by a normal Co2 waveform for at least three breaths.
+
+
+
+
+other signs to confirm proper endotracheal intubation are:
+symmetrical chest rise, presence of equal bilateral breath sounds, absent breath sounds over the epigastrium, visible condensation in the ETT, large exhaled tidal volume, and appropriate
+compliance of the reservoir bag during manual ventilation.
+Absent Co2 waveform tracing despite correct ETT intubation is seen in the following conditions:
+• severe bronchospasm,
+• Equipment malfunction,
+• Cardiac arrest, or hemodynamic collapse
+Clinical relevance:
+• Capnography does not differentiate endotracheal from endobronchial intubation. signs of
+endobronchial intubation include increased peak expiratory pressure, hypoxemia, increased
+airway pressures, asymmetric chest expansion and the absence of breath sounds over one lung, generally the left.
+• In esophageal intubation, the capnograph can initially detect some Co2 in the stomach from swallowing expired air. But after a few breaths, this Co2  will be washed out and ETCo2 will   become zero.
+• The most sensitive and earliest indicator of malignant hyperthermia is a persistent increase in ETCo2.",,C,3456-2160.PNG
+Q3,what is the maneuver being performed in the given image?,"a)Head tilt, chin lift
+b)Jaw thrust
+c)Head extension
+d)In line manual stabilisation","The maneuver being performed in the given image is that of head-tilt chin-lift. It is an important technique in emergency airway management to open up the airway.
+Basic life support involves early recognition and management of emergencies such as heart attack,
+stroke, and foreign body airway obstruction. The sequence of BLs is circulation (chest compression), airway, and then breathing.
+The airway is usually obstructed by posterior displacement of the tongue or epiglottis. one hand   (palm) is placed on the patient’s forehead applying pressure to tilt the head back. simultaneously, the chin is lifted with the forefinger and index finger of the opposite hand. This causes cervical
+flexion with an atlantooccipital extension (sniffing position). This lifts the tongue from the back of the throat.
+Head-tilt chin-lift should not be performed in a patient with suspected cervical injury.
+other options:
+option B: Jaw thrust- Both hands of the clinician are placed on either side of the patient’s head and the angles of the jaw are grasped and lifted. It can be performed in a patient with cervical    injury but caution must be followed to not hyperextend the neck.
+
+
+
+
+
+option D: Manual inline stabilization is a maneuver that limits external head and neck movement in patients with cervical spine injuries. Fingers and palms of both hands are used to stabilize the   patient's occiput and mastoid processes to ensure successful airway intervention.",3465-2164.PNG,A,3469-2166.PNG;3469-2165.PNG
+Q4,"A patient presented with headache, vomiting, and fever. Meningitis was suspected. while
+performing a lumbar puncture, which is the last structure you will pierce just before entering the lumbar cistern?","a)Ligamentum flavum
+b)Dura mater
+c)Arachnoid membrane
+d)Pia mater","The arachnoid membrane is the last structure you will pierce while performing a lumbar puncture, just before entering the lumbar cistern.
+Lumbar puncture is a diagnostic procedure done to obtain a sample of cerebrospinal fluid from the subarachnoid space. During the procedure, the following structures are pierced to reach the subarachnoid space, in the given order:
+• skin
+
+
+
+• subcutaneous tissue
+• supraspinous ligament
+• Interspinous ligament
+• Ligamentum flavum
+• Dura mater
+• Arachnoid membrane Indications:
+• Diagnosis of suspected meningitis and subarachnoid hemorrhage
+• spinal anesthesia and intrathecal administration of antibiotics/chemotherapy
+• Therapeutic relief of pseudotumor cerebri, less frequently Contraindications for lumbar puncture include:
+• Thrombocytopenia or other bleeding diatheses (including anticoagulant therapy)
+• Raised intracranial pressure
+• spinal epidural abscess
+• Infection over the site site of the procedure:
+In adults, the spinal cord ends at the level of the lower border of the L1 vertebra. Lumbar
+puncture is usually performed at L3-L4 space (below L1 vertebra) to avoid potential needle trauma to the spinal cord.
+Technique:
+The patient is usually placed in the lateral recumbent position. An alternative position is the
+sitting position, useful in obese patients to determine the midline. L3-L4 space is located by
+palpating the right and left posterior superior iliac crests and moving the fingers medially toward the spine at the same level.
+A local anesthetic like 1% lidocaine is administered. A 22-gauge needle is advanced through the
+skin. In the lateral recumbent position, the bevel should face up, and in the sitting position, it
+should face to one side or the other, to avoid injury to the dural fibers. There is a loss of resistance as the needle enters the epidural space. Dura and then arachnoid are next pierced, to release CsF.
+Complications following lumbar puncture:
+Post-dural puncture headache (PDPH) is a common post-procedure symptom. It occurs due to
+loss of CsF through the dura which causes traction on the pain-sensitive intracranial structures.    The headache in PDPH is typically frontal or occipital. The smaller the needle used, the lesser the risk of PDPH.
+other complications include infections, bleeding, cerebral herniation, and radicular pain.
+The image below shows a patient undergoing lumbar puncture in the lateral recumbent position:",,C,3471-2167.PNG
+Q5,"A young male patient was given regional block with o.25% bupivacaine for a minor surgical procedure. shortly after the injection, the patient suddenly became unresponsive and the
+pulse was not recordable. which of the following would be the best course of management for this patient?","a)CPR with 2o% intralipid
+b)CPR with sodium bicarbonate
+c)CPR with dobutamine
+d)CPR with calcium","The clinical picture of an unresponsive patient with an absent pulse following bupivacaine
+administration is most likely due to bupivacaine-induced cardiotoxicity resulting from accidental intravascular injection of local anesthetic. The best course of management in this scenario would be administering CPR (cardiopulmonary resuscitation), along with a 2o% intralipid injection.
+Bupivacaine is a long-acting local anesthetic that is the most cardiotoxic among the local
+anesthetics. It depresses the rapid phase of depolarization in Purkinje fibers and ventricular
+muscle due to a decreased availability of fast sodium channels in cardiac membranes. This
+reduced rate of depolarization depresses myocardial contractility. Hence, bupivacaine is a potent cardio depressant.
+Cardio-vascular effects of bupivacaine-induced toxicity are as follows:
+• Left ventricular depression
+• Atrioventricular heart block
+• Ventricular arrhythmias and ventricular fibrillation
+• Sinus bradycardia can lead to cardiac arrest
+Initial management includes immediate initiation of cardiopulmonary resuscitation (CPR) and defibrillation as per the advanced cardiac life support (ACLS) algorithm.
+Following CPR, intralipid therapy is initiated. Its mechanism is explained by the lipid sink theory which states lipophilic drugs (bupivacaine) are absorbed into the lipid emulsion of the plasma,
+hence, removed from tissues affected by toxicity.
+A rapid bolus of intralipid 2o% IV (1.5 mL/kg) is administered without delay, followed by an    infusion of o.25 mL/kg/min. The infusion should be given continuously for at least 1o minutes after hemodynamic stability is achieved.
+
+
+
+Local anesthesia systemic toxicity (LAST) can also affect the central nervous system (CNS), which  is more susceptible to local anesthetic action as compared to the cardiovascular system. Dizziness, tinnitus, and disorientation are the initial symptoms. Shivering, muscular twitching, and tremors   follow. Tonic-clonic seizures occur. Finally, respiratory depression can lead to respiratory arrest.",,A,

@@ -1,0 +1,272 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,what is the structure marked in the CT scan ?,"a)Anterior ethmoidal canal
+b)posterior ethmoidal canal
+c)optic nerve
+d)Cribriform plate","The structure marked in the image is the cribriform plate of the ethmoid bone. The image shown is a coronal section of paranasal sinuses at the level of anterior ethmoidal cells.
+The cribriform plate is identified as a bony structure that separates the nasal cavity from the
+anterior cranial fossa. It is part of the ethmoid bone and is a sieve-like structure as it is pierced by the olfactory nerve fibers.
+crista Galli is also a part of ethmoid bone that projects superiorly from the cribriform plate. It provides attachment for the falx cerebri.
+The anterior ethmoidal canal is identified by its location below the roof of ethmoidal air cells. The anterior ethmoidal artery passes through this canal and it is important to identify this to avoid
+bleeding from this vessel during sinus surgeries.
+The posterior ethmoid canal/foramen is an opening in the ethmoid bone through which the     posterior ethmoidal artery, vein, and nerve traverse. It is not visualized in this image as it is a coronal section at the level of anterior ethmoidal cells.
+The optic nerve can be identified as an oval intraorbital structure in the coronal sections.",3945-2499.PNG,D,3951-2506.PNG
+Q2,what type of MRI image is given below?,"a)proton density image
+b)susceptibility weighted image
+c)Gradient echo image
+d)Inversion recovery image","The image shown is a susceptibility-weighted image(SWI) as it clearly demonstrates
+microhemorrhages as hypointense foci.
+SWI is a form of MRI sequence that is especially sensitive to substances that distort the local
+magnetic field. compounds with diamagnetic, paramagnetic, and ferromagnetic properties will
+interact with the local magnetic field and produce distraction. This would lead to a loss of signal in these areas.
+Deoxyhemoglobin, hemosiderin, and ferritin are paramagnetic. Bone minerals and dystrophic calcifications are diamagnetic in nature.
+The main clinical use is the identification of microhemorrhages/blood products or calcium that are not detected in other MRI sequences.
+other options:
+Proton density image:
+It is based on the number of nuclei in the area that is imaged. In PD-weighted image tissues with  a higher density of protons produce stronger signals and appear brighter. PD weighted image can be identified by comparing fluid with the fat signal. Fluids in these images appear greyish white    similar or the appearance of fat in the body.
+
+
+Gradient echo sequences(GRE):
+It uses gradient fields to generate transverse magnetization. In areas of hemorrhage, the iron that is present in the hemoglobin produces its own local magnetic field and dephases the spinning
+nuclei. This is useful to identify hemorrhagic contusions in the brain and pigmented villonodular synovitis.
+
+
+
+
+
+Inversion recovery sequences:
+This MRI sequence is used to selectively null certain tissues. It can be:
+• Short tau inversion recovery(STIR) where fat is nulled. Fluids appear bright and fat appears dark in these images.
+• Fluid attenuated inversion recovery(FLAIR) or double inversion recovery(DIR where fluid is
+nulled.- The fluid(CSF) normally appears dark and lesions appear to be brighter on these images. FLAIR image-",3946-2501.PNG,B,3952-2507.PNG;3953-2509.PNG;3953-2508.PNG
+Q3,"During rounds, your senior was discussing the given image. The following is an image of which of the following investigations?","a)contrast Dye study
+b)CT scan
+c)X-ray
+d)Angiography","The image in the question is a CT scan as it shows the bone as a high-intensity structure (white appearance).
+
+
+
+In CT study X-rays are applied in a circular motion and body tissue slices are recreated
+mathematically. Different tissues are seen with different intensities depending on the proportion of attenuation of the X-rays that pass through them.
+• Air and water are displayed as low intensities (dark appearance) because they produce only little attenuation.
+• Bone is displayed as a high-intensity structure (bright appearance) because of its significant attenuation.
+• High density is seen with hyperemia, freshly clotted blood, and when contrast is used.
+• Edema and necrosis are seen as low-intensity lesions.
+other options:
+Contrast dye study: In this imaging study, a special dye or contrast is given to evaluate structures that are not identified by conventional imaging. The contrast added would be visible in the image depending on the type of contrast and tissues targeted. Intravenous pyelogram, barium studies,    angiography, etc are all examples of contrast studies.
+X-ray: It shows different parts of the body in varying shades of black and white. The difference in the appearance of various tissues is due to the differences in the amount of radiation absorbed by them.
+• Bone appears white because calcium has high x-ray absorption.
+• Fat and soft tissues appear grey due to less x-ray absorption.
+• The least absorption is seen with air which appears black.
+Angiography: Here a special dye or contrast is injected to highlight the blood vessels are they are not clearly identified in normal imaging. Hence vessels would be highlighted in an angiogram.
+Note: A contrast study is different from a contrast-enhanced CT scan, Intravenous pyelogram, barium studies, angiography, etc are all examples of contrast studies.",3946-2500.PNG,B,
+Q4,"A 22-year-old male was brought to the emergency room following a road traffic accident. on examination, his GCS was E2M2v3. He had no fractures and no hydrocephalus or raised
+intracranial pressure. Non-contrast CT was performed and was found to be normal. The likely diagnosis is","a)Diffuse axonal injury
+b)post concussion syndrome
+c)Extra dural hemorrhage
+d)Herniation of brain","The given clinical scenario of an RTA with no imaging abnormality along with a disproportionate clinical manifestation suggests diffuse axonal injury.
+It is caused due to stretching of axons in subcortical white matter due to sudden deceleration
+injuries. It is usually associated with mild nonspecific changes in NCCT. It is visualized on T2 MRI characterized by multiple lesions showing microbleeds or linear hypointensities. It may also show  disruption of white matter tracts on tractography.
+other options
+post-concussion syndrome usually follows mild traumatic brain injury. It does not have a severe clinical status as seen in this patient.
+Extradural hemorrhage is produced usually results secondary to trauma to head. The bleeding is    usually arterial and blood collects between outer dura and inner table of the skull. It can very well be visualized on CT.
+
+
+
+A cerebral herniation is defined as a shift of cerebral tissue in an adjacent space. Intracranial
+brain herniation can be classified into 3 types - subfalcine, transtentorial and tonsillar. A distinct clinical picture can be produced as a result of compression of neurovascular structures by the
+herniating part. CT is the imaging modality of choice because it can be done rapidly.",,A,
+Q5,"A 45-year-old patient presented with vague abdominal pain. on USG, he was found to have a renal cyst of Bosniak class III. CECT was done, as shown below. what is the diagnosis?","a)RCC
+b)Renal oncocytoma
+c)Renal angiomyolipoma
+d)Renal cyst","The CT image showing renal lesions that has hypoattenuating components consistent with macroscopic fat is highly suggestive of renal angiomyolipoma.
+Imaging in renal angiomyolipoma: Demonstration of macroscopic fat is the main part of making a diagnosis. USG may show hyperechoic lesions in the cortex with posterior acoustic shadowing. In  patients with tuberous sclerosis, the entire kidney is affected, producing an echogenic appearance  with loss of normal corticomedullary junction.
+CT findings:
+• Cortical lesions that demonstrate macroscopic fat (less than -2o HU)
+• Absence of ossification or calcification
+• The presence of macroscopic fat is strongly suggestive of this condition, but not pathognomonic as RCC may rarely demonstrate macroscopic fat.
+• Approximately 5% may be fat poor.
+MRI: It is an excellent tool to demonstrate intramural fat components. Two sequences are used:
+• Fat-saturated techniques
+• phase-in and phase-out imaging that shows India ink artifact at the junction between fat and non-fat components.
+Digital subtraction angiography: They are hypervascular lesions showing 'sunburst appearance' in the arterial phase and 'onion peel appearance' in the venous phase.
+Angiomyolipomas are benign tumors that occur sporadically or in association with tuberous
+sclerosis. The mean age of presentation is 43 years and there is a female predilection. It can
+present as spontaneous retroperitoneal hemorrhage, especially with larger tumors. The patient    can present with flank pain, palpable mass, hematuria, urinary tract infections, hypertension, or renal failure. They usually do not require any intervention. mTOR inhibitors like everolimus can be used to decrease the size of the lesion.
+
+
+
+
+
+Bosniak classification:
+It classifies the renal cystic lesions mainly into four classes based on the cT characteristics.
+
+
+class I and II are benign and do not require follow-up imaging or surgery.
+class IIF requires follow-up for about 5 years to exclude malignancy.
+class III needs to be biopsied or surgically explored due to a higher risk of malignancy.
+class Iv lesions are clearly malignant and need appropriate treatment.
+other options:
+Renal cell carcinoma (Rcc): It is the most common malignant tumor of the kidney. It usually
+occurs in the age group 5o-7o years and macroscopic hematuria is seen in about 6o% of the cases. It is a differential for angiomyolipoma but it is important to note that macroscopic fat is almost
+always associated with ossification or calcification.
+
+
+
+
+
+Renal oncocytoma: They are relatively benign in nature and usually present in the 6th to 7th
+decade. An important point regarding this tumor is its similarity with RCC and hence it is very
+difficult to differentiate between them preoperatively. A sharp central stellate scar may be seen in one-third of the cases. But RCC may also show this stellate scar appearance in some cases.
+
+
+Renal cyst: It is a broader term that includes the cystic lesions of the kidney. They can be simple cysts that are benign. Complex or complicated cystic lesions need evaluation and can be
+malignant. Bosniak classification of renal cysts is given above.
+Image showing a simple renal cyst:",3947-2502.PNG,C,3956-2511.PNG;3956-2510.PNG;3957-2513.PNG;3957-2512.PNG;3958-2514.PNG
+Q6,A young child presented with mild intermittent upper abdominal pain. X-ray is given below. what is the diagnosis?,"a)Bochdalek hernia
+b)Morgagni hernia
+c)Gastric volvulus
+d)Eventration of diaphragm","The clinical features and the chest X-ray showing an opacity in the right cardiophrenic angle are suggestive of Morgagni hernia.
+Congenital diaphragmatic hernia(CDH) of anteromedial location is the Morgagni hernia. Here the  defect is anterior and retrosternal. It is rarer than bochdalek hernia and accounts for only 2-5% of CDH. About 9o% of the cases occur on the right side.
+It is less symptomatic than bochdalek hernia and the diagnosis is usually delayed until childhood. The patient presents with respiratory or upper GI symptoms. Respiratory symptoms like distress, tachypnea, and recurrent pulmonary infections are common in children. other symptoms are
+abdominal pain, dyspnea, flatulence, and indigestion.
+Radiographic findings:
+• Radiolucent paracardiac shadow may be seen retrosternally on lateral chest x-ray if there is bowel herniation.
+• Rounded opacity in the right cardiophrenic angle may be seen if there is herniation of omentum or solid organs.
+• A CT scan may be used to confirm the diagnosis.
+surgical repair is indicated in all cases either by a thoracic or abdominal approach.
+
+
+
+
+
+other options:
+Bochdalek hernia: It is more common than Morgagni hernia. Here the defect is posterolateral in location. Respiratory distress is experienced by most infants. In the pediatric age group,
+symptoms are predominantly respiratory due to pulmonary hypoplasia. In adults, it is usually asymptomatic and is incidentally found. About 85% of the cases are left-sided.
+
+
+Gastric volvulus: This is an uncommon condition and presents with the characteristic Borchardt triad which includes:
+• sudden-onset severe upper abdominal pain
+• Recurrent retching with the production of little vomitus
+• Inability to pass a nasogastric (NG) tube
+It can be organoaxial or mesentroaxial. chest X-ray may show intrathoracic upside-down stomach and retrosternal or mediastinal air-fluid level.
+
+
+
+Image showing intrathoracic gastric volvulus with mediastinal gastric bubble-
+
+
+Eventration of the diaphragm: It refers to the abnormal contour of the dome of the diaphragm without any disruption to the diaphragmatic continuity. It usually involves a segment of the
+hemidiaphragm. It can cause respiratory distress in newborns and is usually asymptomatic in adults.
+Radiographic findings: The affected portion of the hemidiaphragm is elevated and is seen as a smooth hump, while the normal contour is seen in the remaining part. 'Double diaphragmatic contour' may be seen in frontal view and is confirmed with a lateral X-ray.
+Image showing eventration of the right dome of the diaphragm-",3948-2503.PNG,B,3959-2516.PNG;3959-2515.PNG;3960-2518.PNG;3960-2517.PNG
+Q7,"A woman presented with confusion, constipation, and headache. serum calcium was
+13.1mg/dL and ALP was elevated. she was diagnosed with primary hyperparathyroidism. which of the following is the imaging of choice?","a)MRI
+b)FDG PET
+c)CT
+d)sestamibi scan","sestamibi scan is the imaging of choice to delineate parathyroid abnormalities.
+sestamibi is a monovalent lipophilic cation. It shows passive diffusion across cell membranes and accumulates in mitochondria. Because of its accumulation in the mitochondria, there is a
+difference in the rate at which it gets washed out depending upon the number of mitochondria in each tissue.
+In parathyroid adenomas, there is a high concentration of oxyphilic cells with high mitochondrial content. The three protocols for sestamibi scanning are:
+• single-isotope dual-phase scan
+• Dual-isotope subtraction imaging
+• single-photon emission computed tomography (sPECT).
+sPECT is commonly used because of its improved spatial resolution. sestamibi combined with CT can be used to detect smaller parathyroid tissues.
+
+
+other imaging modalities for parathyroid localization:
+• Ultrasonography:
+• It is inexpensive and noninvasive
+• Mediastinal parathyroid tissue cannot be detected because UsG cannot penetrate the sternum or clavicles.
+• Four-dimensional CT:
+• It has a very high sensitivity
+• Increased radiation exposure than other routine modalities is a potential disadvantage
+• selective venous sampling for PTH can be used for the exact localization of adenomas",,D,3961-2519.PNG
+Q8,Identify the imaging modality given below.,"a)USG
+b)Fluroscopy
+c)X-Ray
+d)MRI","The image shown in the question is the USG of the neck.
+Sonographic examination of the neck shows the thyroid gland, muscles, blood vessels, bony
+structures or cartilages, and nerves. The thyroid of a healthy patient appears homogeneously
+echogenic with a uniform echotexture on USG. Lateral to the thyroid, the large blood vessels (the common carotid artery and more laterally, the internal jugular vein) can be identified. In the
+above image, hypoechoic areas are suggestive of the lumen of vessels seen in the neck i.e common carotid artery and internal jugular vein.
+Neck ultrasonography is the preferred modality for routine radiographic evaluation of the thyroid gland, as it offers the most accurate visualization of thyroid nodular disease. It also allows for the concomitant performance of percutaneous fine-needle aspiration biopsy of thyroid lesions.
+Neck ultrasound can also be used to localize parathyroid disease.
+other options:
+option B: Fluoroscopy is an imaging modality that allows real-time X-ray viewing of a patient with high resolution. During this procedure, radiologists usually use contrast material (dye) to
+highlight the area being examined.
+Below image shows the fluoroscopy of neck.
+
+
+option C: The below image shows the X-ray appearance of neck in AP view.
+
+
+
+
+
+Option D: Relative to the neck musculature, the thyroid is hyperintense on MRI images.",3949-2504.PNG,A,3962-2520.PNG;3963-2521.PNG
+Q9,which of the following is true regarding CORADS?,"a)CORADS-5 is typical of COVID-19
+b)pleural thickening is typical of COVID-19
+c)Lobar consolidation is typical of COVID-19","Among the given options, CORADS-5 is typical of COVID-19 is the true statement.
+COVID-19 Reporting and Data System (CO-RADS) is a categorical assessment for pulmonary involvement of COVID-19 on chest CT.
+
+CO-RADS Cate gory	Summary
+CO-RADS O	Scans are incomplete or of in ferior quality
+CO-RADS 1	Normal or non-infectious
+CO-RADS 2	Typical features of other infe ctions but not of COVID-19
+CO-RADS 3	Features compatible with CO VID-19 but also with other di seases
+CO-RADS 4	Suspicious for COVID-19
+CO-RADS 5	Typical for COVID-19
+CO-RADS 6	Proven COVID-19 by positive RT-PCR test
+
+CO-RADS categories:
+• CO-RADS O: Not interpretable - Technically insufficient to assign a score: Scans are incomplete or of inferior quality.
+
+
+
+• Co-RADS 1: Very low level of suspicion for pulmonary involvement by CoVID-19. Mild or severe emphysema, perifissural nodules, lung tumors, or fibrosis.
+• Co-RADS 2: Low level of suspicion for pulmonary involvement by CoVID-19. Includes infectious etiology that is not compatible with CoVID-19 such as bronchitis, bronchiolitis,
+bronchopneumonia, lobar pneumonia, abscess.
+• Co-RADS 3: Equivocal findings for pulmonary involvement by CoVID-19. Findings overlap with other viral or infectious etiologies. Could include perihilar ground-glass, homogenous extensive
+ground-glass with or without sparing of secondary pulmonary lobules.
+• Co-RADS 4: High level of suspicion for pulmonary involvement by CoVID-19. Findings are similar to Co-RADS 5 but are not present in the typical locations. Findings may also be
+superimposed on severe pre-existing pulmonary abnormalities.
+• Co-RADS 5 based on typical CT findings. It requires the presence of at least one confirmatory pattern (mentioned below).
+• Co-RADS 6: Proven CoVID-19 by positive RT-PCR test.
+CT features typical of pulmonary involvement in CoVID-19 include:
+• obligatory features
+• Ground glass opacities, with or without consolidation in areas close to the visceral pleural surface, including the fissures.
+• Confirmatory features
+• Ground glass regions
+• Crazy paving pattern
+• organizing pneumonia compatible patterns
+• Thickened vessels with parenchymal abnormalities",,B,
+Q10,Double bleb sign seen in early pregnancy is due to _______.,"a)Twin pregnancy
+b)Amnion and chorion
+c)yolk sac and amniotic sac
+d)Heterotopic pregnancy","The double bleb sign is due to the yolk sac and amniotic sac.
+on ultrasonographic examination, a gestational sac may contain the yolk sac and amniotic sac, appearing like two small bubbles. This is known as the double bleb sign. The embryonic disc is located between the yolk sac and the amniotic sac. It is an important feature of an intrauterine pregnancy.
+other options:
+In a twin pregnancy, the chorionicity of the placenta is best diagnosed with the help of an ultrasound examination.
+• In dichorionic gestation, the twins are separated by amniotic membranes and an intervening chorion. So, a thicker twin peak sign or lambda (λ) sign is formed at the point at which the
+amnions meet the placenta.
+
+
+
+
+
+• In monochorionic diamniotic gestation, the twins are separated only by the two amniotic
+membranes with no intervening chorion. So, a thin T sign is formed at the point at which the amnions meet the placenta.
+
+
+Heterotopic pregnancy is a condition in which a normal uterine pregnancy co-exists with an
+extrauterine (ectopic) pregnancy. Although heterotopic pregnancy can occur spontaneously, it is more likely after artificial reproductive technology (ART) and ovulation induction.
+The below image shows heterotopic pregnancy with 2 sacs, one inside the uterus (white arrow) and the other in the cervix (black arrows).",3950-2505.PNG,C,3965-2523.PNG;3965-2522.PNG;3966-2524.PNG
+Q11,which one of the following is the most radioresistant phase of the cell cycle?,"a)S phase
+b)M phase
+c)G1 phase
+d)G2 phase","S phase is the most radioresistant phase of the cell cycle.
+The replication of the DNA genome occurs only at a specified time period during the cell cycle.
+This period is referred to as the synthetic or S phase. The S phase is separated from the mitotic, or M phase, by nonsynthetic periods referred to as gap 1 (G1) and gap 2 (G2) phases, occurring
+before and after the S phase, respectively. The cell prepares for DNA synthesis in G1, and for mitosis in G2.
+The most radiosensitive phase of the cell cycle is the G2-M phase. cells in the G2 or M phase do not have time to repair DNA damage that occurs before they start to divide. This affects mitosis, leading to catastrophe.
+cells become gradually less sensitive to radiation in the G1 phase to the early S phase and are least sensitive in the late S phase.",,A,

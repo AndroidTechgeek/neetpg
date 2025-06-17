@@ -1,0 +1,635 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"An 18-year-old girl with the diagnosis of acute promyelocytic leukemia was treated medically. she developed fever and tachypnea and a chest X-ray showed pulmonary infiltrates. what
+drug should she be given next?","a)cytarabine
+b)Dexamethasone
+c)Doxorubicin
+d)Methotrexate","The clinical scenario describes a patient of APL (acute promyelocytic leukemia) developing fever, tachypnea, and pulmonary infiltrates while on medical treatment. This is suggestive of APL
+differentiation syndrome, an adverse effect of all-trans-retinoic acid (ATRA). The management involves glucocorticoids like dexamethasone.
+Along with glucocorticoids, the other management of APL differentiation syndrome includes chemotherapy for cytoreduction and supportive measures. In severe cases, temporary
+discontinuation ofATRA is necessary.
+ATRA is an oral drug that induces the differentiation of leukemic cells bearing the t(15;17)
+chromosomal translocation. while ATRA reduces the incidence of DIC associated with cytarabine and daunorubicin used earlier in APL, it can cause APL differentiation syndrome due to the
+adhesion of differentiated neoplastic cells to the pulmonary vasculature endothelium.
+In low-risk APL patients with a low leukocyte count at presentation, a combination ofATRA and arsenic trioxide (ATO) has been found to be superior and is the current standard of care.",,B,
+Q2,"The definition of fever of unknown origin (FUO) includes all of the following, except:","a)Undiagnosed after one week of investigation
+b)Immuno compromised status should be ruled out
+c)Temperature more than 38.3 c
+d)Fever persisting for more than 3 weeks","The current definition of fever of unknown origin (FUO) does not include undiagnosed after one week of investigation. The criterion ""diagnosis uncertain, after 1 week of evaluation"" which was   previously a part of the definition has been removed.
+FUO is currently defined as:
+• Fever ≥38.3°C (≥101°F) on at least two occasions
+
+
+
+• Duration of ≥3 weeks
+• No known immunocompromised state
+• Diagnosis is uncertain after thorough history-taking, physical examination, and obligatory investigations.
+Inflammation of Unknown origin (IUo) is closely related to FUo. It has the same definition,
+except for the body temperature criterion. IUo is characterized by elevated inflammatory
+parameters (such as CRP or ESR) on multiple occasions for at least three weeks in an
+immunocompetent patient with normal body temperature. The causes and workups for IUo are similar to those for FUo.",,A,
+Q3,"A 43-year-old patient presented with spikes of fever and difficulty in breathing.
+Transesophageal echo revealed vegetations in the heart. The culture was positive for Burkholderia cepacia. which of the following is the first line of management?","a)Aminoglycosides and colistin
+b)cotrimoxazole with 3rd generation cephalosporin
+c)cefepime and tigecycline
+d)carbepenams and 3rd generation cephalosporins","The first-line agents used in the management of Burkholderia cepacia complex (BCC) infections are trimethoprim-sulfamethoxazole (cotrimoxazole), meropenem, minocycline, and ceftazidime  (3rd generation cephalosporin).
+other options:
+option A: Burkholderia species are intrinsically resistant to aminoglycosides and polymyxins.
+option C: Tigecycline is less effective in the case of Burkholderia infections.
+option D: Carbapenems and 3rd generation cephalosporins have the same mechanism of action and compete for the same binding site. Hence, it is not a rational drug combination.
+BCC is a group of bacteria known for causing severe respiratory distress and septicemia,
+particularly in patients with cystic fibrosis (CF). BCC organisms are also found in ICU patients and individuals with chronic granulomatous disease, leading to lung disease. BCC colonization in CF     patients prior to lung transplantation increases the risk of death during the early transplant
+period.",,B,
+Q4,The radio-iodine uptake scan of a patient evaluated for swelling of the thyroid is shown below. which of the following is the most likely diagnosis?,"a)Hypersecreting adenoma
+b)papillary carcinoma thyroid
+c)Graves disease
+d)Lateral aberrant thyroid","The given image showing localized overactivity (increased uptake) in the left lobe of the thyroid    i.e., hot nodule, with suppression of the remainder of the gland, is suggestive of a hypersecreting adenoma.
+other options:
+option B: The likelihood of malignancies like papillary Carcinoma thyroid is low (5%) in the case of a hot nodule.
+option C: Graves disease shows diffusely increased uptake on a thyroid scan.
+option D: Lateral aberrant thyroid presents with swelling of cervical lymph nodes and not
+thyroid. It is due to skip metastasis from papillary thyroid carcinoma to the ipsilateral cervical lymph nodes.
+The thyroid scan appearance in different conditions is shown in the image below:
+
+
+
+
+
+Diagnostic isotope studies, such as 99mTc-pertechnetate and iodine-123, are becoming less
+common in thyroid imaging because some warm swellings (5%) which are actually malignant
+could be mistaken as benign. Isotope scanning is most valuable when assessing a hyperthyroid
+patient presenting with a nodule or nodularity in the thyroid. It helps to identify overactivity in
+the gland, which can differentiate between a toxic nodule that suppresses the rest ofthe gland and a toxic multinodular goitre with multiple areas of increased uptake.",4072-2634.PNG,A,4089-2641.PNG
+Q5,which of the following diseases primarily involves the marked structure?,"a)Paralysis agitans
+b)Depression
+c)Alzheimers
+d)Huntington chorea","The structure marked in this transverse section of the brain at the level of superior colliculus is  substantia nigra. Degeneration of substantia nigra is seen in parkinson's disease, also known as paralysis agitans.
+substantia nigra is pigmented due to the presence of neuromelanin granules, which help in the synthesis of dopamine. In parkinson's disease, there is an absence/reduced pigmentation of the substantia nigra.
+Bradykinesia, rigidity, and resting tremor are classic features of parkinson's disease. Because of motor disability, it is also referred to as paralysis agitans.
+other options:
+option B: Depression is often a comorbid finding with parkinson's disease, but is not due to damage to the substantia nigra.
+option C: Alzheimer’s disease is the most common cause of dementia. It is due to atrophy of the entorhinal cortex, located in the medial temporal lobe.
+option D: Huntington’s chorea is an autosomal dominant disorder of movement and cognition primarily involving the striatum (caudate nucleus and putamen).",4072-2633.PNG,A,4090-2642.PNG
+Q6,All are components of cURB65 except,"a)confused state
+b)Respiratory rate of &gt; 3o /min
+c)Blood urea nitrogen value greater than 7 mmol/L
+d)systolic blood pressure less than 1oo mm Hg","Among the options, systolic blood pressure less than 1oo mm Hg (option D) is not a component of cURB-65. cURB65 includes blood pressure, systolic ≤9o mmHg or diastolic ≤6o mmHg.
+cURB-65 criteria is used to assess the severity of illness in a case community-acquired
+pneumonia. It includes confusion (c), urea &gt;7 mmol/L (U), respiratory rate ≥3o/min (R), blood pressure systolic ≤9o mmHg or diastolic ≤6o mmHg (B) and an age of ≥65 years.
+Pneumonia severity index (PSI) is another index to assess the severity of illness and the risk of      mortality in the case of pneumonia. It includes 2o variables and depending on the score, patients are assigned into one of the 5 classes.
+class, I, II, III - at low risk of death and can be treated on an outpatient basis
+class IV &amp; V require hospitalization",,D,
+Q7,"A 22-year-old female patient came with complaints of vomiting and a decrease in movement of the right leg. In the past, she has had episodes of violent and aggressive behavior and
+abdominal pain. which of the following is the most probable diagnosis?","a)AIDP with migraine
+b)Right side paralysis
+c)Acute intermittent porphyria
+d)conversion disorder","The clinical scenario describing decrease in movement of right leg (neurological symptom) in a
+young female with history of episodic attacks of abdominal pain and aggressive behaviour (mental symptom) is consistent with the diagnosis of acute intermittent prophyria.
+conversion disorder (option D) presents commonly in young women as acute, temporary loss of sensory or motor function preceded by psychological issues. Recurrent episodic attacks of
+neurovisceral symptoms make the diagnosis of conversion disorder unlikely.
+Acute intermittent porphyria (AIP) is a hepatic porphyria inherited in an autosomal dominant pattern. It occurs due to a deficiency of porphobilinogen deaminase/hydroxymethylbilane
+synthase/uroporphyrinogen I synthase enzyme in heme synthesis. AIP is generally latent before puberty and is more common in women.
+
+
+
+AIP presents with neurovisceral symptoms and no cutaneous manifestations are seen. Abdominal pain is the most common symptom. Nausea, vomiting, constipation, muscle weakness, sensory
+loss, dysuria, and urinary retention are seen. Tachycardia, hypertension, restlessness, tremors, and excess sweating are due to sympathetic overactivity. Peripheral neuropathy predominantly affecting motor neurons is due to axonal degeneration. During acute episodes, individuals may experience mental manifestations such as anxiety, insomnia, depression, hallucinations, and
+paranoia. Seizures may result from either neurological effects or hyponatremia.
+Diagnosis can be made with the appearance of classic symptomology after exposure to an
+underlying precipitating factor. Plasma and urine ALA and PBG levels are significantly raised during an acute attack and remain high even after symptoms resolve.
+Intravenous hematin as first-line treatment for acute attacks. Narcotic analgesia may be given for abdominal pain. Carbohydrate loading with intravenous glucose may be tried in milder attacks.    orthoptic liver transplant is curative in patients refractory to hemin therapy.
+Givosiran is a recently approved hepatic-targeted RNA interference (RNAi) therapy for acute hepatic porphyrias.",,C,
+Q8,"A 36 year old male came with complaints of ascending weakness in both lower limbs and
+upper body. There was no history of trauma. which of the following investigations is done in the evaluation of this patient?","a)serum potassium
+b)serum magnesium
+c)serum sodium
+d)serum calcium","The given scenario describes a patient with ascending paralysis. Among the given options, Serum potassium (option A) is tested as disturbances in serum potassium levels (hypokalemia or
+hyperkalemia) present with ascending muscle weakness.
+option B: Hypomagnesemia can cause tetany. Hypermagnesemia can cause generalized weakness and paralysis. However, serum potassium is a better answer as disturbances in potassium levels    are more likely to cause paralysis.
+option C: Alteration in serum sodium levels does not cause muscular paralysis.
+option D : Hypocalcemia presents with paresthesia, tetany, seizures and prolonged QT interval. Hypercalcemia presents with other clinical features like fatigue, depression, mental confusion,
+anorexia, nausea, vomiting, constipation, reversible renal tubular defects, increased urine output, short QT interval in the electrocardiogram, and, in some patients, cardiac arrhythmias.",,A,
+Q9,"on thyroid function test analysis, TsH value was much higher than normal with a low free T4. what is the diagnosis?","a)subclinical hypothyroidism
+b)Hyperthyroidism
+c)secondary hypothyroidism
+d)primary hypothyroidism","An elevated TSH value with low free T4 is suggestive of primary hypothyroidism (option D).
+option A: In subclinical hypothyroidism, free T4 levels remain normal despite elevated TSH.
+option B: TSH is low in hyperthyroidism.
+option C: The diagnosis of secondary hypothyroidism is made along with a deficiency of other
+pituitary hormones. TSH levels may be low, normal, or slightly increased. The elevation in TSH
+levels can be attributed to the secretion of immunoreactive but biologically inactive forms of TSH. To confirm the diagnosis, it is essential to detect a low level of unbound T4.
+The diagnostic approach to hypothyroidism is given in the flowchart below:",,D,4092-2643.PNG
+Q10,which of the following is responsible for the elevated levels of TG and vLDL in diabetes mellitus?,"a)Increased activity of lipoprotein lipase and decreased activity of hormone sensitive lipase
+b)Increased activity of hormone sensitive lipase and decreased lipoprotein lipase activity
+c)Increase in peripheral function of LDL receptors
+d)Increased in activity of hepatic lipase","The elevated levels of triglycerides (TG) and very low-density lipoproteins (vLDL) in diabetes    mellitus (DM) are due to decreased activity of lipoprotein lipase (LpL) and increased activity of hormone-sensitive lipase (HSL).
+Insulin normally has an inhibitory action on HSL and induces LpL on capillary walls. There is an absolute or relative deficiency of insulin in DM. In DM, the activity of LpL is decreased and HSL  is increased.
+The increased activity of HSL results in increased mobilisation of fat stores towards lipolysis
+releasing fatty acids. These fatty acids are partly cleared by the liver, resulting in increased
+synthesis of vLDL and TG, resulting in dyslipidemia. They can accumulate in the liver, resulting in steatosis (non-alcoholic fatty liver disease).
+The reduced activity of LpL prevents the clearing of TG and vLDL in the bloodstream and their levels remain elevated.",,B,4093-2644.PNG
+Q11,what is the window period for thrombolysis in case of stroke?,"a)1 ½ hours
+b)2 ½ hours
+c)3 ½ hours
+d)4 ½ hours","The window period for thrombolysis in case of stroke is 4½ hours.
+Intravenous Recombinant Tissue plasminogen Activator (IV rtpA) o.9 mg/kg upto a maximum of  9o mg, 1o% as bolus, the remainder as infusion over 6o min is given. Tenecteplase o.25 mg/kg IV bolus over 5 s is also used.
+Blood pressure should be monitored frequently. No other antithrombotic therapy should be
+administered within a 24-hour period. In the case of a deterioration in neurological condition or uncontrolled high blood pressure, the infusion should be stopped, cryoprecipitate should be
+administered, and urgent imaging of the brain should be done. It is recommended to refrain from urethral catheterization for a minimum of 2 hours.",,D,
+Q12,"A 53-year-old man was admitted with a history of a cerebrovascular accident. on the second day, he becomes drowsy with minimal response. CT finding is shown in the image below.
+what will be your next line of management?","a)Aspirin and clopidogrel
+b)Mannitol
+c)Decompressive surgery
+d)Mechanical thrombectomy","The clinical scenario describes a 53 year old patient admitted in view of a cerebrovascular accident developing neurologic deterioration (drowsy with minimal response) on the second day, and CT     brain showing significant edema of MCA territory with midline shift. The next line of
+management is decompressive surgery.
+Cerebral edema is a potential complication in 5-1o% of patients with strokes, leading to
+obtundation and brain herniation. The severity of edema is highest on the second or third day after the stroke and can last for around 1o days.
+Medical management may not be successful in case of significant edema or infarcts involving the cerebellum.
+Decompressive surgery is recommended for patients who are less than 6o years old and
+experience deterioration ≤ 48 hours, despite receiving medical therapy. Hypodensity on head CT within the first 6 hours of stroke onset, involving ≥ one-third of the MCA territory, early midline
+
+
+
+shift, and a diffusion-weighted imaging volume on MRI within 6 hours ≥ 8o mL are predictors of severe cerebral edema.",4075-2635.PNG,C,
+Q13,Disappearance of loud S1 in mitral stenosis occurs in all except:,"a)First degree heart block
+b)AR
+c)Calcified valve
+d)Mild MS","Loud S1 is heard in mild mitral stenosis (MS).
+The intensity of S1 depends on the distance over which the anterior leaflet of the mitral valve
+moves, leaflet mobility, Lv contractility, and PR interval. It is independent of the severity of MS. Loud S1 is seen in early rheumatic MS, short PR interval, and hyperdynamic circulatory states.    S1 becomes soft in case of calcified leaflets, long PR interval, associated aortic regurgitation and  Lv dysfunction.",,D,
+Q14,The given ECG depicts which of the following conditions:,"a)paroxysmal supraventricular tachycardia
+b)ventricular bigeminy
+c)p pulmonale
+d)Re-entrant atrial fibrillation","The given EcG shows a premature ventricular complex (Pvc) that occurs every second beat (ventricular bigeminy).
+Pvcs exhibit premature timing by arising before the anticipated occurrence of the subsequent
+regular heartbeat. They display an aberrant QRS-T appearance, where the QRS complex appears unusually wide (o.12 sec or longer), and the T wave and QRS complex point in
+opposite orientations (discordant).
+Frequent Pvcs can manifest in different patterns. when two Pvcs occur consecutively, they are termed a pair or couplet.
+If three or more Pvcs occur in succession (triplet), it is classified as ventricular tachycardia (vT). The repetitive pattern of one normal beat followed by one Pvc is known as ventricular bigeminy.
+when the repeating sequence involves two normal beats followed by a Pvc, it is called ventricular trigeminy. Similarly, if three normal beats are followed by a Pvc, it is referred to as ventricular
+quadrigeminy.
+The EcG below shows ventricular bigeminy where every normal QRS (green underlines) is followed by a Pvc (red arrows):",4076-2636.PNG,B,4095-2645.PNG
+Q15,"As an intern in the emergency ward, which of the following method would you consider as correct regarding nasogastric tube length estimation?","a)Tip of nose to ear to xiphisternum
+b)Tip of nose to angle of ear to umbilicus
+c)Mouth to ear to umbilicus
+d)Mouth to ear to midway between xiphisternum and umbilicus","The commonly used method to determine the length of a nasogastric tube is the NEX method: the tip of the nose to the ear to the xiphisternum.
+The approximate length is 12o-125 cm. The markings indicate the traversing of the tube through various parts of the GIT:
+• 4o cm: cardia of the stomach
+• 5o cm: Body of the stomach
+• 6o cm: pylorus
+• 7o cm: Duodenum
+A nasogastric tube or Ryle's tube is inserted in the sitting position with the neck slightly flexed. The tube is then gently inserted through the nostril and advanced until it reaches 1o cm. The
+patient is encouraged to swallow, allowing the tube to move down the esophagus with successive swallows until it reaches the measured distance.
+subjective confirmation involves insufflating air through the proximal opening ofthe NG tube and listening for the sound of air in the left upper quadrant where the stomach is located. objective
+confirmation can be obtained through pH measurement, chest or abdominal radiographs, ultrasound, or calorimetric capnometry.
+while widely practiced, blind NG tube insertion can lead to complications such as coiling of the tube in the nasopharynx, incorrect placement in the bronchial passage, or even esophageal
+perforation.",,A,
+Q16,"A morbidly obese diabetic woman is not responsive to metformin therapy. she has a history of pancreatitis and family history of bladder cancer. she does not want to take injections.
+which of the following would be suitable to reduce her glucose levels?","a)sitagliptin
+b)pioglitazone
+c)canagliflozin
+d)Liraglutide","Among the given options, canagliflozin (option c) is the most suitable treatment. It is an oral    drug belonging to the class SGLT-2 inhibitors and causes weight loss. Although it increases the risk of urogenital infections, it has no risk of pancreatitis or bladder cancer.
+option A: Sitagliptin, a Dpp-IV inhibitor, is associated with the risk of acute pancreatitis.
+option B: pioglitazone, a thiazolidinedione, can increase the risk of bladder cancer and can cause weight gain and congestive cardiac failure.
+option D: Liraglutide is an injectable GLp-1 receptor agonist. pancreatitis is a serious adverse  effect of this drug. Hence, it is contraindicated in individuals with a history of pancreatitis and should be permanently discontinued if pancreatitis develops.",,C,
+Q17,"A patient has a right upper limb BP of 18o/95 mm Hg and a left upper limb BP of 13o/9o mm Hg. He also has an early diastolic murmur in right 2nd intercostal space. which of the
+following is least likely to be associated with these findings?","a)supravalvular aortic stenosis
+b)Coarctation of aorta
+c)Takayasu arteritis
+d)Aortic dissection","A significant difference in blood pressure measured between two arms (&gt;1o mm Hg) may be seen in Takayasu arteritis (subclavian artery disease), supravalvular aortic stenosis, aortic
+coarctation, and aortic dissection (all four options).
+An early diastolic murmur in the right second intercostal space (aortic area) is suggestive of aortic regurgitation. Supravalvular aortic stenosis (option A), which involves the part of the aorta distal  to the aortic valve, is unlikely to cause aortic regurgitation and hence the best answer.
+
+Features	Supravalvula r AS	Takayasu arteritis	Aortic dissection	coarctation of ao rta
+Aortic regurgitation	unlikely	present in 25% of ca ses	present in acute situatio ns	present
+Bp difference between arms	present	present	present	May be present
+
+So the single best answer would be Supravalvular AS &gt; coarctation of the aorta.",,A,
+Q18,"A young donor came to the blood bank for the first time for platelet apheresis with platelet     count of 1.9L. During the course he developed paresthesias and circumoral numbness during donation. His vitals remained stable though. ECG showed tachycardia with sT-T changes.
+what is the reason for his symptoms?","a)Hypovolemic shock
+b)Hypocalcemia
+c)seizures
+d)Allergic reaction","The clinical scenario of a young patient developing paresthesia and circumoral numbness and EcG showing ST-T changes during blood donation for platelet apheresis is consistent with
+hypocalcemia.
+Hypocalcemia in this case is due to citrate which is used as an anticoagulant in apheresis machine. citrate is a calcium chelator and bind to the calcium in the donor’s circulation.
+During a physical examination, chvostek's sign (twitching of the muscles around the mouth when the facial nerve is gently tapped) and Trousseau's sign (carpal spasm induced by inflating a blood  pressure cuff to 2o mmHg above the patient's systolic blood pressure for 3 minutes) may be seen. Severe hypocalcemia can lead to various complications including seizures, spasms in the hands
+and feet (carpopedal spasm), bronchospasm, laryngospasm, and QT prolongation.
+
+
+
+For acute and symptomatic hypocalcemia, the initial treatment involves intravenous
+administration of calcium gluconate, usually 1o mL of a 1o% solution given over 5 minutes.",,B,
+Q19,"which of the following anti-diabetic drugs should be stopped in a patient with a creatinine of
+5.6 mg/dL?","a)Metformin
+b)Linagliptin
+c)Metoprolol
+d)Insulin","Metformin should be stopped in case of elevated creatinine levels (renal insufficiency) &gt; 1.5 mg/dl in men and &gt;1.4 mg/dl in women.
+Metformin acts by reducing hepatic glucose production and improves peripheral glucose
+utilization. Lactic acidosis and vitamin B12 deficiency are specific adverse effects of metformin. It is not used in patients with a glomerular filtration rate &lt;3o mL/min (moderate renal
+insufficiency), acidosis, unstable congestive cardiac failure, liver disease, severe hypoxemia, and patients undergoing contrast studies.",,A,
+Q20,"A 53-year-old patient was admitted complains of dyspnea. on examination he has puffy face with engorged veins over the chest. Svc obstruction is suspected. chest X-ray shows
+mediastinal enlargement. what is the next step?","a)Total blood count with peripheral smear
+b)cT thorax
+c)Start cyclophosphamide
+d)urgent referral to RT","In a patient with suspected superior vena cava syndrome (svcs), the next step is to perform a cT  thorax to confirm the diagnosis and determine the underlying cause. cT reveals reduced or absent opacification of central venous structures along with noticeable collateral venous circulation.
+The diagnosis of svcs is primarily clinical, but imaging can aid the diagnosis. The chest
+radiographic finding commonly observed in svcs is the widening of the superior mediastinum. MRI can be used to diagnose svc obstruction with 1oo% sensitivity and specificity. Invasive
+procedures like bronchoscopy or biopsy may be performed if needed.
+svcs is caused by the obstruction of the superior vena cava, resulting in impaired blood flow from the head, neck, and upper extremities. Lung cancer is the most common cause of malignant svcs cases. In young adults, malignant lymphoma followed by mediastinal germ cell tumors are the
+leading causes of svcs. The use of intravascular devices such as central venous catheters has led to an increase in benign causes of svcs.
+patients with svcs present with swelling of the neck and face, dyspnea, cough, hoarseness,
+headaches, nasal congestion, and pain. Bending forward or lying down may aggravate the
+symptoms. physical examination may reveal dilated neck veins, collateral veins on the chest wall, cyanosis, and edema of the face, arms, and chest.
+cerebral and laryngeal edema are rare but serious complications associated with svcs, and they require urgent evaluation.
+Treatment of svcs depends on the underlying cause. Radiation therapy is the primary treatment for svcs caused by non-small-cell lung cancer and metastatic solid tumors. chemotherapy is
+effective for small-cell lung cancer, lymphoma, and germ cell tumors. Intravascular stenting is often used to provide rapid relief of symptoms.",,B,
+Q21,A patient with ascites is found to have SAAG ≥1.1 . All the following can be the causes except,"a)cirrhosis
+b)Liver failure
+c)Metastasis to liver
+d)TB peritonitis","The serum ascites albumin gradient (SAAG) in ascites due to TB peritonitis is &lt; 1.1 g/dL as it is unrelated to portal hypertension.
+SAAG helps differentiate ascites caused by portal hypertension from nonportal hypertensive
+ascites. A SAAG ≥1.1 g/dL indicates portal hypertension and suggests causes such as cirrhosis,
+cardiac ascites, hepatic vein thrombosis, sinusoidal obstruction syndrome, or liver metastases. A   SAAG &lt;1.1 g/dL suggests other causes like tuberculous peritonitis, peritoneal carcinomatosis, or pancreatic ascites. For high-SAAG ascites, the ascitic protein level provides additional
+information. A protein level of ≥2.5 g/dL suggests normal hepatic sinusoids, while &lt;2.5 g/dL indicates damaged and scarred sinusoids. pro-brain-type natriuretic peptide (BNp) levels may help identify heart failure as the cause of high-SAAG ascites.
+Additional tests may be conducted in specific clinical situations, such as measuring ascitic glucose and lactate dehydrogenase (LDH) levels for suspected secondary peritonitis, ascitic amylase levels for suspected pancreatic ascites, and cytology for peritoneal carcinomatosis.
+Tuberculous peritonitis may be associated with ascitic fluid lymphocytosis. The sensitivity of the    smear for acid-fast bacilli and culture is low. Elevated ascitic adenosine deaminase &gt; 3o–45 U/L is highly sensitive.",,D,
+Q22,A patient on anti-tubercular therapy develops tingling sensation in the limbs. which of the following when substituted can result in improvement of symptoms?,"a)Thiamine
+b)pyridoxine
+c)Folic acid
+d)Methylcobalamine","In a patient on anti-tubercular therapy (ATT), the development of a tingling sensation is
+suggestive of isoniazid (INH) related peripheral neuropathy. In adults, pyridoxine (1oo mg/day) is given until symptoms subside.
+Alcoholics, malnourished persons, pregnant and lactating women, and patients with chronic renal failure, diabetes, and HIV infection are at higher risk of peripheral neuropathy. patients not
+responding to pyridoxine may be treated with amitriptyline. Mothers receiving INH (1omg/day), their infants (5 mg/day), and all children receiving INH (1omg/day) should receive pyridoxine
+supplementation. Adults (5o mg/day) and children &gt; 1 year (25 mg/day) on isoniazid preventive therapy are also supplemented with pyridoxine.
+Drug-induced liver injury is another adverse effect of INH. Liver enzymes more than three times the upper limit with symptomatic jaundice or liver enzymes more than five times the upper limit in asymptomatic patients may warrant cessation of INH.
+Ethionamide, a second-line anti-tubercular drug, also causes neurological adverse effects and may require pyridoxine supplementation.",,B,
+Q23,A patient comes to ED with fever and headache. on examination he has neck stiffness. cSF analysis was done and it shows the following findings. Most likely diagnosis is:,"a)TB
+b)Neisseria Gonorrhoea
+c)cryptococcus
+d)coxsackie","The given symptoms cluster of fever, vomiting, and neck stiffness is suggestive of meningitis. A
+CSF analysis showing increased opening pressure, lymphocytic pleocytosis, mildly increased
+protein, and normal glucose is suggestive of viral meningitis. Among the given options, Coxsackie (option D) is the only viral cause of meningitis.
+other options:
+
+
+
+option A: Tuberculous meningitis shows lymphocytic pleocytosis with low glucose.
+option B: Bacterial meningitis shows neutrophilic pleocytosis with low glucose.
+option C: Fungal meningitis shows lymphocytic/neutrophilic pleocytosis with low glucose.",,D,
+Q24,Metabolic acidosis with a normal anion gap is seen in all except _____.,"a)Proximal RTA
+b)Pancreatitis
+c)severe diarrhoea
+d)salicylate poisoning","Among the given options, salicylate poisoning (option D) causes high anion gap metabolic
+acidosis. Proximal renal tubular acidosis, pancreatitis, and severe diarrhea are causes of normal anion gap acidosis.
+Metabolic acidosis can be caused by increased production of endogenous acids, loss of
+bicarbonate, or impaired acid excretion by the kidneys. Blood pH decreases, leading to increased ventilation, particularly in tidal volume (kussmaul respiration). It can be categorized into two
+main types: high-anion gap and non-anion gap acidosis.",,D,
+Q25,what is the drug of choice for scrub typhus?,"a)Doxycycline
+b)ciprofloxacin
+c)chloramphenicol
+d)Azithromycin","The drug of choice for scrub typhus is doxycycline.
+To treat scrub typhus, oral doxycycline 1oo mg is given twice daily for 7–15 days. In the case of pregnant women, oral azithromycin 5oo mg for 3 days may be used as doxycycline is
+contraindicated in pregnancy.
+Scrub typhus is a rickettsial infection caused by orientia tsutsugamushi. The vector is a
+trombiculid mite. Humans are infected when they are bitten by the mite larvae known as chiggers. The incubation period is 1- 3 weeks. Patients develop a characteristic eschar at the site of the mite  bite, along with regional lymphadenopathy and maculopapular rash. It can be associated with
+fever, headache, myalgia, meningoencephalitis, myocarditis, and pneumonia.
+Serologic assays are used for diagnosis. weil-Felix reaction is a heterophile agglutination reaction used for diagnosis, wherein the sera are tested for agglutinins to the o antigens of Proteus strains ox19, ox2, and oxk. oxk alone is agglutinated in scrub typhus.",,A,
+Q26,"A patient came with sudden onset palpitations. EcG showed a narrow complex, regular    tachycardia without P waves, and a rate of 16o BPM. His blood pressure is 96/68 mmHg. what is the next step in management?","a)carotid sinus massage
+b)Adenosine
+c)Beta-blocker
+d)Defibrillator","The given clinical scenario and the electrocardiogram (ECG) showing narrow QRS complex
+regular tachycardia without P waves are suggestive of paroxysmal supraventricular tachycardia (PSVT). The next step in the management of PSVT in a hemodynamically stable (systolic blood pressure &gt;9o mm Hg) patient is vagotonic maneuvres such as carotid sinus massage or
+Valsalva maneuver.
+Carotid sinus massage can be considered in the absence of carotid bruits and no history of stroke. If vagal maneuvers fail or cannot be performed, intravenous adenosine can be used.
+
+
+
+Non-DHP calcium channel blockers and beta blockers are second-line pharmacological agents in the management of PSVT. They can cause hypotension before and after terminating the
+arrhythmia.
+If the patient is hemodynamically unstable (systolic blood pressure &lt;9o mmHg or mean arterial pressure &lt;65 mm Hg), immediate QRS-synchronous direct current cardioversion is necessary.    The treatment algorithm for PSVT is described in the flowchart below:",,A,4100-2646.PNG
+Q27,Management of hyperkalaemia includes all except,"a)calcium gluconate
+b)Insulin drip
+c)salbutamol nebulisation
+d)Magnesium sulphate","Among the given options, magnesium sulphate has no role in the management of hyperkalemia.
+Hyperkalemia is a medical emergency that requires urgent treatment. Even in the absence of EcG changes, patients with plasma K+ concentration ≥6.5 mEq/L should be aggressively managed.
+Intravenous calcium gluconate (1o mL of 1o% solution) is administered over 2-3 minutes with    cardiac monitoring to protect the heart while other measures are taken to correct hyperkalemia. calcium increases the threshold of action potential thereby reducing excitability.
+Insulin-dextrose infusion is given to shift potassium into cells. The recommended dose is 1o units of regular insulin followed immediately by 5o mL of 5o% dextrose. β2-agonists like salbutamol      can also be used in conjunction with insulin.
+cation exchange resins, diuretics, and dialysis are used to eliminate potassium. Sodium
+polystyrene sulfonate is a cation exchange resin that exchanges sodium for potassium in the
+gastrointestinal tract, increasing fecal excretion of potassium. Newer intestinal potassium binders like patiromer and ZS-9 are preferred due to their lack of intestinal toxicity. Hemodialysis is the    most effective method to reduce plasma potassium concentration.
+In hypovolemic patients with oliguria, intravenous saline may be beneficial to improve distal
+delivery of sodium and enhancing renal potassium excretion. Loop and thiazide diuretics can be used in hypervolemic patients with sufficient renal function.",,D,
+Q28,which of the following is not seen in tumor lysis syndrome?,"a)Hyperphosphatemia
+b)Hyperuricemia
+c)Hypercalcemia
+d)Hyperkalemia","Hypocalcemia, not hypercalcemia, is seen in tumor lysis syndrome (TLS).
+TLS is a potentially life-threatening condition characterized by the rapid destruction of a large number of tumor cells. The release of calcium phosphate from lysed cells contributes to
+hyperphosphatemia and subsequent reciprocal depression in serum calcium levels. The
+consumption of ionized calcium during the formation of calcium phosphate crystals leads to hypocalcemia.
+TLS is commonly observed after initiation of chemotherapy in hematologic malignancies
+characterized by high cell turnover rates, such as Burkitt's lymphoma and acute lymphoblastic leukemia.
+The destruction of neoplastic cells results in the release of nucleic acids, which are broken down into uric acid, leading to hyperuricemia. The acidic environment in the renal tubules can cause   uric acid to precipitate, leading to acute renal failure. potassium is released in large quantities     during tumor cell lysis leading to hyperkalemia.
+TLS is diagnosed using the cairo-Bishop criteria which includes both laboratory and clinical criteria.
+prevention is the mainstay of the management of TLS, which involves includes allopurinol, which inhibits the production of uric acid, and aggressive hydration to promote urine flow. urinary
+alkalization is not recommended.  Febuxostat, a selective xanthine oxidase inhibitor, can be used as an alternative.
+In severe cases or when renal failure is present, rasburicase, a recombinant urate oxidase, is used for treatment. Rasburicase rapidly lowers uric acid levels by converting it into a highly soluble
+compound called allantoin. Renal replacement therapy is often required and should be considered in case of acute renal failure.",,C,
+Q29,which of the following is a negative acute phase reactant?,"a)Albumin
+b)Haptoglobin
+c)Ferritin
+d)C reactive protein","Albumin is a negative acute phase reactant while haptoglobin, ferritin and c-reactive protein are positive acute phase reactants.
+Acute phase reactants are classified as positive and negative based on whether their levels decrease or increase in inflammatory states.",,A,
+Q30,"A 3-month-old male child was brought with a history of fever and respiratory distress.
+suspecting pneumonia, a chest X-ray was ordered. which of the following is the most likely causative organism?","a)klebsiella pneumoniae
+b)streptococcus pneumoniae
+c)Mycoplasma pneumoniae
+d)staphylococcus aureus","The most likely causative agent of pneumonia in an infant with X-ray showing pneumatoceles (air-filled cysts within lung parenchyma) is Staphylococcus aureus.
+In newborns and infants, S. aureus is a significant cause of severe respiratory tract infections,
+presenting with dyspnea, fever, and respiratory failure. community-acquired infections are often
+
+
+
+preceded by viral infections, most commonly influenza. Among adults, nosocomial s. aureus
+pulmonary infections are frequently observed in intubated patients within intensive care units.
+s. aureus often causes necrotizing pneumonitis that may be associated with complications such as pneumothorax and empyema.
+pneumatocoele can also be caused by streptococcus pneumoniae, Haemophilus influenzae, E.   coli, group A streptococci, klebsiella pneumoniae, etc. However, staphylococcus aureus is most commonly implicated.
+other options:
+option A: klebsiella pneumoniae causes lobar pneumonia in alcoholics and diabetics. patients    present with fever, dyspnea, and a productive cough with red currant jelly sputum. classic chest X-ray findings include upper lobe consolidation, classically on the right side, cavitation, and
+bulging fissure sign.
+The following image shows bulging fissure sign:
+
+
+option B: streptococcus pneumoniae causes lobar pneumonia. patients with pneumococcal     pneumonia present with fever, dyspnea, and productive cough. on examination, the involved lobes are dull to percussion, bronchial breath sounds, and crackles are heard on auscultation.
+The following image shows right lower lobe consolidation:
+
+
+
+
+
+option C: Mycoplasma pneumoniae causes atypical pneumonia. patients present with dry cough,   fever, chills, malaise, and upper respiratory tract symptoms. on auscultation, wheezes or rales are heard. Chest X-ray shows peribronchial pneumonia with prominent bronchial markings,
+interstitial infiltration, and atelectasis.
+The below chest X-ray shows patchy consolidation at the hilum and fanning to the periphery:",4080-2637.PNG,D,4102-2647.PNG;4103-2649.PNG;4103-2648.PNG
+Q31,what does the red cell distribution width deal with?,"a)Hypochromia
+b)Anisocytosis
+c)Poikilocytosis
+d)Anisochromia","Red cell distribution width (RDW) measures the range of red blood cell volumes and provides an assessment of their variability (anisocytosis).
+The normal range of RDW is 11-14%. In the presence of uneven cell size (anisocytosis), the RDW increases to 15-18%.
+
+
+
+RDW has clinical utility in two main scenarios:
+• In cases of microcytic anemia (low MCv), it helps differentiate between iron deficiency and
+thalassemia. Thalassemia is characterized by uniformly small red blood cells with a normal RDW, while iron deficiency leads to greater size variability and an increased RDW.
+• A high RDW can indicate dimorphic anemia caused by chronic atrophic gastritis. vitamin B12 malabsorption results in macrocytic anemia and blood loss leads to iron deficiency (microcytic   anemia).",,B,
+Q32,"A 25-year-old woman came to the oPD one year after the birth of her last child. she had been treated for iron deficiency anemia while pregnant. on examination, she is pale and
+investigations show a Hb of 5g/dl and a reticulocyte count of 9%. what is her corrected reticulocyte count? (Take normal Hb as 15g/dl)","a)6
+b)4.5
+c)3
+d)1","The corrected reticulocyte count (CRC) of this patient is 3.
+CRC = Reticulocyte %  x  (Actual Hb / Normal Hb)
+Plugging in the values given in the question,
+CRC = 9% x 5/15 = 3%
+Alternatively, CRC can be calculated using hematocrit (PCv) as follows:
+CRC = Reticulocyte %  x  (Actual PCv / Normal PCv)
+For these calculations, take normal Hb as 15g/dL and normal PCv as 45%.
+The patient's hemoglobin level (5 g/dL) is significantly lower than the normal hemoglobin level (15 g/dL). To obtain an accurate assessment of reticulocyte production relative to the reduced number of circulating red blood cells, a correction factor has to be applied. CRC accounts for the anemia     and provides a more precise estimate of the reticulocyte count.
+When polychromatophilic macrocytes (prematurely released reticulocytes/shift cells) are observed in the peripheral blood smear, a second correction is applied to account for the longer life of
+reticulocytes to yield reticulocyte production index (RPI).
+In the classification of anemia, the patient's reticulocyte count is compared to the expected
+reticulocyte response. Reticulocytes can be identified by staining their ribosomal RNA with a
+supravital dye, resulting in the formation of blue or black punctate spots. They can be quantified manually or by using fluorescent dyes. The presence of reticulocytes indicates active red cell
+production.
+The premature release of reticulocytes is typically associated with increased EPO stimulation. In    hemolytic anemia, red cell production can increase six to seven times. If the RPI &lt; 2 in a patient with anemia, a defect in erythroid marrow proliferation or maturation has to be suspected.",,C,
+Q33,"A 44-year-old man is referred to your center for management of severe hyperglycemia.
+During examination, you note that the patient has enlarged feet, coarse facial features and
+prognathism. You suspect acromegaly. which of the following tests can you use as a screening method for this condition?","a)oral glucose challenge test with GH level
+b)Insulin-like growth factor-1 binding protein-3 (IGFBP-3) level
+c)Insulin like growth factor-1 levels
+d)Random growth hormone levels","The best screening test for acromegaly is the measurement of serum insulin-like growth factor-1 (IGF-1) level.
+Other options:
+
+
+
+options A and B: oral glucose challenge test with growth hormone (GH) levels is used for further confirmation of the diagnosis. Increased insulin-like growth factor-1 binding protein-3 (IGFBP-3) levels can also be seen in patients with acromegaly. But they are not typically used as initial
+screening methods.
+option D: IGF-1 levels are more reliable than random GH levels because GH secretion is pulsatile. IGF-1 levels reflect long-term exposure to GH and provide a more stable indicator of excessive GH production.
+Acromegaly is characterized by excessive GH secretion, usually caused by a somatotrope adenoma in the pituitary gland. It can also be due to ectopic GH secretion or hypothalamic tumors.
+The clinical presentation of acromegaly includes frontal bossing, increased hand and foot size,
+coarse facial features, mandibular prognathism, widened space between lower incisors and other    manifestations such as soft tissue swelling, deepening voice, carpal tunnel syndrome, arthropathy, and acanthosis nigricans.
+It can also lead to cardiovascular complications (cardiomyopathy, left ventricular hypertrophy,   and hypertension), obstructive sleep apnea, diabetes mellitus, an increased risk of colon polyps, and colonic malignancy.
+The primary treatment for acromegaly is surgical resection of GH-secreting adenomas.
+somatostatin receptor ligands like octreotide and lanreotide, which suppress GH and IGF-1 levels, are used as adjuvant treatment or when surgery is not possible or unsuccessful. Radiation therapy may be considered for patients who cannot tolerate or do not respond to medical therapy. other    treatment options include GH receptor antagonists like pegvisomant and dopamine agonists like    cabergoline.",,C,
+Q34,what is not a feature of myasthenia gravis among the following?,"a)Muscle fatigue
+b)Absent deep tendon reflexes
+c)Normal pupillary reflex
+d)ptosis","Absent deep tendon reflex is not a feature of myasthenia gravis (MG).
+MG usually occurs in young females. Patients usually present with weakness and fatiguability of    the muscles, which worsens on repeated use or late in the day and improves on rest. The cranial   muscles, particularly the eyelids and extraocular muscles are involved early in the course of MG.   Diplopia and ptosis are common initial complaints. when MG becomes generalized, the proximal muscles of the limbs are affected first. Despite the muscle weakness, the deep tendon reflexes
+remain normal. snarling expression on smiling (facial weakness), nasal timbre of speech
+(weakness of palate and tongue), and difficulty swallowing may be seen. Bulbar weakness and respiratory depression are seen more frequently in MusK antibody–positive MG.
+MG is an autoimmune disorder most commonly caused by antibodies against the acetylcholine
+receptor (AchR). These antibodies cause damage to the postsynaptic muscle membrane and
+increased endocytosis of the AchR. This autoimmune response against the AchR seems to be
+mediated by the thymus. The myoid (muscle-like) cells present in the thymus express AchRs on their surface and are postulated to provide the autoantigen which triggers this autoimmune
+reaction. Thymic hyperplasia is seen in 65% of the patients, and thymomas are seen in 1o% of the patients.
+The tests which are used to confirm the diagnosis of MG include:
+
+
+
+• Anti-AchR antibody immunoassay: 85% of myasthenic patients have detectable anti-AchR
+antibodies, but only 5o% of patients with weakness limited to ocular muscles. The presence of
+anti-AchR antibodies is highly suggestive of MG, but a negative test does not exclude the disease. Antibodies to MuSK and LRp4 are found in some patients
+• Recurrent nerve stimulation test: MG shows a decremental response &gt; 1o%, while Lambert-Eaton myasthenic syndrome (LEMS) shows an incremental response
+• Block and jitter response on single-fiber electromyography
+• positive edrophonium test: improvement of ptosis on the administration of anticholinesterase such as edrophonium
+• positive ice-pack test: improvement of ptosis on the application of ice-pack on the affected eye
+The first line of medical management in MG is anticholinesterase drugs. pyridostigmine 3o–6o mg three to four times daily is the most commonly used drug.
+patients are evaluated for associated thymic abnormalities using a cT chest. Thymectomy is
+considered in patients with thymoma and in generalized MG patients with anti-AchR antibodies.
+Immunotherapy therapy can be initiated in patients with poor control on pyridostigmine after
+thymectomy. Glucocorticoids, cyclosporine, or tacrolimus are generally effective within 1-3
+months. Azathioprine and mycophenolate mofetil may take several months to show beneficial
+effects and are used for the long-term management of MG. Rituximab has shown effectiveness in patients with MuSK antibodies. Intravenous eculizumab, which binds to terminal complement
+component 5, is also effective.
+Myasthenic crisis is the life-threatening exacerbation of MG leading to respiratory failure.
+Treatment for myasthenic crisis should take place in intensive care units. It is important to rule out excessive anticholinesterase medication as a cause of deterioration by temporarily
+discontinuing these drugs. plasmapheresis and intravenous immunoglobulin (IVIg) are beneficial in hastening recovery.",,B,
+Q35,"Regarding the procedure done with the needle shown below, which of the following is false?","a)To be done in lateral recumbent position
+b)Breath holding is not necessary
+c)The bevel should face upwards while inserting the needle
+d)coagulopathy is not a contraindication","The given image shows a Quincke-type lumbar puncture needle. coagulopathy is a
+contraindication to perform lumbar puncture (Lp).
+contraindications for Lp include:
+• patients receiving anticoagulant or antiplatelet medications and those with coagulation defects
+• possible raised intracranial pressure
+• Suspected spinal epidural abscess
+• Infection at the site of puncture
+Before performing an Lp, it is important to assess the patient's bleeding risk by checking their
+platelet count, international normalized ratio (INR), and partial thromboplastin time (pTT). Lp is considered contraindicated if the platelet count is less than 2o,ooo/μL, and some institutions
+recommend a platelet count of greater than 4o,ooo/μL before proceeding with the procedure.
+
+
+
+Proper positioning of the patient is crucial for an LP. The patient should lie on their side away
+from the examiner, with their knees bent and pulled up toward the abdomen (lateral decubitus).    The neck should be gently bent forward, and the shoulders and pelvis should be aligned vertically. LP is typically performed at or below the L3-L4 interspace, which can be identified by palpating
+the spinous processes and using a line drawn between the posterior superior iliac crests as a guide.
+Alternatively, the LP can be done with the patient seated upright, leaning forward to flex the back. This position is suitable for obese patients.
+After sterile preparation of the insertion site and the injection of a local anesthetic, the LP needle is inserted midline between two spinous processes, with the bevel parallel to the dural fibers
+facing upwards. The needle is advanced until the subarachnoid space (SAS) is reached indicated by a loss of resistance. once the SAS is reached, the opening pressure is measured, and CSF is    allowed to drip into collection tubes for analysis.
+A traumatic tap may cause a bloody tap, which can be differentiated from subarachnoid
+hemorrhage (SAH) by examining the supernatant after centrifugation. Prior to needle removal, the stylet is reinserted to prevent nerve entrapment and the development of a dural CSF leak.   There is no need for prolonged recumbency after the procedure to prevent post-LP headache.
+Neuroimaging is recommended before performing an LP in patients who have an altered level of consciousness, focal neurological deficits, new-onset seizures, or papilledema. This is because
+these patients are at a higher risk of developing cerebellar or tentorial herniation, a rare but  potentially fatal complication. Imaging studies should also include the spine in patients with symptoms suggestive of spinal cord compression, such as back pain, leg weakness, urinary
+retention, or incontinence. In cases where acute meningitis is suspected and neuroimaging is necessary before the LP, it is recommended to administer antibiotics, preferably after blood   culture, before conducting the imaging study.
+The image below shows Quincke (dura cutting) and whitacre (dura splitting) LP needles:",4082-2638.PNG,D,4107-2650.PNG
+Q36,pancreatic cancer has the highest association with _______.,"a)FAMMM syndrome
+b)FAp
+c)Hereditary pancreatitis
+d)peutz-Jeghers syndrome","Pancreatic cancer has the highest association with Peutz–Jeghers syndrome. The risk factors for pancreatic cancer include:
+• Smoking: one to threefold increase in risk
+• Chronic pancreatitis
+• occupational exposure
+• obesity: Up to threefold increase in risk
+• New-onset diabetes associated with:
+• Elderly patients
+• Lower body mass index
+• weight loss
+• No family history of diabetes
+• Hereditary factors:
+FAMMM: Familial atypical multiple mole melanoma
+HNPCC: Hereditary nonpolyposis colorectal cancer
+
+Syndrome	Germ-line mutation	Estimated increased risk (fol d) of
+Familial adenomatous polypo sis	APC	4
+HNPCC /Lynch syndrome	MLH1, MSH2, MSH6, PMS2	8
+Hereditary breast and ovaria n cancer	BRCA 2	1o
+Familial pancreatic cancer		18
+FAMMM syndrome	p16/CDKN2A	2o
+Cystic fibrosis	CFTR	3o
+Hereditary pancreatitis	PRSS 1/SPINK1	53
+Peutz–Jeghers syndrome	STKII (LKB1)	~132",,D,
+Q37,The flow-volume curve after spirometry in patient 1 is given below. The most likely diagnosis in this patient is:,"a)Endobronchial neoplasm
+b)Bronchial Asthma
+c)Myasthenia gravis
+d)Emphysema","The given flow-volume curve shows decreased lung volumes (total lung capacity, vital capacity,
+and residual volume) with normal shape, suggestive of a restrictive pattern. The curve is a
+miniature version of the normal curve with shift towards the right. It is seen in myasthenia gravis.
+Myasthenia gravis presents with ventilatory restriction due to reduced respiratory muscle strength.
+Asthma, emphysema, and endobronchial neoplasms present with obstructive flow patterns.",4083-2639.PNG,C,4109-2651.PNG
+Q38,"A 45-year-old female patient has NYHA class III heart failure with dyspnea, pedal edema and K+ levels of 5.5 mg% and creatinine 1.1 mg%. which of the following drugs can be used in
+this patient?","a)Digoxin
+b)spironolactone
+c)Enalapril
+d)Furosemide","The clinical scenario describes a patient with symptomatic heart failure and K+ levels of 5.5 mg%. she requires a diuretic for symptom control. Furosemide can be given safely as it causes
+hypokalemia.
+other options:
+option A: Digoxin is not used as a first-line drug in the management of symptomatic heart failure. options B and C: spironolactone (K+ sparing diuretic) and enalapril (ACE inhibitor) can cause
+hyperkalemia.
+The first step in managing acute decompensated heart failure (ADHF) is addressing the factors
+that caused the decompensation. They include nonadherence to medications, dietary indiscretion, medication use that exacerbates heart failure, coronary ischemia, arrhythmias, valvular heart
+disease, infection, and pulmonary thromboembolism.
+volume management is crucial in ADHF. Intravenous loop diuretics are used to relieve
+congestion. The effectiveness of diuretic therapy can be assessed by changes in weight,
+improvement in symptoms, and clinical examination findings. Natriuretic peptide levels can also help assess the adequacy of therapy and predict risk.
+Cardiorenal syndrome, characterized by the interplay between heart and kidney dysfunction, is a    common complication of ADHF. Diuretic therapy should be carefully managed to avoid worsening renal function in patients with elevated right-sided filling pressures. In cases of severe low cardiac output, inotropic therapy or mechanical circulatory support may be necessary to preserve or
+improve renal function temporarily.
+vasodilators like nitroglycerin, sodium nitroprusside, and nesiritide (recombinant BNP) are used to reduce filling pressures and systemic vascular resistance.
+Inotropic therapy with drugs like dopamine and milrinone is used to increase myocardial    contractility and improve cardiac output in patients with low-output ADHF. Dopamine has
+
+
+
+dose-dependent effects on different receptors, while milrinone is a phosphodiesterase-3 inhibitor.",,D,
+Q39,which of the following features of stroke need not be treated?,"a)Dysphagia
+b)spasticity
+c)Fever
+d)Neglect","Neglect is a feature of stroke that need not be treated. Although neglect indicates a poor
+prognosis, most patients recover without any treatment in 1-6 months.
+Dysphagia(option A) poses a high risk of aspiration and hence can't be left untreated.
+Spasticity(option B) can be treated with baclofen, tizanidine. untreated, it creates a psychosocial impact on the patient. Fever(option C) is deleterious in stroke patients and must be treated.
+Neglect can arise from injury to cortical-limbic-reticular network, that directs attention and
+integrates the localization and identification of a stimulus. Neglect is  associated with poor scores and slower recovery, but severe neglect is rare beyond 6 months. Recovery is rapid in the first 2    weeks, regardless of the side of stroke. By 3 months, patients might have some residual visual
+neglect. The choice of an intervention depends on the mechanism of neglect, the patient can be treated for an underaroused right hemisphere which has difficulty processing sensory inputs.
+Neurogenic dysphagia is an important cause of pulmonary infection in any patient with stroke,
+motor neuron disease, even transient dysphagia can lead to malnutrition, dehydration, aspiration pneumonia, and airway obstruction with asphyxia, it increases the risk of death and
+institutionalization. Early placement of  nasogastric tube to feed patients after stroke has improved nutrition and reduced deaths.
+Spasticity is seen in less than 2o% of stroke patients. patients with bilateral weakness from
+hypoxic injury are likely to have signs of spasticity. Exaggerated cutaneous and autonomic reflexes and involuntary spasms are disabling problems associated with spasticity. physical modalities like
+slow stretching movements and daily passive exercises will reduce symptoms of spasticity and risk of contractures. Baclofen, tizanidine, and clonidine are used in reducing clonus and extensor
+spasms.",,D,
+Q40,"A 5o-year-old man is brought to the emergency following an episode of syncope during his
+morning walk. His blood pressure is 8o/6o mm Hg. He has a history of myocardial infarction 5 yrs back. His present ECG is given below. which is the most appropriate treatment for the   patient?","a)Lignocaine
+b)Diazoxine
+c)DC cardioversion
+d)Lidocaine","The clinical scenario describes a man with history of coronary artery disease developing
+syncope. The ECG shows wide QRS complex (&gt; o.12 s) tachycardia with a single QRS
+morphology suggestive of monomorphic ventricular tachycardia (VT). The most appropriate
+treatment of VT in a hemodynamically unstable (systolic blood pressure &lt; 9o mm Hg) patient is DC cardioversion.
+VT can be casued by structural heart disease, scar-related reentry, cardiomyopathies, or
+abnormalities in the conduction pathways. VT is said to be sustained if it lasts for at least 3o seconds or requires intervention for termination.
+Rapid VT can lead to hypotension and syncope, especially in patients with ventricular
+dysfunction. patients with normal cardiac function may tolerate sustained VT, presenting with
+palpitations. Monomorphic VT associated with structural heart disease can progress to ventricular fibrillation (VF) and sudden cardiac arrest.
+
+
+
+QRS synchronous electrical cardioversion is performed for unstable patients. Intravenous amiodarone is the preferred drug for stable vT associated with heart disease.
+After restoring sinus rhythm, further evaluation is necessary to determine the underlying heart
+disease. Treatment options include antiarrhythmic medications, catheter ablation, or implantable cardioverter-defibrillators (ICDs) for recurrent or high-risk vT. ICDs are commonly used for
+secondary prevention of sudden death in patients with sustained vT and structural heart disease.",4084-2640.PNG,C,
+Q41,"A patient came with complaints of high-grade fever and altered sensorium. He was diagnosed to be suffering from meningococcal meningitis. which of the following is the most
+appropriate empirical treatment option?","a)penicillin G
+b)ceftriaxone
+c)cefotetan
+d)cefoxitin","Ceftriaxone or cefotaxime is the drug of choice for empirical treatment of meningococcal  meningitis. However, penicillin G remains the antibiotic of choice for susceptible strains.
+Empirical antimicrobial therapy is initiated in patients with suspected bacterial meningitis before the results of CSF Gram stain and culture are known.
+S. pneumoniae and N. meningitidis are the most common etiologic organisms of
+community-acquired bacterial meningitis. Due to the emergence of penicillin-resistant and    cephalosporin-resistant S. pneumoniae, empirical therapy of community-acquired suspected bacterial meningitis should include a combination of:
+• Dexamethasone
+• Third- or fourth-generation cephalosporin (e.g., ceftriaxone, cefotaxime, or cefepime)
+• vancomycin
+• Acyclovir - HSv encephalitis is the main differential
+• Doxycycline - during tick season.
+Ceftriaxone or cefotaxime provides better coverage for susceptible S. pneumoniae, H.
+influenzae and group B streptococci and good coverage for N. meningitidis. Cefepime is a
+broad-spectrum fourth-generation cephalosporin with activity similar to that of cefotaxime or  ceftriaxone against S. pneumoniae and N. meningitidis with additional greater activity against Enterobacter species and pseudomonas aeruginosa.",,B,
+Q42,A 6o-year-old man post-MI had the following lab values. which of the following must be his treatment plan?,"a)Rosuvastatin + fenofibrate
+b)Atorvastatin 8o mg
+c)Fenofibrate
+d)Rosuvastatin 1o mg","In this 6o yr old patient with post-myocardial infarction (Atherosclerotic cardiovascular disease patient), high-intensity statins should be given irrespective of cholesterol levels. So atorvastatin 8omg is the treatment plan in the given case scenario.
+Examples of high-intensity statins include high-dose atorvastatin 4o–8o mg/day and rosuvastatin 2o–4o mg/day.
+Note: Fenofibrate is not advocated unless TG is more than 5oo mg/dl. It can be administered along with a moderate-intensity statin.",,B,4112-2652.PNG
+Q43,"A 4o-year-old smoker who is a known case of hypertension was on enalapril and
+hydrochlorothiazide. He had an episode of hemoptysis and on evaluation he was found to have bronchogenic carcinoma with brain metastasis. His lab values were Na -124 mg/dl,
+creatinine – 2.8 mg%, blood sugar 112 mg/dl, blood urea - 24 mg/dl, serum osmolality –
+255mosm, urine osmolality-35omosm, 24 hour urinary sodium 11o and Bp-15o/9o mmHg. which of the following is the most probable diagnosis of the low sodium values in him","a)SIADH
+b)Diuretic induced hyponatremia
+c)cerebral salt wasting syndrome
+d)pseudohyponatremia","The clinical scenario of patient who is a known hypertensive, smoker and bronchogenic carcinoma with brain metastasis having low sodium, low serum osmolality and high urine osmolality, the
+most probable diagnosis is of SIADH (Syndrome of Inappropriate secretion of ADH).
+From the given information, reduced serum osmolality rules out pseudohyponatremia(option D) as such patients should be isotonic or have normal serum osmolality. The BP of the patient
+indicates there is no hypotension and patient is euvolemic, hence ruling out cerebral Salt wasting Syndrome(option c) in which patient is hypovolemic and volume depleted.  In thiazide induced     SIADH(option B), patients will be dehydrated and not euvolemic.
+In this patient, lung cancer and thiazides may cause SIADH.
+Bartter and Schwartz diagnostic criteria of SIADH
+• Hyponatremia
+• clinically Euvolemic
+• Serum osmolality less than 275 mosm/kg
+• urine osmolality more than 1oomosm/kg
+• urine sodium more than 4o mmol/L
+• No use of diuretics
+In SIADH, if the hyponatremia is mild and asymptomatic, restrict total water intake to 3o
+mL/kg/day less than urine output until the syndrome resolves spontaneously. If the hyponatremia is severe and symptomatic, the goal is to partially correct it by intravenous infusion of hypertonic  (3%) saline or administration of an AVP antagonist such as tolvaptan or conivaptan. with
+hypertonic saline or vaptans, plasma osmolarity and sodium should be checked every 1–2 h, and water intake should be adjusted to keep osmolarity 27o mosm/L, at which point the treatment     should be discontinued.",,A,
+Q44,Non invasive test to detect hepatic fibrosis include:,"a)Aspartate aminotransferase/platelet ratio
+b)FibroTest
+c)Forns index
+d)Serum laminin and serum hyaluronidase","FibroTest is a sensitive test to detect hepatic fibrosis. It is a multiparameter blood test which incorporates haptoglobin, bilirubin, GGT, apolipoprotein A-I, and α2-macroglobulin.
+Aspartate aminotransferase/platelet ratio and Forns index are tests to estimate the risk of developing liver fibrosis.
+Fibrotest has high positive and negative predictive values for diagnosing advanced fibrosis in    patients with alcoholic liver disease, chronic hepatitis B, chronic hepatitis C, nonalcoholic fatty liver disease and psoriasis patients taking methotrexate.
+Transient elastography (TE) known as Fibroscan, and magnetic resonance elastography(MRE) are used in patients of liver disease. TE is a noninvasive procedure uses ultrasound waves to measure  hepatic stiffness and is accurate for identifying advanced fibrosis in patients with chronic hepatitis C, primary biliary cholangitis, hemochromatosis and nonalcoholic fatty liver disease. MRE is
+superior to TE for staging liver fibrosis in patients with a variety of chronic liver diseases but is expensive.
+Tests for estimating risk of developing hepatic fibrosis:
+• AsT/platelet ratio
+• Forns Index
+• Fib-4
+• Cirrhosis determinant score
+Test for detecting hepatic fibrosis:
+• FibroTest (also called Fibrosure)
+Note: serum laminin and serum hyaluronidase are non specific and is not preferred as a test to detect hepatic fibrosis.",,B,

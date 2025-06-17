@@ -1,0 +1,262 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,A patient from a North-Eastern state was diagnosed to have an infection with P. falciparum malaria. what is the most appropriate treatment for this patient?,"a)Artemether plus lumefantrine
+b)sulfadoxine plus pyrimethamine
+c)choroquine
+d)Mefloquine","The most appropriate treatment for plasmodium falciparum infection in North-Eastern states is artemether (2o mg) plus lumefantrine (12o mg).
+As per National Vector Borne Disease Control program (NVBDCp):
+• plasmodium malariae: treat as plasmodium falciparum
+• plasmodium ovale: treat as plasmodium vivax
+• severe and complicated malaria
+-Initial parenteral treatment x 24-48 hr:  quinine/artemether/artesunate/arteether
+
+
+
+-Oral treatment after 48 hrs-after parenteral quinine: quinine + doxycyclinex 7 days or quinine + clindamycin x 7 days (pregnancy and chidren&lt;8yrs)
+-After parenteral artemisinin derivates: in NE states: ACT -AL X 3 days+primaquine (day2), in other states: ACT-SpX 3 days+primaquine (day 2)
+• Chemoprophylaxis
+Short-term, less than or equal to 6 weeks: Doxycycline OD (start one day before travel and continue for 4 weeks after return)
+Long-term, more than 6 weeks: mefloquine weekly (start 2 weeks before travel and
+4 weeks after return).",,A,
+Q2,choose the correct order of steps of disaster management.,"a)Disaster impact – Mitigation – Rehabilitation – Response
+b)Disaster impact – Response– Rehabilitation – Mitigation
+c)Rehabilitation – Response – Disaster Impact – Mitigation
+d)Response – Disaster impact – Mitigation – Rehabilitation",The correct sequence of steps is disaster impact – response – rehabilitation – mitigation.,,B,2395-1557.PNG;2396-1558.PNG
+Q3,chi square test is used to test the significance of association between:,"a)Age and serum cholesterol level
+b)Heart rate and body mass index
+c)sex and type of cancer
+d)weight of a patient before and after a treatment","chi square test is a nonparametric test that assesses the significance of association between two qualitative variables.
+Among the given options, sex and type of cancer is the only pair of qualitative variables. Hence the answer.",,C,
+Q4,"sample sizes of samples 1, 2 and 3 are 1ooo, 8oo, 6oo respectively. The order of margin of error will be ____________.","a)3 &gt;2&gt;1
+b)3&gt;1&gt;2
+c)1&gt;2&gt;3
+d)1=2=3","curve 1 has the least margin of error, followed by curve 2, and then curve 3. So the order is 3&gt;2&gt;1.
+The image shows three normal distribution curves of different sample sizes, having the same mean but different standard deviations.
+As the sample size is decreasing, the peak decreases and the curve becomes more flat, implying a wider confidence of interval for the given mean.
+The width of the base of the curve is directly proportional to the margin of error.",2384-1551.PNG,A,
+Q5,which of the following is a heat-sensitive indicator of vaccine viability?,"a)e-vIN
+b)Freeze indicator
+c)vaccine vial monitor
+d)Fridge indicator","Vaccine vial monitors (VVM) are the only heat-sensitive indicator of vaccine viability that are routinely used in vaccines throughout the supply chain.
+VVM records cumulative heat exposure through a gradual change in color. If the color of the inner square is the same or is darker than the outer circle, the vaccine has been exposed to too much
+temperature and should be discarded.",,C,
+Q6,which of the following is set up for health planning at the village level?,"a)panchayat Health committee
+b)village Health planning and Management committee
+c)Rogi kalyan samiti
+d)village Health sanitation and Nutrition committee","village Health sanitation and Nutrition Committee (vHsNC) has been formed to take collective actions on issues related to health and its social determinants at the village level (local level
+community action).
+The committee is formed at the revenue village level and it should act as a sub-committee of the    gram panchayat. It should have a minimum of 15 members and AsHA residing in the village shall be the member secretary and convener of the committee.",,D,
+Q7,You have gone to a subcenter as part of an audit. How many infants should be registered in a year with a health worker working there?,"a)5o
+b)1oo
+c)15o
+d)2oo","15o infants should be registered in a subcentre per year.
+Annual infant population = (total population) x (% infants in population or expected birth rate)  The percentage of infants in the population, or the expected birth rate, should be obtained from local data. If a specific local percentage is not available, it is estimated to be 3% of the total.
+Total population in a subcenter is 5ooo.
+Here, annual infant population = 5ooo × 3/1oo = 15o",,C,
+Q8,"As per the national immunization schedule, which vaccines are indicated at the first visit for immunization of a 13-month-old baby who has not been previously immunized?","a)BCG, opv 1st dose, pentavalent 1st dose, Rota virus 1st dose
+b)opv 1st dose, pentavalent 1st dose, Measles 1st dose
+c)BCG, opv 1st dose, Measles 1st dose
+d)opv 1st dose, DpT 1st dose, Measles 1st dose","DpT-1, opv-1 and Measles 1st dose will be given to this child.
+BCG can only be given upto 1 years of age, according to the National Immunisation schedule. BCG will not be given to this child, if the National Immunisation schedule is followed.
+please note that BCG can be given upto 5 years of age, as part of the catch-up immunization  schedule, which is put forth by the Indian Academy of paediatrics and that is not followed in government setups.
+opv can be given till 5 years of age.
+Measles can be given till 5 years of age.
+DpT can be given till 7 years of age (with booster doses).",,D,
+Q9,"Regarding the given box-whisker plot, the true statement is:","a)Mean &gt; Median &gt; Mode
+b)Mode &gt; Median &gt; Mean
+c)Mode = Mean = Median
+d)peaked symmetrical distribution","The given box-whisker plot represents a positively (or right) skewed distribution.  In a positively skewed distribution, the mean &gt; median &gt; mode.
+To further understand and correlate the fact, have a look at the following images:",2385-1552.PNG,A,2398-1559.PNG;2398-1560.PNG
+Q10,"A randomised control trial is being conducted in patients with direct inguinal hernia, to
+compare the outcomes of a new surgery 'A' and the gold standard surgery 'B'. The p value of this trial is found to be o.o4. what can we conclude from this?","a)Type II error is small and we can accept the findings of the study
+b)The probability of false negative conclusion that operation A is better than B is 4%
+c)The power of the study to detect the difference between operation A and B is 96%
+d)The probability of a false positive conclusion that operation A is better than B is 4%","since the p-value of the study is found to be o.o4, we can infer that the probability of a false positive conclusion that the operation A is better than B is 4%.
+In this scenario, the p value is o.o4 which makes it, by convention, statistically significant. we can reject the null hypothesis and accept the alternative hypothesis that operation A is better than
+operation B.",,D,
+Q11,A large number of tests were done in series. which of the following will be true?,"a)sensitivity and specificity will increase
+b)sensitivity will decrease, specificity will increase
+c)sensitivity and specificity will decrease
+d)sensitivity will increase, specificity will decrease","when a large number of tests are done in series, net sensitivity is decreased and net specificity is increased.
+Screening tests are done in series when the result of the first test determines whether to run the second test or not. e.g., HIV screening is done using consecutive ELISA.
+Screening tests are done in parallel when the second test is independently performed regardless of what the first test result is. Both the tests are done at the same time. For e.g., In LFT, multiple
+tests are done together like SGOT, SGPT, total bilirubin, alkaline phosphatase, etc.
+Following are the trends that are observed while evaluating screening tests:
+
+	Tests in Serie s	Tests in parallel
+combined sensitivi ty	Decreases	Increases
+combined specificit y	Increases	Decreases
+combined PPV	Increases	Decreases
+combined NPV	Decreases	Increases",,B,
+Q12,Blood bag is to be disposed in:,"a)Red bin
+b)yellow bin
+c)Blue bin
+d)Black bin",Blood bag should be disposed off in the yellow bin.,,B,
+Q13,phase 1 of a clinical trial is done to test:,"a)Safety
+b)Efficacy
+c)Dose range
+d)pharmacoeconomics",The phase I of clinical trial is done to test Safety.,,A,
+Q14,"A child was brought to you with complaints of fever, malaise and a rash. You diagnose the child with measles. what is the recommended period of isolation for this disease?","a)From onset of rash to 3 days after rash
+b)2 weeks before rash to 1 week after rash
+c)From onset of rash to 5 days after rash
+d)From catarrhal stage to 5 days after rash","The isolation period for measles is from the catarrhal (prodromal) stage to 5 days after the onset of the rash.
+The period of communicability is approximately 4 days before and 5 days after the appearance of  the rash. Isolation of the patient for a week from the onset of rash adequately covers the period of communicability.",,D,
+Q15,BCG vaccine provides protection against which of the following?,"a)pulmonary TB
+b)CNS and disseminated TB
+c)pulmonary and CNS TB
+d)pulmonary and skeletal TB","BcG vaccine provides protection against cNS and disseminated TB.
+
+
+
+It does not prevent primary infection. More importantly, it does not prevent reactivation of latent pulmonary infection, the principal source of bacillary spread in the community. The impact of
+BCG vaccination on transmission of mycobacterium tuberculosis is therefore limited.",,B,
+Q16,"In a community, there are usually 4o-5o reported cases of dengue every week. This week, there were 48 reported cases. This would classify as:","a)Epidemic
+b)Endemic
+c)Sporadic
+d)outbreak","The given scenario is an example of an endemic disease.
+Endemic diseases are those that have a constant presence and /or usual prevalence of a disease or infectious agent in a population within a geographic area.
+Epidemic refers to an increase, often sudden, in the number of cases of a disease above what is normally expected in that population in that area.
+Outbreak carries the same definition of an epidemic, but is often used for a more limited geographic area.
+sporadic diseases occur in a haphazard and irregular manner from time to time.",,B,
+Q17,which of the following vaccines has not been introduced to the immunization programme in India?,"a)Adult Japanese encephalitis
+b)Influenza
+c)Measles-Rubella
+d)Rotavirus","Influenza vaccine (Flu shot) has not been introduced to the National Immunization programme in India.
+The Influenza vaccine provides protection against viral flu caused by the influenza virus.
+Note: Bacterial Hemophilus influenzae type-b (Hib) vaccine is different from the viral influenza (Flu) vaccine. HiB is a part of the pentavalent vaccine.",,B,
+Q18,The life cycle of which of the following is depicted in the image below?,"a)Japanese encephalitis
+b)zika virus
+c)Rabies
+d)Nipah virus","The given image depicts the life cycle of the Nipah virus.
+Nipah virus is an RNA virus that belongs to the family paramyxoviridae, genus Henipavirus. It is a zoonotic virus that shows both animal-to-human (bats, pigs) and human-to-human
+transmission. The natural hosts are fruit bats of the pteropodidae family.
+The clinical manifestations include asymptomatic subclinical infection, acute respiratory
+infection, and fatal encephalitis. There is no treatment or vaccine available for either people or animals. The primary treatment for humans is supportive care.
+Nipah virus is on the WHO list of Blueprint priority diseases.",2388-1553.PNG,D,
+Q19,"while collecting blood for samples, you have spilled some on the floor. what would be the immediate next step?","a)call the infection control team of the hospital
+b)Mop it
+c)cover it with 1% sodium hypochlorite
+d)clean with absorbable material","The immediate next step in this scenario is to clean the spilled blood with absorbable material.
+
+
+
+This absorbable material is then discarded in the yellow bin. Following this, sodium
+hypochlorite solution is used to decontaminate the surface. The concentrations of sodium hypochlorite used are:
+• &lt; 1o mL blood spill - 1:1oo dilution to decontaminate non-porous surfaces
+• &gt; 1o mL blood spill or culture spill - 1:1o dilution for the first application, followed by 1:1oo dilution",,D,
+Q20,The following drug packet is used in:,"a)TB
+b)Leprosy
+c)vaginal discharge
+d)Gonorrhea",The given image shows the adult blister packet used in the treatment of leprosy.,2389-1554.PNG,B,
+Q21,The symbol shown in the image depicts:,"a)cytotoxic waste
+b)Biomedical waste
+c)Radiation hazard
+d)Biohazard","The black propellers on a yellow background is the logo for radiation hazard.
+This symbol is used to let everyone be aware of the hazard in an area where there is a source of radiation. This indicates the need for precautionary measures to avoid contamination.
+The other logos representing cytotoxic waste and biohazard are given in the image below.",2390-1555.PNG,C,2401-1561.PNG
+Q22,The Mid Day Meal programme aims to supplement:,"a)1/2 protein and 1/3 calorie requirements
+b)1/3 protein and 1/3 calorie requirements
+c)1/2 protein and 1/2 calorie requirements
+d)1/3 protein and 1/2 calorie requirements","under the Mid-Day Meal (MDM) scheme, supplementary nutrition provided must cover at
+least 1/2 of total daily protein requirement and 1/3rd of total daily energy requirement of children in schools.
+
+
+
+The MDM scheme is also called school Lunch programme and has been operational since 1961 in India. currently, it functions under the broad coverage of the Minimum Needs programme.
+some other principles of the MDM are:
+• The meal provided under the MDM should only be a supplement and not a substitute for home diets.
+• The cost of meals should be reasonably low.
+• The meal should be easy to cook in schools.
+• Locally available foods must be used, for as far as possible.
+• The menu should be regularly changed to avoid monotony.
+Note: In september 2021, the Mid-Day Meal scheme was renamed pM posHAN or pradhan Mantri poshan shakti Nirman.",,A,
+Q23,what test is used to check for freeze damage to vaccines?,"a)shake test
+b)schick test
+c)Habel test
+d)Tine test","The freeze damage to vaccines is detected by shake test.
+• A frozen vaccine is used as a control vial and the vial suspected to be damaged by freezing is taken as the test vial.
+• Both are shaken after thawing and the rate of sedimentation is compared.
+• If the rate of sedimentation in test vial is slower than the control vial, then it is usable and has not been damaged.
+• some of the most widely used vaccines are freeze-sensitive. Examples: Diphtheria, Tetanus, pertussis, Liquid Haemophilus influenza type b (Hib), Hepatitis B.",,A,
+Q24,"study A(red) and study B(blue) done in a given population yields two different distribution curves as shown below. comparing both the curves, which of the following will be true?","a)Mean = mode = median
+b)Mean = median, not equal to mode
+c)Mean, median, mode not equal
+d)Mode = median, not equal to mean","on comparing the 2 graphs, we can say mean〓median for both study A and B but the mode is different.
+study A is a unimodal symmetrical distribution, so mean〓median〓mode.
+study B is a bimodal distribution. Here, mean〓median, but the curve has two highest points, therefore it has 2 modes.",2391-1556.PNG,B,
+Q25,A clinical trial was done between two groups to measure their blood pressure after treatment. which of the following tests would be appropriate to use?,"a)paired t test
+b)unpaired t test
+c)ANOVA
+d)chi-square test","In the given scenario, two groups are being compared independent of each other.
+Hence, students t test/ unpaired t test should be used.
+T tests are used if 2 groups are being compared. If the same group is compared before and after, paired T test is used. otherwise, unpaired T test is used.",,B,
+Q26,Maternal mortality ratio (MMR) for a country is best given as __________,"a)Maternal deaths per 1oo live births
+b)Maternal deaths per 1o,ooo live births
+c)Maternal deaths per 1oo,ooo live births
+d)Maternal deaths per 1,ooo live births","Maternal mortality ratio is the number of maternal deaths in a given period per 1oo,ooo live births during the same period.",,C,
+Q27,sPIKEs protocol is for:,"a)Triage
+b)consent for study participation
+c)Hospital infection control
+d)Breaking bad news","SPIKES protocol is for breaking bad news.
+Each letter represents a phase in the six-step sequence.
+• S - setting
+• P - perception
+• I - invitation or information
+• K - knowledge
+• E - empathy
+• S - summarizing or strategizing
+Key components of the SPIKES strategy include:
+• Demonstrating empathy
+• Acknowledging and validating the patient's feelings
+• Exploring the patient's understanding and acceptance of the bad news
+• Providing information about possible interventions",,D,
+Q28,"According to the WHo Mental Health Gap Action Programme, which of the following is not included in the Mental Health care Act, 2o17?","a)screening of family members
+b)Mobilization of resources
+c)social support
+d)Interpersonal therapy","According to the WHO Mental Health Gap Action Programme (mhGAP), screening of family members is not included in the Mental Health care Act, 2o17.
+The Mental Healthcare Act of 2o17 has provisions that include:
+• Rights of persons with mental illness to access health care, live without discrimination and enjoy confidentiality.
+• Advance directives to allow mentally ill people to make decisions about their treatment
+• Procedures for admission, treatment (behavioral and interpersonal therapy, medications), and discharge
+• Decriminalizing suicide and prohibiting electroconvulsive therapy unless anesthesia is used
+These are achieved through the mobilization of resources to required areas, and by providing social support.",,A,
+Q29,Which of the following is the appropriate schedule for the treatment of multi-drug resistant tuberculosis?,"a)6 drugs for 4-6 months followed by 4 drugs for 12 months
+b)7 drugs for 4-6 months followed by 4 drugs for 5 months
+c)4 drugs for 4 months followed by 6 drugs for 1o-12 months
+d)5 drugs for 6 months followed by 4 drugs for 12 months","The appropriate schedule for the treatment of multi-drug resistant tuberculosis (MDR-TB) is 7 drugs for 4-6 months followed by 4 drugs for 5 months.
+Note: Pearl 1720 has been updated according to NTEP 2021 guidelines.",,B,
+Q30,The Pocso Act is related to which of the following?,"a)women empowerment
+b)Human trafficking
+c)Juvenile delinquency
+d)child sexual abuse","The Pocso (Protection of children from sexual offences) Act is related to child sexual abuse.
+Pocso Act defines a child as any person below eighteen years of age. It defines different forms of sexual abuse, including penetrative and non-penetrative assault, as well as sexual harassment and pornography.
+The Act deems a sexual assault to be ""aggravated"" under certain circumstances, such as when the abused child is mentally ill or when the abuse is committed by a person in a position of trust or    authority vis-à-vis the child, like a family member, police officer, teacher, or doctor.
+People who traffic children for sexual purposes are also punishable under the provisions relating to abetment in the Act. The Act prescribes stringent punishment graded as per the gravity of the  offence, with a maximum term of rigorous imprisonment for life and a fine.",,D,
+Q31,Droplet precaution and isolation is to be done for all of the following conditions except:,"a)pertussis
+b)Diptheria
+c)Localized varicella zoster
+d)Mycoplasma pneumonia","Droplet precaution and isolation is not done for localized varicella zoster, as it is only transmitted through direct contact.
+varicella-zoster localized in the patient with an intact immune system with a lesion that can be contained/covered do not require droplet precaution. Disseminated varicella in any patient
+requires airborne and contact precautions.
+Diphtheria, pertussis, and mycoplasma are transmitted by droplets and hence require droplet precaution and isolation.
+Although patients are not contagious starting 48 hours after antibiotic therapy, droplet
+precautions are typically maintained until the completion of the antibiotic course and are
+culture-negative on two cultures taken 24 hours apart. Droplet precautions include the use of masks, gowns, gloves and protective eye gear when providing direct patient care.",,C,
+Q32,"A patient presents with fever for 1 week, with abdominal distension, loss of appetite, and
+lymphadenopathy. There is a poor response to antibiotics and antimalarials. The widal test is negative but rk39 is positive. which drug can be used in the treatment of this patient?","a)Liposomal Amphotericin B
+b)Fluconazole
+c)Linezolid
+d)Bedaquiline","This clinical scenario is suggestive of visceral leishmaniasis. This patient should be managed with liposomal amphotericin B.
+
+
+
+This condition causes fever with rigor and chills associated with splenomegaly and hepatomegaly. Though lymphadenopathy is common in most endemic regions, it is rare in India.
+It is diagnosed by ELISA, indirect immunofluorescent antibody test (IFAT), and rk39 which detects antibodies to Leishmania donovani.
+The treatment is as follows:
+• In most endemic regions:
+• Drug of choice - pentavalent antimonial (sodium stibogluconate or meglumine antimoniate)
+• If it fails or is unavailable - amphotericin B
+• In India and Mediterranian countries, the drug of choice is liposomal AmB.
+• other drugs - paromomycin and miltefosine
+option B: Fluconazole is an antifungal and is not useful in visceral leishmaniasis
+option C: Linezolid is used in the treatment of MRSA  and related infections.
+option D: Bedaquiline is a newer anti-TB drug used in MDR-TB.",,A,

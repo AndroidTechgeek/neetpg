@@ -1,0 +1,31 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,which of the following investigations provides the most accurate prognostic information with respect to predicting risks of perioperative cardiac complications?,"a)Exercise ECG testing
+b)Dobutamine stress echocardiography
+c)Myocardial perfusion scintigraphy
+d)Coronary angiography","Among the given investigations, dobutamine stress echocardiography provides the most accurate prognostic information with respect to predicting risks of perioperative cardiac complications.
+preoperative cardiac stress testing can help identify the presence and severity of preexisting CAD. The prognostic performance of these tests is better assessed based on positive and negative
+likelihood ratios. Among all the given options, dobutamine stress echocardiography has the
+maximum positive likelihood ratio and hence provides the most accurate prognostic information.
+Even though coronary angiography is considered the gold standard, it may not absolutely
+risk-stratify patients because many perioperative cardiac events may be related to noncritical coronary lesions.",,B,
+Q2,A capnograph obtained from an intubated patient undergoing controlled ventilation is given below. which of the following is a likely cause of the finding seen?,"a)Esophageal intubation
+b)Inspiration with cardiac oscillations
+c)Bronchospasm
+d)spontaneous respiratory effort","The curare notch in the plateau phase of the capnograph indicates that the patient is trying to
+breathe spontaneously. The patient's inspiratory effort causes some fresh gas to be sucked in the capnometer, resulting in a lower carbon dioxide concentration and a notch.
+Image below shows a capnograph with clefts during phase III which indicates spontaneous    breathing efforts by the patient during controlled mechanical ventilation. It is also known as a curare notch or cleft.",3441-2151.PNG,D,3441-2151.PNG
+Q3,"A 5o-year-old patient with a history of hypertension and diabetes mellitus developed the
+following rhythm. His blood pressure was 9o/4o mm Hg and he had a feeble pulse. what is the next step of management?","a)IV adenosine
+b)IV diltiazem
+c)DC cardioversion
+d)Ibutilide","The clinical scenario suggests supraventricular tachycardia with hemodynamic instability and the next step of management is DC cardioversion (5O-1OOJ).
+If the patient was hemodyamically stable, initial treatment would be vagal maneuvers (Valsalva
+maneuver) in awake patients. This is because vagal maneuvers alone can terminate approximately 2O% to 25% of reentry supraventricular tachycardias (SVTs).
+If this is unsuccessful, then iv adenosine 6 mg is given. If necessary another dose of adenosine 12 mg may be administered after 1-2 minutes.
+If the drug is administered via a central venous catheter, then these doses are reduced to 3 mg and 6 mg respectively.",3442-2152.PNG,C,
+Q4,A patient is given a nicotinic receptor antagonist as a muscle relaxant. which drug is given postoperatively to recover from muscle weakness?,"a)physostigmine
+b)Neostigmine
+c)Carbachol
+d)succinylcholine","Neostigmine is given postoperatively to recover from muscle weakness.
+Non-depolarizing muscle relaxants (NDMRs) act mainly by the competitive antagonism of
+nicotinic (Nm) receptors. Neostigmine inhibits acetylcholinesterase and inhibits the degradation   of acetylcholine. The increased accumulation of undegraded acetylcholine can effectively compete with NDMRs, and thereby displace them from the site and antagonize their effects.",,B,

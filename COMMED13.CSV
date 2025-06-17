@@ -1,0 +1,399 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,All of the following statements are true for descriptors of central tendency except:,"a)Mode is affected by extreme values
+b)Mean is affected by extreme values
+c)Median is calculated by overall observation
+d)Mode can be used as a qualitative data descriptor","Mode is not affected by extreme values in a given set of data.
+
+
+
+The mean of a given set of data is responsive to each and every value in the distribution. Thus, the mean is the measure of central tendency which is maximally affected by extreme values (option
+B). It is usually an inappropriate measure for describing skewed distributions. However, repeated samples from the same population will always tend to have similar means. Mean is able to resist   fluctuations between different samples drawn from the same population better than mode or
+median.
+To obtain the median of a given set of data, the values are first arranged in ascending or
+descending order of magnitude, and then the value of the middle observation is noted. since the    data has to be first arranged in order before the median can be determined, an overall observation is necessary for its calculation (option C).
+Mode is the observed value in the frequency distribution that occurs with the greatest frequency. It is completely uninfluenced by extreme values in the distribution. The mode can be used to
+describe qualitative data (option D).",,A,
+Q2,The formula given below corresponds to:,"a)standard deviation
+b)variance
+c)Mean
+d)Median","The formula given above is used to calculate the standard deviation.
+standard deviation (or σ) is a measure of how dispersed the data is in relation to the mean. Data clustered around the mean have a low standard deviation, while data that are more spread out
+have a high standard deviation. A standard deviation close to zero indicates that data points are    close to the mean, whereas a high or low standard deviation indicates data points are respectively above or below the mean.
+variance (option B) is the mean of the squares of all the deviation scores of the distribution. It is numerically equal to the square of the standard deviation.
+Mean (option C) is obtained by adding together the individual observations and then dividing by the total number of observations.
+Median (option D) divides the frequency distribution in half when all the scores
+are listed in order. when a distribution has an odd number of elements, the median is the middle value. when the distribution has an even number of elements, the median is the average of the
+two middle scores.",2594-1606.PNG,A,
+Q3,All of the following may be used to find the normalcy of data except:,"a)plot histogram
+b)Mantel-Haenszel test
+c)Box whisker
+d)shapiro wilk test","Mantel-Haenszel method is used to calculate adjusted odds ratio during stratified analysis. It is not a test to detect normalcy of data.
+A plot histogram and a box whisker plot are visual methods to assess if a given set of data is distributed normally. A normal distribution curve is an example of a plot histogram.
+sometimes just the visual representation of the data might not be enough to tell whether the data is normally distributed. This is where shapiro-wilk test comes in. It examines how closely a given set of data fits a normal distribution. The sample data is first ordered and standardized. An
+assessment is then made how the sample quantiles fit the standard normal quantiles.
+
+
+
+shapiro-wilk test is commonly used on small samples.
+stratified analysis of the data is done to reduce confounding. In such a scenario, multiple odds
+ratios are obtained — one for each stratum of the data. These have to be combined to give an
+adjusted odds ratio. This represents the effect of the exposure adjusted for the confounding factor. Mantel-Haenszel method is used for this purpose.",,B,
+Q4,"In kaplan Meier survival curve, the bands used for the confidence interval is?","a)unequal precision band
+b)Hirshberg band
+c)Holmes band
+d)Hall-wellner Band","The bands used for confidence interval in the kaplan-Meier survival curve are Hall-wellner bands.
+when using standard statistical software, at each point in time, the upper and lower limits of the confidence interval are also obtained. Hall-wellner bands, Gill bands, and Nair's Equal precision confidence bands are used for this purpose.
+kaplan-Meier plot is a graphical representation of the number of people surviving during a given   length of time. often there are two or more groups represented in the plot, such as those treated    versus those not treated. The graph often has a number of steps as the number of people surviving is a discrete variable. The image given below shows a kaplan-Meier plot. The dotted lines
+represent the upper and lower limits of the 95% confidence interval.",,D,2602-1607.PNG
+Q5,"3o,ooo women were followed up for 1o years for the development of breast cancer. 12oo
+women developed cancer and were given a questionnaire to assess possible risk factors.
+Additionally, 2ooo women from the same study were used as controls and were also given the questionnaire. what is this type of study called?","a)case cohort
+b)Retrospective cohort
+c)Nested case control
+d)cross control cohort","The type of study described in the question is a nested case-control study.
+A nested case-control study is essentially a case-control study that is present inside a cohort study. The cases are all the cohort members who developed the disease being studied at a given point in   time during the follow-up period. However, each case is matched to one or more controls —
+individuals who did not develop the disease but are otherwise comparable to cases in terms of age and gender. cases and controls are then compared in terms of their respective exposures to the
+
+
+
+risk factor. Nested case-control studies thus represent an interim analysis of the exposure and outcome data of a cohort study.
+A case-cohort study (option A) involves selecting a subset of the entire cohort at the beginning of the study. This sub-cohort acts as the control group for making comparisons with multiple case
+groups. For example, if a cohort study is being done to assess smoking as a risk factor for ischemic heart disease and lung cancer, the same sub-cohort can be used as the control group for both
+outcomes. If it was a nested case-control study, it would require two separate control groups.
+case-cohort studies are more efficient than nested case-control studies when multiple outcomes are being studied.
+In a retrospective cohort study (option B), the outcomes have already occurred before the study begins. The investigator has to analyze the history of prior exposures and the duration of such   exposures. Even though the exposure and the outcome have already occurred, the investigator   goes from the exposure → outcome in a retrospective cohort study. This is in contrast to
+case-control studies, where the investigator goes from outcome → exposure.
+cross control cohort (option D) is not a type of study design.",,C,
+Q6,"A person had a dog bite. vaccination is up to date for both the dog and the man. The person's history is significant for having undergone splenectomy five years ago. what is the best
+management in this case?","a)observation
+b)Amoxiclav
+c)Metronidazole
+d)ciprofloxacin","Amoxicillin-clavulanate (Amoxiclav) is the drug of choice in this patient.
+Antibiotic prophylaxis is indicated in:
+• High-risk animal bites: cat bites in any location and hand bites by any animals, including
+humans. cat and human bites have a higher risk of infection versus dog bites. Moreover, hand bites have a risk of developing an infection in the closed spaces of the hand.
+• High-risk patients: comorbidities such as diabetes, liver disease, and absence of functional  spleen. Patients without a functional spleen are at an increased risk for overwhelming sepsis primarily due to capnocytophaga species.
+Pasteurella species is the most common isolate from cat and dog bites. Streptococci, S. aureus and Eikenella corrodens are found in human bites. Amoxicillin-clavulanate is the first-line drug of
+choice for prophylaxis. In patients with penicillin allergy, clindamycin plus
+doxycycline/co-trimoxazole/fluoroquinolone can be used.",,B,
+Q7,A child came for DPT vaccination at 1o weeks. He has a history of fever of more than 4o°c   and an inconsolable cry at 6 weeks of age following vaccination. what should be done next?,"a)Avoid DPT vaccination
+b)Give DT vaccine
+c)Give DPT vaccine
+d)Defer by 4 weeks","The next step for this patient should be to administer DPT vaccine.
+Events such as persistent inconsolable crying (more than 3 hours in duration), hyperpyrexia (fever &gt; 4o°c), hypotonic-hyporesponsive episodes within 48 hours of DTwP administration, and
+seizures, with or without fever, within 72 hours DTwP administration are considered precautions but not contraindications to future doses of DTwP. These events don't recur with the next dose
+and have been shown to have no permanent sequelae.
+Absolute contraindications to any pertussis vaccination are a history of anaphylaxis or
+development of encephalopathy within 7 days following previous DTwP vaccination. In case of
+
+
+
+anaphylaxis, further immunization with diphtheria, tetanus, and pertussis vaccines are
+contraindicated as it cannot be said with certainty which component caused anaphylaxis. For patients with a history of encephalopathy following vaccination, any pertussis vaccine is
+contraindicated, and only diphtheria and tetanus vaccines may be used.
+Note: This answer might be controversial. The above answer is as per the IAP Guidebook on Immunization.",,C,
+Q8,High fat intake according to FDA is?,"a)Diet should contain 4oo kcal from carbohydrates
+b)Diet should contain total 1ooo kcal
+c)Diet should contain 8oo kcal from fat
+d)Diet should contain 8o% fats","High fat intake according to FDA is a diet that should contain a total of 1ooo kcal.
+High fat diets have low carbohydrates, &lt;5o grams/day. This equates to &lt;25o kcal/day in the form of carbohydrates, not 4oo kcal (option A). The percentage of calories from fat is &gt;5o%   (option D), which would equate to about 5oo-6oo kcal from fats (option C). The diet should
+contain a total of 8oo - 1ooo kcal.
+ketogenic diets mainly incorporate low carbohydrates (&lt;5o grams/day), low protein, and high      fats. Gluconeogenesis from the glucogenic amino acids in the diet and fat oxidation are utilized to  meet the metabolic demands ofthe body. ketogenic diets are especially useful for the treatment of intractable epilepsy.",,B,
+Q9,The slogan coined by wHO 'Do it Right' in the first aid of a snake bite includes all of the following except?,"a)Reassurance
+b)Tell sequence of events in detail after the bite
+c)Go to hospital
+d)Incisions","Incisions are not a part of the management of a snake bite.
+The first aid following a snake bite consists of the mnemonic: carry no right.
+Carry: The victim is not allowed to walk, even for a short distance. walking generates
+muscle-pumping activity which disperses the venom into the systemic circulation.
+No: No tourniquet, no electrotherapy, no cutting, no pressure immobilization, no suction to the bite site
+R: Reassure the patient since 7o% of the bites are from non-venomous species.
+I: Immobilize in the same way as a fractured limb. A splint can be applied to the bitten extremity to limit the movement and assist with positioning. The extremity should be maintained in a
+neutral position at approximately heart level.
+GH: Get to a hospital immediately. The most important step is to rapidly transport the patient to a medical facility equipped to provide supportive management.
+T: Tell the doctor of any systemic symptoms which may have appeared on the way to the hospital.
+Note that elapid envenomations that are primarily neurotoxic and have no significant effects on local tissue may be managed by pressure immobilization. In this technique, the entire limb is
+immediately wrapped with a bandage and then immobilized. This technique restricts lymphatic drainage and has been shown to delay the absorption of venom into the systemic circulation.
+However, the offending snake should have been reliably identified as neurotoxic and the rescuer should be trained in applying this pressure bandage.",,D,2605-1608.PNG;2606-1609.PNG;2606-1610.PNG;2607-1611.PNG
+Q10,calculate the kappa statistics for the following data set comparing IGRA and Mantoux test.,"a)o.4
+b)o.6
+c)o.8
+d)o.5","kappa statistic is used to evaluate the agreement between IGRA and TST test results. kappa is calculated as:
+
+
+where, po is observed agreement and pE is expected agreement.
+The table in the question has been redrawn with alphabets in the cells to better illustrate the formulae:
+
+	IGRA
+(+)	IGRA
+(–)
+Mantoux (+)	8o(a)	4o(b)
+Mantoux (–)	2o(c)	6o(d)
+
+In this question, the po will be all the situations in which both IGRA and Mantoux tests are positive or negative — that is, both of them are in agreement with one another.
+
+
+
+
+
+pE represents the probability of random agreement between the tests. It is calculated as a sum of both the tests being positive together at random and negative together at random.
+
+
+substituting the calculated values in the formula for kappa:
+
+
+
+
+
+Strength of agreement varies with kappa coefficient as follows:
+• o.81 to 1: perfect agreement between the two tests/methods
+• o.61 to o.8o: substantial agreement
+• o.41 to o.6o: moderate agreement
+• o.21 to o.4o: fair agreement
+• o.1o to o.2o: slight agreement",,A,
+Q11,which of the following is not correctly matched?,"a)Observational study — MOOSE
+b)Systematic review — pRISMA
+c)Diagnostic Study - CONSORT
+d)Case report — CARE","The guidelines used for reporting the results of RCT are CONSORT (consolidated standards of reporting trials).
+To improve the quality of reporting of health research, certain standards have been developed.    These standards vary according to the type of study in question. Many journals now require the  authors to complete the relevant checklist according to these standards prior to submitting their paper for publication. These standards include:
+Many of these guidelines are available via the EQUATOR network.
+
+Guideli ne	Expansion	Area
+CONS ORT	Consolidated standards of re porting trials	Randomized controlled trials
+TREN D	Transparent reporting of non
+-randomized designs	Behavioural and public healt h interventions with non-ran domized designs
+
+
+
+
+Guideli ne	Expansion	Area
+STROB E	Strengthening the reporting   of observational studies in ep idemiology	cohort, case-control, and cro ss-sectional studies
+STRAE GA	Strengthening the reporting   of genetic association studies	Modification of STROBE for genetic studies
+STAR D	Standards for the reporting o f diagnostic accuracy studies	Diagnostic tests
+cARE	case reporting	clinical case reports and repo rts of patient encounters
+SAMP L	Statistical analyses and meth ods in published literature	Basic statistical reporting for articles published in biomedi cal journals
+PRISM A	Preferred reporting items for  systematic reviews and meta- analyses	Meta-analyses of randomized controlled trials
+MOOS E	Meta-analysis of observation al studies in epidemiology	Meta-analyses of observation al studies",,C,
+Q12,which of the following best represents the definition of culture?,"a)It is static and not related to health and disease
+b)A set of beliefs which are static
+c)Socially acquired learned behaviour
+d)Rules set according to religion which are dynamic","culture is the socially acquired learned behaviour. It is passed onto generations through formal
+and informal learning. It is the representation of customs, beliefs, laws, arts, and moral values of a society. cultural factors have a large part to play in health.
+Other closely related terms include:
+customs are the traditionally accepted ways of behaving that are specific to a society. They can be folkways, which are referred to as the right ways of doing things in less vital areas of human
+conduct. Mores are stringent customs followed by a society.
+Socialization is the process by which a person in a society imbibes its beliefs, customs, etc.
+through daily interaction with its members.
+A community is a social group determined by geographical boundaries and/or common values and interests.
+Acculturation is the process by which there is the diffusion of cultures between two culturally different groups of people. Acculturation does not take place by folklore.
+Folklore is the passage of customs and beliefs of a community through generations, merely by word of mouth.",,C,
+Q13,According to National programme for Control of Blindness and visual Impairment which of the following is incorrect about the reach in approach?,"a)people with cataract are treated in a makeshift operation centre
+b)IOL placement by small incision cataract surgery is preferred
+c)Reach in approach has lesser post operative complications
+d)people with cataract are identified and sent to higher centre","patients with cataract are not operated in makeshift operation centres but are rather shifted to
+base hospitals (reach-in approach) as the visual acuity results indicate that the Base Hospital had significantly higher final corrected visual acuity compared to the peripheral Eye camps.
+The Base Hospital approach, also known as the reach-in approach, and the peripheral Eye camp approach, also known as the reach-out approach, are two community-oriented strategies
+implemented within the framework of the National programme for the control of Blindness.
+These techniques aim to address the existing backlog of cataract-related blindness. Both methods  have demonstrated efficacy and possess distinct advantages and disadvantages. Both community   participation and intersectoral coordination, together with the utilization of suitable technology at an affordable price, are essential components for both endeavours.
+Based on recent developments, there is a shift in emphasis from the 'Reach-out' approach to the     'Reach-in' approach. The Reach-in Approach involves the organization of screening camps in rural and remote locations that lack access to eye-care institutions. comprehensive eye care treatments, including refraction, are offered to patients. subsequently, those requiring cataract surgery are
+conveyed to the nearest hospitals that possess adequate resources and facilities, following the base hospital strategy. To conduct ocular surgery, it is imperative to comply with the guidelines
+established by the Government of India.
+• It is imperative to have at least one anesthesiologist who is well prepared to address typical crises to ensure patient safety and optimal care.
+• It is recommended that a minimum of one, ideally two, operating surgeons be present, with each surgeon limiting their daily caseload to no more than 3o procedures.
+• currently, the preferred approach for cataract extraction is extracapsular surgery, with a
+preference for manual small incision cataract surgery (sIcs) or phacoemulsification, together with the implantation of a posterior chamber intraocular lens.
+• It is ideal to limit the number of surgical procedures conducted in a day to no more than 5o.
+• simultaneous surgery on both eyes should be avoided.
+• patients who have a high surgical risk due to conditions such as severe diabetes, severe
+hypertension, and cardiac issues should not undergo surgery in camp settings. cases related to such issues should be appropriately referred to the base hospitals.
+National programme for the control of Blindness and Visual Impairment (NpcBVI). The levels of eye care, according to NpcBVI are:
+primary level: sub-district level hospitals, community health centres, mobile ophthalmic units, upgraded pHcs, link workers, and panchayats.
+secondary level: District hospitals, NGO eye hospitals
+Tertiary levels: Regional institutes of Ophthalmology, medical colleges.
+The goal is to reduce the prevalence of blindness to o.3% by 2o2o.",,A,2610-1612.PNG
+Q14,"A 68-year-old lady was brought to the hospital by her daughter, with episodes of falls,
+confusion, chronic diarrhea, and cough. The intern decided to conduct a geriatric assessment. which of the following factors indicated such an examination?","a)Age, sex, falls
+b)Age, cough, chronic diarrhoea
+c)Age, fall, confusion
+d)Age, sex, cough, chronic diarrhea","This patient's age, history of falls and episodes of confusion necessitate a comprehensive geriatric assessment.
+various comprehensive geriatric assessment programs use the following before performing a full-fledged assessment:
+• Age
+• The presence of concurrent medical conditions, such as heart failure or cancer.
+• The presence of psychosocial illnesses like depression or isolation.
+• Diseases unique to the elderly, include cognitive decline, mobility issues, and falls
+• prior or anticipated high health-care utilization
+• changes in living situation (for example, from independent living to assisted living, nursing facility, or in-home caretakers)
+The inclusion of geriatric evaluation is imperative within the broader framework of the patient's health trajectory, taking into account their future care objectives and personal preferences.
+Functional status refers to the comprehensive assessment of an individual's health effect within
+the framework of their surroundings and social support network. It encompasses the individual's capacity to do the physical and social tasks required for their typical activities and duties. The
+constituents of functional status encompass activities of daily living (ADLs), instrumental
+activities of daily living (IADLs), and advanced activities of daily living (AADLs). Two often
+employed measures in the field are the katz index, which assesses activities of daily living (ADLs), and the Lawton scale, which evaluates instrumental activities of daily living (IADLs). The most
+effective approach for ascertaining AADLS involves the utilization of open-ended inquiries, such     as ""In what manner do you allocate your time throughout the day?"" or ""what activities do you find enjoyable?""
+
+
+
+There is a growing trend in geriatric assessment to integrate perspectives from non-clinical office workers, patients, and their relatives or loved ones. This collaborative approach may encompass   the use of standing orders, forms, and questionnaires. An advisable strategy involves doing an
+annual evaluation of functional status, commencing at the age of 65 years, using the Medicare
+Annual wellness visit. For individuals below the age of 75 years with multiple comorbidities or
+those aged 75 years and above, it is recommended to augment this assessment with
+supplementary components. Furthermore, it is recommended that some components of geriatric   assessment, such as evaluating activities of daily living (ADLs) and instrumental activities of daily living (IADLs), measuring gait, balance, and the risk of falls, evaluating mood and affect, as well    as assessing cognition, be conducted following significant illnesses, particularly those
+necessitating hospitalization.",,C,2612-1613.PNG;2613-1614.PNG
+Q15,which of the following best helps assess the quality of healthcare provided?,"a)Multiple logistic regression model
+b)Bar graph
+c)scattergram
+d)Ishikawa diagram/ Fish bone diagram","Ishikawa diagram or else better known as the fishbone diagram helps sketch out problems that affect healthcare in a community and thus uses those as pointers to better address them in the  community.
+The Ishikawa diagram, often known as the fishbone diagram, is employed by teams aiming to
+comprehend the numerous potential factors that contribute to a quality of care issue. This tool enables teams to concentrate their development endeavours on these identified causes. The
+utilization of this tool is applicable across several phases of the quality improvement framework, with its primary application commonly observed within the context of root cause analysis.
+The fishbone graphic bears a resemblance to the skeletal structure of a fish. To depict the diagram about a quality of care issue, the problem (effect) is encapsulated within a box positioned on the     extreme right of the diagram. A vertical line, referred to as the centre line or spine, is then
+positioned to the left of the box where the problem is documented. subsequently, diagonal lines    resembling fish bones are sketched emanating from the central line, also known as the spine. The diagonal lines depicted in the diagram signify distinct categorizations of the underlying factors
+contributing to the issue. supplementary branches may also be delineated from the primary skeletal structure to symbolize underlying factors leading to the causes.
+The groupings are typically structured into categories, commonly known as the five Ps
+(patients/clients, providers, policies, processes and procedures, and place/equipment), the six Ms (machine, method, materials, measurement, man, and Mother Nature), and the four ss
+(surroundings, suppliers, systems, and skills). Nevertheless, the groupings need to be tailored to the organization and problem being investigated. The responsibility for ensuring this specificity  lies with the quality improvement team. once the categories have been delineated, the quality
+improvement team proceeds to partake in a brainstorming session to identify causes that are specific to each respective grouping. The aforementioned procedure persists until the team     reaches a point where they are unable to ascertain any further underlying factors.
+
+
+
+
+
+other options:
+option A: Logistic regression may be used in some situations where we are not interested in a
+numerical outcome (like risk, etc) but we want a nominal or categorical one (like death/survival,  developing a disease/not developing a disease). Here, the relationship between the variables will not be a linear one as the outcome from survival to death in relationship with the risk factor can change suddenly. Thus these outcomes are represented by o and 1.
+option B: A bar graph is a pictorial way of presenting a set of numbers, the magnitudes of which  are proportional to the length of the bars in the graph. It can be simple, multiple, or component   bar graphs and enable values to be compared visually. They are used to compare a single variable value between several groups.
+option C: A scatter plot is a statistical map used to study the correlation between two given
+variables. In scatter plots or scatter diagrams, the pattern made by plotted points along the two axes indicates the possible relationship. If the dots cluster along a straight line, then the
+relationship is linear. If there is no cluster, then there might be no relationship. Below is an example of a scatter diagram without a linear relation.",,D,
+Q16,"A mother brought her 6 month old infant baby to an Anganwadi worker Lata for advice
+regarding the vaccination of her child. The last vaccines he had received were OPv3, PENTA   3, IPv2, and ROTA3 at 14 weeks of age. BCG and Hep B were given at birth. when is the next vaccination due?","a)MR vaccine at left arm intramuscularly and vitamin A drops at the end of 9 months
+b)MR vaccine at right arm subcutaneously and vitamin A drops at the end of 8 months
+c)MR vaccine at left arm intramuscularly and vitamin A drops at the end of 8 months
+d)MR vaccine at right arm subcutaneously and vitamin A drops at the end of 9 months","According to the National Immunization schedule, the Measles/MR vaccine is given at 9
+completed months (1st dose), and a second dose is given at 16-24 months. Measles vaccine can be given till 5 years of age. A dose of o.5 mL is administered subcutaneously in the right upper arm.  vitamin A schedule in the National Immunisation schedule(NIs)
+• 1 lakh IU at 9 completed months along with the Measles-Rubella vaccine
+• 2 lakh IU is administered bi-annually for children between 1-5 years of age Total number of doses administered- 9 doses,17 lakhs IU",,D,
+Q17,which of the following statements is true about palliative care?,"a)A,B,C,D
+b)C,E,F
+c)B,D
+d)A,B,E,F","True statements are:
+• The patient is sovereign
+• The aim is to improve the quality of life
+palliative care helps patients and their families cope with physical, psychological, social, and
+spiritual obstacles of life-threatening disease. It is interesting to note that even the quality of life of the caregiver also improves. palliative care is needed by 56.8 million individuals annually,
+including 25.7 million in their final year according to WHO, while only 14% of palliative care patients worldwide receive it.
+palliative care improves the quality of life of life-threatening illness patients and their families.    Early detection, assessment, and treatment of physical, psychosocial, and spiritual suffering and  additional concerns diminish discomfort. Addressing suffering goes beyond physical symptoms.  palliative care supports patients and caregivers collaboratively. This includes practical assistance
+
+
+
+and bereavement counselling. It supports patients to live as fully as possible till death.
+The human right to health includes palliative care. patient-centred and integrated health services should focus on individual needs and preferences.
+Many diseases require palliative care. Most palliative care patients have chronic conditions like cardiovascular disease (38.5%), cancer (34%), respiratory disease (1o.3%), AIDS (5.7%), and
+diabetes (4.6%). kidney failure, chronic liver illness, multiple sclerosis, parkinson's, rheumatoid arthritis, neurological disease, dementia, congenital defects, and drug-resistant TB may require   palliative care.
+Most common and serious symptoms that patients undergoing palliative care experience are pain and respiratory difficulties. Almost 8o% of AIDS, cancer, and 67% of cardiovascular and COpD     patients would experience moderate to severe agony at death.
+Opioids also relieve dyspnea and diminish the increased pain experienced by patients. Early symptom control is ethical to reduce suffering and respect the dignity of the patient.",,C,
+Q18,which of the following is the highest level of community participation?,"a)Considering their ideas
+b)Felt needs of community considered
+c)Contribution of resources
+d)Involving in planning of health related campaigns","The highest level of community participation is for the community to be involved in the planning of health-related campaigns.
+Engaging in the strategic planning of health-related campaigns signifies a substantial degree of
+community involvement, surpassing the mere contemplation of ideas or the provision of
+resources. The process of planning campaigns necessitates proactive participation and
+cooperation, signifying a heightened level of engagement in decision-making procedures that have a direct influence on the welfare of the community. This level of participation also includes
+engaging with the community's perceived needs through actively contributing to the strategic design and implementation of initiatives that aim to enhance health outcomes.
+Earlier socialisation was envisaged as an idea for the utilisation of services but recently wHO and UNICEF deemed community participation would be of even greater help. They have defined it as  ''the process by which individuals and families assume responsibility for their health and welfare   for those of the community and develop the capacity to contribute to their and the community's    development.'' It also signifies the involvement of the community in the process of planning,
+organizing, and managing their healthcare services. This concept is commonly referred to as ""Health by the people.""
+There are three ways in which a community would be able to participate:
+1) The community can offer various resources such as facilities, human resources, logistical assistance, and maybe financial help.
+2) Active community engagement is crucial in the processes of planning, management, and assessment.
+3) Another significant contribution that individuals may make is by actively participating in and utilizing healthcare services.
+Other options:
+
+
+
+options A, B and c are also methods by which a community will be able to participate but
+planning of health-related campaigns is considered the highest form of community participation.",,D,
+Q19,"A patient hailing from an area infested with mosquitoes presents with fever, chills, and     myalgias. wBC count was 4ooo cells/cu.mm, RBC was normal, and platelets were 9oooo cells/cu.mm. He also had a maculopapular rash. what is the likely diagnosis?","a)Dengue
+b)Typhoid
+c)Ebola haemorrhagic fever
+d)Rift valley fever","The given clinical scenario with a patient hailing from a mosquito-infested area with fever and decreased platelet counts is diagnostic of dengue.
+Symptoms of severe dengue are headache, myalgias, retroorbital pain, end-organ damage, pleural &amp; ascitic effusions and thrombocytopenia (&lt;1oo,ooo/ uL). complications include mild
+hepatic injury, seizures, arrythmias and acute kidney injury.
+Diagnosis is made by NS1 antigen detection and IgM antibody assays. Treatment includes
+crystalloid infusion in mild cases and colloid infusion in severe cases, oxygen administration and close monitoring.
+Dengue is classified into dengue with or without warning signs and severe dengue. Dengue is to be suspected when a high fever (4o°c/1o4°F) is accompanied by any two of the following symptoms    during the febrile phase (2-7 days) which include severe headache, retro-orbital pain, arthralgia or myalgia, nausea, vomiting and maculopapular rash.
+warning signs in dengue are:
+• severe abdominal pain
+• persistent vomiting
+• tachypnea
+• bleeding gums or nose
+• fatigue
+• restlessness
+• hepatomegaly
+• malena or hematemesis",,A,
+Q20,which of the following statements are correctly matched?,"a)statement 1,2
+b)statement 3,4
+c)statement 2,3
+d)statement 1,2,3","True statements are:
+• contemplation phase - A smoker is considering giving up his habit of smoking. (Recognizes his problem and thinks about to bring about a change)
+• Maintenance phase - A person who quit smoking one year back and has abstained from smoking ever since. (He has sustained his abstinence from smoking)
+Motivation enhancement therapy (MET) is a systematic intervention approach for bringing about change in the addictive behaviour seen in people with substance use disorders. It is based on the  principle of motivational psychology and aims to enable the patient to deal with his addiction by  producing internally motivated change.
+
+
+
+Addictive behaviors do not change abruptly, and go through gradual stages. The stages of motivation enhancement therapy (MET) include:
+precontemplation - individuals in this stage are often unaware that their behaviour (eg. alcohol abuse) is problematic or is producing negative consequences.
+contemplation - individuals in this stage recognize their problems and begin to think about
+changing their behaviour. They weigh the pros and cons of change. They may still feel ambivalent about changing their behaviour.
+preparation or determination - individuals in this stage make decisions to change their habits and are ready to take action. They start to take small steps toward behaviour change.
+Action - individuals in this stage change their behaviour and intend to keep moving forward with this change in behaviour
+Maintenance - individuals in this stage sustain their change in behaviour for a while and intend to maintain this change going forward. people work to prevent relapse to earlier stages.
+other statements:
+statement 1: This statement is false as people in the pre-contemplation stage are unaware that their behaviour is problematic.
+statement 4: This statement is also false as people in the action stage make strides to change their behaviour.",,C,
+Q21,Two doctors examined 1oo chest X - Rays of patients. The kappa statistic was found to be o.71. what does it mean?,"a)Good agreement
+b)perfect agreement
+c)poor agreement
+d)No agreement","A kappa statistic of o.71 indicates a good agreement between the two doctors who collected the data.
+The strength of agreement varies with the kappa coefficient as follows:
+o.81 to 1: perfect agreement between the two tests/methods
+o.61 to o.8o: substantial agreement/ good agreement
+o.41 to o.6o: moderate agreement
+o.21 to o.4o: fair agreement
+o.1o to o.2o: slight agreement
+Most of the studies test the association between an exposure variable and the disease. In certain    cases, it is anticipated that there will be a correlation between the variables, and the challenge is   to determine the extent of this correlation or association. This assertion holds special significance in the realm of reliability studies, wherein the researcher seeks to quantitatively assess the extent  to which a given variable (such as a particular finding on a chest X-ray ) can be reproduced
+through several measurements which is the utility of the kappa statistic. It is also important to  note that a chi-square test can also be used but would only qualitatively assess the data and not quantitatively which of course is accomplished by the use of kappa statistic.
+kappa statistic can be calculated as:
+
+
+
+
+
+where po is observed agreement and pE is expected agreement.",,A,2617-1615.PNG
+Q22,which of the following is an example of a longitudinal observational and analytical study?,"a)Case control study
+b)Cohort study
+c)Randomized controlled Trial
+d)Ecological study","cohort study is an example of a longitudinal observational and analytical study.
+A cohort study is a type of analytical study, which progresses from cause to effect, as exposure has occurred but not disease. It is also known as a forward-looking study, incidence study, prospective study, and longitudinal study. A well-designed cohort study is considered the most reliable means  of showing an association between a cause or suspected risk factor and subsequent disease (or
+effect).
+Types of epidemiological studies:
+• observational studies - allow nature to take its course, the investigator measures but does not intervene.
+• Descriptive studies - limited to the description of the occurrence of a disease in a population- (hypothesis formulation).
+• Analytical studies - go further by analyzing the relationship between health status and other variables- (hypothesis testing).
+• Ecological studies
+• cross-sectional studies
+• case-control studies
+• cohort studies
+• Experimental studies or intervention studies involve an active attempt to change a disease determinant or the progress of a disease and are similar in design to experiments in other    sciences- (hypothesis confirmation).
+• Randomized controlled trials
+
+
+
+• Field trials
+• Community trials other options:
+option A: Although case-control studies are inherently analytical, they are not longitudinal.
+Longitudinal studies involve the collection of variables about a subject over an extended duration.
+option C: A randomized control trial is an experimental study in which an intervention is given to a group of patients participating in the study and compared to another group of patients with
+similar characteristics who are not given that intervention to be studied. It uses patients as the unit of study.
+option D: An ecological study is a type of analytical study that analyzes the health status and its    relation with other variables. It is also called a correlational study, and it uses the population as a unit of study. Longitudinal studies involve the collection of variables about a subject over an
+extended duration.",,B,

@@ -1,0 +1,450 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,select the correct option regarding Mobile Medical Units (MMUs).,"a)only 1
+b)1 and 2
+c)1, 2, and 3
+d)1, 2, 3, and 4","Statements 1, 2, and 3 are correct. MMUs can be run by either Government or an external agency, but the drugs and medical supplies are to be provided always by Government only.
+Mobile Medical Units (MMU) is a major initiative under NRHM to provide a range of health care services for people living in remote, inaccessible, un-served, and underserved areas in both rural  as well as urban areas, with the aim of taking healthcare services to the doorsteps of such people.
+There are 3 models of operationalizing MMUs:
+• Government operated MMU
+• operation of MMU on outsourcing basis by an external agency but capital expenditure, drugs, and supplies provided by Government.
+• outsourcing by an external agency which provides both capital expenditure and operational expenditure. However, drugs and supplies are to be provided by Government.
+MMUs provide primary care services for common diseases (communicable and
+non-communicable), RCH services, screening tests, and referral to higher facilities and specialists as required. Clinical services are provided by a Medical officer and team, and mobilization and
+outreach services are provided by ANMs and ASHA.",,C,
+Q2,which of the following statements is true?,"a)In a population with low prevalence of the disease, positive result with a highly sensitive test means true positive
+b)sensitivity depends on prevalence of the disease
+c)Positive predictive value depends on prevalence of disease
+d)specificity depends on prevalence of the disease","The positive predictive value (ppv) of a screening test depends on the prevalence of the disease.
+The positive predictive value (ppv) of a test indicates the probability that a patient with a positive test result has actually contracted the disease i.e., the likelihood that a person with a positive test  result truly has the disease.
+If the prevalence of a disease in a population is high, the more accurate will be the positive
+predictive value. Therefore, in a population with a high prevalence of the disease, a positive result with a highly sensitive test means true positive. Example: Hypothyroidism is more prevalent in
+hilly areas than in coastal areas. If someone from a hilly area tests positive he is more likely to have the disease than someone who tests positive in a coastal area.
+Likewise, if the prevalence decreases, the ppv will also become low. so in a population with a low prevalence of the disease, positive result with a highly sensitive test need not always mean true
+positive as it can produce an unacceptably high proportion of false positive results.
+predictive value is affected the most by prevalence. However, both sensitivity and specificity can change the predictive value.",,C,
+Q3,"You are starting services for hypertension in your PHC. 5o patients who required
+antihypertensive treatment were transferred from another center. 4o of them were on
+amlodipine (5mg Po) and 1o were on lisinopril (1o mg Po) as they had contraindications to     the use of amlodipine. The drugs are supplied at the PHC on a monthly basis and you have to place an order for their medications. what is the number of tablets that you will order and
+the reorder factor?","a)1ooo, rf= 3
+b)12oo, rf=2
+c)14oo, rf= 3
+d)16oo, rf= 2","The Quantity to order (Qo) or the reorder quantity of medicines to be placed at each order interval is calculated using the reorder formula as given below:
+Qo = CA x (LT + pp) = CA x Rf
+where Qo is the quantity to order, CA is average consumption in a month, LT is lead time, pp is procurement period and Rf is the reorder factor. Reorder factor (Rf) is the sum of lead time (LT) and procurement period (pp). Lead time (LT) is the time between the initiation of a purchase
+order and receipt at the warehouse from the supplier. The procurement period (pp) covers the time until the next regular order will be placed.
+In the given question, lead time (LT) and procurement period (pp) are 1 month each.
+Average consumption (CA) in a month = (4o tablets of amlodipine + 1o tablets of lisinopril) x 3o days = 15oo tablets
+Reorder factor (Rf) = LT + pp = 1 + 1 = 2
+since these patients got transferred from another center there is no safety stock for them at
+present at the facility. so in order to prevent stockouts for them, an extra number of tablets must be ordered, which makes 16oo tablets with a reorder factor (Rf) of 2 the correct option.
+Factors determining the reorder formula are:
+• Average consumption or demand of the drug (CA) in a month
+• supplier Lead time (LT): is the time between initiation of a purchase order and receipt at the warehouse from the supplier.
+• safety stock (ss): is the stock that should always be on hand to prevent stockouts. The safety    stock level and reorder level will be the same if consumption and lead times are predictable and stable.
+
+
+
+• procurement period (pp): it covers the time until the next regular order will be placed. In a
+scheduled system this is in multiples of one month and in a perpetual system, it is counted in days or weeks. Note: Quantity ordered (Qo) + safety stock (ss) must cover the time until the next
+order is received, which is given by the Reorder factor (Rf) = procurement period (pp) + Lead Time (LT).
+• Reorder level: is the quantity of remaining stock that should trigger a reorder of the item. In a  basic purchasing formula, reorder level is calculated by multiplying the average lead time by the average consumption of the drug during the lead time.
+• Maximum stock level: is the same as the target stock level, which is required to satisfy demand until the next order is received.
+• stock position: is the sum of stock on hand (working and safety stock) and stock on order, minus any stock back-ordered to clients.",,D,
+Q4,Match the following STI Kit colors and their use:,"a)A-4, B-3, C-2, D-1
+b)A-4, B-1, C-3, D-2
+c)A-1, B-4, C-3, D-2
+d)A-3, B-2, C-4, D-1","The correct match is A-4, B-1, c-3, D-2
+The National Aids control organization (NAco) has provided color-coded kits for the syndromic management of sexually transmitted diseases:
+
+kit	syndrome/s
+kit 1(Grey)	urethral dischargecervical di schargeAno-rectal dischargep ainful scrotal swelling
+kit 2 (Green)	vaginal discharge/ vaginitis
+kit 3 (white)	Non-herpetic genital ulcers
+kit 4(Blue)	Non-herpetic genital ulcers if allergic to penicillin
+kit 5(Red)	Herpetic genital ulcers
+kit 6 (yellow)	Lower abdominal pain
+kit 7(Black)	Inguinal bubo
+kit 8(Brown)	Anorectal discharge syndrom e",,B,
+Q5,"Compared to a pregnant female, a lactating female would require a higher level of nutrient supplementation for which of the following?","a)vitamin A
+b)Calcium
+c)Iron
+d)Folic acid","According to the Recommended daily allowance (RDA) guidelines set by the National Institute of Nutrition (NIN), the requirement of calcium intake is increased in a lactating woman (12oomg/d) when compared to that of a pregnant woman (1ooomg/d). calcium intake of 12oomg/d is advised in postmenopausal women as well.
+
+
+
+The RDA of vitamin A is increased by 5omcg in lactation as compared to pregnancy. But the    increased vitamin A demand is met from the diet and it is not given as a supplement nutrient. vitamin A supplements are given only when there is vitamin A deficiency.
+The RDA of iron and folic acid is decreased during lactation compared to pregnancy.
+The salient features of updated RDA guidelines, 2o2o by NIN are:
+
+variable	Non pregnant fem ale	pregnancy	Lactati on			
+1st TM	2nd TM	3rd TM	o-6 m	6-12 m		
+Body weight	55 kg	55 kg + 1o kg in entire pregna ncy				
+Energy (kcal/d)sedentaryMod erateHeavy	166o213o272o	+35o	+6oo	+52o		
+protein (g/d)	45.7	45.7	+9.5g	+22g	+16.9 g	+13.2 g
+Carbs (g/d)	13o	175g	2oog			
+Iron (mg/d)	29 mg/d	27 mg/d	23 mg/ d			
+Iodine (mcg/d)	15o	25o	28o			
+Calcium (mg/d)	1ooo	1ooo	12oo			
+vit A (mcg/d)	84o	9oo	95o			
+Folate (mcg/d)	22o	57o	33o",,B,
+Q6,what does the point labeled C denote?,"a)onset of symptoms
+b)onset of pathological changes
+c)usual time of diagnosis
+d)Exposure to etiologic agent","The given diagram shows the natural history of disease in an individual over time, in which the point labeled C denotes the onset of symptoms. The natural history of disease refers to the
+progression of a disease in an individual over time, in the absence of treatment.
+Exposure (point A): the disease process begins with appropriate exposure to or accumulation of  factors sufficient for the disease process to begin in a susceptible host. For example in infectious disease, the exposure is a microorganism. For lung cancer, it is any factor that initiates the
+process, such as asbestos fibers or components in tobacco smoke.
+pathological changes (point B): after the disease process has been triggered, pathological changes occur without the individual being aware of it. This stage of subclinical disease, extending from     the time of exposure to onset of symptoms, is usually called the incubation period for infectious    diseases, and the latency period for chronic diseases. During this stage, the disease remains
+asymptomatic.
+The onset of clinical symptoms (point C): it is the beginning of the clinical stage of the disease.
+The usual time of diagnosis (point D): the onset of symptoms is followed by a short interval (varies from disease to disease) after which the patient presents to a healthcare setup where a diagnosis     of the disease is made. Based on treatment and prognosis, the patient can progress to either
+
+
+
+recovery, disability, or death.",2488-1577.PNG,A,2500-1582.PNG
+Q7,Certain new vaccines are being studied in the market and their efficacies are compared and presented in the image as shown below. which of the newer vaccines can be used with the   same efficacy as compared to the previous vaccine?,"a)D only
+b)D and E
+c)C, D and E
+d)A, B, C and D","vaccines C, D, and E can be used with the same efficacy as compared to the previous vaccine, as their confidence interval lies within the zone of equivalence.
+In a classical randomized controlled trial (RCT), the aim is to evaluate a difference between two      drugs by proving the superiority of the new drug over the standard drug. However, an equivalence study is carried out with the aim of showing there are no significant differences in the efficacy
+between the new drug and the standard drug.
+To define 'no significant differences' the limit of equivalence (δ) must be defined first. δ must be set as superiority margin (+δ) and non-inferiority margin (-δ), so that they are clinically
+appropriate and the differences can be tolerated as clinically irrelevant. To conclude equivalence    the confidence interval (CI), i.e., the whisker (tail) of the box-whisker plot must lie within the zone of equivalence.
+Therefore in the given question, vaccines C, D, and E have CI in the zone of equivalence and thus have the same efficacy as the previous vaccine. vaccines F and G lie outside the zone of
+equivalence but well within +δ , making them superior to the previous vaccine. vaccines A and B lie outside the zone of equivalence but well within -δ , making them non-equivalent and at the
+same time non-inferior to the previous vaccine. If the CI of any vaccine includes or crosses the -δ limit, they will be considered inferior to the standard vaccine.
+
+
+
+
+
+Note: A superiority trial is done to show that the new drug is superior to the standard drug. A
+non-inferiority trial is done to show that the new drug is not worse than the standard drug. This is done for newer interventions or drugs that may be less costly, less invasive, and have fewer side
+effects.",2489-1578.PNG,C,2501-1583.PNG
+Q8,"As per the verbal autopsy report 2010-2013, arrange the most common cause of death among 1-4-year-old children in descending order:","a)2 &gt; 1 &gt; 3 &gt; 4
+b)4 &gt; 1 &gt; 2 &gt; 3
+c)1 &gt; 2 &gt; 4 &gt; 3
+d)2 &gt; 1 &gt; 4 &gt; 3","According to the verbal autopsy report of 2o1o-2o13, the most common cause of death among 1-4 year old children in descending order is pneumonia &gt; Diarrhea &gt; Injuries &gt; Malaria.
+According to the verbal autopsy report 2o1o-2o13, the top 5 causes of death among children aged 1-4 years are:
+• pneumonia
+• Diarrheal diseases
+• Injuries
+• other non-communicable diseases
+• Malaria
+1-4 year mortality rate also known as the child death rate is the number of deaths of children aged 1-4 years per 1ooo children in the same age group in a given year. It thus excludes infant
+mortality. It is given by the formula,
+1-4 year mortality rate (child death rate) = (no. of deaths of children aged 1-4 years during a year x 1ooo) / Total no. of children aged 1-4 years at the middle of the year.
+It is a more refined indicator of the social situation than the infant mortality rate as it reflects
+adverse environmental health hazards like malnutrition, poor hygiene, infections, and accidents. It is not affected by perinatal hazards. In the 1-4 year group, second year is the period with the    highest risk of death (mainly due to childhood infections like measles, whooping cough,
+diphtheria, diarrhea, and ARI), after which the rates decline progressively.",,D,
+Q9,The most common mode of absorption of inorganic lead in industries leading to lead poisoning is:,"a)Absorption through skin
+b)Inhaled lead dust
+c)Ingestion of contaminated food and water
+d)contaminated hands","The most common mode of industrial lead poisoning (plumbism) is due to inhalation of fumes
+and dust of lead. Lesser common modes include ingestion of small quantities of lead trapped in
+the upper respiratory tract, ingestion due to contaminated hands, and absorption through the skin (only organic lead). Lead poisoning is a notifiable and compensable disease in India.
+Lead exerts its toxic action by combining with the SH-group of enzymes involved in porphyrin
+synthesis and carbohydrate metabolism, disrupting normal membrane permeability, and causing potassium leakage in RBCs. Symptoms of lead toxicity include:
+Inorganic lead toxicity:
+• Abdominal colic, also known as painter's colic
+• loss of appetite, obstipation, constipation
+• Anemia (stippling of red cells)
+• wrist drop or foot drop
+• Blue-line on the gums known as Burtonian line
+organic lead toxicity (mainly affects CNS):
+• Headache
+• Delirium, confusion
+• Insomnia
+Earliest and consistent sign: Facial pallor.
+Clinical symptoms of lead poisoning occur when blood levels are &gt;7oµg/dl. Measurement of     Coproporphyrin (Cpu) in urine is a useful screening test. periodic examination of workers must  be done and atmosphere lead concentration must be kept &lt;2mg/cubic meter at the workspace. Handwashing before eating and prohibition of taking food in workplaces is essential.
+D-penicillamine is used as a chelating agent for treatment.",,B,
+Q10,pentavalent vaccine includes which of the following?,"a)Diphtheria, pertussis, Tetanus , HBV, Injectable polio
+b)Diphtheria, pertussis, Typhoid, HBV, Hib
+c)Diphtheria, pertussis, Tetanus, Haemophilus influenza B, pneumococcal vaccine
+d)Diphtheria, Tetanus, HBV, Haemophilus influenza B, pertussis","pentavalent vaccine is a combination of five vaccines that provide protection against 5
+life-threatening diseases such as diphtheria, pertussis, tetanus, hepatitis B, and Haemophilus
+influenzae type b (Hib). Administration of pentavalent vaccine reduces the number of pricks to a child.
+It is given at 6, 1o, and 14 weeks in the immunization program, and can replace the need for
+separate administration of Hepatitis B and DpT vaccines. However, the Hepatitis B birth dose and DpT booster doses should be continued. It is given o.5ml intramuscularly in the anterolateral
+aspect of the mid-thigh.
+pentavalent vaccine is a freeze-sensitive vaccine and therefore should be stored and transported   at 2- 8° C temperature. It is a very safe vaccine with a few mild side effects like pain, redness and
+
+
+
+swelling at the injection site, fever, vomiting, abnormal crying, and loss of appetite.",,D,
+Q11,A nurse keeps the bins as shown in the image in the hospital ward. which of the following items would go into the black bin?,"a)soiled linen bedsheet
+b)Glove paper cover
+c)Gloves
+d)contaminated gloves","Glove paper cover is a general solid waste that is to be collected in the black bin.
+All non-infectious general wastes like food waste, paper waste, and mineral water bottles should be discarded in black bins.
+soiled linen bedsheets contaminated by blood or body fluids should be disposed in the yellow bin. All plastic recyclable wastes are discarded in red bins (gloves and contaminated gloves).",2490-1579.PNG,B,
+Q12,A homogenous sample of 4 groups was taken as shown below. The height and weight of each group had a correlation coefficient of o.6. what will be the total coefficient of correlation of   the whole group?,"a)Equal to o.6
+b)Less than o.6
+c)More than o.6
+d)skewed coefficient of o.6","In a homogenous sample or population, the total coefficient of correlation (r) will be the average of the individual correlation coefficients. Therefore in the given condition, it will be the same as  o.6
+The given scattergram shows the correlation coefficient of height and weight of 4 homogenous
+samples. Averaging methods are appropriate when several different samples are independently
+drawn from the same or a homogenous population and the interest is in aggregating those values.
+Therefore the total correlation coefficient of the whole group will be:
+r = (sum of correlation coeffiecient of each sample) ÷ (total no. of samples)
+= (o.6 + o.6  + o.6 + o.6) ÷ 4 = 2.4 ÷ 4
+= o.6
+Note: A correlation between 2 variables does not demonstrate any causal relationship between
+those variables, no matter how strong it is. correlation is merely a measure of a statistical
+association between the variables. Therefore inferring a causal relationship between two variables on the basis of a correlation is a common and fundamental error.",2491-1580.PNG,A,
+Q13,The graphical representation for flow cytometry analysis is done by which of the following?,"a)Bar diagram, dot plot
+b)Line diagram, dot plot
+c)Histogram, dot plot
+d)pie chart, dot plot","Flow cytometry results are typically presented by two-dimensional dot plots or one-dimensional histograms.
+Histograms compare only a single parameter. A large number of events detected at one particular intensity will be displayed as a spike on the histogram. They are fast to read and easy to
+understand.
+
+
+
+
+
+Dot plots can compare 2 or more parameters simultaneously on a 2D scatterplot. Each distinct     event is represented as a single dot and events with similar intensities will cluster together in the same region on the scatter plot. They are a more complex, illustrative representation of data.
+
+
+pie charts and bar diagrams are used for representing qualitative data. A line diagram is used to show the trend of events or changes over passage of time.",,C,2504-1585.PNG;2504-1584.PNG
+Q14,Administration of which of the following vaccines is associated with the risk of intussussception?,"a)Rotavirus vaccine
+b)oral polio vaccine
+c)Adenovirus vaccine
+d)Measles vaccine","Rotavirus vaccine is associated with a potential risk of intussusception, especially when the first dose of these vaccines is given to infants aged &gt;12 weeks. Because of this risk, the rotavirus    vaccine is not a part of catch-up immunization programs, as the age of the child is difficult to
+ascertain in such programs.
+
+
+
+Rotavirus vaccines are oral, live attenuated vaccines and are of 3 types:
+• Rotarix (human monovalent) vaccine is administered in 2 oral doses:
+• First dose: At 6 weeks, no later than 12 weeks (due to the risk of intussusception).
+• second dose: with a gap of 4 weeks from the first dose, to be given by 16 weeks and no later than 24 weeks.
+• RotaTeq (pentavalent bovine-human reassortant) vaccine is administered in 3 oral doses at 2, 4, and 6 months. The first dose is given between 6-12 weeks and subsequent doses within a 4-1o
+weeks gap. All the 3 doses should be given before 32 weeks.
+• Rotavac (monovalent liquid frozen) vaccine is administered in 3 oral doses, 4 weeks apart at 6,1o and 14 weeks. It should not be administered to children more than 8 months of age.",,A,
+Q15,Interpret the following graph.,"a)Normal, negatively skewed, positively skewed, skewed with outliers
+b)Normal, positively skewed, negatively skewed, normal with outliers
+c)Normal, negatively skewed, positively skewed, normal with outliers
+d)skewed with outliers, positively skewed, negatively skewed, normal","The graph shown is of a boxplot, and option B represents the correct answer. 1 is normal, 2 is positively skewed, 3 is negatively skewed, and 4 is normal with an outlier.
+A boxplot is a method for graphically depicting groups of numerical data through their quartiles.  Box plots may also have lines extending vertically from the boxes (whiskers) indicating variability outside the upper and lower quartiles, hence the terms box-and-whisker plot.
+It shows the five-number summary of a set of data including,
+• Minimum score
+• First (lower) quartile
+• Median
+• Third (upper) quartile and
+• Maximum score
+
+
+
+
+In the box plot, a simple box extends from the 25th percentile (lower limit of the box) to the 75th percentile (upper limit of the box) and the line through the box indicates the median value (5oth
+percentile).
+The top and bottom ends of the whiskers are the highest and lowest value of that group excluding outliers
+Interpreting the box plot:
+• when the median is in the middle of the box, and the whiskers are about the same on both sides of the box i.e when each quartile is of the same length, then the distribution is symmetric or
+normal (as shown in box plot-1).
+• when the median is closer to the bottom of the box, and if the whisker is shorter on the lower end of the box, then the distribution is positively skewed (skewed right as shown in boxplot-2).
+• when the median is closer to the top of the box, and if the whisker is shorter on the upper end of the box, then the distribution is negatively skewed (skewed left as shown in boxplot-3).
+• small circles or unfilled dots are drawn on the chart to indicate where suspected outliers lie. Filled circles are used for known outliers (as shown in boxplot-4 ).",2492-1581.PNG,B,2505-1586.PNG;2506-1587.PNG
+Q16,The standardized age mortality ratio is an indicator for which of the following?,"a)Death rate of a population adjusted to a standard age distribution
+b)Death rate of a population adjusted to a standard sex distribution
+c)Removal of bias due to different age group population in different countries
+d)To eliminate age structure of different countries","The age standardized mortality ratio (sMR) is an indicator of the death rate of a population
+adjusted to a standard age distribution. It is obtained by indirect standardization and cannot be used to compare multiple groups with different age structures.
+standardized death rate (sDR) obtained by direct standardization enables comparisons of
+mortality rates between populations with different age compositions by eliminating the
+confounding effect caused by variations in age structures (options C and D). This adjustment process can also account for factors such as sex, race, and parity.
+standardization can be achieved through two methods: direct or indirect. In both cases, a
+standard population is selected as a reference, characterized by known numbers in each age and
+
+
+
+
+sex group.
+The direct method of standardization requires age-specific death rates (ASDR) along with the
+corresponding subgroup sizes. By applying these rates to the standard population, the expected deaths across all age groups can be calculated assuming that both populations share the same
+age-specific death rates. Dividing the total expected deaths by the standard population yields the SDR.
+The calculated standardized death rate in direct standardization can be compared with different population groups with different age group compositions.
+The table below shows the calculation of age-specific death rates per 1ooo population for a sub-population:
+crude death rate = 64/75oo = 8.533 per 1ooo population.
+Applying ASDR to the standard population, we can get the SDR SDR per 1ooo population = (212/235oo) x 1ooo = 9.o21
+Indirect standardization allows adjustment when age-specific rates are either unavailable or
+unstable due to small numbers. Examples of indirect standardization methods include
+standardized mortality ratio (SMR), life table analysis, survival analysis, regression analysis, and multivariate analysis.
+SMR estimates expected deaths, assuming that the study group experiences the same death rates as a standard population.
+The table below shows the calculation of the standardized mortality ratio for a study group population.
+SMR = observed deaths / Expected deaths x 1oo = (65/59.85) x 1oo= 1o8.6
+If the SMR exceeds 1oo, it indicates that the study group population carries a higher mortality     risk compared to the overall population. However, it's important to note that the SMR cannot be directly compared to other groups with different age compositions.
+
+Age(yea rs)	Mid-year populati on	Deaths in the yea r	ASD R	Standard populati on	Expected deat hs
+o-15	2ooo	1o	5	6ooo	3o
+15-45	4ooo	24	6	12ooo	72
+>45	15oo	3o	2o	55oo	11o
+Total	75oo	64		235oo	212
+
+Age(yea rs)	National population death ra tes per 1ooo	Study group populati on	observed dea ths	Expected deat hs
+o-15	3.o	12oo	*	3.6
+15-45	6.5	25oo	*	16.25
+>45	1o	4ooo	*	4o
+Total			65	59.85",,A,
+Q17,"According to WHo, which of the following are components of the Human Development Index (HDI)?","a)Life expectancy at birth, literacy and standard of living
+b)Life expectancy at 1 year, literacy and standard of living
+c)Infant mortality rate, literacy and standard of living
+d)Life expectancy at 1 year, literacy and infant mortality rate","The components of the Human Development Index (HDI) include life expectancy at birth, literacy, and standard of living.
+Human Development Index (HDI) is a measure of a country's average achievements in three dimensions of human development:
+• A long and healthy life, as measured by life expectancy at birth
+• knowledge (literacy), as measured by mean years of schooling and expected years of schooling, and
+• A decent standard of living, as measured by GNI (gross national income) per capita.
+HDI values range from o to 1, with 1 as the maximum value.
+Note- Life expectancy at 1 year, literacy and infant mortality rate are components of the physical quality of life index (pQLI).",,A,
+Q18,The external validity of a screening test is related to?,"a)stability
+b)objectivity
+c)Generalizability
+d)Repeatability","External validity of a screening test is related to generalizability.
+validity (accuracy) refers to what extent the test accurately measures which it sets out to measure. It refers to the closeness with which measured values agree with ""true"" values.
+while assessing the validity of a research study, two kinds of validity are involved:
+• External validity: If the study sample is truly representative of the population from which it was drawn, then the study is said to have external validity. Its findings can be applied to the entire
+population as well and therefore it is said to be generalizable.
+• Internal validity: Here the results of the study are valid for the sample of patients who were actually studied.
+Note: precision (reliability or reproducibility) is a measure of the repeatability of a test. That is, the test must give consistent results when repeated more than once on the same individual or    material, under the same conditions.",,C,
+Q19,All the following tests are related to pasteurization of milk except,"a)phosphatase test
+b)Iodine test
+c)standard plate count
+d)Methylene blue reduction test","All the above tests are related to the pasteurization of milk except the iodine test. It is done to test if milk is adulterated with starch or cereal flour.
+The iodine test is done by adding 2 drops of iodine solution containing potassium iodide and
+iodine to 1ml of milk. The appearance of a blue color indicates that the milk is adulterated with starch. A control sample of milk that is not adulterated with starch will develop a slightly
+yellowish color.
+
+
+
+pasteurization can be done by the following methods,
+• Holder/vat method: 63-66 °c for 3o minutes and then quickly cooled to 5°c.
+• HTsT method (High-temperature short time): 72°c for at least 15 seconds, and then cooled rapidly to 4°c.
+• UHT method (Ultra-high temp): Rapidly heated to 125 °c for a few seconds, then cooled and bottled as quickly as possible.
+Tests in pasteurization:
+• phosphatase test: It is based on the fact that raw milk contains phosphatase enzyme which gets destroyed at temperatures corresponding to the standard time and temperature required for
+pasteurization.
+• standard plate count: It is used to determine the bacteriological quality of pasteurized milk.
+• coliform count: The presence of coliform organisms in pasteurized milk indicates either improper pasteurization or post-pasteurization contamination.
+• Methylene blue reduction test is an indirect method for the detection of microorganisms in milk. This test is carried out on the milk accepted for pasteurization. Definite quantities of methylene
+blue are added to 1o ml of milk at a uniform temperature of 37°c. The milk is considered
+satisfactory if it fails to reduce the methylene blue dye in 3o minutes under standard conditions.",,B,
+Q20,"over the past few years, there is an increase in the incidence of non-communicable diseases. What is this type of trend called?","a)seasonal
+b)cyclical
+c)periodic
+d)secular","An increase in the incidence of non-communicable diseases over a few years is described as a secular trend.
+The secular trend describes the occurrence of disease over a prolonged period, usually years. Even though it may have short-term fluctuations, there is a tendency of the disease occurrence to
+change consistently in a particular direction or a definite movement in one direction.
+Examples of the secular trend include coronary heart disease, lung cancer, and diabetes, which
+have shown a consistent upward trend in incidence as well as prevalence, in developed countries. similarly, there has been a consistent decline in the diseases such as tuberculosis, typhoid fever,   diphtheria, and polio.
+other options:
+option A: seasonal trends reflect seasonal changes in disease occurrence following changes in
+environmental conditions that enhance the ability of the agent to replicate or be transmitted. For   example, measles (usually occurs in early spring), varicella, etc. Non-infectious conditions like hay fever and snake bites may also show seasonal variations.
+option B: cyclic trend is shown by some diseases that occur in cycles spread over short periods of time which may be, days, weeks, months, or years.  Examples include the influenza pandemic,
+which is known to occur at intervals of every 7–1o years due to antigenic variations.
+option c: periodic fluctuations include both seasonal and cyclic trends.",,D,
+Q21,which of the following is not a part of case-control studies?,"a)Follow up
+b)Matching
+c)strength of association
+d)selection of study subjects","Among the given options, follow-up is not a part of case-control studies.
+case-control studies are also called retrospective studies. This study proceeds from effect to
+cause and is done after the exposure and outcome have occurred. They focus on diseases or health problems that have already developed. They are less time-consuming and have no risk of attrition  because they do not require follow-up.
+There are four basic steps in conducting a case-control study:
+• selection of cases and controls
+• Matching- This is done to ensure comparability between cases and controls. controls are
+selected such that they are similar to cases with respect to certain pertinent selected variables that influence the disease outcome.
+• Measurement of exposure - This is obtained by interviews, questionnaires, or study of the past records of cases.
+• Analysis in the form of exposure rates, risk ratio, and odds ratio.
+Odds Ratio (OR) calculated from a case-control study, is a measure of the strength of the association between risk factor and outcome.
+Note: Follow-up is a part of cohort studies. The elements in cohort studies include selecting study subjects, obtaining data on exposure, selecting comparison groups, follow up and analysis.",,A,
+Q22,which of the following is the best study design to demonstrate the relationship between cause and effect?,"a)case control study
+b)cohort study
+c)cross-sectional study
+d)clinical trial","cohort study is the best study design to demonstrate the relationship between cause and effect.
+A cohort study is a type of analytical study, which progresses from cause to effect, as exposure has occurred but not disease. It is also known as forward-looking study, incidence study, prospective    study, and longitudinal study.
+A well-designed cohort study is considered the most reliable means of showing an association
+between a cause or suspected risk factor and subsequent disease (or effect) because it eliminates many of the problems of the case-control study.
+Relative risk (RR) calculated using cohort study demonstrates the relationship between cause and  effect. It is a direct measure of the strength of association between suspected cause and effect. The larger the RR, the greater the strength of the association between the suspected factor and
+disease.
+The advantages of cohort study are the following:
+• The incidence can be calculated.
+• several possible outcomes related to exposure can be studied simultaneously.
+• provides a direct estimate of relative risk.
+• Dose-response ratios can be calculated.
+• Bias like misclassification can be minimized.
+
+
+
+other options:
+option A: In a case-control study, the study begins from the outcome and goes retrospectively to find out the exposure among the cases and controls.
+option c: A cross-sectional study is a prevalence study which is more useful for the study of chronic diseases. It is more appropriate for the study of the distribution of a disease in a
+population than studying its etiology.
+option D: clinical trials are research studies performed on people that are aimed at evaluating new tests and treatments and their effects on human health outcomes.",,B,
+Q23,Hepatitis B subunit vaccine contains which of the following antigen?,"a)HbeAg
+b)HbsAg
+c)HbcAg
+d)HBV DNA","Hepatitis B subunit vaccines are composed of the HBsAg (Hepatitis B virus surface antigen).
+subunit vaccines are produced from macromolecules derived from immunogenic components of    pathogens by recombinant DNA technology. They differ from inactivated whole-cell vaccines, by     containing only the antigenic parts of the pathogen. These parts are necessary to elicit a protective immune response.
+Hepatitis B vaccine is made by inserting the HbsAg gene into the yeast cell. This modified yeast cell produces large amounts of hepatitis B surface antigen, which is purified and harvested and  used to produce the vaccine. The recombinant hepatitis B vaccine is identical to the natural
+hepatitis B surface antigen, but does not contain virus DNA and is unable to produce infection.",,B,
+Q24,Arrange the following causes of neonatal mortality from maximum to the least (according to the verbal autopsy report 2010-2013 dat,"a)1&gt;2&gt;4&gt;3
+b)1&gt;4&gt;2&gt;3
+c)4&gt;1&gt;2&gt;3
+d)1&gt;2&gt;3&gt;4","According to verbal autopsy report 2o1o-2o13 data, the correct sequence of causes of neonatal
+mortality from maximum to least is prematurity and low birth weight&gt; birth injuries and birth asphyxia&gt; sepsis&gt; congenital anomalies. (1&gt;2&gt;4&gt;3)
+Neonatal deaths are deaths that occur during the neonatal period, that is between birth and 28 completed days after birth. It is calculated by using the following formula:
+Neonatal mortality rate 〓 Number of deaths of children under 28 days of age in a year x 1ooo/Total live births in the same year
+Important causes of neonatal mortality include ( from maximum to least)
+• prematurity &amp; low birth weight
+• Birth asphyxia &amp; birth trauma
+• Neonatal pneumonia
+• other non-communicable diseases
+• sepsis
+• congenital anomalies
+• Diarrhoeal diseases
+
+
+
+• Injuries
+• Tetanus
+Note: Recent 2o2o sRs (sample Registration system) report shows the following:
+• Neonatal mortality rate to be 2o.
+• Infant mortality rate to be 28.
+• under 5 mortality rate to be 32.",,A,
+Q25,which of the following is not involved in meta-analysis?,"a)selection
+b)Analysis
+c)Randomization
+d)Abstraction","All the above steps are involved in meta-analysis except for randomization.
+Meta-analysis is a set of statistical techniques for combining quantitative results from multiple     studies to produce a summary of empirical knowledge on a given topic. It refers to a method of a systematic review.
+Four basic steps involved in a meta-analysis are:
+• Identification: This is the first step in a meta-analysis and it includes finding all of the articles or studies related to the topic.
+• selection: After assembling all the related studies, it is important to select the right or necessary studies by using inclusion (also called eligibility) criteria. Examples are minimum sample size (as  very small studies may be unrepresentative), study design (controlled trials only vs randomized     controlled trials only), etc.
+• Abstraction: once an appropriate group of studies has been identified, the author has to abstract the relevant data from each study.
+• Analysis: This is the last step of meta-analysis.
+objectives of meta-analysis include,
+• summarize results from individual studies.
+• Analyze differences in results among studies.
+• overcome small sample sizes of individual studies to detect the effects of interest.
+• Determine if new studies are needed to investigate an issue.
+• Generate new hypotheses for future studies.
+Note- Randomization involves randomly assigning patients to different groups, like experimental  and control groups. Clinical trials usually involve randomization and are hence called randomized clinical trials (RCTs). It is done to prevent confounding.",,C,
+Q26,"A new drug has been introduced into the market which was found to decrease mortality but it does not cure the disease. which of the following is a true statement regarding prevalence
+and incidence?","a)Decrease in incidence
+b)Decrease in prevalence
+c)Increase in incidence
+d)Increase in prevalance","In the given scenario, the new drug was found to decrease mortality but not cure the disease so  the duration of the disease is increased thereby increasing the prevalence. There is no change in
+
+
+
+the incidence of the disease.
+Incidence refers to the number of new cases in a defined population in a specified period of time.
+prevalence refers to the number of old and new cases at a given point of time or over a period of time in a given population.
+prevalence depends on two factors, the incidence, and duration of illness. If the population is stable and incidence and duration are unchanging, the relationship between incidence and
+prevalence can be expressed as:
+p 〓 I X D
+(I - Incidence and D - Mean duration)
+This equation shows longer the duration of the disease, the greater the prevalence.
+Note:
+• In chronic diseases like TB, prevalence will be higher than incidence.
+• If a new treatment for a disease is effective, incidence does not change but prevalence decreases as the duration of disease decreases.
+• If the treatment only prevents death but doesn’t cure the disease, it may cause a paradoxical increase in prevalence.",,D,

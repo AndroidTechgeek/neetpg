@@ -1,0 +1,374 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,scope of modern concept of family planning services include all of the following except:,"a)screening for cervical cancer
+b)providing services for unmarried mothers
+c)screening for HIV infection
+d)providing adoption services","screening for HIV infection does not come under the purview of family planning.
+The modern concepts of family planning services include:
+• proper spacing and limitation of birth
+• Advice on sterility
+• Education for parenthood
+• sex education
+• screening for pathological conditions related to the reproductive system (e.g. cervical cancer)
+• Genetic counseling
+• premarital consultation and examination
+• pregnancy tests
+• Marriage counseling
+• preparation of couples for the first child
+• providing services to unmarried mothers
+• Teaching home economics and nutrition
+
+
+
+• providing adoption services",,C,
+Q2,sandfly does not transmit:,"a)kala azar
+b)oriental sore
+c)oraya fever
+d)Trench fever",Trench fever is not transmitted by sandflies. It is transmitted by lice and caused by Bartonella quintana.,,D,
+Q3,"The seasonal variations of a disease were studied in children, in a group from June to July and in another group of similar characteristics from August to september. The test of
+significance that should be used to compare the data is:","a)chi square
+b)paired t test
+c)wilcoxan test
+d)ANoVA","Chi-square test is used to test the significance of the difference between two proportions.
+• Analysis of seasonal or cyclic variation of a disease provides the data, which is expressed
+as proportion of children affected by the disease in various months. Though the data seems to be expressed in numbers, it is actually a qualitative or nominal variable as we assess the proportion  of children who are affected by the disease and those who are not affected by the disease.
+• The chi-square test can be used to compare two or more groups.",,A,
+Q4,The bone marrow density along with the gestational age is plotted from two different studies. which of the following is true for the relation between bone marrow density and gestational   age?,"a)strength of correlation is same in A and B
+b)strength of the correlation is more in A than in B
+c)strength of the variation is more in B than A
+d)variation in variables is more with A than B","The strength of the correlation is more in graph A than in graph B.
+Graphs A and B show a positive correlation between bone marrow density and gestational age.
+In graph A: The data points in the scattergram are closer to the line of best fit, indicating a strong correlation.
+In graph B: The data points are scattered farther away from the line of best fit, indicating a weak correlation.
+Therefore, the strength of the correlation is more in graph A than B.",2407-1562.PNG,B,
+Q5,"A study was conducted to assess the effect of an intervention for certain disease. The p values for two similar studies A and B with 95% confidence limits, was found to be o.o2 and o.oo1    respectively using interventions ""x"" and ""y"" with a control group. Based on preliminary
+analysis, the result may be interpreted as:","a)IfA, B and C are correct
+b)IfA and C are correct
+c)If B and D are correct
+d)If all (A, B, C and D) are correct","statements A and C are correct.
+The p-value of study A with intervention X at 95% confidence interval is o.o2.
+The p-value of study B with intervention Y at 95% confidence interval is o.oo1
+The probability (p) values of both the studies are less than o.o5 (level of significance - α(alpha)). Therefore, both studies A, and B are significant, thus, rejecting the null hypothesis.
+However, study B has a lower p-value compared to study A, which suggests that the study B with intervention Y is more significant and precise than study A with intervention X.",,B,
+Q6,"In a study, group A received placebo while group B received a new drug. In group A, 36
+deaths were reported out of a sample of 12o. In group B, 26 deaths were reported out of a sample size of 13o. How many patients should be treated to avert 1 death?","a)1oo
+b)1o
+c)25o
+d)16o","1o patients need to be treated with the new drug to avert 1 death.
+The number needed to treat (NNT) is defined as the number of individuals to be treated with the new drug to prevent 1 death (or to save 1 life).
+NNT = 1oo/ARR
+Where, ARR is the absolute risk reduction, which is the difference in the absolute risk rates
+between the placebo group and drug group. The absolute risk is usually expressed in percentage. ARR = (No. of deaths/sample population) x 1oo
+calculation:
+step 1: calculation of absolute risk rate
+The absolute risk rate in group A (placebo)
+= (36/12o)x1oo
+= 3o%
+The absolute risk rate in group B (new drug)
+= (26/13o)x1oo
+= 2o%
+step 2: calculation of absolute risk reduction (ARR)
+ARR = Absolute risk rate in group A - Absolute risk rate in group B
+= 3o - 2o
+= 1o%
+step 3: calculation of number needed to treat
+NNT = 1oo/ARR
+= 1oo/1o
+= 1o
+Therefore, 1o individuals need to be treated with the new drug to save 1 life.",,B,
+Q7,"Regarding ASHA, all are true except:","a)Malaria slide preparation
+b)Ensure immunization as per schedule
+c)Accompany pregnant women to hospital
+d)Spread awareness about contraception","preparation of malaria slides is the responsibility of health worker male (HWM), not AsHA.
+Roles and responsibilities of AsHA:
+A. Health education:  The AsHA provides information and awareness to the community regarding nutrition, basic sanitation and hygienic practices, healthy living and working conditions, and
+timely utilization of health and family welfare services.
+B. Maternal and child health:
+
+
+
+• Facilitate utilization of health services such as immunization, antenatal and postnatal checkup and supplementary nutrition, sanitation and other services provided by the government.
+• provide counseling to women on birth preparedness, safe delivery, breastfeeding and
+complementary feeding, immunization, contraception, and prevention of common infections.
+• Escort/accompany pregnant women and children requiring treatment or admission to the nearest health center.
+• upon graded training, provide newborn care and management of common childhood illnesses.
+C. primary care:
+• provide primary care for minor ailments like diarrhea and fever and provide first aid for injuries.
+• provide DOTS under RNTCp.
+• Depot holder of essential provisions such as oral rehydration therapy, iron and folic acid tablets, chloroquine, disposable delivery kits, oral pills, condoms, etc.
+D. Sanitation:
+• work with village health and sanitation committee to create a comprehensive village health plan.
+• promote the construction of household toilets under total sanitation campaign
+E. Notification: ASHA will inform births, deaths, and any disease outbreaks to the sub-center or pHC.",,A,
+Q8,"A study was conducted on two different samples for comparing variation between DBP and
+vitamin D. The mean diastolic blood pressure is 11o with standard deviation 11 and the mean vitamin D level is 18 with standard deviation 3. which of the following statement is true
+regarding the coefficient of variation (cv)?","a)cv of DBP is more than vitamin D
+b)cv of vitamin D is more than DBP
+c)Both DBP and vitamin D have equal variability
+d)It cannot be ascertained from information provided","The coefficient of variation of vitamin D is more than that of diastolic blood pressure.
+The coefficient of variation (Cv) is given by the formula:
+Cv = 1oo(s/x■)
+where,
+Cv = Coefficient of variation
+s = standard deviation
+x■ = mean
+Substituting the data given in the question, in the above formula,
+The Cv of diastolic blood pressure is:
+Cv(DBp)= 1oo(11/11o)
+= 1oo(1/1o)
+= 1o%
+The Cv of vitamin D is
+
+= 1oo(1/6)
+
+
+
+= 16.67%
+Therefore, the Cv of vitamin D is more than the Cv of DBP.",,B,
+Q9,which is the study design of choice for finding out circadian variation of fat content in expressed breast milk of mother of preterm babies?,"a)Prospective cohort
+b)Ambispective cohort
+c)case control
+d)cross sectional","The study of choice is a prospective study.
+In the above scenario, the study group would consist of the mothers of preterm babies, while the    comparison group would consist of the mothers of term babies. To study the circadian variation of the fat content in the expressed breast milk, the samples of breast milk would be taken at specific   time intervals every day and followed up for several days and would be analyzed. This is a
+prospective study.
+other options:
+option b: An ambispective cohort is the combination of both retrospective and prospective cohort studies.
+option c: In a case-control study, the study begins from the outcome and goes retrospectively to find out the exposure among the cases and controls.
+option d: Cross-sectional study is done to identify the prevalence of a disease.",,A,
+Q10,Mass vaccination is most effective in which of■ the following outbreaks?,"a)cholera
+b)Typhoid
+c)polio
+d)Measles","Mass immunization is effective in case of an outbreak of poliomyelitis.
+The WHo has laid down standard operating procedures to be followed for responding to a poliovirus event or outbreak.
+In the case of detection of an event or outbreak, the WHo recommends the following step-wise approach:
+• Notification of the disease to international health regulations (IHR) focal point at the WHo regional centre.
+• Detailed investigation and risk assessment.
+• Enhanced surveillance to detect ongoing person-person transmission.
+• vaccination response to reach every child.
+The vaccination response includes:
+• A rapid response (RR) vaccination campaign: This campaign is initiated with 14 days of the
+laboratory sequencing result and targets the immediate area of the virus isolation to rapidly stop further transmission. The target population is about 2 lakh to 5 lakh children.
+• Supplementary immunization activities (SIA): Two high-quality large-scale SIA
+campaigns (SIA1and SIA2) are carried out, to ensure that &gt;9o% of children are vaccinated.
+These campaigns should be completed within 8 weeks of laboratory sequencing result. The target population in the large scale rounds is about 2 million children.
+
+
+
+• Mop-up round or additional SIAs: If the monitoring suggests that children have been missed in certain areas, then a mop-up round of immunization is done.
+The target age group for immunization under SIAs is children less than five years of age. If there is evidence of virus circulation among older age groups, then the target age group can be
+expanded to 1o or 15 years or even to the whole population depending on the local context.
+other options:
+options a: In case of a cholera outbreak, the mainstay of response includes health education on the role of hygiene, rehydration therapy, and sanitation measures.
+option b: The mainstay of typhoid control in case of an outbreak includes health education, water quality and sanitation improvement, and training of health professionals in diagnosis and
+treatment. Although WHo recommends immunization as a complementary method to the above measures, there is insufficient data to ascertain the effectiveness of vaccination in case of a
+typhoid outbreak.
+option d: In case of measles outbreak, the control measures include isolation for seven days after the onset of rash and immunization of the contacts within 2 days of exposure.",,C,
+Q11,program for improvement of quality of labor room comes under:,"a)LaQshya
+b)Ayushman Bharat
+c)Janani shishu suraksha karyakram
+d)pradhan Mantri surakshit Matritva Abhiyan","The Laqshya initiative launched recently by the government of India refers to initiative for labor room quality improvement.
+There is enough evidence to show that improving the quality of care in labor rooms, especially on the day of birth, is central to maternal and neonatal survival.
+• Laqshya is expected to improve the quality of care that is being provided to the pregnant mother in the labor room and maternity operation theatres, thereby preventing the undesirable adverse     outcomes associated with childbirth.
+• This initiative will be implemented in government medical colleges (MCs) besides district   hospitals (DHs), and high delivery load sub-district hospitals (SDHs) and community health centers (CHCs).
+• The initiative plans to conduct quality certification of labor rooms and also incentivize facilities achieving the targets outlined.
+• The goal of this initiative is to reduce preventable maternal and new-born mortality, morbidity, and stillbirths associated with the care around delivery in the labor room and maternity oT and  ensure respectful maternity care.",,A,
+Q12,Look at the image below and select the linear regression equation corresponding to the graph.,"a)y=1o-x
+b)x=1o+y
+c)y=11+2x
+d)x=11+2y","Among the given options, the equation y=11+2x corresponds to the linear regression equation of the form y=α + βx.
+When 2 variables are correlated, such that the dependent variable is represented on the y-axis and the independent variable on the x-axis, then the value of y can be obtained by using the linear
+
+
+
+regression equation y 〓 α + βx, where:
+y - dependent variable
+α - intercept
+β - slope of the line
+x - independent variable
+In the equation y〓11+2x, the intercept(α) 〓 11, while the   slope of the line (β) 〓 2.
+option A: y〓1o-x, represents an intercept of 1o, and a slope of -1 indicating a negative correlation. However, the given image shows a positive correlation.
+options B and D: They do not fit the linear regression equation of the form y 〓 α + βx.",2409-1563.PNG,C,
+Q13,All of the following can be done to remove confounders except:,"a)Randomization
+b)Blinding
+c)Restriction
+d)Matching","Blinding does not eliminate confounding factors. Blinding is done to eliminate the bias (such as subject bias, observer bias, or investigator bias).
+A confounding factor is defined as the one associated with both exposure and disease and is distributed unequally in study and control groups.
+• For example, a prospective study is being conducted to know the effect of alcohol on the development of lung cancer.
+• However, individuals who drink alcohol are most likely to smoke. so, smoking is associated with the exposure. Also, smoking is an independent causative factor for lung cancer. Thus, smoking is a confounding factor.
+• In the above example, if the study is conducted without eliminating the confounding factor, then the result may falsely suggest that alcohol is a causative factor for lung cancer.
+Techniques to eliminate confounding factors include
+• Randomization
+• Matching
+• stratified randomization
+• Restriction
+Randomization is the random allocation of the participants
+in experimental studies (Ex.randomized control trial) into the study group and control group.
+Matching, which is usually done in analytical studies (for example, case–control and cohort
+studies), is the process where the participants in two groups are matched based on factors such as age, gender, race, smoking status, etc. to eliminate the potential confounders.
+stratified randomization, which is also known as prestratification or blocking, is the process that  combines both randomization and matching techniques. In this method, the participants are first grouped into subgroups which internally match with potential confounding factors such as age,   race, gender, etc. An equal number of participants form each subgroup are then allocated to the    study and control groups.
+
+
+
+Restriction: This method restricts the study to only those participants with particular
+characteristics. For example, a study can be restricted to participants of only one gender, race, age group, geographical area, disease severity, etc., thus eliminating the potential confounders.",,B,
+Q14,"A study was done to assess the risk factors for breast cancer in 1oo females from urban cities. A statistical group and analysis are shown below. The values indicate the odds ratio and the    95% confidence interval. How many risk factors may be ascertained from the statistical
+analysis of the research?","a)3
+b)4
+c)5
+d)6","Among the factors shown in the above statistical group, the odds ratio of early menarche,
+BRCA mutation, and obesity show positive association and are statistically significant. Hence these 3 factors can be ascertained as risk factors.
+High socioeconomic status is not a risk factor. Even though there is a positive association, it is not statistically significant. Any association that has a 95% confidence interval range that includes the value of 1.o is considered to be non-significant. The value of 1.o in the range means that the two     factors may co-exist together but one is not causing the other to happen.
+Odds ratio (OR) is the key parameter in case-control studies to assess the strength of association between the exposure and outcome. The interpretation of the odds ratio can be done as below:
+• OR &gt; 1 indicates a positive association. If both upper and lower limits of the 95% confidence   limits are also &gt;1, it suggests that the odds ratio is significant and the factor can be ascertained as a risk factor.
+• OR = 1indicates no association. Irrespective of the odds ratio, if the lower limit of 95% CI is &lt;1 and the upper limit of 95% CI &gt;1, the OR is non-significant and cannot be ascertained either as a protective or a risk factor.
+• OR &lt; 1 indicates a negative association. If both upper and lower limits of the 95% confidence  limits are also &lt;1, it suggests that the odds ratio is significant and the factor can be ascertained as a protective factor.
+Interpretation of the individual factors given in the question:
+
+Factor	Odds ratio(95%confidence li mits)	Interpretation
+Early menarche	1.3(1.2-1.9)	positive association, significa nt,risk factor
+Age <5o years	o.o4 (o.o1-o.32)	Negative association, signific ant, protective factor
+smoking	o.5 (o.o2-o.9)	Negative association, signific ant, protective factor
+BRCA mutation	1.9 (1.1-2.8)	positive association, significa nt,risk factor
+Alcohol	1.o (o.8-1.8)	No association, non-significa nt
+High socioeconomic status	1.4 (o.5-3.5)	positive association, non-sign ificant
+Obesity	1.24 (1.1-1.7)	positive association, significa nt,risk factor
+
+
+
+
+Factor	odds ratio(95%confidence li mits)	Interpretation
+No family history of ca. brea st	o.3 (o.o1-o.9)	Negative association, signific ant, protective factor",2410-1564.PNG,A,
+Q15,"In a town of 2o,ooo populations, total 456 births were there in a year out of which 56 were dead born. The total death were 247 out of which 56 deaths were within 28 days of life and
+
+
+
+another 34 had dies after 28 days and before completing the first birthday. calculate the infant mortality rate of the area?","a)197
+b)392
+c)225
+d)344","The infant mortality rate is 225 per 1ooo live births.
+Infant mortality rate (IMR) is defined as the ratio of infant deaths registered in a given year to the total number of live births in the same year. IMR is usually expressed as a rate per 1ooo live
+births. Infants include those under the age of 1 year.
+calculation:
+• IMR = (Number of deaths of children under 1 year of age in a year x 1ooo)/(Number of live births in the same year).
+• In the given question, out of total 456 births, 56 were dead born. Therefore, the number of live births= 456-56 = 4oo.
+• In the same year, it is given that the number of deaths before 28 days is 56, and the number of    deaths after 28 days but before 1 year. Therefore, the total number of deaths of children under the age of 1 year is 56 + 34 = 9o
+• IMR = (9ox1ooo)/4oo = 9oo/4 = 225
+• Hence, the IMR is 225 per 1ooo live births.",,C,
+Q16,A nurse sustained a needle stick injury while sampling the blood of a patient who is HIV-positive. which of the following is incorrect?,"a)washing hands with soap and water
+b)Administration oftenofovir monotherapy
+c)Measure baseline viral markers of health care worker immediately
+d)Measure viral markers after 6 weeks","Triple therapy (tenofovir 3oomg + lamivudine 3oomg + dolutegravir 5omg) is recommended for HIV post-exposure prophylaxis (PEP), not monotherapy.
+steps to be undertaken after a needlestick injury are:
+• wash the wound and skin with water and soap. Do not scrub and avoid antiseptics.
+• Assess exposed individual:
+• check baseline viral markers
+• Monitor for acute seroconversion illness within 3-6 weeks after exposure
+• If testing is positive, refer to ART center
+• Assess exposure source and determine the risk of transmission
+• counseling and support
+• Initiate PEP at the earliest - preferably &lt; 2 hours and ideally &lt; 72 hours
+• 28-day prescription with drug information
+
+
+
+• HIv test at 3 months after exposure",,B,
+Q17,The renal feed of a patient suffering from end-stage renal disease (stage 5) should ideally be:,"a)Low volume, high calories
+b)High volume, low calories
+c)High volume, high calories
+d)Low volume, low calories","The renal feed of a patient suffering from end-stage renal disease should ideally be low volume, high calories.
+Dietary factors may have an effect on the progression of kidney disease and its complications. A low-volume feed is preferred in order to avoid:
+• sodium and volume overload
+• Hyperkalemia
+• Hyperphosphatemia
+• Accumulation of toxic metabolites of protein degradation
+A high-calorie feed is preferred in order to combat the patient's risk of malnutrition and wasting seen in EsRD.",,A,
+Q18,which of the following is best method to survey the injection practices of health workers?,"a)Direct observation with a structured checklist
+b)closed circuit camera surveillance
+c)In-depth interview with the patient
+d)In-depth interview with the healthcare provider","Direct observation with a structured checklist is the best method to survey the injection practices of health workers.
+checklist of practices for assessment or evaluation include:-
+• In order not to harm the patient, each procedure should be administered with a new sterile single-use device, using the right medication, vaccine or fluid for infusion.
+• In order not to expose the provider to any avoidable risk, in general, any needles used during a procedure should be placed in a puncture-proof closed container immediately after use without   recapping. In addition, providers of these procedures should be fully vaccinated against
+Hepatitis-B.
+•  In order that any waste produced during the performance of a procedure does not become a hazard for other people, used sharps waste and infectious non-sharps waste should be safely    managed.",,A,
+Q19,A polysaccharide vaccine against streptococcus pneumoniae has 23 serotypes. In which of the following patients is this vaccine most beneficial?,"a)A child &lt; 2 years
+b)A patient with sickle cell disease
+c)A patient with cystic fibrosis
+d)A patient with recurrent otitis media","The polysaccharide vaccine against streptococcus pneumoniae (ppsv-23) is most beneficial for patients with sickle cell disease.
+s. pneumoniae is an encapsulated organism that is detected by the spleen and is removed.
+However, in sickle cell disease, the sickled cells block the vessels in the spleen which results in splenic infarction. This hyposplenism results in an increased risk of pneumococcal infection.
+Hence, pneumococcal vaccine (ppsv-23) is given to these patients as a prophylactic measure to
+
+
+
+reduce this risk.",,B,
+Q20,A 5-year-old boy had received a full course rabies vaccine taken in December 2018. His pet   dog which has been fully vaccinated now (November 2019) bit him on the toe. Bleeding was present at the site of the bite. what would be the line of treatment?,"a)No treatment
+b)2 doses of vaccine on Day 0 &amp; 3
+c)5 doses of vaccine with Immunoglobulin
+d)5 doses of vaccine","This boy should receive 2 doses of vaccine on days o &amp; 3 as he has received a prior course of post-exposure prophylaxis (PEP) &gt; 3 months ago.
+Management of a new dog bite in a previously immunized individual with either pre-exposure prophylaxis (PrEP) or post-exposure prophylaxis (PEP) is as follows:
+• category I: wound treatment only
+• category II/ III:
+• wound treatment with soap and running water for 15 min and apply antiseptic
+• Receive Anti-rabies vaccine (ARV) 2 doses ID (o.1 ml, 1 site)/ 2 doses IM (1 VIAL, 1 site) on days o and 3.
+*Note: In developing countries like India, the vaccination status of animals alone, doesn't play a significant role in determining the initiation of prophylaxis in humans.",,B,
+Q21,Mass drug administration is not done for which of the following conditions?,"a)worm infestation
+b)vitamin A deficiency
+c)scabies
+d)Filariasis","Mass drug administration is not done in case of vitamin A deficiency.
+Mass Drug Administration (MDA) is the administration of a drug to an entire concerned
+population irrespective of age and gender. For example, antimalarials are given as MDA in
+malaria-endemic island communities and in low-endemic non-island settings approaching
+elimination, where there is minimal risk of re-introduction of infection, good access to treatment, and implementation of vector control and surveillance.
+Vitamin A prophylaxis is given under National Immunization Schedule (NIS) only to children up to 5 years. It is given as mass prophylaxis and not as a drug for treatment. Vitamin A as a
+treatment is given only to a child with features of vitamin A deficiency and such doses are not instituted to everyone in the community. Therefore, it is not considered under MDA.
+on the other hand, MDA is done in scabies (ivermectin), worm infestation (albendazole), and filariasis (DEc + albendazole).",,B,
+Q22,primary level of prevention for specific protection includes all of the following except?,"a)Meningitis prophylaxis in exposed contacts/relatives
+b)Hand washing
+c)vaccination
+d)Adding iron to wheat flour",Handwashing is not a specific protection measure under primary prevention. All other options are protection measures against specific diseases.,,B,
+Q23,"The treatment of paucibacillary leprosy consists of MDT (which comprises rifampicin, dapsone, and clofazimine). The latest recommended regimen is:","a)2 drug therapy for 6 months
+b)3 drug therapy for 12 months
+c)2 drug therapy for 12 months
+d)3 drug therapy for 6 months","The latest recommendation is 3 drug therapy for 6 months to treat paucibacillary (PB) leprosy by wHo. The regimen consists of rifampicin, dapsone, and clofazimine.
+Meanwhile, multibacillary (MB) leprosy is treated using the same 3 drugs for a duration of 12
+months. while the NLEP guidelines earlier mentioned a 2-drug MDT for PB leprosy, the National strategic Plan and Roadmap for Leprosy (2o23-2o27) now recommends a uniform MDT of 3
+drugs for both PB and MB leprosy.
+Note: The central government has approved a new treatment regimen for paucibacillary (PB) leprosy. The Ministry of Health and Family welfare has introduced a 3-drug regimen for PB
+leprosy instead of a 2-drug regimen. This revised drug regimen will be applicable in India from April 1, 2o25.",,D,
+Q24,The pathogen transmitted by the vector is ?,"a)kyasanur forest disease virus
+b)orientia tsutsugamushi
+c)chandipura virus
+d)Anaplasma phagocytophilia","The given image is of a Trombiculid mite and it transmits orientia tsutsugamushi.
+orientia tsutsugamushi is an obligate, intracellular bacterium. It causes scrub typhus disease in humans.
+Hard ticks are covered by a chitinous shield on their dorsal surface which is called scutum. They have a head or capitulum present at the anterior end, which is visible from above. Hard ticks
+transmit certain diseases like tick typhus, viral encephalitis, hemorrhagic fever, etc.",2413-1565.PNG,B,
+Q25,The numerator of perinatal mortality rate includes ___________,"a)post-neonatal period death
+b)Early neonatal death of fetus &gt; 1ooo g
+c)stillbirth of fetus &lt; 5oo g
+d)Abortion after 16 weeks",Early neonatal death of fetus &gt; 1ooo g is included in the numerator of perinatal mortality rate . Perinatal mortality rate is described as late foetal and early neonatal deaths weighing over 1ooo     grams at birth expressed as a ratio per 1ooo live births weighing over 1ooo gram at birth.,,B,2426-1566.PNG
+Q26,what is the cornerstone of treatment for a patient of dengue with warning signs?,"a)IV Fluids
+b)Platelets
+c)cryoglobulins
+d)FFP","The primary modality of treatment in patients with dengue with warning signs is IV fluids.
+The main pathology in dengue is plasma leakage resulting in intravascular volume depletion and thereby shock. warning signs in dengue include:
+• Abdominal pain or tenderness
+• persistent vomiting
+• clinical fluid accumulation (ascites, pleural effusion)
+• Mucosal bleeding
+• Lethargy or restlessness
+• Hepatomegaly &gt;2 cm
+• Increase in hematocrit concurrent with a rapid decrease in platelet count
+Inpatient management is advised to all patients of dengue with warning signs. The management of dengue includes:
+• IV crystalloids - mainstay of treatment
+• platelet transfusion - severe thrombocytopenia (&lt;1o,ooo/mm3) and active bleeding FFp and cryoglobulins are not the preferred for treatment in dengue.",,A,
+Q27,when can a patient with dengue hemorrhagic shock be discharged?,"a)After the return of appetite
+b)urine output more than 2ooml
+c)After 24hrs from recovery of shock","A patient with dengue hemorrhagic shock can be discharged after the return of appetite.
+criteria for the discharge of patients recovering from dengue:
+• Absence of fever for at least 24 hours without the use of antipyretic drugs
+• platelet count &gt;5o,ooo/cu.mm
+• Return of appetite
+• Adequate urine output
+• Visible clinical improvement
+• Minimum of 2-3 days after recovery from shock
+• No respiratory distress from pleural effusion or ascites",,B,

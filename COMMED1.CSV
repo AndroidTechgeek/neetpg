@@ -1,0 +1,222 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,which of the following wastes are disposed in the bag shown below?,"a)urine bags
+b)Anatomical waste
+c)soiled waste
+d)sharp waste","The above picture shows a red coloured bag which is used to dispose contaminated wastes
+(recyclable) such as tubing, bottles, intravenous tubes and sets, catheters, urine bags, syringes (without needles) and gloves.
+option B: Anatomical wastes go into yellow non-chlorinated plastic bags.
+option C: soiled wastes go into yellow coloured non-chlorinated plastic bags.
+option D: sharp wastes go into white puncture proof, leak proof, tamper proof containers.",2365-1543.PNG,A,
+Q2,A researcher discovered a new drug which is effective in chronic hypertensives with a p value of &lt;o.1o. which of the following is true regarding the same,"a)Not more than 1o% of the people benefitted by the drug could be due to chance
+b)9o% of patients will be benefitted by giving the drug
+c)The test is 9o% reproducible
+d)9o% of test results could have occurred by chance","P value &lt;o.1o indicates that not more than 1o% of people benefitted by the drug could be due to chance.
+It can also be interpreted as
+• If the test is repeated 1oo times, the difference will be statistically non significant only 1o times and difference will be statistically significant 9o times.
+• Probability of false positive conclusion that drug is beneficial which in reality is not, is 1o%.
+It arises in case of statistical studies to accept or reject a null hypothesis.
+P value is compared with a predetermined value α; P value &lt; α means the test is statistically significant and null hypothesis is rejected.",,A,
+Q3,Below is the graph of CD4 count in HIV patients. From the graph below identify the mean CD 4 count,"a)3oo-4oo
+b)2oo-3oo
+c)Below 25o
+d)Above 35o","The given data should be converted into numerical table. small approximations can be made while converting into numerical form.
+since intervals are given, midpoint of each interval has to be calculated.
+It should then be multiplied with frequency of that particular interval.
+Mean is given by the formula: Mean   = sum of all observations / number of observations.
+
+
+
+Mean = 345oo/1oo = 345.
+Between 3oo -4oo is the most suitable answer.
+
+CD4 C ount	Number of peo ple
+<1oo	5
+1oo - 2 oo	1o
+2oo - 3 oo	25
+3oo - 4 oo	35
+4oo - 5 oo	2o
+>5oo	5
+
+CD4 Co unt	Mid po int	Number of people ( n)	Mid point × n
+o - 1oo	5o	5	25o
+1oo - 2o o	15o	1o	15oo
+2oo - 3 oo	25o	25	625o
+3oo - 4 oo	35o	35	1225o
+4oo - 5 oo	45o	2o	9ooo
+5oo - 16 oo	1o5o	5	525o
+TOTAL		1oo	345oo",2366-1544.PNG,A,
+Q4,which of the following is true about triage?,"a)yellow – least priority
+b)Red – mortality
+c)Green – ambulatory
+d)Blue – ambulatory","In triage, green signifies low priority or ambulatory patients and those with minor illnesses.
+An internationally accepted four-color coded system, with red having the highest priority is used commonly here.",,C,
+Q5,"A randomized trial comparing the efficacy of two drugs showed a difference between the two with a p value of &lt;o.oo5. In reality, both drugs do not differ at all. This is an example of:","a)Alpha error
+b)Beta error
+c)1 – α
+d)1 – β","• In this scenario, let’s take the null hypothesis as the two drugs being the same, which the questions states, is true in reality.
+• The alternative hypothesis will then be that both drugs are different.
+• The questions states that p value was found to be &lt; o.oo5, which is statistically significant and so the null hypothesis is rejected.
+• But we already know that the null hypothesis is true and we are forced to accept the alternative hypothesis even though it is false.
+• This is a type I error or alpha error.
+• when an alternative hypothesis is accepted even when it is false and the null hypothesis is true, it is a type I error or false positive error.",,A,
+Q6,which of the following vaccine vials can be used based on the vaccine vial monitor (VVM) color changes shown?,"a)only vial 1 can be used
+b)Vials 1 and 2 can be used
+c)Vials 1, 2, and 3 can be used
+d)All vials can be used","From the above image, only vials 1 and 2 can be used as the inner squares ofthe VVMs are lighter than the outer circles.
+Vial 3 has crossed the discard point as the inner square and outer circle are the same color and     thus cannot be used. Vial 4 cannot be used as the VVM shows a darker inner square compared to the outer circle.",2367-1545.PNG,B,
+Q7,"under the Mid-Day Meal (MDM) scheme, supplementary nutrition provided should cover at least _______","a)1/3 of the total protein requirement + ½ of total energy requirement
+b)2/3 of the total protein requirement + ½ of total energy requirement
+c)½ of the total protein requirement + 1/3 of total energy requirement
+d)½ of the total protein requirement + 2/3 of total energy requirement","under the Mid-Day Meal (MDM) scheme, supplementary nutrition provided must cover at least ½ of the total protein requirement and 1/3 of total energy requirement to children in schools.
+The MDM scheme is also called school Lunch programme and has been operational since 1961 in India. currently, it functions under the broad coverage of the Minimum Needs programme.
+some other principles of the MDM are:
+• The meal provided under the MDM should only be a supplement and not a substitute to home diets.
+• The cost of the meals should be reasonably low.
+• The meal should be easy to cook in schools.
+• Locally available foods must be used, for as far as possible.
+• The menu should be regularly changed to avoid monotony.",,C,
+Q8,"In a subcentre area with a crude birth rate (CBR) of 2o, what would be the expected number of antenatal care (ANC) registrations by the village health nurse (VHN) in a year?","a)6o
+b)8o
+c)1oo
+d)11o","• According to the Indian public Health standards (IpHs) laid down by the Government of India, a subcentre is to serve a population of 5ooo in plains.
+
+
+
+• In this scenario, the CBR is 2o.
+• probable number of pregnancies (y) = Birth rate x population of the area / 1ooo = 2o x 5ooo/1ooo = 1oo.
+• But, we add a correction factor of 1o% to adjust for pregnancy wastage in the form of abortions or stillbirths.
+• Thus, total number of expected pregnancies= y + 1o% of y= 11o
+• As all the pregnancies are not registered, and at any given time an ANM should have atleast half the expected pregnancies registered with her, the number of ANC registrations is taken as 5o% of the expected pregnancies.
+• Therefore, Total ANC registrations = total number of expected pregnancies/2 = 55
+• Hence, the closest answer is 6o.",,A,
+Q9,"As per the syndromic approach to sexually transmitted infections (STIs) and reproductive tract infections (RTIs), what is the treatment of choice of gonococcal and non-gonococcal  urethritis?","a)Azithromycin + Metronidazole
+b)Cefixime + Azithromycin
+c)Azithromycin + Doxycycline
+d)Doxycycline + Cefixime","As per the syndromic approach to sTIs/RTIs, the treatment of choice of for gonococcal and non-gonoccocal urethritis is azithromycin + cefixime.",,B,
+Q10,"Annual new case detection rate (ANCDR) of leprosy in India, as of 31st March 2o16 was .","a)o.66/1o,ooo population
+b)o.66/1 lakh population
+c)9.7/1o,ooo population
+d)9.7/1 lakh population","For the year 2o15 – 2o16, the annual new case detection rate (ANCDR) of leprosy in India was
+9.7/1oo,ooo population.",,D,
+Q11,"The recommended calorie intake for a pregnant woman in the second trimester, who is a sedentary worker would increase by _______","a)6oo kcal/day
+b)52o kcal/day
+c)45o kcal/day
+d)35o kcal/day",The recommended calorie intake for a pregnant woman who is a sedentary worker would increase by ~ 35o kcal/day.,,D,
+Q12,Match the following declarations to their significance.,"a)I – A, II – B, III – C, IV – D
+b)I - C, II - D, III - A, IV - B
+c)I – D, II – C, III – A, IV - B
+d)I – B, II – A, III – D, IV - C","Declarati on	significance
+Geneva	physician’s dedication to the  humanitarian goals of medici ne.
+oslo	statement on therapeutic abo rtion.
+
+
+
+
+Declarati on	significance
+Tokyo	Guidelines for physicians con cerning torture and other cru el, inhuman or degrading tre  atment or punishment in rela tion to detainment or impris   onment.
+Helsinki	set of ethical principles direc   ted to the medical communit   y for human experimentation.",2369-1546.PNG,B,
+Q13,"Chronic liver disease is classified using the Child-pugh score as follows: Class A: 5-6 , Class B: 7-9, Class C: 1o-15. what type of data is this scoring system?","a)Nominal
+b)ordinal
+c)Qualitative
+d)Metric","The Child-pugh score is an ordinal scale of data as:
+There is a rank order (Class A having a better prognosis than classes B and C) but no regular interval between each class. The final division of prognosis is based on class and not the
+numerical values arrived at by the summation of a set of variables.
+other options:
+option A: The Child-pugh score cannot be a nominal scale of data as there is a rank order with class A having better survival statistics than B or C. Nominal data do not have a rank order.
+option C: This is also not merely a qualitative scale as there are scores given to each variable to arrive at the final class.
+option D: The data used in the Child-pugh score cannot be merely metric as the final division of prognosis is based on class and not the numerical values. Also, there is no definite interval
+between the classes.",,B,
+Q14,"An 18 month old child is brought with no history of vaccination. From the following, which vaccines would be appropriate to give this child according to the National Immunization
+
+
+
+Schedule (NIS), India?","a)DPT -1, oPv-1 only
+b)BCG, DPT-1, oPv-1
+c)BCG, DPT-1, oPv-1, Measles – 1, vit. A -1
+d)DPT-1, oPv-1, Measles – 1, vit. A – 1","• An 18 month old, completely un-immunized child should receive first doses of DpT, opv,
+measles vaccine and vitamin A, according to the National Immunization schedule (NIs), India.
+• BCG can be given only up to one year of age.",,D,
+Q15,P-value is the probability of which of the following?,"a)Not rejecting a null hypothesis when it is true
+b)Rejecting a null hypothesis when it is true
+c)Not rejecting a null hypothesis when it is false
+d)Rejecting a null hypothesis when it is false","p-value is the probability of rejecting a null hypothesis when it is true.
+The p-value is the criterion or significance level (α), below which an outcome can be said to be
+statistically significant. From this, we can also deduce that the p-value is the probability that a null hypothesis will be rejected even when it is true, thereby making a type I error.",,B,
+Q16,"while testing the deleterious health hazards on a group of people after giving a new drug and a placebo, the following results were obtained as tabulated. Based on these results, which of   the following is true?","a)Absolute risk reduction (ARR) is 1% and relative risk reduction (RRR) is o.1
+b)Absolute risk reduction (ARR) is 1o% and relative risk reduction (RRR) is o.9
+c)Absolute risk reduction (ARR) is 1% and relative risk reduction (RRR) is 1o
+d)Absolute risk reduction (ARR) is 1o% and relative risk reduction (RRR) is 9","In the given scenario, absolute risk reduction (ARR) is 1% and relative risk reduction (RRR) is o.1. Let us reconstruct the design table in the following way:
+Relative risk (RR) is given as a/(a+b) ÷ c/(c+d).
+RR = 16o3/15225 ÷ 18o4/15225 = o.1o6/o.118 = o.89 ≈ o.9o.
+Relative risk reduction (RRR) = 1 – Relative risk. In this scenario, RRR = 1 – o.9 = o.1 or 1o%. Incidence of a disease is the absolute risk of contracting it.
+Absolute risk rate of the group using new drug = a/(a+b) = 16o3/15225 = o.1o6 or 1o.6% ≈ 11%.
+Absolute risk rate of the group using placebo = c/(c+d) = 18o4/15225 = o.118 or 11.8% ≈ 12%.
+Absolute risk reduction (ARR) is the difference in the absolute risk rates between the placebo and the drug. In this scenario, ARR = 12% - 11% = 1%.
+
+	Health hazard (+)	Health hazard (-)	Total
+New
+drug	16o3 (a)	13622 (b)	15225 (a +b)
+place bo	18o4 (c)	13421 (d)	15225 (c+ d)",,A,
+Q17,A new drug combination of chemotherapy and immunotherapy for metastatic melanoma was prescribed by a radiotherapist. It prolongs the survival. which of the following is true in this  situation?,"a)Incidence increases and prevalence reduces
+b)Incidence reduces and prevalence remains the same
+c)Incidence remains the same and prevalence increases
+d)Incidence reduces and prevalence increases","By the new drug combination, the survival of the patient has increased, hence incidence remains the same while prevalence increases.
+Incidence: Number of new cases in a defined population in a specified period of time.
+prevalence: Number of old and new cases at a given point of time over a period of time.
+options A, B, D: The treatment only prolongs the disease, it has nothing to do with the occurrence of cases thereby nothing to do with incidence.",,C,
+Q18,"Observe the following curves, which of the following is a true statement about sensitivity and specificity when the curve changes from green to pink?","a)Both sensitivity and specificity increase
+b)Both sensitivity and specificity decrease
+c)sensitivity increases while specificity decreases
+d)sensitivity decreases while specificity increases","Both sensitivity and specificity are higher in the test represented in pink (Test B) compared to the test represented in green (Test A).
+sensitivity is the proportion of all people with the disease who test positive. It is the probability of the test being positive when the disease is present.
+
+
+
+sensitivity = TP / (TP + FN) or sensitivity = 1     false-negative rate.
+specificity is the proportion of all people without the disease who test negative. It is the
+probability of the test being negative when the disease is absent.
+specificity= TN / (TN + FP) or specificity= 1     false-positive rate.
+Test B has an increased number of true positives and true negatives and decreased number of false positives and negatives, compared to Test A.
+Hence leading to increased sensitivity and specificity.",2371-1547.PNG,A,
+Q19,"A study was conducted to compare the incidence of postpartum depression in mothers as
+compared to the sex of the child. For assessment, Edinburg Depression scaled score (EDss)   was used. The study was divided into mothers with male babies as one group to be compared with mothers with female babies. which of the following statistical test will be used to
+determine the association?","a)students t test
+b)paired t test
+c)ANOVA
+d)chi square test","The Chi-square test is used to compare qualitative data and compares 2 groups with independent measures. The variables used here are yes/no signifying the presence/absence of postpartum
+depression. Hence it is the most appropriate test here.
+option A: student s t-test is for quantitative data. Here the data is qualitative, hence it can't be used.
+option B: Paired t-test compares paired data or pre-intervention and post-intervention data of the same group. This doesn't apply here as the groups are not paired.
+option C: ANoVA is used to compare more than 2 groups.",,D,
+Q20,"A one-and-half-year-old child was brought to the hospital with a history of breathlessness,
+fever, cough, and cold. on examination, respiratory rate was 46/min, and there were no chest retractions. which is the most appropriate management?","a)Give IV antibiotics and observe
+b)Give IV antibiotics and refer to higher centre
+c)oral antibiotics, warn of danger signs, and send home
+d)No need of treatment only home remedies","From the given clinical scenario, it can be easily inferred that the child has pneumonia. The
+treatment for pneumonia for a child between 2 months and 5 years of age is oral amoxicillin and home care advice.
+The following image gives the IMNCI classification for cough/difficulty in breathing in children.",,C,2380-1549.PNG
+Q21,The following are the disease frequencies in a population. Based on the number of cases which of the following is the correct match?,"a)pandemic, endemic, sporadic
+b)sporadic, endemic, epidemic
+c)Endemic, epidemic, sporadic
+d)Endemic, sporadic, epidemic","Disease 1- the cases have been almost the same so it has to be endemic.
+Disease 2- there is an alarming increase in the number of cases. It has to be an epidemic.
+Disease 3- the number of cases has decreased without any explanation so it has to be sporadic. Epidemic refers to the occurrence of a disease in excess of expected frequency.
+A pandemic is an epidemic affecting a large population over a large geographical area crossing international boundaries.
+An endemic disease is a regularly occurring disease in a population in expected frequency without any importation from outside.
+sporadic diseases present as scattered cases of infection without relation temporally/spatially.",,C,
+Q22,Below is a diagram depicting the natural history of the disease. which point marks the onset of symptoms?,"a)point A
+b)point B
+c)point C
+d)point D","point C represents a point where signs and symptoms appear.
+various points marked in the image represent the following:
+point A: Entry of infectious agent into the host.
+point B: pathological and physiological changes occur in the stage of the subclinical phase. These changes are induced by the causative agent but are not sufficient enough to cause clinical signs     and symptoms.
+point C: Marks onset of clinical signs and symptoms.
+point D: usual time of diagnosis at which clinical signs and symptoms are well evident.",2372-1548.PNG,C,2381-1550.PNG
+Q23,"A researcher finds out a sensitive test to be positive for a person. For diagnosis, which of the following will hold true?","a)It confirms that the person does not have the disease
+b)It suggests that if the disease is rare, the person surely has the disease
+c)It confirms that the person has the disease if the disease is common
+d)It is an expected finding in case the disease is prevalent","A sensitive test, if it is positive it confirms that the person has the disease if the disease is
+common.
+The sensitivity of a screening test is the ability of the test to identify correctly those who have the disease. In other words, sensitivity is the ability of a test to detect true positives (TP) out of total  disease (TP+FN).
+sensitivity = TP/ TP+FN",,C,

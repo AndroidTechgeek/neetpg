@@ -1,0 +1,376 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"A 65-year-old female patient is brought to the emergency department in a state of
+unconsciousness. Her BP is 7o/5o mm of Hg. Her ECG is shown below. what is the next best step in the management of her condition?","a)IV Verapamil
+b)IV adenosine
+c)Carotid massage
+d)DC cardioVersion","The given clinical scenario describes an unconscious patient, who is hemodynamically unstable
+(systolic BP &lt;9o mmHg or mean arterial pressure &lt;65 mmHg). The ECG shows a narrow QRS complex tachycardia (heart rate of 188 BPM) with regular RR interval and absent P waves,
+characteristic of paroxysmal supraventricular tachycardia (PSvT). The next step in management is QRS-synchronized DC cardioversion.
+Shown below is the algorithm for the management of supraventricular tachycardia:
+
+
+options A, B, and C are all used in stable cases. vagal maneuvers like carotid massage or valsalva are tried first followed by Iv Adenosine. If these are ineffective, Iv verapamil, Diltiazem, or Beta   blockers are used.
+
+
+
+
+Synchronized cardioversion	Defibrillation
+used in sustained VTused in SVT (unstable cases), atrial fl utter/fibrillation	used in VT and VF without a pulse
+The shock delivered insync w ith R wave(in absolute refract ory period)	The shock is delivered at any time during cardiac cycle
+Characteristics of QRS compl ex:Narrow and regular - 5o t
+o 1ooJNarrow and irregular
+- 12o to 2ooJwide and regul ar - 1ooJwide and irregular
+- No synchronised cardiovers ion	wide and irregular QRS com plexMonophasic: 36o JBipha
+sic:1 2o-2oo J",4234-2695.PNG,D,4167-2669.PNG
+Q2,Nasal polyps are commonly associated with:,"a)Intrinsic asthma
+b)Brittle asthma
+c)Extrinsic asthma
+d)Exercise-induced asthma","Nasal polyps are associated with intrinsic asthma.
+Intrinsic asthma is characterized by the presence of asthma with negative skin prick tests for  common antigens. The association of nasal polyps with asthma is described by Samter’s triad (intrinsic asthma + aspirin hypersensitivity + nasal polyposis). Asthma is usually severe,
+persistent, and adult-onset.
+other options:
+option B: Brittle asthma refers to a severe variant of asthma where patients have very serious and often, life-threatening attacks despite appropriate therapy.
+option C: Extrinsic asthma is also referred to as atopic asthma. It is allergen mediated.
+option D: Exercise-induced asthma is airway narrowing due to strenuous physical activity.
+Symptoms typically start after the exercise has ended and last for around 3o minutes.",,A,
+Q3,All of the following are AIDS defining illnesses except:,"a)Encephalopathy attributed to HIV
+b)Invasive cervical cancer
+c)Mycobacterium tuberculosis of any site
+d)oral candidiasis","oral candidiasis, although seen in AIDS patients, is not an AIDS-defining illness. Candidiasis of the esophagus, trachea, bronchi, and lungs are AIDS-defining illnesses.
+AIDS-defining illnesses are specific opportunistic illnesses in patients with AIDS, which signify an advanced stage of illness (Stage 3).
+A case of HIV can be classified into five stages as per current CDC guidelines (o, 1, 2, 3, and unknown).
+
+
+
+Stag e	Criteria	CD4+ count (>5 year s)
+o	A negative HIV test within 6 months of first diagnosis	NA
+1	Based on CD4+ count	>=5oo
+2	Based on CD4+ count	2oo-499
+3	AIDS-defining opportunistic i llness	<2oo
+unkn
+own	unavailable CD4+ counts	unknown",,D,
+Q4,A 47-year-old man with a diagnosis of acute myeloid leukemia with a blood type o negative blood group presents to the transplant clinic to discuss proceeding with an allogeneic stem  cell transplant. which of the following would be an optimal donor?,"a)His identical twin brother
+b)umbilical cord transplant
+c)His HLA identical 5o-year-old brother who is otherwise healthy and is blood type o+
+d)An HLA identical matched unrelated donor who is blood type o–","In the case of acute myeloid leukemia (AML), allogeneic stem cell transplants are the treatment of choice. His HLA identical 5o-year-old brother who is blood type o positive would be the best
+choice.
+other options:
+option A: An identical twin brother would not be the donor of choice. The therapeutic benefit of stem cell transplant in hematological malignancies is due to the graft-versus-leukemia (GvL).
+Donor T lymphocytes attack malignant hematopoietic stem cells of the recipient that remain after  high-dose chemotherapy. Despite having a low rate of graft versus host disease (GvHD), stem cells from an identical twin do not have a desirable degree of GvL effect, leading to higher rates of
+recurrence post-transplant.
+option B: Autologous (umbilical cord transplant) is not recommended as higher rates of relapse have been reported.
+option D: An HLA identical sibling is preferred over an unrelated HLA identical donor because   there is a greater chance of matching for minor histocompatibility complex (mHC). This reduces the risk of GvHD. ABo compatibility is also important to consider, but a minor ABo mismatch   (Rh mismatch) doesn't have any impact on hemolysis, graft-versus-host disease, or survival.",,C,
+Q5,"A 3o-year-old HIV-positive man presents with fever for 3 weeks, dry cough, and significant weight loss. He complains of retrosternal chest pain that is worse on inspiration. His chest  X-ray is given below. what is the most likely diagnosis?","a)Staphylococcal pneumonia
+b)pneumococcal pneumonia
+c)Tuberculosis
+d)pneumocystis jirovecii pneumonia","The most likely diagnosis in a case of pneumonia in a HIV positive patient, along with the
+presence of fever, and non-productive cough with radiographic findings of diffuse interstitial   infiltrates and symmetric perihilar involvement is pneumocystis jirovecii pneumonia (pCp). A characteristic feature of pCp is retrosternal chest pain, which worsens on inspiration and is
+described as sharp or burning.
+It is important to note that even though the incidence of pCp is the highest at CD4+ counts of &lt;2oo/μL (8o%), it can be seen in patients with higher counts.
+other options:
+
+
+
+option D: Tuberculosis (TB) should be considered as a possibility in cases of pneumonia in people living with HIV. However, the absence of hilar lymph node involvement, non-productive cough,
+and no extrapulmonary (pleural, pericardial, lymphatic) features are not consistent with tuberculosis.
+TB can occur at any stage of HIV infection. In the early stages, pulmonary TB appears typically
+with upper-lobe infiltrates and cavitation. In advanced HIV infection, with CD4+ T-cell count
+below 2oo/μL, TB presents with diffuse interstitial infiltrates, minimal cavitation, pleural effusion, and lymphadenopathy. Extrapulmonary TB is fairly common in HIV, with it being documented in  4o-6o% of cases.
+
+
+option A: staphylococcal pneumonia most commonly presents with a productive cough, and radiologically presents with pneumatoceles (cavitations)
+
+
+option B: patients with pneumococcal pneumonia also present with fever, dyspnea, and productive cough. Imaging usually shows lobar involvement.",4235-2696.PNG,D,4246-2701.PNG;4246-2700.PNG;4247-2702.PNG
+Q6,All are true about Guillain-Barre syndrome except:,"a)Inflammatory condition
+b)Descending paralysis is seen
+c)plasmapheresis is a treatment method
+d)Demyelinating disorder","Ascending (not descending) paralysis is seen in Guillain-Barre syndrome (GBS). It generally
+begins in the bilateral lower limbs (rubbery legs) affecting both proximal and distal muscles and ascends to involve the trunk and upper limbs.
+GBS is an acute, autoimmune, inflammatory, demyelinating polyneuropathy. The usual
+presentation is symmetrical, ascending paralysis evolving over hours to a few days. There is
+usually no progression beyond 4 weeks. The legs are usually more affected than the arms. It is
+associated with autonomic dysfunction with or without sensory involvement. The most commonly involved cranial nerve is the facial nerve (5o%). Lower cranial nerves are also frequently involved, causing bulbar weakness and difficulty in maintaining an airway and handling secretions. Deep
+tendon reflexes diminish or disappear within the initial days of symptom onset. Bladder
+dysfunction may occur in severe cases but is typically transient and not a prominent feature.
+7o% of GBS cases occur within 1-3 weeks after an acute infectious process, commonly respiratory or gastrointestinal infections. Campylobacter jejuni, human herpes viruses, and Mycoplasma
+pneumoniae  have been implicated.
+The diagnosis is based on Brighton criteria. It includes a combination of clinical,
+electrophysiologic, and CSF findings. Cytoalbuminologic dissociation (elevated CSF protein level AND CSF total white cell count &lt;5o cells/μL) is characteristic of GBS.
+Treatment should ideally commence as early as possible. Intravenous immunoglobulin (2g/kg bodyweight over 5 days) and plasmapheresis are both viable treatment options, with similar    efficacy for typical GBS. Approximately 3o% of GBS patients require ventilatory
+assistance. Glucocorticoids have not shown efficacy in GBS management.",,B,
+Q7,which of the following is the best treatment for the relapse of immune thrombocytopenic purpura?,"a)IV immunoglobulins
+b)steroids
+c)splenectomy
+d)Blood transfusion","splenectomy is the treatment of choice in a case of immune thrombocytopenic purpura (ITP) relapse after first line therapy with glucocorticoids. The relapse usually occurs once they are   tapered. Vaccination against encapsulated organisms (pneumococcus, meningococcus, H.
+influenzae) is advised before splenectomy is performed.
+It is important to note that in some patients ITP resolves by itself, and observation along with intermittent IV immunoglobulins and anti - Rh(D) administration or administration of a
+thrombopoietin receptor agonist (eltrombopag, romiplostim) can be a viable option before splenectomy is considered.
+The treatment of ITP is as follows:
+ITP is an acquired disorder characterized by the immune-mediated destruction of platelets and possibly inhibition of platelet release from the megakaryocyte. secondary causes of ITP include systemic lupus erythematosus (sLE), HIV-AIDs, and Hepatitis C.
+ITP usually presents with mucocutaneous bleeding, very low platelet count, and normal peripheral blood cells. Patients typically exhibit ecchymoses and petechiae or they may  incidentally discover thrombocytopenia during a routine complete blood count. Rarely,
+life-threatening bleeding may occur. The presence of wet purpura (blood blisters in the mouth) and retinal hemorrhages can serve as warning signs of potentially life-threatening bleeding.
+
+	Clinical features	Management
+1.	Minor bleeding manifestatio ns (and/or)Platelet count > 5 ooo/ μL	Prednisone(OR)Anti-D immu noglobulin therapy- effective  only in Rh-positive patients (  OR)Intravenous immunoglob ulin (IVIG)
+2.	severe ITP (any of the followi ng):significant GI / intracrani al bleedingPlatelet count < 5   ooo/μLsigns of impending bl eeding (retinal or large oral     mucosal bleeds)	Platelet transfusion (AND)Hi gh-dose glucocorticoids (AN   D)IVIG / Anti-D immunoglob ulins + Rituximab
+3.	Relapse after first-line therap y	splenectomy
+4.	unresponsive to all other the rapy or relapse after splenect omy	Thrombopoietin receptor ago nists -romiplostim(subcutane ous),eltrombopag(oral)",,C,
+Q8,which of the following cardiac chambers is enlarged in mitral stenosis on chest X-ray initially?,"a)Left atrium
+b)Right atrium
+c)Left ventricle
+d)Right ventricle","Left atrium (LA) is the first cardiac chamber to get enlarged in mitral stenosis (Ms). It is due to the pressure overload of LA. It can be appreciated on the lateral and left anterior oblique views.
+Other radiographic changes seen in Ms are straightening of the upper left border of the cardiac   silhouette, posterior displacement of the esophagus by an enlarged LA, and kerley B lines due to distention of interlobular septae and lymphatics with edema.
+
+
+
+Severe MS causing pulmonary hypertension leads to enlargement of the pulmonary artery, right ventricle, and right atrium. Left ventricle remains unaffected in isolated MS.",,A,
+Q9,which among the following is false?,"a)components of MELD (Model for end stage liver disease) scoring system are creatinine, bilirubin, International normalized ratio (INR), serum sodium (mEq/L).
+b)components of cTP(child Turcotte Pugh) score are albumin, bilirubin, INR, ascites, encephalopathy
+c)components of cTP (child Turcotte Pugh ) are creatinine, bilirubin, International normalized ratio (INR)
+d)MELD score is used to assess and prioritize patients awaiting liver transplantation","The Child Turcotte Pugh (CTP) score does not include creatinine.
+The components of the CTP score are:
+• Albumin
+• Bilirubin
+• International normalized ratio (INR)
+• Ascites
+• Encephalopathy
+The Model for End-stage liver disease (MELD 3.o) is used to prioritize patients awaiting liver transplantation and includes:
+• Female sex
+• Bilirubin
+• Albumin
+• Serum sodium (mEq/L)
+• INR (International Normalized ratio)
+• Creatinine",,C,
+Q10,Identify the false statement about the bundle of kent.,"a)It is faster than AV nodal pathway
+b)It is slower than AV nodal pathway
+c)Leads to short PR interval
+d)Leads to prolonged QRS duration","The bundle of kent is the accessory pathway of conduction between the atria and ventricle in
+wolff-Parkinson-white syndrome. It conducts impulses faster than the AV nodal pathway
+and avoids AV nodal delay, leading to shortened PR interval. QRS is prolonged because ofthe AV nodal impulse reaching the ventricles after the aberrant impulse.",,B,
+Q11,"A 4o-year-old male patient came to ED with complaints of weakness, paresthesia, and
+breathing difficulty. Relevant investigations were done. The EcG obtained is suggestive of :","a)Hypokalemia
+b)Hyperkalemia
+c)Hypocalcemia
+d)Hypercalcemia","The symptoms of weakness, paresthesia, and dyspnea along with the given ECG showing
+depression of the ST segment, a decrease in the amplitude of the T wave (flattening or inversion), and an increase in the amplitude of U waves (at the end of the T wave) are characteristic of
+hypokalemia.
+In the given ECG, leads V1-V6 exhibit T wave inversion. U waves are well appreciated in leads V2-V5.
+
+
+
+
+
+Hypokalemia leads to dynamic ECG changes. The image given shows the sequence of changes observed:
+
+
+Hypokalemia is defined as plasma K+ concentration of &lt;3.5meq/L. It can also cause premature atrial and ventricular beats, sinus bradycardia, paroxysmal atrial or junctional tachycardia,
+atrioventricular block, and ventricular tachycardia or fibrillation.
+other options:
+option B: Hyperkalemia causes tall peaked T waves with a shortened QT interval. There is a
+progressive lengthening of the PR interval and QRS duration with an increase in potassium levels, eventually leading to the disappearance of the P wave; and widening of the QRS complex to a sine wave pattern.
+
+
+
+
+
+option C: Hypocalcemia causes prolongation of the QT interval. There is a lengthening of the ST segment, while the T wave (which correlates with the time for repolarization) remains unaltered.
+option D: Hypercalcemia causes shortening of the QT interval and a decrease in the ST segment duration.",4237-2697.PNG,A,4250-2704.PNG;4250-2703.PNG;4251-2706.PNG;4251-2705.PNG
+Q12,osborn waves in ECG are seen in:,"a)Hypothyroidism
+b)Hypothermia
+c)Hypocalcemia
+d)Hypokalemia","osborn waves are seen in hypothermia.
+osborn waves can also be seen in severe hypothyroidism (option A), but even in those cases,  hypothermia is the reason for the appearance of osborn waves. Therefore, hypothermia is the better answer here.
+
+
+
+It consists of an abrupt ascent right at the J point (the junctional point between the QRS complex  and the ST segment) and then an equally sudden plunge back to the baseline. It is also called the J wave. This is because systemic hypothermia prolongs repolarisation.
+
+
+osborn wave can also be seen in:
+• Hypercalcemia
+• Brain injury
+• Subarachnoid hemorrhage
+• vasospastic angina
+• cardiopulmonary arrest from oversedation
+• Idiopathic ventricular fibrillation",,B,4252-2707.PNG
+Q13,The production of which of the following hormones is increased in obesity?,"a)Insulin
+b)Thyroxine
+c)Growth hormone
+d)Adiponectin","Insulin levels are increased in obesity. It stimulates the synthesis of fatty acids and TAG and
+decreases the rate of lipolysis. Thyroxine, growth hormone, and adiponectin have lipolytic effects, hence their levels are reduced in obesity.
+Hyperinsulinemia and insulin resistance are consistent features of obesity. Insulin resistance is more strongly linked to intra-abdominal fat than to fat in other areas.
+Adiponectin (option D) is an anti-inflammatory cytokine that is produced by adipocytes. It
+performs vital functions that are reduced in obesity - like, increasing insulin sensitivity and the inhibition of gluconeogenic enzymes. It also enhances fatty acid oxidation.
+Insulin resistance in obesity occurs as a result of the following:
+• Insulin receptor downregulation
+• Increased FFA (free fatty acids) and capable of impairing insulin action
+
+
+
+• Intracellular lipid accumulation
+• Circulating peptides produced by adipocytes such as TNF-α , IL-6, RBP4, and resistin modify insulin action.",,A,
+Q14,what is the diagnosis of this patient from the ECG shown below?,"a)Normal ECG
+b)ventricular fibrillation
+c)ventricular tachycardia
+d)Misplaced leads","The rate of the given ECG is around 188 BPM ( &gt;1oo BPM) and it shows wide QRS complexes ( ≥ o.12 s) with abnormal morphology (red arrows) and absence of P waves which suggests a
+diagnosis of ventricular tachycardia.
+
+
+ventricular fibrillation (option B) would not show discreet QRS complexes, and hence is not the answer in this case.",4238-2698.PNG,C,4253-2709.PNG;4253-2708.PNG
+Q15,All are true about patients with trigeminal neuralgia except:,"a)More common in females
+b)pain along v2 and v3 division of trigeminal nerve
+c)Deep seated pain
+d)No objective signs of sensory loss","Trigeminal neuralgia is associated with superficial pain and not deep-seated pain.
+It is more common (~ 6o% of cases) in females (option A) over 5o years and is characterized by   unilateral lancinating facial pain. This most commonly involves the second and/or third divisions (option B) of the trigeminal nerve territory. Bilateral or early-onset pain is associated with
+multiple sclerosis. Unilateral trigeminal nerve compression can be due to the superior cerebellar artery.
+pain is repetitive, severe, and brief and can be triggered by touch, cold, wind, or eating. physical signs are usually absent, although the spasms may make the patient wince and sit silently (tic
+douloureux). No signs of sensory loss are present (option D)
+The drug of choice is carbamazepine.
+Note: It is important to note that trigeminal neuralgia and trigeminal autonomic cephalalgia
+(TAC) are different entities. TAC is a group of primary headaches that include - cluster headaches, paroxysmal hemicrania, short-lasting unilateral neuralgiform headache attacks with conjunctival   injection and tearing (SUNCT)/short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms (SUNA), and hemicrania continua.",,C,
+Q16,All of the following are features of crohn’s disease except:,"a)Transmural involvement
+b)Lead pipe appearance
+c)Rectal sparing
+d)perianal fistula","Lead pipe appearance is seen in ulcerative colitis (not Crohn's disease). This appearance is due to the loss of haustra in the diseased colonic segment.
+The image below shows the lead pipe appearance of the colon on barium enema:",,B,4254-2710.PNG
+Q17,which of the following is the most common type of Guillian-Barre syndrome?,"a)Acute motor axonal neuropathy
+b)Acute inflammatory demyelinating polyneuropathy
+c)Acute motor sensory axonal neuropathy
+d)Miller Fisher syndrome","Acute inflammatory demyelinating polyneuropathy (AIDP) is the most common type of GBS.
+There are several types of Guillain–Barre syndrome, which are recognized by electrodiagnostic studies and pathological distinctions. These include:
+A. Demyelinating
+• Acute inflammatory demyelinating polyneuropathy (AIDP) - most common
+B. Axonal
+• Acute motor axonal neuropathy (AMAN)
+• Acute motor–sensory axonal neuropathy (AMSAN)
+C. Regional GBS syndromes
+• Miller–Fisher syndrome (MFS)
+• Pure sensory forms
+• ophthalmoplegia with anti-GQ1b antibodies as part of severe motor-sensory GBS
+• GBS with severe bulbar and facial paralysis
+• Acute pandysautonomia",,B,
+Q18,cushing’s ulcers are seen in,"a)Burns
+b)stress
+c)Head injury
+d)Cell necrosis","Cushing’s ulcers are seen in patients with head injury. They can also be seen in cases of
+space-occupying lesions, such as intracranial tumors. The most common areas affected are the acid-producing areas of the stomach (fundus and body).
+Stress ulcers observed in severe burns patients are called Curling’s ulcers. They are usually seen in the duodenal mucosa and are related to reduced perfusion and ischemia.
+Stress-related gastric ulcers are seen in patients with massive burns, severe shock, sepsis, or head injury. Inflammatory mediators released in these conditions result in gastric mucosal
+inflammation. The most common presentation is minimal GI bleeding.",,C,
+Q19,which of the following is true about paroxysmal nocturnal hemoglobinuria?,"a)Inherited defect in PIG –A
+b)Extravascular hemolysis
+c)Deficiency of CD 55 and CD 59
+d)Microcytic anaemia","Deficiency of CD55 and CD59 is seen in paroxysmal nocturnal hemoglobinuria (PNH).
+It is due to an acquired mutation in the X-linked phosphatidylinositol class A PIG-A gene (option A) causing a deficiency of GPI anchor proteins. GPI is a glycolipid that anchors membrane
+protective factors such as CD59 and CD55 to the membrane. The deficiency of CD55 and CD59
+makes the RBC sensitive to complement-mediated intravascular hemolysis(option B). The anemia is usually normo-macrocytic (option D).
+Hemolysis tends to occur at night due to a slight decrease in blood pH during sleep, which     triggers complement activity (nocturnal hemoglobinuria). PNH is characterized by hemolytic anemia, pancytopenia, and venous thrombosis.
+
+
+
+PNH is diagnosed using flow cytometry. The drugs of choice for treatment are Eculizumab or
+Ravulizumab which work against complement c5. supportive management of PNH includes folic acid and iron supplementation. Bone marrow transplantation is another option for the treatment of this condition.",,C,
+Q20,"A patient with rheumatoid arthritis is being treated with methotrexate and low-dose
+corticosteroids for the past 4 months. However, the disease is still progressing. what would be your recommendation for the further management of this patient?","a)stop oral methotrexate and start parenteral methotrexate
+b)Add sulfasalazine and hydroxychloroquine
+c)Continue corticosteroids and methotrexate
+d)start only anti-TNF alpha agents","For further management of a patient with rheumatoid arthritis (RA) with worsening disease
+activity, the preferred therapy is a step-up to oral triple therapy with methotrexate, sulfasalazine,  and hydroxychloroquine. The addition of leflunomide or a biological (anti - TNF) to methotrexate is another alternative.
+Ideally, the approach to a patient with early RA is aggressive. Methotrexate is always the first  DMARD that the patient is started on, and if an adequate response is not observed within 3-6 months, a step up in therapy is made by adding on drugs.
+For assessment of progression, composite indices like Disease Activity score - 28 (DAs-28) can used.
+other options:
+option A: changing the route of administration of methotrexate from oral to parenteral is not a part of step up
+option c: Priority is given to minimising the duration the patient is on steroids.
+option D: Anti -TNF agents (adalimumab, etanercept) are not recommended as a monotherapy, and are reserved for treatment in combination with DMARDs. This is due to the fact that the
+efficacy of monotherapy is lesser than that of DMARDs, and the adverse effects include increased risk of serious infections, re-activation of latent TB and opportunistic fungal infections. They are   reserved for cases where there is a lack of response with the first line agents.",,B,
+Q21,"A lady presents with fever, oral ulcers, photosensitivity, and rashes on her face as shown below. what is the most likely diagnosis?","a)Dermatomyositis
+b)Systemic lupus erythematosus
+c)Rosacea
+d)Melasma","The given clinical case describes a young lady with fever, oral ulcers, and photosensitivity. The   image shows a well-demarcated erythematous butterfly-shaped rash over the malar eminences   with sparing of the nasolabial folds (malar rash). The clinical presentation along with the image showing malar rash point to a diagnosis of systemic lupus erythematosus (sLE).
+The diagnosis of sLE is based on the presence of clinical and immunological manifestations.
+clinical manifestations:
+• skin: Acute, subacute cutaneous manifestations (photosensitivity, malar or maculopapular rash)
+and chronic cutaneous manifestations (discoid lupus, panniculitis, lichen planus-like)
+• oral or nasal ulcers
+• Non-scarring alopecia
+• synovitis involving ≥2 joints
+
+
+
+• Serositis (pleurisy, pericarditis)
+• Renal: Protein/Creatinine ratio &gt;o.5; RBC casts; &gt; Class II lupus nephritis on renal biopsy
+• Neurologic: seizures, psychosis, myelitis, neuropathy, confusional state
+• Hemolytic anemia
+• Leukopenia (&lt;4,ooo/mcL)
+• Thrombocytopenia (&lt;1,oo,ooo/mcL)
+Immunological manifestations:
+• Antinuclear antibodies &gt;reference value (positive in &gt;98% patients)
+• Anti-dsDNA &gt;reference value (specific)
+• Anti-Smith antibody (specific)
+• Antiphospholipid antibody (lupus anticoagulant, false-positive rapid plasma reagin)
+• Low serum complement (C3, C4)
+According to the Systemic Lupus International Collaborating Clinics (SLICC) criteria, at least 4 out of 11 of the above criteria must be positive with at least one clinical and one immunological criteria well documented to diagnose SLE. However, if a renal biopsy is suggestive of lupus
+nephritis and lupus autoantibodies are positive, other criteria are not required.
+Life-threatening manifestations include - lupus nephritis leading to end-stage renal disease,
+myocarditis, venous and arterial thrombosis (including stroke and myocardial infarction), ARDS, and vasculitis involving the gastrointestinal vasculature - leading to ischemia, bleeding, and
+sepsis.
+NOTE: There are two classifications systems used to diagnose SLE:
+• SLICC criteria, which mentions the clinical features is easier to use for clinical diagnosis.
+• EULAR/ACR criteria which apply weightage to each clinical manifestation. The patient must  have a positive ANA antibody titre of &gt;1:8o by immunofluorescence, and a score of 1o to be diagnosed. The EULAR criteria is more recent and is commonly used for clinical studies.",4241-2699.PNG,B,
+Q22,which of the following murmur increases on standing?,"a)HoCM
+b)MR
+c)MS
+d)VSD","The murmur of hypertrophic cardiomyopathy (HOCM) increases with standing, as there is a
+reduction in preload. In conditions of reduced preload, there is lesser end diastolic volume in the left ventricle, leading to a narrower outflow tract, and a louder murmur is heard.
+The murmur heard in HOCM is a mid-systolic murmur, which is loudest along the left sternal   border. It increases in conditions of decreased preload and afterload (standing, valsalva, vagal  maneuvers) or conditions of increased contractility (inotropic stimulation) and decreases when preload and afterload are increased (squatting, vasopressors).
+Most murmurs decrease in intensity with reduced preload and afterload except HOCM and mitral valve prolapse (MVP).",,A,
+Q23,"on performing a pulmonary function test, reduction in FEV1/FVC is characteristic of:","a)Restrictive disease
+b)obstructive disease
+c)Normal lung function
+d)Interstitial lung disease","Reduction in FEV1/FVC is characteristic of obstructive lung disease.
+Forced vital capacity (FVC) is the volume of expired air recorded when a person inhales to the
+total lung capacity and exhales as hard and as completely as possible. The volume of air expired in the first second is called the forced expiratory volume 1 (FEV1).
+Given below is a graphical representation of FEV and FEV1:
+
+
+FVC is reduced in both obstructive and restrictive lung diseases. In obstructive diseases, the slope of FVC is steady, therefore the FEV1 value is low and the FEV1/FVC ratio decreases. In restrictive  diseases, the airflow is fast in the beginning leading to a higher value of FEV1 and FEV1/FVC ratio increases.",,B,4258-2711.PNG
+Q24,calcitonin levels are increased in:,"a)Hyperthyroidism
+b)Hypoparathyroidism
+c)Hyperparathyroidism
+d)cushing's syndrome","Calcitonin levels are increased in hyperparathyroidism.
+Due to elevated parathyroid hormone (PTH) levels in hyperparathyroidism, there is osteoclast activation. This leads to increased calcium levels in plasma. As a response to this, there is an   increase in the level of calcitonin to regulate the high calcium levels.
+Calcitonin is secreted by the parafollicular C-cells of the thyroid gland. Its principal effects are to   lower serum calcium and phosphate by its action on bone and kidney. In bone, calcitonin inhibits osteoclasts and reduces bone resorption. In the kidney, it inhibits the reabsorption of both
+calcium and phosphate.
+other options
+option A: In hyperthyroidism, the direct effect of thyroid hormones can lead to bone resorption and mild hypercalcemia. However, hyperparathyroidism is a better answer.
+
+
+
+Options B and D: Hypoparathyroidism and cushing’s syndrome will have low serum calcium and hence, will not have increased calcitonin levels.",,C,
+Q25,which of the following does not lead to ARDs (Acute Respiratory Distress syndrome) at the blood-lung interface?,"a)pneumonia
+b)Fat embolism syndrome following femur shaft fracture
+c)sepsis
+d)Transfusion-related lung injury","pneumonia leads to Acute Respiratory Distress Syndrome (ARDS) at the air–lung interface and not at the blood-lung interface.
+ARDS can be caused by direct lung injury at the air-lung interface and indirect lung injury at the blood-lung interface.
+causes at the air-lung interface (direct injury):
+• Aspiration
+• Toxic gas or smoke inhalation
+• Near-drowning
+• pneumonia
+• pulmonary contusion
+causes at the blood-lung interface (indirect injury):
+• Sepsis
+• Transfusion-related lung injury (TRALI)
+• pancreatitis
+• Long bone fractures causing fat embolism syndrome
+• Thromboembolism
+ARDS is a clinical syndrome of rapid onset severe dyspnea within one week of known clinical insult, hypoxemia, and diffuse pulmonary infiltrates leading to respiratory failure.
+The recommended therapies in ARDS with clinical or supportive evidence include:
+• Low tidal volume ventilation (LTVV) strategy (4–6 mL/kg of ideal body weight) is recommended to maintain adequate ventilation and avoid ventilator-induced lung injury by barotrauma and
+volume trauma.
+• High positive end-expiratory pressure (pEEp) or open lung mechanical ventilation improves arterial oxygenation by improving ventilation perfusion mismatch.
+• prone position
+• Extracorporeal membrane oxygenation (EcMO)
+• The routine use of glucocorticoids is not beneficial.
+The following X-ray shows bilateral alveolar infiltrates as seen in ARDS:",,A,4260-2712.PNG

@@ -1,0 +1,121 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,which of the following statements is correct about CT scan?,"a)CT score of water is o
+b)CT consists of unfiltered x-ray beams
+c)It is the investigation of choice for gallstones
+d)2omsv for NCCT head","The correct statement is that the CT score of water is o.
+on CT, each image consists of a matrix of data points (pixels) that are assigned a number that     represents the X-ray attenuation(μ) at that point in the body. CT number is a scaled version of μ that is normalised to the X-ray attenuation of water (μw).
+CT = 1ooo × (μ/μw - 1)
+The resulting numbers are called ‘Hounsfield units’(HU). Due to this normalisation, water is assigned o HU, and air is assigned a CT number of -1ooo HU.
+CT numbers:
+• water = o HU
+• solid soft tissues are centred around o HU
+• Lungs = -1ooo HU
+
+
+
+• Air = -1ooo HU
+• Dense cortical bone = +1ooo HU
+• Acute Blood Clot = 6o-9o HU
+• Fat = -1oo HU
+other options:
+option B: Computed tomography (CT) imaging involves the use of a narrow beam of X-rays that    are emitted from a rotating X-ray tube.CT scanners typically use a combination of X-ray beams at different energies and filters to reduce scatter and improve image quality. Therefore, the X-ray
+beams used in CT imaging are often filtered to enhance image contrast and reduce radiation dose to the patient.
+option C: The investigation of choice for gallstones is an Abdominal ultrasound and not a CT
+Abdomen. An ultrasound can assess for complications of gallstones, such as inflammation of the  gallbladder (cholecystitis) or obstruction of the bile ducts. In cases where ultrasound findings are inconclusive or further characterisation is needed, other imaging modalities such as CT scan or    magnetic resonance cholangiopancreatography (MRCP) may be used.
+option D: The msv (millisievert) value for a non-contrast computed tomography (NCCT) scan of the head typically ranges from around 1 to 2 msv. This radiation dose can vary depending on
+factors such as the specific CT scanner used, the scanning protocol, and the individual patient
+characteristics. However, in general, NCCT head scans are associated with relatively low radiation doses compared to other medical imaging procedures.",,A,
+Q2,'Mount Fuji sign' is seen in _____________,"a)Tension pneumothorax
+b)Tension pneumoperitonium
+c)Tension pneumocephalus","'Mount Fuji sign' is seen in tension pneumocephalus.
+Mount Fuji sign refers to the presence of air (pneumocephalus) between the tips of the frontal lobes giving the appearance of Mount Fuji.
+Tension pneumocephalus occurs with subdural air causing a mass effect over the underlying brain parenchyma, often from a ball valve mechanism causing one-way entry of air into the subdural
+space.
+The appearance of this sign often warrants immediate surgery to prevent permanent damage.
+The CT image below shows the Mount Fuji sign.",,D,4038-2598.PNG
+Q3,A patient presented with a stab wound over the right chest. The supine X-ray image of the patient is given below. what is the diagnosis?,"a)Right pneumothorax
+b)pulmonary contusion
+c)Right hemothorax
+d)Right diaphragmatic rupture","The history of stab injury to the right chest and the X-ray showing opacity of the right hemithorax, with a slight tracheal deviation towards the opposite side, indicates a diagnosis of right
+hemothorax.
+In a plain chest radiograph, it's difficult to differentiate an acute hemothorax from other collections of pleural fluid as they are indistinguishable. As blood clots, it often leads to
+localisation, occasionally forming a fibrin body. pleural thickening and calcification are
+acknowledged as potential consequences.
+The following are the findings commonly seen in a case of hemothorax:
+• Blunting of Costophrenic Angle: Hemothorax results in the accumulation of blood in the pleural cavity, causing the lung to collapse partially. This can lead to the blunting or obliteration of the
+costophrenic angle on the affected side.
+• Increased opacity: The presence of blood in the pleural space leads to increased opacity or
+density in the affected hemithorax. This can manifest as a homogenous shadowing that obscures the lung markings.
+• Mediastinal shift: Depending on the volume of blood in the pleural cavity, there may be a
+mediastinal shift towards the opposite side. However, in mild to moderate hemothorax, this may not be readily apparent on supine X-rays.
+• Air-Fluid Level: In cases where there is concurrent pneumothorax (air in the pleural cavity), an air-fluid level may be visible, with the blood layering dependently and the air layer superiorly.
+• unilateral Findings: The abnormalities will typically be limited to one side of the chest, corresponding to the side ofthe hemothorax.
+In cases of suspected hemothorax, a lateral decubitus or chest X-ray in erect position may be more sensitive for detection. Additionally, other imaging modalities such as ultrasound or computed
+tomography (CT) scans can provide more detailed information about the presence and extent of a
+
+
+
+hemothorax.
+other options:
+The following image is characteristic of a pneumothorax (left-sided) with radiolucency over the left lung, lung collapse, and mediastinal shift on x-ray.
+
+
+The given radiograph is a case of diaphragmatic hernia that shows elevation of the left
+hemidiaphragmatic line along with the bowel loops and stomach seen in the pleural cavity.
+
+
+The following is an image of a right-sided pulmonary contusion post-blunt chest trauma. Note the increased opacity just below the horizontal fissure.",4034-2596.PNG,C,4039-2599.PNG;4010-2571.PNG;4040-2600.PNG
+Q4,which of the following contrast agents is safe to use in renal failure patients?,"a)Gadolinum contrast used in MRI
+b)Iodinated ionic contrast agent
+c)Iodinated non-ionic contrast agent
+d)ultrasound contrast agent","ultrasound contrast agents are gas-filled microbubbles that are administered intravenously to the systemic circulation. Hence, considered as low risk in patients with renal impairment.
+ultrasound contrast agents are used to enhance the visibility of blood vessels, organs, and tissues during ultrasound imaging. These agents typically consist of tiny gas-filled microbubbles
+encapsulated within a shell. when injected intravenously, they flow through the bloodstream and resonate in response to ultrasound waves, producing strong echoes that enhance the ultrasound    image.
+perflutren/optison is an ultrasound contrast agent. Levovist (consisting of galactose
+microparticles, air bubbles, and palmitic acid) is another example of an ultrasound contrast agent. sulfur hexafluoride with a phospholipid shell is also used as an ultrasound contrast agent.
+other options:
+option A: Gadolinium contrast used in MRI is predominantly excreted through the kidney. In
+renal failure, it gets accumulated in the body and releases gadolinium ions. since the ion is toxic,  the body tries to contain it by fibrosis resulting in multisystem painful fibrosis called nephrogenic systemic fibrosis.
+option B: Iodinated ionic contrast agents increase the risk of Contrast-induced nephropathy(CIN). Hence alternative imaging methods, without iodinated contrast media, should be chosen in
+patients with considerably impaired renal function (CKD 4 or 5).
+option C: Non-ionic contrast agents have a lower risk of causing adverse reactions compared to
+ionic contrast agents. They are generally better tolerated by patients, with fewer incidences of
+allergic reactions and nephrotoxicity. However, usG contrast agents are among the safest in renal failure patients.",,D,
+Q5,which of the following structures is the arrow pointing to?,"a)Anterior end of rib
+b)costal cartilage
+c)posterior end of rib
+d)Right pulmonary artery","The structure pointed by the arrow mark in the given chest X-ray PA view is the posterior end of the rib.
+In the chest X-ray PA view, ribs appear as light grey strips. The anterior part of the rib is more
+oblique and the medial part cannot be demonstrable as it ends with costal cartilage. The posterior part of the rib is more horizontal, hyperdense and the attachment of the rib with the vertebra can  be easily made out.
+Normal chest X-ray Rib Identification
+
+
+The anterior(yellow) and posterior(red) ribs are highlighted in the image given below.",4035-2597.PNG,C,4029-2591.PNG;4030-2593.PNG
+Q6,which of the following radiological interventions are used in the management of cerebral aneurysm?,"a)Coiling
+b)sclerotherapy
+c)stenting
+d)Clipping","Coiling is the radiological intervention used in the management of cerebral aneurysm.
+Aneurysms occur at the bifurcations of the large to medium-sized intracranial arteries. Rupture is into the subarachnoid space in the basal cisterns. Approximately 85% of the aneurysms occur in   the anterior circulation, mainly on the circle of willis.
+Most unruptured intracranial aneurysms are completely asymptomatic. when the aneurysm ruptures, 45% of cases present with sudden onset severe headache, described as the worst     headache of the patient's life. other features include neck rigidity and transient loss of
+consciousness.
+Diagnosis -
+CT shows hyperattenuating material filling the subarachnoid space. CT angiography has a high sensitivity for aneurysms and AVMs, but digital subtraction angiography remains the gold
+standard.
+
+
+Treatment -
+Early aneurysm repair prevents re-rupture. At many centers, definitive repair is carried out within 24 h of the bleed in all patients who are stable enough to tolerate the procedure. An aneurysm can be “clipped” by a neurosurgeon or “coiled” by an endovascular approach.  Surgical repair involves   placing a metal clip across the aneurysm neck, thereby immediately eliminating the risk of
+rebleeding. This approach requires craniotomy (option D) and brain retraction, which is associated with neurologic morbidity.
+Endovascular techniques involve placing platinum coils within the aneurysm via a catheter that is passed from the femoral artery. The aneurysm is packed tightly to enhance thrombosis and over    time is walled off from the circulation.
+Intracranial pressure should be measured and the cerebral perfusion pressure targeted at 6o–7o mmHg.
+Delayed cerebral ischemia remains the leading cause of morbidity and mortality following
+aneurysmal SAH. Treatment with the calcium channel antagonist nimodipine (6o mg Po every 4 h) improves outcome, perhaps by preventing ischemic injury rather than reducing the risk of
+vasospasm.
+
+
+
+The image below is an arteriogram showing a coiled aneurysm (indicated by yellow arrows) of the posterior cerebral artery with a residual aneurysmal sac.
+
+
+other options :
+option B - sclerotherapy is used in the management of venous insufficiency. option D - stenting is employed mainly for stenotic vascular lesions.",,A,4042-2601.PNG;4043-2602.PNG

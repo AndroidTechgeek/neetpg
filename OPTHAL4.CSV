@@ -1,0 +1,154 @@
+﻿number,question,options,solution,image_q,answer_key,image_a
+Q1,"A patient presents with left-sided head tilt which on straightening leads to right hypotropia. This increases on dextroversion and right head tilt. paralysis of which of the following
+muscles is involved?","a)Right superior oblique
+b)Right superior rectus
+c)Right inferior oblique
+d)Left inferior oblique","The given clinical scenario is suggestive of right superior rectus palsy.
+
+
+
+The park's-Bielschowsky three-step test is employed to diagnose the muscle paralysis responsible for vertical eye deviation. In this clinical scenario:
+•
+Identify the hypotropic eye in primary gaze
+•
+Right eye is hypotrophic.
+•
+This could be due to either right eye elevator weakness or left eye depressor weakness. •
+possible muscles: Right superior rectus, right inferior oblique, left inferior rectus, or left superior oblique
+•
+observe if hypotropia worsens in specific gazes •
+Hypotropia worsens in right gaze (dextroversion).
+•
+paralyzed muscle is one that elevates the right eye in right gaze or depresses the left eye in right gaze.
+•
+possible muscles: Left superior oblique and right superior rectus.
+•
+Determine if hypotropia worsens in head tilts
+•
+Hypotropia worsens during right head tilt.
+•
+The right superior rectus is the muscle involved.
+Mnemonic for superior oblique paralysis:
+• step 2: vertical deviation (hypertropia/hypotropia) is Worse on opposite Gaze – WooG
+• step 3: vertical deviation (hypertropia/hypotropia) deviation is Better on opposite Tilt – BooT
+
+Muscle	primary action	secondary action	Tertiary action
+Medial rectus (MR)	Adduction	-	-
+Lateral rectus (LR)	Abduction	-	-
+superior rectus (sR)	Elevation(bestwhen the eye is inabduction)	Intorsion (mnemonic: sIN)	Adduction (mnemonic: R Add)
+
+
+
+
+Muscle	primary action	secondary action	Tertiary action
+Inferior rectus (IR)	Depression(bestwhen the ey e is inabduction)	Extorsion	Adduction (mnemonic: R Add)
+superior oblique (s o)	Intorsion (mnemonic: sIN)	Depression(bestwhen eye is inadduction)	Abduction
+Inferior oblique (Io)	Extorsion	Elevation(bestwhen eye is in adduction)	Abduction",,B,
+Q2,which of the following procedure is shown in the image given below?,"a)Nasolacrimal duct syringing
+b)Anterior ethmoidal nerve block
+c)Infraorbital nerve block
+d)Trephination of frontal sinus","The procedure shown in the given image is an anterior ethmoidal nerve block.
+The anterior ethmoidal nerve supplies the roof of the nasal cavity. It is a branch of the nasociliary nerve which in turn is a branch of the ophthalmic nerve (v1). It is sometimes used in endonasal     surgery.
+other options:
+option A: In nasolacrimal duct syringing, the puncta of the nasolacrimal duct near the medial
+canthus of the eye is probed using a lacrimal cannula. The below image shows lacrimal syringing.
+
+
+option C: Infraorbital nerve block causes anesthesia in the distribution of infraorbital nerve which includes lower lid, cheek, side of nose, upper lip, and upper teeth. It is most commonly done for     dental procedures.
+option D: Trephination of the frontal sinus is a surgical procedure done for the drainage of pus in acute frontal sinusitis. In this procedure, the incision is made on the floor of the frontal sinus.",2987-1819.PNG,B,2991-1820.PNG
+Q3,what is the correct order of using eye drops and eye ointment?,"a)Eye drops first, ointment 15 min later
+b)ointment first, eye drops 15 min later
+c)Eyedrops first, then ointment immediately
+d)ointment first, then eyedrops immediately","Eye drops first followed by ointment 15 minutes later is the correct way of usage.
+An ointment is thicker in consistency and needs to stay on the eyes for a longer time for
+absorption of the medication. Hence, it is generally put in the eyes at bedtime.
+Eyedrops are watery thin and can be absorbed faster. Hence eyedrops are put first, and after 1o-15 minutes, once they are completely absorbed, eye ointment can be applied.
+Eye ointments are usually avoided during the daytime as they cause marked blurring of vision.",,A,
+Q4,which of the following statements is false about corneal epithelium?,"a)Regeneration is limited to the limbus
+b)Bowman's membrane regenerates
+c)Lined by stratified squamous epithelium
+d)Apical cells have microvilli","Bowman's membrane is acellular. Hence, it will not regenerate but heals by scarring when damaged.
+corneal stem cells are located at the corneoscleral limbus (option A), so the regeneration is limited to the limbus.
+The cornea comprises distinct layers:
+• corneal epithelium is lined by non-keratinized stratified squamous epithelium (option c), with microvilli on the apical layer (option D) to enhance surface area and tear film attachment. It
+consists of basal, columnar, wing, and squamous cells.
+• Bowman’s membrane, a superficial stromal layer, is acellular, collagen-based, and incapable of regeneration.
+• The stroma, the thickest layer constituting 9o% of corneal thickness, houses collagen fibrils with ground substances such as chondroitin sulfate and keratan sulfate, maintaining transparency. It     cannot regenerate and heals with scarring.
+• Dua’s layer or pre-Descemet's membrane is the toughest.
+• Descemet’s membrane extends anteriorly to schwalbe’s line and possesses regenerative potential.
+• Endothelium, a metabolically active monolayer, lacks regenerative ability. It maintains deturgescence through active pumps, ensuring transparency with a usual cell density of  approximately 3ooo cells/mm2 measured by specular microscopy.",,B,2993-1822.PNG;2993-1821.PNG
+Q5,A patient underwent LASIK for myopia and now is undergoing cataract surgery. what is the formula used for lens power calculation in this patient?,"a)SRK 1
+b)SRK 2
+c)Hoffer Q
+d)Haigis L","Among the given options, the Haigis-L regression formula is used for calculating the lens power in a patient who is undergoing cataract surgery with a previous history of refractive surgery.
+Haigis formula uses Axial Length (L), corneal curvature (k), and Anterior chamber Depth (AcD) for the calculation of IOL power (biometry).
+• keratometry measures the curvature of the anterior corneal surface.
+• A-scan ultrasonography is used to determine the axial length.
+standard IOL calculations are unsuitable in any type of corneal refractive surgery as they are
+likely to result in residual refractive errors even after IOL implantation in these patients. In these patients, several other methods of calculating corneal refractive power are used which are then
+
+
+
+added to the standard and specific formulas such as the Masket, modified masket, Haigis L formula, and double-K method.
+other options:
+options A and B: SRK 1 and SRK 2 are the basic formulas used for IoL power calculations.
+SRK formula: P 〓 A-2.5L-o.9K where P is the power of IoL, A is a constant for the lens, L is the axial length and K is corneal curvature.
+option C: Hoffer Q formula is used for IoL power calculation in short eyes (hypermetropia). It uses only two variables; Axial length (L) and corneal curvature (K).",,D,
+Q6,which of the following pupillary abnormalities is most likely to be observed in a patient with primary open-angle glaucoma?,"a)Marcus Gunn pupil
+b)Adie’s tonic pupil
+c)Argyll-Robertson pupil
+d)Hutchinson's pupil","Primary open-angle glaucoma commonly causes bilateral and asymmetric optic nerve
+damage. Marcus Gunn pupil also known as relative afferent pupillary defect (RAPD) is the earliest sign of optic nerve disease as seen in optic nerve neuritis or primary open-angle glaucoma(PoAG). RAPD is caused due to a defect in the afferent pathway (optic nerve) of the pupillary light reflex in one eye.
+It is diagnosed by the swinging flashlight test where the flashlight is swung to and fro, and the  pupillary response is observed. Normally, both pupils constrict when any one eye is stimulated (due to direct and consensual light reflex). In the presence of RAPD, both
+pupils will abnormally dilate when the affected eye is stimulated. This paradoxical response of the pupil to light is called Marcus Gunn pupil.
+Causes of RAPD:
+• optic nerve lesions (e.g.All types of optic neuritis, glaucoma)
+• optic tract lesions (e.g., infarction)
+• Severe retinal disease (e.g., central retinal artery occlusion, extensive retinal detachment)
+• Maculopathy (macular degeneration )
+other options:
+option B: Adie tonic pupil is a unilateral dilated pupil with light-near dissociation due to
+postganglionic parasympathetic pupillomotor nerve supply damage. In these patients the light reflex is absent and the accomdation (near) reflex is sluggish. It is commonly seen in young
+females and is associated with absent knee jerk.
+option C: Argyll Robertson pupils are bilateral small pupils with light-near dissociation. It is
+commonly seen in patients with neurosyphilis. In these patients the pupillary reflex is absent but the accommodation reflex is present (ARP).
+option D: Hutchinson's pupil is a clinical sign where the pupil on the side of an intracranial mass lesion is dilated and unreactive to light, due to compression of the oculomotor nerve on that side.",,A,
+Q7,which of the following helps to differentiate a fixed dilated pupil? A. phenylephrine B. 1% pilocarpine C. o.1% pilocarpine D. Cocaine o.5% E. Epinephrine,"a)A, B, C, D and E
+b)B and C only
+c)A , D and E only
+d)A, C and D","Among the given options, 1% pilocarpine and o.1% pilocarpine can be used to differentiate fixed dilated pupil.
+Fixed dilated pupil is seen in conditions such as third nerve palsy, Hutchinson's pupil (increased cranial pressure), Adie's pupil, and due to pharmacological mydriasis.
+Pilocarpine acts as an agonist at cholinergic muscuranic receptors and ganglion stimulator to cause miosis of the pupil.
+Normal strength pilocarpine (1-2%) constricts the dilated pupil of 3rd nerve palsy, whereas there will be no response if the dilation is due to pharmacological mydriasis (anticholinergic causes)     such as accidental application of atropine.
+o.1% pilocarpine is used to diagnose Adie's pupil. Adie's pupil constricts with weak concentrations of pilocarpine (o.1%), while the normal pupil does not. This is because the denervated sphincter of the iris is very sensitive to topical parasympathomimetics such as pilocarpine. o.1% pilocarpine
+also helps differentiate Adie's pupil from Argyll Robertson pupil (ARP).
+Note:
+cocaine test (2 to 4%) is done in Horner’s syndrome. In these patients, the small pupil fails to
+dilate on instillation of mydriatics such as cocaine which is in contrast to the normal pupil which dilates on instilling cocaine. Alternatively, the small pupils of Horner's syndrome dilate with 1%   apraclonidine.",,B,2995-1823.PNG
+Q8,True regarding pOAG:,"a)A,B, D and E
+b)A, B and C
+c)B and E only
+d)B, C and D","In primary open-angle glaucoma (POAG), family members are likely to develop steroid
+responsiveness (statement B) and visual field defect can exist with a normal c:D ratio (statement E).
+statement A: Gonioscopy cannot visualize the specific abnormalities that occur in the trabecular  meshwork in POAG. Gonioscopy diagnoses POAG because of the visibility of all the structures of the angle of the anterior chamber in contrast to the non-visibility of different structures in angle
+
+
+
+closure glaucoma.
+statement C: Primary angle-closure glaucoma is associated with exacerbation of IOP with pupillary dilatation and not POAG.
+statement D: There is a 1o% increased risk of POAG in siblings and a 4% increased risk in children of patients with POAG.
+POAG also known as chronic simple glaucoma of adult-onset is characterized by the presence of any 2 of the following 3 categories of changes:
+• Increased intraocular pressure:
+• IOP &gt;21mmHg on more than one occasion, and/or
+• Circadian variation in IOP of &gt;8 mmHg, or
+• Asymmetry in IOP &gt; 5 mmHg between both eyes
+• Optic nerve head changes suggestive of glaucomatous damage. These may include one or more of the following changes:
+• vertically oval cup
+• Cup-disc (C:D) ratio &gt; o.6 (average cup: disc ratio o.3-o.4)
+• Asymmetry in C:D ratio &gt; o.2 between both eyes.
+• Narrowing, notching, or pallor of the neuroretinal rim.
+• Disc haemorrhages
+• Nasal shifting of retinal vessels-Bayonetting sign
+• Lamellar dot sign
+• visual field changes - isopter contraction, barring of blind spot, paracentral scotoma, seidel's scotoma, Bjerrum's scotoma, double arcuate scotoma, and Roenne's central nasal step.
+A patient presenting with just raised IOP and visual field defects with normal optic nerve head findings such as a normal C:D ratio can still be diagnosed as POAG (statement E).",,C,

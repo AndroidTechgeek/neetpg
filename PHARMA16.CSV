@@ -1,23 +1,23 @@
-ï»¿number,question,options,solution,image_q,answer_key,image_a
+number,question,options,solution,image_q,answer_key,image_a
 Q1,A man presents with mixed infection of plasmodium vivax and plasmodium falciparum in a health centre in Rajasthan. what is the dosage of the treatment given on the second day?,"a)4 tablets of Artesunate 5omg + 6 tablets of primaquine 2.5mg
 b)4 tablets of Artesunate 5omg + 6 tablets of primaquine 7.5mg
 c)4 tablets of Artesunate 5omg + sulphadoxine 15oomg + 6 tablets of primaquine 2.5mg
 d)4 tablets of Artesunate 45mg + sulphadoxine 15oomg + 6 tablets of primaquine 7.5mg","The dosage of the treatment given on the second day for mixed infection with plasmodium vivax and plasmodium falciparum is 4 tablets of Artesunate 5omg + 6 tablets of primaquine 2.5mg.
 For treating mixed infections of plasmodium vivax and plasmodium falciparum, the following treatment regimen is recommended. This approach ensures comprehensive treatment by
-addressing both the blood stages of plasmodium falciparum with ACT and the liver stages of plasmodium vivax with primaquine.",,KEY NOT FOUND,1319-798.PNG
+addressing both the blood stages of plasmodium falciparum with ACT and the liver stages of plasmodium vivax with primaquine.",,A,1319-798.PNG
 Q2,which drug is used to treat multiple myeloma that is known to cause reactivation of Herpes zoster?,"a)Bortezomib
 b)Lenalidomide
 c)Daratumumab
 d)Elotuzumab","The drug used to treat multiple myeloma and that has the potential to cause reactivation of Herpes zoster is bortezomib.
 Bortezomib is an inhibitor of proteasome-mediated protein degradation. It is central to the
 treatment of multiple myeloma, both untreated and relapsed. Bortezomib is given intravenously or subcutaneously and dosage depends upon the disease, route of administration, and the
-patientâ€™s history.  It is known to predispose patients to the reactivation of herpesvirus, including Herpes zoster.
+patient’s history.  It is known to predispose patients to the reactivation of herpesvirus, including Herpes zoster.
 Adverse effects include thrombocytopenia, fatigue, peripheral neuropathy, neutropenia, anaemia, anorexia, nausea, limb pain, dizziness, etc. other adverse events like cardiac tamponade,
 disseminated intravascular coagulation, toxic epidermal necrolysis, etc. have been reported.
 other options:
 option B: Lenalidomide is the drug of choice in patients with myelodysplastic syndrome (MDS)    associated with 5q deletion, and is an immunomodulatory analogue of thalidomide. It suppresses bone marrow and is often associated with significant leukopenia.
 option C: Daratumumab is a monoclonal antibody against CD-38.
-option D: Elotuzumab is a monoclonal antibody against SLAMF7, a glycoprotein expressed in    multiple myeloma cells and natural killer cells. It is used in combination with lenalidomide and dexamethasone for the treatment of multiple myeloma.",,KEY NOT FOUND,
+option D: Elotuzumab is a monoclonal antibody against SLAMF7, a glycoprotein expressed in    multiple myeloma cells and natural killer cells. It is used in combination with lenalidomide and dexamethasone for the treatment of multiple myeloma.",,A,
 Q3,"A patient presented with breathing difficulty and nasal polyposis when he took aspirin for
 fever. He faced this issue previously too when he took aspirin. which among the following is not true about this?","a)There is no allergic sensitization to aspirin and its metabolites
 b)Responds to Monteleukast
@@ -26,9 +26,9 @@ d)occurs with exposure to other NsAIDs too that block Cox 1","The diagnosis for 
 
 not true is that ""it occurs on exposure to only aspirin"", as this condition can also be triggered by other NSAIDs that inhibit Cox-1, and is not restricted to just aspirin alone.
 Samter's triad is also known as aspirin-induced asthma or aspirin-sensitive asthma. It consists of:
-â€¢ Nasal polyposis
-â€¢ Bronchial asthma
-â€¢ Aspirin intolerance
+• Nasal polyposis
+• Bronchial asthma
+• Aspirin intolerance
 A patient with Samter's triad experiences severe asthma and nasal polyposis triggered by aspirin or other Cox-1 inhibitors. This condition involves nasal congestion, rhinorrhea, anosmia, and
 recurrent chronic rhinosinusitis, with acute asthma attacks often occurring a few hours after ingestion of these medications.
 These patients overproduce leukotrienes due to Cox-1 inhibition and decreased prostaglandin E2 (pGE2) levels. Therefore, they should avoid Cox-1 inhibitors like aspirin and most NSAIDs but     can generally tolerate Cox-2 inhibitors and acetaminophen.
@@ -39,7 +39,7 @@ other options:
 option A: The reaction in aspirin-induced asthma is not due to an allergic sensitization but rather due to the inhibition of Cox-1 and subsequent overproduction of leukotrienes.
 option B: Montelukast, a leukotriene receptor antagonist, is effective in managing symptoms of aspirin-induced asthma by counteracting the elevated levels of leukotrienes that contribute to     inflammation and respiratory issues.
 option D: It occurs with exposure to other NSAIDs too, that block Cox-1. patients with
-aspirin-induced asthma can react to other NSAIDs that inhibit Cox-1, not just aspirin.",,KEY NOT FOUND,
+aspirin-induced asthma can react to other NSAIDs that inhibit Cox-1, not just aspirin.",,C,
 Q4,A 75-year-old female presented with urinary incontinence. she also has cognition decline and dementia. which of the following drugs is useful for treating urinary incontinence?,"a)Tiotropium
 b)Ipratropium
 c)Tolterodine
@@ -50,12 +50,12 @@ Cyp2D6, so its dosage may need adjustment based on individual Cyp2D6 activity, m
 other muscarinic antagonists for urinary incontinence include oxybutynin, trospium chloride, darifenacin, solifenacin, and fesoterodine. oxybutynin, though effective, often causes
 antimuscarinic side effects such as xerostomia. Trospium chloride, being a quaternary amine, is better tolerated and excreted primarily via the kidneys, requiring dosage adjustments in renal
 
-impairment. Darifenacin and solifenacin have selectivity for M3 receptors, which helps balance    efficacy and side effects, while fesoterodine, a prodrug, provides a stable pharmacokinetic profile due to its conversion to tolterodineâ€™s active metabolite.
+impairment. Darifenacin and solifenacin have selectivity for M3 receptors, which helps balance    efficacy and side effects, while fesoterodine, a prodrug, provides a stable pharmacokinetic profile due to its conversion to tolterodine’s active metabolite.
 other options:
 option A: Tiotropium and option C: Ipratropium are muscarinic antagonists used primarily for    respiratory conditions such as chronic obstructive pulmonary disease (CopD) and asthma, rather than urinary incontinence. Tiotropium is a long-acting agent with selectivity for M1 and M3
 receptors, while Ipratropium is used more frequently for its short-acting effects.
 option D: Telenzepine, an analogue of pirenzepine, displays higher potency and selectivity for M1 receptors compared to pirenzepine and is used in treating acid-peptic disease, not urinary
-incontinence.",,KEY NOT FOUND,
+incontinence.",,C,
 Q5,"A 7-year-old boy presents with a two-week history of persistent fever, fatigue, and pallor. His parents also report easy bruising and gum bleeding. on examination, he is pale with
 petechiae on his legs, hepatosplenomegaly, and generalized lymphadenopathy. Blood tests    show severe anemia, thrombocytopenia, and elevated white blood cell count with blast cells. what is the most appropriate initial treatment regimen for this patient?","a)IVIG
 b)Doxorubicin + Idarubicin
@@ -74,19 +74,19 @@ option A: IVIG: Intravenous immunoglobulin (IVIG) is not used for treating ALL.
 option B: Both doxorubicin and idarubicin are anthracyclines used in chemotherapy. while
 doxorubicin can be part of certain ALL treatment protocols, idarubicin is more commonly used in Acute Myeloid Leukemia (AML) rather than ALL. This combination is not typically used in the
 induction phase for ALL children.
-option D: Radiotherapy is not a standard initial treatment for ALL. It may be considered in   specific cases, such as central nervous system involvement or certain high-risk cases, but the primary treatment for ALL is systemic chemotherapy, not localized radiotherapy.",,KEY NOT FOUND,
+option D: Radiotherapy is not a standard initial treatment for ALL. It may be considered in   specific cases, such as central nervous system involvement or certain high-risk cases, but the primary treatment for ALL is systemic chemotherapy, not localized radiotherapy.",,C,
 Q6,Lignocaine is used in a loading dose for the treatment of arrhythmias. The loading dose of this drug depends upon which of the following factors?,"a)clearance
 b)Volume of distribution
 c)plasma half life
 d)Bioavailability","The volume of distribution of the drug determines the loading dose of the drug.
 
-Loading Dose ã€“ volume of distribution x Desired steady-state plasma concentration.
+Loading Dose ? volume of distribution x Desired steady-state plasma concentration.
 when the time to reach a steady-state is long, as it is for drugs with long half-lives, it may be desirable to administer a loading dose that promptly raises the concentration of the drug in   plasma to the target concentration.
 other options:
 option A: Clearance is used to determine the maintenance dose.
-Maintenance dose ã€“ clearance x desired steady-state plasma concentration.
+Maintenance dose ? clearance x desired steady-state plasma concentration.
 options C and D: Plasma half-life primarily determines the frequency of dosing, while
-bioavailability determines the route of administration. Though bioavailability may affect the dose necessary, it will not be the primary factor considered during the calculation of the loading dose.",,KEY NOT FOUND,
+bioavailability determines the route of administration. Though bioavailability may affect the dose necessary, it will not be the primary factor considered during the calculation of the loading dose.",,B,
 Q7,A hypertensive patient with chronic kidney disease was having frequent attacks of renal colic. which of the following diuretics is used?,"a)Furosemide
 b)Mannitol
 c)Hydrochlorothiazide
@@ -101,16 +101,16 @@ other options:
 option A: Furosemide is a diuretic that can increase calcium excretion, potentially raising PTH as the body tries to conserve calcium.
 option B: osmotic diuretics, like mannitol, retain water isoosmotically in the proximal convoluted tubule (PCT) and descending loop of Henle which are freely permeable to water. Luminal fluid is    diluted and opposes NaCl reabsorption and promotes calcium excretion. They are indicated in
 raised intracranial tension and in dialysis disequilibrium.
-option D: spironolactone is a potassium-sparing diuretic and aldosterone antagonist. It works by competitively inhibiting aldosterone receptors in the distal tubules of the kidney.",,KEY NOT FOUND,
+option D: spironolactone is a potassium-sparing diuretic and aldosterone antagonist. It works by competitively inhibiting aldosterone receptors in the distal tubules of the kidney.",,C,
 Q8,Identify the drug marked as IXI in the image.,"a)clopidogrel
 b)Amino caproic acid
 c)Tenecteplase
 d)Heparin","The drug marked as 'x' in the image is aminocaproic acid.
-Îµ-Aminocaproic acid, a lysine analogue that competes with plasminogen for binding sites on
-fibrin. By blocking this interaction, Îµ-Aminocaproic acid prevents the conversion of plasminogen into plasmin, thereby inhibiting fibrinolysis. This action makes it a useful agent for reversing the effects of fibrinolytic therapy.
-However, Îµ-Aminocaproic acid should be administered with caution as it can suppress intrinsic
+e-Aminocaproic acid, a lysine analogue that competes with plasminogen for binding sites on
+fibrin. By blocking this interaction, e-Aminocaproic acid prevents the conversion of plasminogen into plasmin, thereby inhibiting fibrinolysis. This action makes it a useful agent for reversing the effects of fibrinolytic therapy.
+However, e-Aminocaproic acid should be administered with caution as it can suppress intrinsic
 fibrinolytic activity, potentially leading to complications such as disseminated intravascular
-coagulation (DIC). To address this, fresh frozen plasma and cryoprecipitate may be used to restore fibrin and clotting factors.",,KEY NOT FOUND,1323-799.PNG
+coagulation (DIC). To address this, fresh frozen plasma and cryoprecipitate may be used to restore fibrin and clotting factors.",,B,1323-799.PNG
 Q9,"which of the following beta-adrenergic blockers are beneficial for patients with reduced ejection fraction and can reduce mortality in chronic heart failure without causing
 exacerbations over a few years?","a)propanolol
 b)pindolol
@@ -121,9 +121,9 @@ The exacerbation mentioned in the context of beta-blockers for heart failure ref
 medications. They can sometimes lead to a decline in left ventricular function, particularly in
 individuals with limited cardiac reserve who rely heavily on adrenergic stimulation. This
 deterioration can manifest as increased heart failure symptoms or a decrease in cardiac function. The only beta-blockers that have been proven to improve the survival of patients with HFrEF or   chronic HF are -
-â€¢ Bisoprolol
-â€¢ Metoprolol
-â€¢ Carvedilol
+• Bisoprolol
+• Metoprolol
+• Carvedilol
 
 HFrEF is a complex clinical syndrome where the ventricle fails to adequately fill with or eject
 blood, typically defined by an ejection fraction (EF) less than or equal to 4o%. key etiologies
@@ -131,15 +131,15 @@ include coronary artery disease, valvular heart disease, congenital heart diseas
 autoimmune diseases like giant cell myocarditis. Patients with HFrEF commonly experience
 symptoms like dyspnea on exertion, orthopnea, and paroxysmal nocturnal dyspnea, and may
 present with pedal edema, elevated jugular venous pressure (JVP), ascites, and hepatomegaly on examination.
-The pharmacological management of HFrEF involves drugs with both symptomatic and mortality benefits, including Angiotensin receptorâ€“neprilysin inhibitors (ARNIs) such as
-sacubitril/valsartan, angiotensin-converting enzyme (ACE) inhibitors like ramipril and enalapril, Î²-blockers such as metoprolol and carvedilol, mineralocorticoid receptor antagonists like
+The pharmacological management of HFrEF involves drugs with both symptomatic and mortality benefits, including Angiotensin receptor–neprilysin inhibitors (ARNIs) such as
+sacubitril/valsartan, angiotensin-converting enzyme (ACE) inhibitors like ramipril and enalapril, ß-blockers such as metoprolol and carvedilol, mineralocorticoid receptor antagonists like
 spironolactone and eplerenone, sodium-glucose cotransporter 2 (SGLT2) inhibitors like
-dapagliflozin, and hydralazine plus isosorbide dinitrate (noting a mortality benefit specifically in African-American patients). Drugs used primarily for symptomatic relief, such as loop diuretics   (e.g., furosemide), and digoxin, are reserved for specific indications or during decompensation.   Non-pharmacological therapies for HFrEF include implantable cardioverter-defibrillators (ICD)  and cardiac resynchronization therapy.",,KEY NOT FOUND,
+dapagliflozin, and hydralazine plus isosorbide dinitrate (noting a mortality benefit specifically in African-American patients). Drugs used primarily for symptomatic relief, such as loop diuretics   (e.g., furosemide), and digoxin, are reserved for specific indications or during decompensation.   Non-pharmacological therapies for HFrEF include implantable cardioverter-defibrillators (ICD)  and cardiac resynchronization therapy.",,D,
 Q10,which drug is used for maintenance therapy in opium addiction?,"a)Buprenorphine
 b)Naloxone
 c)Butarphanol
 d)clonidine","The drug used among the following options for maintenance therapy in opium addiction is buprenorphine.
-Buprenorphine is a partial Î¼-opioid agonist and an antagonist at Î´ and Îº receptors. It is widely
+Buprenorphine is a partial µ-opioid agonist and an antagonist at d and ? receptors. It is widely
 used both as an analgesic for chronic pain conditions, such as cancer pain, and as a treatment for opioid dependence, serving as an alternative to methadone.
 It effectively controls cravings and blocks the effects of higher-efficacy opioids. It is often
 administered in combination with naloxone to prevent misuse, although it may be given alone to pregnant women or individuals with naloxone allergies. Initial dosing typically starts at 2-4 mg    daily, with adjustments made to stabilize the dose at approximately 12 to 16 mg/day.
@@ -149,7 +149,7 @@ stabilize and reduce withdrawal symptoms, while buprenorphine helps with craving
 Clonidine and lofexidine, alpha-2 agonists, are used to ameliorate withdrawal symptoms.
 Lofexidine, approved by the FDA, is the first non-opioid treatment specifically for opioid
 withdrawal in adults. Naltrexone, a long-acting opioid antagonist, is used as an adjunct in patients who are already opioid-free; however, it will precipitate acute withdrawal symptoms if
-administered to those still dependent on opioids.",,KEY NOT FOUND,
+administered to those still dependent on opioids.",,A,
 Q11,A patient who recently underwent surgery has complaints of nausea and vomiting. He was prescribed a drug called aprepitant. what is its mechanism of action?,"a)NK-3 antagonist
 b)NK-2 agonist
 c)NK-1 antagonist
@@ -160,29 +160,29 @@ substance P is a neuropeptide that interacts with neurokinin-1 (NK-1) receptors.
 PONV Physiology: Afferents from the chemoreceptor trigger zone (CTZ), vagal neurons in the      gastrointestinal system, neurons from the vestibular system and midbrain afferents relay within the vomiting centre in the reticular formation of the brainstem which then project into the
 nucleus tractus solitarius.
 Risk factors for PONV are divided into:
-â€¢ Patient factors
-â€¢ Female&gt;male
-â€¢ Age&lt;5o years
-â€¢ Prior history of motion sickness
-â€¢ Non-smokers &gt; smokers (CTZ is desensitized)
-â€¢ Preoperative factors
-â€¢ (Fasting and anxiety, while possibly contributing to PONV, have yet to be demonstrated)
-â€¢ Intraoperative factors
-â€¢ surgical - Cholecystectomy, gynaecological and laparoscopic procedures have higher incidences
-â€¢ Drugs - Nitrous oxide, Opioids, Cyclopropane,
-â€¢ General anaesthesia has a times more risk of developing PONV than regional anaesthesia.
-â€¢ Postoperative factors
-â€¢ Pain and early ambulation contribute to a higher risk of PONV.
+• Patient factors
+• Female&gt;male
+• Age&lt;5o years
+• Prior history of motion sickness
+• Non-smokers &gt; smokers (CTZ is desensitized)
+• Preoperative factors
+• (Fasting and anxiety, while possibly contributing to PONV, have yet to be demonstrated)
+• Intraoperative factors
+• surgical - Cholecystectomy, gynaecological and laparoscopic procedures have higher incidences
+• Drugs - Nitrous oxide, Opioids, Cyclopropane,
+• General anaesthesia has a times more risk of developing PONV than regional anaesthesia.
+• Postoperative factors
+• Pain and early ambulation contribute to a higher risk of PONV.
 scoring systems used to grade PONV are the Apfel score and the Koivuranta score.
 
 Drugs used in the prophylaxis and treatment of poNV:
-â€¢ 5-HT 3 antagonists - ondansetron, palonosetron
-â€¢ Butyrophenones- droperidol
-â€¢ Dexamethasone
-â€¢ Transdermal scopolamine
-â€¢ Aprepitant
+• 5-HT 3 antagonists - ondansetron, palonosetron
+• Butyrophenones- droperidol
+• Dexamethasone
+• Transdermal scopolamine
+• Aprepitant
 Note: Double-blind studies have found no difference in the efficacy between aprepitant(NK1
-antagonists) and ondansetron (5HT3 antagonist) in the first 24 hours following surgery. But after 24 hours aprepitant has proven to be more productive than ondansetron in the management of    poNV.",,KEY NOT FOUND,1325-800.PNG
+antagonists) and ondansetron (5HT3 antagonist) in the first 24 hours following surgery. But after 24 hours aprepitant has proven to be more productive than ondansetron in the management of    poNV.",,C,1325-800.PNG
 Q12,"An HIV patient developed a fever and dry cough. He was diagnosed with TB. He is currently on Lamivudine, zidovudine and Nevirapine. which Anti -TB drug should be changed in this patient?","a)Isoniazid
 b)Rifampicin
 c)streptomycin
@@ -194,7 +194,7 @@ cytochrome p-45o inducers	cytochrome p-45o inhibitors
 BarbituratescarbamazepineR	Macrolide antibioticsAzole an
 ifampinphenytoinAminoglute	tifungalschloramphenicolom
 thimidecigarette smokingchr	eprazoleSelective serotonin r
-onic alcoholism	euptake inhibitors (SSRIs)HI  V protease inhibitorscimetidi neciprofloxacinMetronidazol  e",,KEY NOT FOUND,
+onic alcoholism	euptake inhibitors (SSRIs)HI  V protease inhibitorscimetidi neciprofloxacinMetronidazol  e",,B,
 Q13,"A 32-year-old woman diagnosed with diarrhoea-predominant irritable bowel syndrome
 presented to the casualty with severe abdominal pain. she was prescribed a drug that exerts a direct spasmolytic effect on the smooth muscles of the gastrointestinal tract. which drug
 could it be?","a)Dicyclomine
@@ -203,7 +203,7 @@ c)Galantamine
 d)Rivastigmine","Dicyclomine is a weak muscarinic receptor antagonist with non-specific direct spasmolytic effects on the smooth muscle of the gastrointestinal tract.
 other options:
 option B: Scopolamine exerts spasmolytic activity indirectly through its antimuscarinic action. It is not preferred due to its adverse effects like drowsiness, dryness, and blurred vision.
-option c and D: Galantamine and rivastigmine are central cholinesterase inhibitors and do not possess spasmolytic activity.",,KEY NOT FOUND,
+option c and D: Galantamine and rivastigmine are central cholinesterase inhibitors and do not possess spasmolytic activity.",,A,
 Q14,A patient is started on a 3 HP TPT regimen. which of the following is true regarding the regimen?,"a)There is more compliance in 3HP than 9H and 6H
 b)No significant difference in 3HP, 6H, 9H
 c)Chance of abortion in 3 HP is same as 6H
@@ -212,9 +212,9 @@ The shorter duration and reduced number of doses in the 3HP regimen make it more
 TPT stands for Tuberculosis Preventive Therapy. It is a treatment given to individuals who are at high risk of developing active tuberculosis (TB) to prevent the progression from latent TB
 infection (where the person is infected with the TB bacteria but does not have symptoms) to active TB disease.
 There are different regimens for TPT, including:
-â€¢ 3HP: A regimen consisting of once-weekly doses of Isoniazid (H) and Rifapentine (P) for 12 weeks.
-â€¢ 6H: A regimen consisting of daily Isoniazid for 6 months.
-â€¢ 9H: A regimen consisting of daily Isoniazid for 9 months.
+• 3HP: A regimen consisting of once-weekly doses of Isoniazid (H) and Rifapentine (P) for 12 weeks.
+• 6H: A regimen consisting of daily Isoniazid for 6 months.
+• 9H: A regimen consisting of daily Isoniazid for 9 months.
 TPT is particularly important for individuals with latent TB who have a higher risk of developing active TB, such as those with HIV, close contacts of TB patients, or those with certain medical
 conditions that weaken the immune system.
 other options:
@@ -223,7 +223,7 @@ regimens, with 3HP showing clear advantages.
 option C: Although 3HP is generally considered safe, data suggests that the risk profile for
 adverse effects, including potential reproductive impacts like abortion, differs between regimens.  specifically, 6H may have a different side effect profile due to the prolonged exposure to the drug over six months, compared to the shorter and intermittent dosing of 3HP.
 option D: studies have confirmed that the 3HP regimen is as effective as 6H and 9H in
-preventing active tuberculosis (TB). Both regimens aim to prevent latent TB from progressing to   active disease, and 3HP has been shown to achieve similar outcomes with fewer doses, enhancing patient compliance.",,KEY NOT FOUND,
+preventing active tuberculosis (TB). Both regimens aim to prevent latent TB from progressing to   active disease, and 3HP has been shown to achieve similar outcomes with fewer doses, enhancing patient compliance.",,A,
 Q15,"A female suffered a head injury from a road traffic accident. on examination, there is elevated intracranial pressure. which diuretic among the following can be used in her condition?","a)Mannitol
 b)Hydrochlorothiazide
 c)spironolactone
@@ -232,7 +232,7 @@ d)Acetazolamide","In this patient with raised intracranial pressure after a road
 Mannitol is an osmotic diuretic that draws fluid out of the brain tissue and into the bloodstream  as it forms a hypertonic solution when it reaches the bloodstream, thereby reducing intracranial  pressure (ICP). It is commonly used in cases of traumatic brain injury or other conditions that      cause elevated ICP. This effect helps to relieve pressure on the brain, preventing further damage.
 other options:
 The other diuretics listed Hydrochlorothiazide, Spironolactone, and Acetazolamide are not
-typically used for managing elevated ICP. They are not hypertonic solutes and thus do not lead to a rapid reduction of the ICP as mannitol does.",,KEY NOT FOUND,
+typically used for managing elevated ICP. They are not hypertonic solutes and thus do not lead to a rapid reduction of the ICP as mannitol does.",,A,
 Q16,"A 2-year-old child presents to the emergency department with lethargy, difficulty feeding, and dehydration. His vitals are stable and his ECG is shown below. what is the next step in his
 management?","a)synchronized cardioversion with 2J of current
 b)Adenosine o.1 mg/kg
@@ -253,7 +253,7 @@ vasodilation. It can however precipitate bronchospasm in asthmatics and verapami
 when the patient is hemodynamically unstable, i.e., hypotension with unconsciousness or respiratory distress, QRS-synchronous direct current cardioversion is done.
 
 
-The given ECG shows pseudo R' waves:",,KEY NOT FOUND,1328-801.PNG;1329-803.PNG;1329-802.PNG
+The given ECG shows pseudo R' waves:",,B,1328-801.PNG;1329-803.PNG;1329-802.PNG
 Q17,which of the following drugs when added with erythromycin can lead to torsades de pointes?,"a)Doxylamine
 b)Loratidine
 c)promethazine
@@ -267,7 +267,7 @@ insomnia. It is combined with pyridoxine (vitamin B6) to treat nausea and vomiti
 option B: Loratadine is a second-generation antihistamine used to treat allergic rhinitis (hay
 fever) and urticaria (hives). It is known for being non-sedating due to its minimal penetration into the central nervous system. It does not prolong the QT interval.
 option c: promethazine is a first-generation antihistamine with multiple uses, including the
-treatment of allergies, motion sickness, nausea and vomiting, and as a sedative or sleep aid. It also has antiemetic properties and is sometimes used in the management of postoperative nausea and  vomiting.",,KEY NOT FOUND,
+treatment of allergies, motion sickness, nausea and vomiting, and as a sedative or sleep aid. It also has antiemetic properties and is sometimes used in the management of postoperative nausea and  vomiting.",,D,
 Q18,A child was started on ciclesonide inhalational therapy for bronchial asthma. which of the following statements is incorrect regarding his treatment?,"a)It has fewer side effects compared to other inhalational steroids
 b)It is a prodrug metabolised by bronchial esterase
 c)The occurence of oral candidiasis is more compared to other inhaled steroids
@@ -277,7 +277,7 @@ airways. This feature reduces systemic side effects and the risk of local side e
 other options:
 option A: ciclesonide's activation in the lungs minimises systemic absorption, leading to fewer side effects.
 option B: ciclesonide is inactive until it is converted to its active form in the lungs.
-option D: Due to its prodrug nature and metabolism in the lungs, ciclesonide has low oral bioavailability, reducing systemic exposure.",,KEY NOT FOUND,
+option D: Due to its prodrug nature and metabolism in the lungs, ciclesonide has low oral bioavailability, reducing systemic exposure.",,C,
 Q19,"A patient diagnosed with hypertriglyceridemia was started on a medication, following which, he developed flushing, hyperglycemia, and elevated liver enzymes. Identify the drug
 consumed by the patient.","a)Nicotinamide
 b)Rosuvastatin
@@ -290,24 +290,24 @@ option B: Rosuvastatin is a statin, primarily used to lower LDL cholesterol, and
 
 option C: Ezetimibe inhibits cholesterol absorption in the intestines and is not typically associated with these side effects.
 option D: Fenofibrate is used to lower triglycerides can elevate liver enzymes and can increase the risk of developing myopathy if used concomitantly with statins, but it does not commonly cause
-flushing or hyperglycemia.",,KEY NOT FOUND,
+flushing or hyperglycemia.",,A,
 Q20,which of the following reasons best explains the combination of Atropine (o.o25 mg) and Diphenoxylate (2.5 mg) for treating secretory diarrhoea?,"a)Atropine potentiates the action of smooth muscle relaxation
 b)It prevents overdose and abuse of Diphenoxylate
 c)It antagonizes the side effect of Diphenoxylate
 d)Atropine increases the antimotility action of diphenoxylate","Atropine is included in combination with diphenoxylate to prevent abuse and overdose of diphenoxylate.
 Diphenoxylate is structurally similar to opioids and has the potential for misuse at higher doses. Additionally, it crosses the blood-brain barrier, making it more likely to cause dependence. The
 anticholinergic effects of atropine (e.g., dry mouth, tachycardia, blurred vision) become prominent at higher doses, discouraging overdose.
-Diphenoxylate is an opioid agonist primarily used as an antidiarrheal agent. It works by slowing down intestinal motility, allowing more time for water and electrolytes to be absorbed from the  intestines, which helps reduce diarrhea. However, because of its structural similarity to opioids, diphenoxylate has the potential for abuse and dependence if taken in large doses.",,KEY NOT FOUND,
+Diphenoxylate is an opioid agonist primarily used as an antidiarrheal agent. It works by slowing down intestinal motility, allowing more time for water and electrolytes to be absorbed from the  intestines, which helps reduce diarrhea. However, because of its structural similarity to opioids, diphenoxylate has the potential for abuse and dependence if taken in large doses.",,B,
 Q21,"A hypertensive patient is started on a drug to control his Bp. He had complaints of dry
 mouth, drowsiness, and confusion after taking this drug, but he still continued to take the    drug for 1 year. He had to travel abroad for work, and he forgot to take his medications. He now presents with a blood pressure of 2oo/12ommHg. Identify the drug he was on?","a)Amlodipine
 b)Atenolol
 c)clonidine
 d)Enalapril","The adverse effects seen in this patient and the presentation of rebound hypertension on sudden drug withdrawal indicate that the drug is clonidine.
-Clonidine is an alpha-2 receptor agonist and a centrally-acting antihypertensive agent. It treats high blood pressure by stimulating presynaptic Î±2 receptors in the vasomotor center in the
+Clonidine is an alpha-2 receptor agonist and a centrally-acting antihypertensive agent. It treats high blood pressure by stimulating presynaptic a2 receptors in the vasomotor center in the
 brainstem. This binding has a sympatholytic effect, by suppressing the release of norepinephrine and other sympathomimetics.
 Abrupt withdrawal after long-term therapy can result in rebound hypertension, restlessness, and sympathetic overactivity. Dry mouth and sedation are the major side effects of clonidine. It can    also cause impotency and constipation. Rebound hypertension is a potentially serious
-complication and occurs if the drug is missed for 1â€“2 days. This is associated with an alarming rise in blood pressure which may be more than the pretreatment level.
-phentolamine is used for the control of hypertension due to clonidine withdrawal.",,KEY NOT FOUND,
+complication and occurs if the drug is missed for 1–2 days. This is associated with an alarming rise in blood pressure which may be more than the pretreatment level.
+phentolamine is used for the control of hypertension due to clonidine withdrawal.",,C,
 Q22,In which phase of clinical trials is drug dosing done?,"a)phase I
 b)phase II
 c)Phase III
@@ -319,7 +319,7 @@ regulated and not related to the risk involved.
 In clinical trials, drug dosing typically occurs in Phase I, where researchers establish the optimal    dose to achieve desired effects while minimizing side effects. In these phases, they focus on safety, tolerability, and pharmacokinetics.
 Dose-ranging, primarily conducted in Phase II trials, involves testing multiple doses to identify
 the most effective and safe dose range. This phase helps determine the minimum effective dose
-and maximum tolerated dose, providing critical data for subsequent studies in Phase 3, where the chosen dose is tested for efficacy and safety in a larger population.",,KEY NOT FOUND,
+and maximum tolerated dose, providing critical data for subsequent studies in Phase 3, where the chosen dose is tested for efficacy and safety in a larger population.",,A,
 Q23,A patient with a gynecological malignancy is started on Methotrexate. Later she develops oral and gastric ulcers. which nucleotide synthesis is affected in her?,"a)UDP
 b)CTP
 c)TMP
@@ -328,7 +328,7 @@ Methotrexate inhibits dihydrofolate reductase (DHFR), which is required to synth
 tetrahydrofolate. Tetrahydrofolate is essential for converting duMP to dTMP (thymidine
 monophosphate) in the nucleotide synthesis pathway. Therefore, the nucleotide synthesis affected in this patient is TMP (thymidine monophosphate).
 By inhibiting DHFR, methotrexate reduces the availability of THF, thereby disrupting the production of thymidylate (TMP), which is necessary for DNA replication and repair. This disruption leads to impaired DNA synthesis in rapidly dividing cells, such as cancer cells.
-However, it also affects other rapidly dividing cells, including those in the gastrointestinal tract and oral mucosa, leading to side effects like oral and gastric ulcers.",,KEY NOT FOUND,
+However, it also affects other rapidly dividing cells, including those in the gastrointestinal tract and oral mucosa, leading to side effects like oral and gastric ulcers.",,C,
 Q24,The drug 'x' is a GHRH analogue that is FDA-approved for the treatment of HIV-associated lipodystrophy and not used for Growth hormone deficiency. Identify the drug 'x'.,"a)octreotide
 b)somatropin
 c)Tesamorelin
@@ -344,4 +344,4 @@ syndrome. Their use is contraindicated in acute critical illness, active maligna
 option D: Mecasermin is a recombinant human IGF-1. It is used in IGF-1 deficiency, growth
 hormone receptor defects, and antibodies against growth hormone receptors. Adverse effects
 include hypoglycemia and lipohypertrophy. Another recombinant human IGF-1 with its IGFBP-3, mecasermin rinfabate has been FDA-approved for HIV-associated adipose redistribution
-syndrome.",,KEY NOT FOUND,
+syndrome.",,C,
